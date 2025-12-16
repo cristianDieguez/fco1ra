@@ -1,0 +1,1922 @@
+,Acción,Evento,Tiempo,Inicio,Fin,Jugadores,Evento ,Resultado,Acercar,Alejar,Situacion,Duración,Jornada,Local,Visitante,Tipo_de_Accion
+0,MT Ofensivo,MT OFENSIVO 001,339,329,347,1,Diagonal,Positivo,,,,,16,Ferro,Boca Jrs,
+1,MT Ofensivo,MT OFENSIVO 001,339,329,347,4,Diagonal,Positivo,,,,,16,Ferro,Boca Jrs,
+2,MT Ofensivo,MT OFENSIVO 001,339,329,347,6,Diagonal,Positivo,,,,,16,Ferro,Boca Jrs,
+3,MT Ofensivo,MT OFENSIVO 001,339,329,347,8,Diagonal,Positivo,,,,,16,Ferro,Boca Jrs,
+4,MT Ofensivo,MT OFENSIVO 001,339,329,347,9,Diagonal,Positivo,,,,,16,Ferro,Boca Jrs,
+5,MT Ofensivo,MT OFENSIVO 002,391,381,398,1,Pivot,Negativo,,,,,16,Ferro,Boca Jrs,
+6,MT Ofensivo,MT OFENSIVO 002,391,381,398,4,Pivot,Negativo,,,,,16,Ferro,Boca Jrs,
+7,MT Ofensivo,MT OFENSIVO 002,391,381,398,6,Pivot,Negativo,,,,,16,Ferro,Boca Jrs,
+8,MT Ofensivo,MT OFENSIVO 002,391,381,398,8,Pivot,Negativo,,,,,16,Ferro,Boca Jrs,
+9,MT Ofensivo,MT OFENSIVO 002,391,381,398,9,Pivot,Negativo,,,,,16,Ferro,Boca Jrs,
+10,MT Ofensivo,MT OFENSIVO 003,497,487,510,1,Pivot,Positivo,,,,,16,Ferro,Boca Jrs,
+11,MT Ofensivo,MT OFENSIVO 003,497,487,510,4,Pivot,Positivo,,,,,16,Ferro,Boca Jrs,
+12,MT Ofensivo,MT OFENSIVO 003,497,487,510,6,Pivot,Positivo,,,,,16,Ferro,Boca Jrs,
+13,MT Ofensivo,MT OFENSIVO 003,497,487,510,8,Pivot,Positivo,,,,,16,Ferro,Boca Jrs,
+14,MT Ofensivo,MT OFENSIVO 003,497,487,510,9,Pivot,Positivo,,,,,16,Ferro,Boca Jrs,
+15,MT Ofensivo,MT OFENSIVO 004,520,510,538,1,Pivot,Positivo,,,,,16,Ferro,Boca Jrs,
+16,MT Ofensivo,MT OFENSIVO 004,520,510,538,4,Pivot,Positivo,,,,,16,Ferro,Boca Jrs,
+17,MT Ofensivo,MT OFENSIVO 004,520,510,538,6,Pivot,Positivo,,,,,16,Ferro,Boca Jrs,
+18,MT Ofensivo,MT OFENSIVO 004,520,510,538,8,Pivot,Positivo,,,,,16,Ferro,Boca Jrs,
+19,MT Ofensivo,MT OFENSIVO 004,520,510,538,9,Pivot,Positivo,,,,,16,Ferro,Boca Jrs,
+20,MT Ofensivo,MT OFENSIVO 005,619,609,623,1,Pivot,Positivo,,,,,16,Ferro,Boca Jrs,
+21,MT Ofensivo,MT OFENSIVO 005,619,609,623,5,Pivot,Positivo,,,,,16,Ferro,Boca Jrs,
+22,MT Ofensivo,MT OFENSIVO 005,619,609,623,8,Pivot,Positivo,,,,,16,Ferro,Boca Jrs,
+23,MT Ofensivo,MT OFENSIVO 005,619,609,623,10,Pivot,Positivo,,,,,16,Ferro,Boca Jrs,
+24,MT Ofensivo,MT OFENSIVO 005,619,609,623,14,Pivot,Positivo,,,,,16,Ferro,Boca Jrs,
+25,MT Ofensivo,MT OFENSIVO 006,636,626,645,1,Puerta Atras,Negativo,,,,,16,Ferro,Boca Jrs,
+26,MT Ofensivo,MT OFENSIVO 006,636,626,645,5,Puerta Atras,Negativo,,,,,16,Ferro,Boca Jrs,
+27,MT Ofensivo,MT OFENSIVO 006,636,626,645,8,Puerta Atras,Negativo,,,,,16,Ferro,Boca Jrs,
+28,MT Ofensivo,MT OFENSIVO 006,636,626,645,10,Puerta Atras,Negativo,,,,,16,Ferro,Boca Jrs,
+29,MT Ofensivo,MT OFENSIVO 006,636,626,645,14,Puerta Atras,Negativo,,,,,16,Ferro,Boca Jrs,
+30,MT Ofensivo,MT OFENSIVO 007,1145,1135,1153,1,Corte,Negativo,,,,,16,Ferro,Boca Jrs,
+31,MT Ofensivo,MT OFENSIVO 007,1145,1135,1153,14,Corte,Negativo,,,,,16,Ferro,Boca Jrs,
+32,MT Ofensivo,MT OFENSIVO 007,1145,1135,1153,15,Corte,Negativo,,,,,16,Ferro,Boca Jrs,
+33,MT Ofensivo,MT OFENSIVO 007,1145,1135,1153,17,Corte,Negativo,,,,,16,Ferro,Boca Jrs,
+34,MT Ofensivo,MT OFENSIVO 007,1145,1135,1153,19,Corte,Negativo,,,,,16,Ferro,Boca Jrs,
+35,MT Ofensivo,MT OFENSIVO 008,1177,1167,1188,1,Salto Linea,Negativo,,,,,16,Ferro,Boca Jrs,
+36,MT Ofensivo,MT OFENSIVO 008,1177,1167,1188,14,Salto Linea,Negativo,,,,,16,Ferro,Boca Jrs,
+37,MT Ofensivo,MT OFENSIVO 008,1177,1167,1188,15,Salto Linea,Negativo,,,,,16,Ferro,Boca Jrs,
+38,MT Ofensivo,MT OFENSIVO 008,1177,1167,1188,17,Salto Linea,Negativo,,,,,16,Ferro,Boca Jrs,
+39,MT Ofensivo,MT OFENSIVO 008,1177,1167,1188,19,Salto Linea,Negativo,,,,,16,Ferro,Boca Jrs,
+40,MT Ofensivo,MT OFENSIVO 009,1298,1288,1302,1,Paralela,Positivo,,,,,16,Ferro,Boca Jrs,
+41,MT Ofensivo,MT OFENSIVO 009,1298,1288,1302,4,Paralela,Positivo,,,,,16,Ferro,Boca Jrs,
+42,MT Ofensivo,MT OFENSIVO 009,1298,1288,1302,6,Paralela,Positivo,,,,,16,Ferro,Boca Jrs,
+43,MT Ofensivo,MT OFENSIVO 009,1298,1288,1302,8,Paralela,Positivo,,,,,16,Ferro,Boca Jrs,
+44,MT Ofensivo,MT OFENSIVO 009,1298,1288,1302,9,Paralela,Positivo,,,,,16,Ferro,Boca Jrs,
+45,MT Ofensivo,MT OFENSIVO 010,1363,1353,1379,1,Salto Linea,Negativo,,,,,16,Ferro,Boca Jrs,
+46,MT Ofensivo,MT OFENSIVO 010,1363,1353,1379,4,Salto Linea,Negativo,,,,,16,Ferro,Boca Jrs,
+47,MT Ofensivo,MT OFENSIVO 010,1363,1353,1379,6,Salto Linea,Negativo,,,,,16,Ferro,Boca Jrs,
+48,MT Ofensivo,MT OFENSIVO 010,1363,1353,1379,8,Salto Linea,Negativo,,,,,16,Ferro,Boca Jrs,
+49,MT Ofensivo,MT OFENSIVO 010,1363,1353,1379,9,Salto Linea,Negativo,,,,,16,Ferro,Boca Jrs,
+50,MT Ofensivo,MT OFENSIVO 011,1398,1388,1406,1,Diagonal,Negativo,,,,,16,Ferro,Boca Jrs,
+51,MT Ofensivo,MT OFENSIVO 011,1398,1388,1406,4,Diagonal,Negativo,,,,,16,Ferro,Boca Jrs,
+52,MT Ofensivo,MT OFENSIVO 011,1398,1388,1406,6,Diagonal,Negativo,,,,,16,Ferro,Boca Jrs,
+53,MT Ofensivo,MT OFENSIVO 011,1398,1388,1406,8,Diagonal,Negativo,,,,,16,Ferro,Boca Jrs,
+54,MT Ofensivo,MT OFENSIVO 011,1398,1388,1406,9,Diagonal,Negativo,,,,,16,Ferro,Boca Jrs,
+55,MT Ofensivo,MT OFENSIVO 012,1430,1420,1438,1,Pivot,Positivo,,,,,16,Ferro,Boca Jrs,
+56,MT Ofensivo,MT OFENSIVO 012,1430,1420,1438,4,Pivot,Positivo,,,,,16,Ferro,Boca Jrs,
+57,MT Ofensivo,MT OFENSIVO 012,1430,1420,1438,6,Pivot,Positivo,,,,,16,Ferro,Boca Jrs,
+58,MT Ofensivo,MT OFENSIVO 012,1430,1420,1438,8,Pivot,Positivo,,,,,16,Ferro,Boca Jrs,
+59,MT Ofensivo,MT OFENSIVO 012,1430,1420,1438,9,Pivot,Positivo,,,,,16,Ferro,Boca Jrs,
+60,MT Ofensivo,MT OFENSIVO 013,1576,1566,1586,1,Diagonal,Positivo,,,,,16,Ferro,Boca Jrs,
+61,MT Ofensivo,MT OFENSIVO 013,1576,1566,1586,5,Diagonal,Positivo,,,,,16,Ferro,Boca Jrs,
+62,MT Ofensivo,MT OFENSIVO 013,1576,1566,1586,7,Diagonal,Positivo,,,,,16,Ferro,Boca Jrs,
+63,MT Ofensivo,MT OFENSIVO 013,1576,1566,1586,10,Diagonal,Positivo,,,,,16,Ferro,Boca Jrs,
+64,MT Ofensivo,MT OFENSIVO 013,1576,1566,1586,16,Diagonal,Positivo,,,,,16,Ferro,Boca Jrs,
+65,MT Ofensivo,MT OFENSIVO 014,1597,1587,1605,1,Corte,Negativo,,,,,16,Ferro,Boca Jrs,
+66,MT Ofensivo,MT OFENSIVO 014,1597,1587,1605,5,Corte,Negativo,,,,,16,Ferro,Boca Jrs,
+67,MT Ofensivo,MT OFENSIVO 014,1597,1587,1605,7,Corte,Negativo,,,,,16,Ferro,Boca Jrs,
+68,MT Ofensivo,MT OFENSIVO 014,1597,1587,1605,10,Corte,Negativo,,,,,16,Ferro,Boca Jrs,
+69,MT Ofensivo,MT OFENSIVO 014,1597,1587,1605,16,Corte,Negativo,,,,,16,Ferro,Boca Jrs,
+70,MT Ofensivo,MT OFENSIVO 015,1721,1711,1727,1,Pivot,Positivo,,,,,16,Ferro,Boca Jrs,
+71,MT Ofensivo,MT OFENSIVO 015,1721,1711,1727,5,Pivot,Positivo,,,,,16,Ferro,Boca Jrs,
+72,MT Ofensivo,MT OFENSIVO 015,1721,1711,1727,7,Pivot,Positivo,,,,,16,Ferro,Boca Jrs,
+73,MT Ofensivo,MT OFENSIVO 015,1721,1711,1727,10,Pivot,Positivo,,,,,16,Ferro,Boca Jrs,
+74,MT Ofensivo,MT OFENSIVO 015,1721,1711,1727,16,Pivot,Positivo,,,,,16,Ferro,Boca Jrs,
+75,MT Ofensivo,MT OFENSIVO 016,1836,1826,1849,1,Pivot,Positivo,,,,,16,Ferro,Boca Jrs,
+76,MT Ofensivo,MT OFENSIVO 016,1836,1826,1849,5,Pivot,Positivo,,,,,16,Ferro,Boca Jrs,
+77,MT Ofensivo,MT OFENSIVO 016,1836,1826,1849,8,Pivot,Positivo,,,,,16,Ferro,Boca Jrs,
+78,MT Ofensivo,MT OFENSIVO 016,1836,1826,1849,9,Pivot,Positivo,,,,,16,Ferro,Boca Jrs,
+79,MT Ofensivo,MT OFENSIVO 016,1836,1826,1849,14,Pivot,Positivo,,,,,16,Ferro,Boca Jrs,
+80,MT Ofensivo,MT OFENSIVO 017,1945,1935,1954,1,Pivot,Positivo,,,,,16,Ferro,Boca Jrs,
+81,MT Ofensivo,MT OFENSIVO 017,1945,1935,1954,8,Pivot,Positivo,,,,,16,Ferro,Boca Jrs,
+82,MT Ofensivo,MT OFENSIVO 017,1945,1935,1954,9,Pivot,Positivo,,,,,16,Ferro,Boca Jrs,
+83,MT Ofensivo,MT OFENSIVO 017,1945,1935,1954,14,Pivot,Positivo,,,,,16,Ferro,Boca Jrs,
+84,MT Ofensivo,MT OFENSIVO 017,1945,1935,1954,15,Pivot,Positivo,,,,,16,Ferro,Boca Jrs,
+85,MT Ofensivo,MT OFENSIVO 018,2013,2003,2021,1,Salto Linea,Negativo,,,,,16,Ferro,Boca Jrs,
+86,MT Ofensivo,MT OFENSIVO 018,2013,2003,2021,8,Salto Linea,Negativo,,,,,16,Ferro,Boca Jrs,
+87,MT Ofensivo,MT OFENSIVO 018,2013,2003,2021,9,Salto Linea,Negativo,,,,,16,Ferro,Boca Jrs,
+88,MT Ofensivo,MT OFENSIVO 018,2013,2003,2021,14,Salto Linea,Negativo,,,,,16,Ferro,Boca Jrs,
+89,MT Ofensivo,MT OFENSIVO 018,2013,2003,2021,15,Salto Linea,Negativo,,,,,16,Ferro,Boca Jrs,
+90,MT Ofensivo,MT OFENSIVO 019,2228,2218,2233,1,Pivot,Positivo,,,,,16,Ferro,Boca Jrs,
+91,MT Ofensivo,MT OFENSIVO 019,2228,2218,2233,5,Pivot,Positivo,,,,,16,Ferro,Boca Jrs,
+92,MT Ofensivo,MT OFENSIVO 019,2228,2218,2233,7,Pivot,Positivo,,,,,16,Ferro,Boca Jrs,
+93,MT Ofensivo,MT OFENSIVO 019,2228,2218,2233,10,Pivot,Positivo,,,,,16,Ferro,Boca Jrs,
+94,MT Ofensivo,MT OFENSIVO 019,2228,2218,2233,15,Pivot,Positivo,,,,,16,Ferro,Boca Jrs,
+95,MT Ofensivo,MT OFENSIVO 020,2373,2363,2384,1,Paralela,Positivo,,,,,16,Ferro,Boca Jrs,
+96,MT Ofensivo,MT OFENSIVO 020,2373,2363,2384,5,Paralela,Positivo,,,,,16,Ferro,Boca Jrs,
+97,MT Ofensivo,MT OFENSIVO 020,2373,2363,2384,7,Paralela,Positivo,,,,,16,Ferro,Boca Jrs,
+98,MT Ofensivo,MT OFENSIVO 020,2373,2363,2384,10,Paralela,Positivo,,,,,16,Ferro,Boca Jrs,
+99,MT Ofensivo,MT OFENSIVO 020,2373,2363,2384,14,Paralela,Positivo,,,,,16,Ferro,Boca Jrs,
+100,MT Ofensivo,MT OFENSIVO 021,2433,2423,2441,1,Pivot,Positivo,,,,,16,Ferro,Boca Jrs,
+101,MT Ofensivo,MT OFENSIVO 021,2433,2423,2441,5,Pivot,Positivo,,,,,16,Ferro,Boca Jrs,
+102,MT Ofensivo,MT OFENSIVO 021,2433,2423,2441,7,Pivot,Positivo,,,,,16,Ferro,Boca Jrs,
+103,MT Ofensivo,MT OFENSIVO 021,2433,2423,2441,10,Pivot,Positivo,,,,,16,Ferro,Boca Jrs,
+104,MT Ofensivo,MT OFENSIVO 021,2433,2423,2441,16,Pivot,Positivo,,,,,16,Ferro,Boca Jrs,
+105,MT Ofensivo,MT OFENSIVO 022,2620,2610,2628,1,Pivot,Negativo,,,,,16,Ferro,Boca Jrs,
+106,MT Ofensivo,MT OFENSIVO 022,2620,2610,2628,8,Pivot,Negativo,,,,,16,Ferro,Boca Jrs,
+107,MT Ofensivo,MT OFENSIVO 022,2620,2610,2628,10,Pivot,Negativo,,,,,16,Ferro,Boca Jrs,
+108,MT Ofensivo,MT OFENSIVO 022,2620,2610,2628,14,Pivot,Negativo,,,,,16,Ferro,Boca Jrs,
+109,MT Ofensivo,MT OFENSIVO 022,2620,2610,2628,15,Pivot,Negativo,,,,,16,Ferro,Boca Jrs,
+110,MT Ofensivo,MT OFENSIVO 023,2696,2686,2703,1,Diagonal,Positivo,,,,,16,Ferro,Boca Jrs,
+111,MT Ofensivo,MT OFENSIVO 023,2696,2686,2703,7,Diagonal,Positivo,,,,,16,Ferro,Boca Jrs,
+112,MT Ofensivo,MT OFENSIVO 023,2696,2686,2703,10,Diagonal,Positivo,,,,,16,Ferro,Boca Jrs,
+113,MT Ofensivo,MT OFENSIVO 023,2696,2686,2703,14,Diagonal,Positivo,,,,,16,Ferro,Boca Jrs,
+114,MT Ofensivo,MT OFENSIVO 023,2696,2686,2703,15,Diagonal,Positivo,,,,,16,Ferro,Boca Jrs,
+115,MT Ofensivo,MT OFENSIVO 024,2720,2710,2729,1,Pivot,Negativo,,,,,16,Ferro,Boca Jrs,
+116,MT Ofensivo,MT OFENSIVO 024,2720,2710,2729,7,Pivot,Negativo,,,,,16,Ferro,Boca Jrs,
+117,MT Ofensivo,MT OFENSIVO 024,2720,2710,2729,9,Pivot,Negativo,,,,,16,Ferro,Boca Jrs,
+118,MT Ofensivo,MT OFENSIVO 024,2720,2710,2729,14,Pivot,Negativo,,,,,16,Ferro,Boca Jrs,
+119,MT Ofensivo,MT OFENSIVO 024,2720,2710,2729,15,Pivot,Negativo,,,,,16,Ferro,Boca Jrs,
+120,MT Ofensivo,MT OFENSIVO 025,3304,3294,3315,1,Paralela,Negativo,,,,,16,Ferro,Boca Jrs,
+121,MT Ofensivo,MT OFENSIVO 025,3304,3294,3315,4,Paralela,Negativo,,,,,16,Ferro,Boca Jrs,
+122,MT Ofensivo,MT OFENSIVO 025,3304,3294,3315,7,Paralela,Negativo,,,,,16,Ferro,Boca Jrs,
+123,MT Ofensivo,MT OFENSIVO 025,3304,3294,3315,9,Paralela,Negativo,,,,,16,Ferro,Boca Jrs,
+124,MT Ofensivo,MT OFENSIVO 025,3304,3294,3315,15,Paralela,Negativo,,,,,16,Ferro,Boca Jrs,
+125,MT Ofensivo,MT OFENSIVO 026,3440,3430,3446,1,,Negativo,,,,,16,Ferro,Boca Jrs,
+126,MT Ofensivo,MT OFENSIVO 026,3440,3430,3446,4,,Negativo,,,,,16,Ferro,Boca Jrs,
+127,MT Ofensivo,MT OFENSIVO 026,3440,3430,3446,7,,Negativo,,,,,16,Ferro,Boca Jrs,
+128,MT Ofensivo,MT OFENSIVO 026,3440,3430,3446,9,,Negativo,,,,,16,Ferro,Boca Jrs,
+129,MT Ofensivo,MT OFENSIVO 026,3440,3430,3446,15,,Negativo,,,,,16,Ferro,Boca Jrs,
+130,MT Ofensivo,MT OFENSIVO 027,3447,3437,3455,1,Corte,Negativo,,,,,16,Ferro,Boca Jrs,
+131,MT Ofensivo,MT OFENSIVO 027,3447,3437,3455,4,Corte,Negativo,,,,,16,Ferro,Boca Jrs,
+132,MT Ofensivo,MT OFENSIVO 027,3447,3437,3455,7,Corte,Negativo,,,,,16,Ferro,Boca Jrs,
+133,MT Ofensivo,MT OFENSIVO 027,3447,3437,3455,9,Corte,Negativo,,,,,16,Ferro,Boca Jrs,
+134,MT Ofensivo,MT OFENSIVO 027,3447,3437,3455,15,Corte,Negativo,,,,,16,Ferro,Boca Jrs,
+135,MT Ofensivo,MT OFENSIVO 028,3513,3503,3520,1,Salto Linea,Negativo,,,,,16,Ferro,Boca Jrs,
+136,MT Ofensivo,MT OFENSIVO 028,3513,3503,3520,5,Salto Linea,Negativo,,,,,16,Ferro,Boca Jrs,
+137,MT Ofensivo,MT OFENSIVO 028,3513,3503,3520,6,Salto Linea,Negativo,,,,,16,Ferro,Boca Jrs,
+138,MT Ofensivo,MT OFENSIVO 028,3513,3503,3520,10,Salto Linea,Negativo,,,,,16,Ferro,Boca Jrs,
+139,MT Ofensivo,MT OFENSIVO 028,3513,3503,3520,14,Salto Linea,Negativo,,,,,16,Ferro,Boca Jrs,
+140,MT Ofensivo,MT OFENSIVO 029,3642,3632,3655,1,Diagonal,Positivo,,,,,16,Ferro,Boca Jrs,
+141,MT Ofensivo,MT OFENSIVO 029,3642,3632,3655,5,Diagonal,Positivo,,,,,16,Ferro,Boca Jrs,
+142,MT Ofensivo,MT OFENSIVO 029,3642,3632,3655,6,Diagonal,Positivo,,,,,16,Ferro,Boca Jrs,
+143,MT Ofensivo,MT OFENSIVO 029,3642,3632,3655,10,Diagonal,Positivo,,,,,16,Ferro,Boca Jrs,
+144,MT Ofensivo,MT OFENSIVO 029,3642,3632,3655,14,Diagonal,Positivo,,,,,16,Ferro,Boca Jrs,
+145,MT Ofensivo,MT OFENSIVO 030,3719,3709,3731,1,Pared,Negativo,,,,,16,Ferro,Boca Jrs,
+146,MT Ofensivo,MT OFENSIVO 030,3719,3709,3731,5,Pared,Negativo,,,,,16,Ferro,Boca Jrs,
+147,MT Ofensivo,MT OFENSIVO 030,3719,3709,3731,6,Pared,Negativo,,,,,16,Ferro,Boca Jrs,
+148,MT Ofensivo,MT OFENSIVO 030,3719,3709,3731,10,Pared,Negativo,,,,,16,Ferro,Boca Jrs,
+149,MT Ofensivo,MT OFENSIVO 030,3719,3709,3731,14,Pared,Negativo,,,,,16,Ferro,Boca Jrs,
+150,MT Ofensivo,MT OFENSIVO 031,3787,3777,3794,1,Pivot,Negativo,,,,,16,Ferro,Boca Jrs,
+151,MT Ofensivo,MT OFENSIVO 031,3787,3777,3794,5,Pivot,Negativo,,,,,16,Ferro,Boca Jrs,
+152,MT Ofensivo,MT OFENSIVO 031,3787,3777,3794,6,Pivot,Negativo,,,,,16,Ferro,Boca Jrs,
+153,MT Ofensivo,MT OFENSIVO 031,3787,3777,3794,10,Pivot,Negativo,,,,,16,Ferro,Boca Jrs,
+154,MT Ofensivo,MT OFENSIVO 031,3787,3777,3794,14,Pivot,Negativo,,,,,16,Ferro,Boca Jrs,
+155,MT Ofensivo,MT OFENSIVO 032,3796,3786,3810,1,Salto Linea,Negativo,,,,,16,Ferro,Boca Jrs,
+156,MT Ofensivo,MT OFENSIVO 032,3796,3786,3810,5,Salto Linea,Negativo,,,,,16,Ferro,Boca Jrs,
+157,MT Ofensivo,MT OFENSIVO 032,3796,3786,3810,6,Salto Linea,Negativo,,,,,16,Ferro,Boca Jrs,
+158,MT Ofensivo,MT OFENSIVO 032,3796,3786,3810,10,Salto Linea,Negativo,,,,,16,Ferro,Boca Jrs,
+159,MT Ofensivo,MT OFENSIVO 032,3796,3786,3810,14,Salto Linea,Negativo,,,,,16,Ferro,Boca Jrs,
+160,MT Ofensivo,MT OFENSIVO 033,3865,3855,3875,1,Pivot,Positivo,,,,,16,Ferro,Boca Jrs,
+161,MT Ofensivo,MT OFENSIVO 033,3865,3855,3875,5,Pivot,Positivo,,,,,16,Ferro,Boca Jrs,
+162,MT Ofensivo,MT OFENSIVO 033,3865,3855,3875,7,Pivot,Positivo,,,,,16,Ferro,Boca Jrs,
+163,MT Ofensivo,MT OFENSIVO 033,3865,3855,3875,9,Pivot,Positivo,,,,,16,Ferro,Boca Jrs,
+164,MT Ofensivo,MT OFENSIVO 033,3865,3855,3875,14,Pivot,Positivo,,,,,16,Ferro,Boca Jrs,
+165,MT Ofensivo,MT OFENSIVO 034,3903,3893,3910,1,Salto Linea,Negativo,,,,,16,Ferro,Boca Jrs,
+166,MT Ofensivo,MT OFENSIVO 034,3903,3893,3910,5,Salto Linea,Negativo,,,,,16,Ferro,Boca Jrs,
+167,MT Ofensivo,MT OFENSIVO 034,3903,3893,3910,7,Salto Linea,Negativo,,,,,16,Ferro,Boca Jrs,
+168,MT Ofensivo,MT OFENSIVO 034,3903,3893,3910,9,Salto Linea,Negativo,,,,,16,Ferro,Boca Jrs,
+169,MT Ofensivo,MT OFENSIVO 034,3903,3893,3910,14,Salto Linea,Negativo,,,,,16,Ferro,Boca Jrs,
+170,MT Ofensivo,MT OFENSIVO 035,3944,3934,3954,1,Salto Linea,Negativo,,,,,16,Ferro,Boca Jrs,
+171,MT Ofensivo,MT OFENSIVO 035,3944,3934,3954,5,Salto Linea,Negativo,,,,,16,Ferro,Boca Jrs,
+172,MT Ofensivo,MT OFENSIVO 035,3944,3934,3954,7,Salto Linea,Negativo,,,,,16,Ferro,Boca Jrs,
+173,MT Ofensivo,MT OFENSIVO 035,3944,3934,3954,9,Salto Linea,Negativo,,,,,16,Ferro,Boca Jrs,
+174,MT Ofensivo,MT OFENSIVO 035,3944,3934,3954,14,Salto Linea,Negativo,,,,,16,Ferro,Boca Jrs,
+175,MT Ofensivo,MT OFENSIVO 036,4233,4223,4241,1,Diagonal,Negativo,,,,,16,Ferro,Boca Jrs,
+176,MT Ofensivo,MT OFENSIVO 036,4233,4223,4241,5,Diagonal,Negativo,,,,,16,Ferro,Boca Jrs,
+177,MT Ofensivo,MT OFENSIVO 036,4233,4223,4241,6,Diagonal,Negativo,,,,,16,Ferro,Boca Jrs,
+178,MT Ofensivo,MT OFENSIVO 036,4233,4223,4241,10,Diagonal,Negativo,,,,,16,Ferro,Boca Jrs,
+179,MT Ofensivo,MT OFENSIVO 036,4233,4223,4241,14,Diagonal,Negativo,,,,,16,Ferro,Boca Jrs,
+180,MT Ofensivo,MT OFENSIVO 037,4524,4514,4529,1,Puerta Atras,Negativo,,,,,16,Ferro,Boca Jrs,
+181,MT Ofensivo,MT OFENSIVO 037,4524,4514,4529,4,Puerta Atras,Negativo,,,,,16,Ferro,Boca Jrs,
+182,MT Ofensivo,MT OFENSIVO 037,4524,4514,4529,7,Puerta Atras,Negativo,,,,,16,Ferro,Boca Jrs,
+183,MT Ofensivo,MT OFENSIVO 037,4524,4514,4529,10,Puerta Atras,Negativo,,,,,16,Ferro,Boca Jrs,
+184,MT Ofensivo,MT OFENSIVO 037,4524,4514,4529,16,Puerta Atras,Negativo,,,,,16,Ferro,Boca Jrs,
+185,MT Ofensivo,MT OFENSIVO 038,4603,4593,4613,1,Diagonal,Negativo,,,,,16,Ferro,Boca Jrs,
+186,MT Ofensivo,MT OFENSIVO 038,4603,4593,4613,4,Diagonal,Negativo,,,,,16,Ferro,Boca Jrs,
+187,MT Ofensivo,MT OFENSIVO 038,4603,4593,4613,7,Diagonal,Negativo,,,,,16,Ferro,Boca Jrs,
+188,MT Ofensivo,MT OFENSIVO 038,4603,4593,4613,10,Diagonal,Negativo,,,,,16,Ferro,Boca Jrs,
+189,MT Ofensivo,MT OFENSIVO 038,4603,4593,4613,16,Diagonal,Negativo,,,,,16,Ferro,Boca Jrs,
+190,MT Ofensivo,MT OFENSIVO 039,4645,4635,4650,1,Pivot,Positivo,,,,,16,Ferro,Boca Jrs,
+191,MT Ofensivo,MT OFENSIVO 039,4645,4635,4650,4,Pivot,Positivo,,,,,16,Ferro,Boca Jrs,
+192,MT Ofensivo,MT OFENSIVO 039,4645,4635,4650,7,Pivot,Positivo,,,,,16,Ferro,Boca Jrs,
+193,MT Ofensivo,MT OFENSIVO 039,4645,4635,4650,10,Pivot,Positivo,,,,,16,Ferro,Boca Jrs,
+194,MT Ofensivo,MT OFENSIVO 039,4645,4635,4650,16,Pivot,Positivo,,,,,16,Ferro,Boca Jrs,
+195,MT Ofensivo,MT OFENSIVO 040,5012,5002,5024,1,Pared,Negativo,,,,,16,Ferro,Boca Jrs,
+196,MT Ofensivo,MT OFENSIVO 040,5012,5002,5024,5,Pared,Negativo,,,,,16,Ferro,Boca Jrs,
+197,MT Ofensivo,MT OFENSIVO 040,5012,5002,5024,9,Pared,Negativo,,,,,16,Ferro,Boca Jrs,
+198,MT Ofensivo,MT OFENSIVO 040,5012,5002,5024,10,Pared,Negativo,,,,,16,Ferro,Boca Jrs,
+199,MT Ofensivo,MT OFENSIVO 040,5012,5002,5024,14,Pared,Negativo,,,,,16,Ferro,Boca Jrs,
+200,MT Ofensivo,MT OFENSIVO 041,5091,5081,5100,1,Salto Linea,Positivo,,,,,16,Ferro,Boca Jrs,
+201,MT Ofensivo,MT OFENSIVO 041,5091,5081,5100,5,Salto Linea,Positivo,,,,,16,Ferro,Boca Jrs,
+202,MT Ofensivo,MT OFENSIVO 041,5091,5081,5100,9,Salto Linea,Positivo,,,,,16,Ferro,Boca Jrs,
+203,MT Ofensivo,MT OFENSIVO 041,5091,5081,5100,10,Salto Linea,Positivo,,,,,16,Ferro,Boca Jrs,
+204,MT Ofensivo,MT OFENSIVO 041,5091,5081,5100,14,Salto Linea,Positivo,,,,,16,Ferro,Boca Jrs,
+205,MT Ofensivo,MT OFENSIVO 042,5132,5122,5149,1,Pivot,Positivo,,,,,16,Ferro,Boca Jrs,
+206,MT Ofensivo,MT OFENSIVO 042,5132,5122,5149,5,Pivot,Positivo,,,,,16,Ferro,Boca Jrs,
+207,MT Ofensivo,MT OFENSIVO 042,5132,5122,5149,9,Pivot,Positivo,,,,,16,Ferro,Boca Jrs,
+208,MT Ofensivo,MT OFENSIVO 042,5132,5122,5149,10,Pivot,Positivo,,,,,16,Ferro,Boca Jrs,
+209,MT Ofensivo,MT OFENSIVO 042,5132,5122,5149,14,Pivot,Positivo,,,,,16,Ferro,Boca Jrs,
+210,MT Ofensivo,MT OFENSIVO 043,5683,5673,5692,1,Pivot,Positivo,,,,,16,Ferro,Boca Jrs,
+211,MT Ofensivo,MT OFENSIVO 043,5683,5673,5692,4,Pivot,Positivo,,,,,16,Ferro,Boca Jrs,
+212,MT Ofensivo,MT OFENSIVO 043,5683,5673,5692,6,Pivot,Positivo,,,,,16,Ferro,Boca Jrs,
+213,MT Ofensivo,MT OFENSIVO 043,5683,5673,5692,10,Pivot,Positivo,,,,,16,Ferro,Boca Jrs,
+214,MT Ofensivo,MT OFENSIVO 043,5683,5673,5692,14,Pivot,Positivo,,,,,16,Ferro,Boca Jrs,
+215,MT Ofensivo,MT OFENSIVO 044,5708,5698,5728,1,Corte,Negativo,,,,,16,Ferro,Boca Jrs,
+216,MT Ofensivo,MT OFENSIVO 044,5708,5698,5728,4,Corte,Negativo,,,,,16,Ferro,Boca Jrs,
+217,MT Ofensivo,MT OFENSIVO 044,5708,5698,5728,6,Corte,Negativo,,,,,16,Ferro,Boca Jrs,
+218,MT Ofensivo,MT OFENSIVO 044,5708,5698,5728,10,Corte,Negativo,,,,,16,Ferro,Boca Jrs,
+219,MT Ofensivo,MT OFENSIVO 044,5708,5698,5728,14,Corte,Negativo,,,,,16,Ferro,Boca Jrs,
+220,Transición Ofensiva,TRANSICION OFENSIVA 001,1919,1909,1927,1,Perdida,,,,1 vs 1,Corta (H 3),16,Ferro,Boca Jrs,
+221,Transición Ofensiva,TRANSICION OFENSIVA 001,1919,1909,1927,8,Perdida,,,,1 vs 1,Corta (H 3),16,Ferro,Boca Jrs,
+222,Transición Ofensiva,TRANSICION OFENSIVA 001,1919,1909,1927,9,Perdida,,,,1 vs 1,Corta (H 3),16,Ferro,Boca Jrs,
+223,Transición Ofensiva,TRANSICION OFENSIVA 001,1919,1909,1927,14,Perdida,,,,1 vs 1,Corta (H 3),16,Ferro,Boca Jrs,
+224,Transición Ofensiva,TRANSICION OFENSIVA 001,1919,1909,1927,15,Perdida,,,,1 vs 1,Corta (H 3),16,Ferro,Boca Jrs,
+225,Transición Ofensiva,TRANSICION OFENSIVA 002,2190,2180,2196,1,Perdida,,,,2 vs 1,Corta (H 3),16,Ferro,Boca Jrs,
+226,Transición Ofensiva,TRANSICION OFENSIVA 002,2190,2180,2196,5,Perdida,,,,2 vs 1,Corta (H 3),16,Ferro,Boca Jrs,
+227,Transición Ofensiva,TRANSICION OFENSIVA 002,2190,2180,2196,7,Perdida,,,,2 vs 1,Corta (H 3),16,Ferro,Boca Jrs,
+228,Transición Ofensiva,TRANSICION OFENSIVA 002,2190,2180,2196,10,Perdida,,,,2 vs 1,Corta (H 3),16,Ferro,Boca Jrs,
+229,Transición Ofensiva,TRANSICION OFENSIVA 002,2190,2180,2196,15,Perdida,,,,2 vs 1,Corta (H 3),16,Ferro,Boca Jrs,
+230,Transición Ofensiva,TRANSICION OFENSIVA 003,3537,3527,3547,1,Pelota Parada,,,,3 vs 2,Larga (+3),16,Ferro,Boca Jrs,
+231,Transición Ofensiva,TRANSICION OFENSIVA 003,3537,3527,3547,5,Pelota Parada,,,,3 vs 2,Larga (+3),16,Ferro,Boca Jrs,
+232,Transición Ofensiva,TRANSICION OFENSIVA 003,3537,3527,3547,6,Pelota Parada,,,,3 vs 2,Larga (+3),16,Ferro,Boca Jrs,
+233,Transición Ofensiva,TRANSICION OFENSIVA 003,3537,3527,3547,10,Pelota Parada,,,,3 vs 2,Larga (+3),16,Ferro,Boca Jrs,
+234,Transición Ofensiva,TRANSICION OFENSIVA 003,3537,3527,3547,14,Pelota Parada,,,,3 vs 2,Larga (+3),16,Ferro,Boca Jrs,
+235,Transición Ofensiva,TRANSICION OFENSIVA 004,4066,4056,4074,1,Pelota Parada,,,,,Corta (H 3),16,Ferro,Boca Jrs,
+236,Transición Ofensiva,TRANSICION OFENSIVA 004,4066,4056,4074,4,Pelota Parada,,,,,Corta (H 3),16,Ferro,Boca Jrs,
+237,Transición Ofensiva,TRANSICION OFENSIVA 004,4066,4056,4074,5,Pelota Parada,,,,,Corta (H 3),16,Ferro,Boca Jrs,
+238,Transición Ofensiva,TRANSICION OFENSIVA 004,4066,4056,4074,7,Pelota Parada,,,,,Corta (H 3),16,Ferro,Boca Jrs,
+239,Transición Ofensiva,TRANSICION OFENSIVA 004,4066,4056,4074,14,Pelota Parada,,,,,Corta (H 3),16,Ferro,Boca Jrs,
+240,Transición Ofensiva,TRANSICION OFENSIVA 005,4330,4320,4339,1,Perdida,,,,3 vs 2,Corta (H 3),16,Ferro,Boca Jrs,
+241,Transición Ofensiva,TRANSICION OFENSIVA 005,4330,4320,4339,5,Perdida,,,,3 vs 2,Corta (H 3),16,Ferro,Boca Jrs,
+242,Transición Ofensiva,TRANSICION OFENSIVA 005,4330,4320,4339,6,Perdida,,,,3 vs 2,Corta (H 3),16,Ferro,Boca Jrs,
+243,Transición Ofensiva,TRANSICION OFENSIVA 005,4330,4320,4339,10,Perdida,,,,3 vs 2,Corta (H 3),16,Ferro,Boca Jrs,
+244,Transición Ofensiva,TRANSICION OFENSIVA 005,4330,4320,4339,14,Perdida,,,,3 vs 2,Corta (H 3),16,Ferro,Boca Jrs,
+245,Transición Ofensiva,TRANSICION OFENSIVA 006,4362,4352,4371,1,Tiro,,,,2 vs 1,Corta (H 3),16,Ferro,Boca Jrs,
+246,Transición Ofensiva,TRANSICION OFENSIVA 006,4362,4352,4371,5,Tiro,,,,2 vs 1,Corta (H 3),16,Ferro,Boca Jrs,
+247,Transición Ofensiva,TRANSICION OFENSIVA 006,4362,4352,4371,6,Tiro,,,,2 vs 1,Corta (H 3),16,Ferro,Boca Jrs,
+248,Transición Ofensiva,TRANSICION OFENSIVA 006,4362,4352,4371,10,Tiro,,,,2 vs 1,Corta (H 3),16,Ferro,Boca Jrs,
+249,Transición Ofensiva,TRANSICION OFENSIVA 006,4362,4352,4371,14,Tiro,,,,2 vs 1,Corta (H 3),16,Ferro,Boca Jrs,
+250,MT Defensivo,MT DEFENSIVO 001,358,348,367,1,Lectura Salto,Positivo,,,,,16,Ferro,Boca Jrs,
+251,MT Defensivo,MT DEFENSIVO 001,358,348,367,4,Lectura Salto,Positivo,,,,,16,Ferro,Boca Jrs,
+252,MT Defensivo,MT DEFENSIVO 001,358,348,367,6,Lectura Salto,Positivo,,,,,16,Ferro,Boca Jrs,
+253,MT Defensivo,MT DEFENSIVO 001,358,348,367,8,Lectura Salto,Positivo,,,,,16,Ferro,Boca Jrs,
+254,MT Defensivo,MT DEFENSIVO 001,358,348,367,9,Lectura Salto,Positivo,,,,,16,Ferro,Boca Jrs,
+255,MT Defensivo,MT DEFENSIVO 002,404,394,421,1,Doble Marca,Positivo,,,,,16,Ferro,Boca Jrs,
+256,MT Defensivo,MT DEFENSIVO 002,404,394,421,4,Doble Marca,Positivo,,,,,16,Ferro,Boca Jrs,
+257,MT Defensivo,MT DEFENSIVO 002,404,394,421,6,Doble Marca,Positivo,,,,,16,Ferro,Boca Jrs,
+258,MT Defensivo,MT DEFENSIVO 002,404,394,421,8,Doble Marca,Positivo,,,,,16,Ferro,Boca Jrs,
+259,MT Defensivo,MT DEFENSIVO 002,404,394,421,9,Doble Marca,Positivo,,,,,16,Ferro,Boca Jrs,
+260,MT Defensivo,MT DEFENSIVO 003,430,420,445,1,Repliegue,Positivo,,,,,16,Ferro,Boca Jrs,
+261,MT Defensivo,MT DEFENSIVO 003,430,420,445,4,Repliegue,Positivo,,,,,16,Ferro,Boca Jrs,
+262,MT Defensivo,MT DEFENSIVO 003,430,420,445,6,Repliegue,Positivo,,,,,16,Ferro,Boca Jrs,
+263,MT Defensivo,MT DEFENSIVO 003,430,420,445,8,Repliegue,Positivo,,,,,16,Ferro,Boca Jrs,
+264,MT Defensivo,MT DEFENSIVO 003,430,420,445,9,Repliegue,Positivo,,,,,16,Ferro,Boca Jrs,
+265,MT Defensivo,MT DEFENSIVO 004,465,455,484,1,Cobertura,Positivo,,,,,16,Ferro,Boca Jrs,
+266,MT Defensivo,MT DEFENSIVO 004,465,455,484,4,Cobertura,Positivo,,,,,16,Ferro,Boca Jrs,
+267,MT Defensivo,MT DEFENSIVO 004,465,455,484,6,Cobertura,Positivo,,,,,16,Ferro,Boca Jrs,
+268,MT Defensivo,MT DEFENSIVO 004,465,455,484,8,Cobertura,Positivo,,,,,16,Ferro,Boca Jrs,
+269,MT Defensivo,MT DEFENSIVO 004,465,455,484,9,Cobertura,Positivo,,,,,16,Ferro,Boca Jrs,
+270,MT Defensivo,MT DEFENSIVO 005,718,708,726,1,Cobertura,Negativo,,,,,16,Ferro,Boca Jrs,
+271,MT Defensivo,MT DEFENSIVO 005,718,708,726,5,Cobertura,Negativo,,,,,16,Ferro,Boca Jrs,
+272,MT Defensivo,MT DEFENSIVO 005,718,708,726,7,Cobertura,Negativo,,,,,16,Ferro,Boca Jrs,
+273,MT Defensivo,MT DEFENSIVO 005,718,708,726,10,Cobertura,Negativo,,,,,16,Ferro,Boca Jrs,
+274,MT Defensivo,MT DEFENSIVO 005,718,708,726,16,Cobertura,Negativo,,,,,16,Ferro,Boca Jrs,
+275,MT Defensivo,MT DEFENSIVO 006,763,753,776,1,Repliegue,Positivo,,,,,16,Ferro,Boca Jrs,
+276,MT Defensivo,MT DEFENSIVO 006,763,753,776,5,Repliegue,Positivo,,,,,16,Ferro,Boca Jrs,
+277,MT Defensivo,MT DEFENSIVO 006,763,753,776,7,Repliegue,Positivo,,,,,16,Ferro,Boca Jrs,
+278,MT Defensivo,MT DEFENSIVO 006,763,753,776,10,Repliegue,Positivo,,,,,16,Ferro,Boca Jrs,
+279,MT Defensivo,MT DEFENSIVO 006,763,753,776,16,Repliegue,Positivo,,,,,16,Ferro,Boca Jrs,
+280,MT Defensivo,MT DEFENSIVO 007,782,772,800,1,Cobertura,Positivo,,,,,16,Ferro,Boca Jrs,
+281,MT Defensivo,MT DEFENSIVO 007,782,772,800,5,Cobertura,Positivo,,,,,16,Ferro,Boca Jrs,
+282,MT Defensivo,MT DEFENSIVO 007,782,772,800,7,Cobertura,Positivo,,,,,16,Ferro,Boca Jrs,
+283,MT Defensivo,MT DEFENSIVO 007,782,772,800,10,Cobertura,Positivo,,,,,16,Ferro,Boca Jrs,
+284,MT Defensivo,MT DEFENSIVO 007,782,772,800,16,Cobertura,Positivo,,,,,16,Ferro,Boca Jrs,
+285,MT Defensivo,MT DEFENSIVO 008,824,814,831,1,Lectura Salto,Positivo,,,,,16,Ferro,Boca Jrs,
+286,MT Defensivo,MT DEFENSIVO 008,824,814,831,5,Lectura Salto,Positivo,,,,,16,Ferro,Boca Jrs,
+287,MT Defensivo,MT DEFENSIVO 008,824,814,831,7,Lectura Salto,Positivo,,,,,16,Ferro,Boca Jrs,
+288,MT Defensivo,MT DEFENSIVO 008,824,814,831,10,Lectura Salto,Positivo,,,,,16,Ferro,Boca Jrs,
+289,MT Defensivo,MT DEFENSIVO 008,824,814,831,16,Lectura Salto,Positivo,,,,,16,Ferro,Boca Jrs,
+290,MT Defensivo,MT DEFENSIVO 009,836,826,847,1,Cambio Marca,Negativo,,,,,16,Ferro,Boca Jrs,
+291,MT Defensivo,MT DEFENSIVO 009,836,826,847,5,Cambio Marca,Negativo,,,,,16,Ferro,Boca Jrs,
+292,MT Defensivo,MT DEFENSIVO 009,836,826,847,7,Cambio Marca,Negativo,,,,,16,Ferro,Boca Jrs,
+293,MT Defensivo,MT DEFENSIVO 009,836,826,847,10,Cambio Marca,Negativo,,,,,16,Ferro,Boca Jrs,
+294,MT Defensivo,MT DEFENSIVO 009,836,826,847,16,Cambio Marca,Negativo,,,,,16,Ferro,Boca Jrs,
+295,MT Defensivo,MT DEFENSIVO 010,848,838,856,1,Cobertura,Positivo,,,,,16,Ferro,Boca Jrs,
+296,MT Defensivo,MT DEFENSIVO 010,848,838,856,5,Cobertura,Positivo,,,,,16,Ferro,Boca Jrs,
+297,MT Defensivo,MT DEFENSIVO 010,848,838,856,7,Cobertura,Positivo,,,,,16,Ferro,Boca Jrs,
+298,MT Defensivo,MT DEFENSIVO 010,848,838,856,10,Cobertura,Positivo,,,,,16,Ferro,Boca Jrs,
+299,MT Defensivo,MT DEFENSIVO 010,848,838,856,16,Cobertura,Positivo,,,,,16,Ferro,Boca Jrs,
+300,MT Defensivo,MT DEFENSIVO 011,1007,997,1022,1,Lectura Salto,Positivo,,,,,16,Ferro,Boca Jrs,
+301,MT Defensivo,MT DEFENSIVO 011,1007,997,1022,6,Lectura Salto,Positivo,,,,,16,Ferro,Boca Jrs,
+302,MT Defensivo,MT DEFENSIVO 011,1007,997,1022,8,Lectura Salto,Positivo,,,,,16,Ferro,Boca Jrs,
+303,MT Defensivo,MT DEFENSIVO 011,1007,997,1022,10,Lectura Salto,Positivo,,,,,16,Ferro,Boca Jrs,
+304,MT Defensivo,MT DEFENSIVO 011,1007,997,1022,14,Lectura Salto,Positivo,,,,,16,Ferro,Boca Jrs,
+305,MT Defensivo,MT DEFENSIVO 012,1105,1095,1116,1,Repliegue,Positivo,,,,,16,Ferro,Boca Jrs,
+306,MT Defensivo,MT DEFENSIVO 012,1105,1095,1116,14,Repliegue,Positivo,,,,,16,Ferro,Boca Jrs,
+307,MT Defensivo,MT DEFENSIVO 012,1105,1095,1116,15,Repliegue,Positivo,,,,,16,Ferro,Boca Jrs,
+308,MT Defensivo,MT DEFENSIVO 012,1105,1095,1116,17,Repliegue,Positivo,,,,,16,Ferro,Boca Jrs,
+309,MT Defensivo,MT DEFENSIVO 012,1105,1095,1116,19,Repliegue,Positivo,,,,,16,Ferro,Boca Jrs,
+310,MT Defensivo,MT DEFENSIVO 013,1137,1127,1144,1,Cobertura,Positivo,,,,,16,Ferro,Boca Jrs,
+311,MT Defensivo,MT DEFENSIVO 013,1137,1127,1144,14,Cobertura,Positivo,,,,,16,Ferro,Boca Jrs,
+312,MT Defensivo,MT DEFENSIVO 013,1137,1127,1144,15,Cobertura,Positivo,,,,,16,Ferro,Boca Jrs,
+313,MT Defensivo,MT DEFENSIVO 013,1137,1127,1144,17,Cobertura,Positivo,,,,,16,Ferro,Boca Jrs,
+314,MT Defensivo,MT DEFENSIVO 013,1137,1127,1144,19,Cobertura,Positivo,,,,,16,Ferro,Boca Jrs,
+315,MT Defensivo,MT DEFENSIVO 014,1303,1293,1313,1,Lectura Salto,Negativo,,,,,16,Ferro,Boca Jrs,
+316,MT Defensivo,MT DEFENSIVO 014,1303,1293,1313,4,Lectura Salto,Negativo,,,,,16,Ferro,Boca Jrs,
+317,MT Defensivo,MT DEFENSIVO 014,1303,1293,1313,6,Lectura Salto,Negativo,,,,,16,Ferro,Boca Jrs,
+318,MT Defensivo,MT DEFENSIVO 014,1303,1293,1313,8,Lectura Salto,Negativo,,,,,16,Ferro,Boca Jrs,
+319,MT Defensivo,MT DEFENSIVO 014,1303,1293,1313,9,Lectura Salto,Negativo,,,,,16,Ferro,Boca Jrs,
+320,MT Defensivo,MT DEFENSIVO 015,1590,1580,1597,1,Cobertura,Positivo,,,,,16,Ferro,Boca Jrs,
+321,MT Defensivo,MT DEFENSIVO 015,1590,1580,1597,5,Cobertura,Positivo,,,,,16,Ferro,Boca Jrs,
+322,MT Defensivo,MT DEFENSIVO 015,1590,1580,1597,7,Cobertura,Positivo,,,,,16,Ferro,Boca Jrs,
+323,MT Defensivo,MT DEFENSIVO 015,1590,1580,1597,10,Cobertura,Positivo,,,,,16,Ferro,Boca Jrs,
+324,MT Defensivo,MT DEFENSIVO 015,1590,1580,1597,16,Cobertura,Positivo,,,,,16,Ferro,Boca Jrs,
+325,MT Defensivo,MT DEFENSIVO 016,1613,1603,1630,1,Lectura Salto,Positivo,,,,,16,Ferro,Boca Jrs,
+326,MT Defensivo,MT DEFENSIVO 016,1613,1603,1630,5,Lectura Salto,Positivo,,,,,16,Ferro,Boca Jrs,
+327,MT Defensivo,MT DEFENSIVO 016,1613,1603,1630,7,Lectura Salto,Positivo,,,,,16,Ferro,Boca Jrs,
+328,MT Defensivo,MT DEFENSIVO 016,1613,1603,1630,10,Lectura Salto,Positivo,,,,,16,Ferro,Boca Jrs,
+329,MT Defensivo,MT DEFENSIVO 016,1613,1603,1630,16,Lectura Salto,Positivo,,,,,16,Ferro,Boca Jrs,
+330,MT Defensivo,MT DEFENSIVO 017,1682,1672,1700,1,Cobertura,Positivo,,,,,16,Ferro,Boca Jrs,
+331,MT Defensivo,MT DEFENSIVO 017,1682,1672,1700,5,Cobertura,Positivo,,,,,16,Ferro,Boca Jrs,
+332,MT Defensivo,MT DEFENSIVO 017,1682,1672,1700,7,Cobertura,Positivo,,,,,16,Ferro,Boca Jrs,
+333,MT Defensivo,MT DEFENSIVO 017,1682,1672,1700,10,Cobertura,Positivo,,,,,16,Ferro,Boca Jrs,
+334,MT Defensivo,MT DEFENSIVO 017,1682,1672,1700,16,Cobertura,Positivo,,,,,16,Ferro,Boca Jrs,
+335,MT Defensivo,MT DEFENSIVO 018,1893,1883,1899,1,Cobertura,Positivo,,,,,16,Ferro,Boca Jrs,
+336,MT Defensivo,MT DEFENSIVO 018,1893,1883,1899,8,Cobertura,Positivo,,,,,16,Ferro,Boca Jrs,
+337,MT Defensivo,MT DEFENSIVO 018,1893,1883,1899,9,Cobertura,Positivo,,,,,16,Ferro,Boca Jrs,
+338,MT Defensivo,MT DEFENSIVO 018,1893,1883,1899,14,Cobertura,Positivo,,,,,16,Ferro,Boca Jrs,
+339,MT Defensivo,MT DEFENSIVO 018,1893,1883,1899,15,Cobertura,Positivo,,,,,16,Ferro,Boca Jrs,
+340,MT Defensivo,MT DEFENSIVO 019,1905,1895,1915,1,Lectura Salto,Negativo,,,,,16,Ferro,Boca Jrs,
+341,MT Defensivo,MT DEFENSIVO 019,1905,1895,1915,8,Lectura Salto,Negativo,,,,,16,Ferro,Boca Jrs,
+342,MT Defensivo,MT DEFENSIVO 019,1905,1895,1915,9,Lectura Salto,Negativo,,,,,16,Ferro,Boca Jrs,
+343,MT Defensivo,MT DEFENSIVO 019,1905,1895,1915,14,Lectura Salto,Negativo,,,,,16,Ferro,Boca Jrs,
+344,MT Defensivo,MT DEFENSIVO 019,1905,1895,1915,15,Lectura Salto,Negativo,,,,,16,Ferro,Boca Jrs,
+345,MT Defensivo,MT DEFENSIVO 020,1992,1982,2001,1,Lectura Salto,Positivo,,,,,16,Ferro,Boca Jrs,
+346,MT Defensivo,MT DEFENSIVO 020,1992,1982,2001,8,Lectura Salto,Positivo,,,,,16,Ferro,Boca Jrs,
+347,MT Defensivo,MT DEFENSIVO 020,1992,1982,2001,9,Lectura Salto,Positivo,,,,,16,Ferro,Boca Jrs,
+348,MT Defensivo,MT DEFENSIVO 020,1992,1982,2001,14,Lectura Salto,Positivo,,,,,16,Ferro,Boca Jrs,
+349,MT Defensivo,MT DEFENSIVO 020,1992,1982,2001,15,Lectura Salto,Positivo,,,,,16,Ferro,Boca Jrs,
+350,MT Defensivo,MT DEFENSIVO 021,2049,2039,2062,1,Repliegue,Positivo,,,,,16,Ferro,Boca Jrs,
+351,MT Defensivo,MT DEFENSIVO 021,2049,2039,2062,8,Repliegue,Positivo,,,,,16,Ferro,Boca Jrs,
+352,MT Defensivo,MT DEFENSIVO 021,2049,2039,2062,9,Repliegue,Positivo,,,,,16,Ferro,Boca Jrs,
+353,MT Defensivo,MT DEFENSIVO 021,2049,2039,2062,14,Repliegue,Positivo,,,,,16,Ferro,Boca Jrs,
+354,MT Defensivo,MT DEFENSIVO 021,2049,2039,2062,15,Repliegue,Positivo,,,,,16,Ferro,Boca Jrs,
+355,MT Defensivo,MT DEFENSIVO 022,2196,2186,2213,1,Lectura Salto,Positivo,,,,,16,Ferro,Boca Jrs,
+356,MT Defensivo,MT DEFENSIVO 022,2196,2186,2213,5,Lectura Salto,Positivo,,,,,16,Ferro,Boca Jrs,
+357,MT Defensivo,MT DEFENSIVO 022,2196,2186,2213,7,Lectura Salto,Positivo,,,,,16,Ferro,Boca Jrs,
+358,MT Defensivo,MT DEFENSIVO 022,2196,2186,2213,10,Lectura Salto,Positivo,,,,,16,Ferro,Boca Jrs,
+359,MT Defensivo,MT DEFENSIVO 022,2196,2186,2213,15,Lectura Salto,Positivo,,,,,16,Ferro,Boca Jrs,
+360,MT Defensivo,MT DEFENSIVO 023,2523,2513,2538,1,Repliegue,Positivo,,,,,16,Ferro,Boca Jrs,
+361,MT Defensivo,MT DEFENSIVO 023,2523,2513,2538,5,Repliegue,Positivo,,,,,16,Ferro,Boca Jrs,
+362,MT Defensivo,MT DEFENSIVO 023,2523,2513,2538,7,Repliegue,Positivo,,,,,16,Ferro,Boca Jrs,
+363,MT Defensivo,MT DEFENSIVO 023,2523,2513,2538,10,Repliegue,Positivo,,,,,16,Ferro,Boca Jrs,
+364,MT Defensivo,MT DEFENSIVO 023,2523,2513,2538,16,Repliegue,Positivo,,,,,16,Ferro,Boca Jrs,
+365,MT Defensivo,MT DEFENSIVO 024,2665,2655,2681,1,Repliegue,Negativo,,,,,16,Ferro,Boca Jrs,
+366,MT Defensivo,MT DEFENSIVO 024,2665,2655,2681,8,Repliegue,Negativo,,,,,16,Ferro,Boca Jrs,
+367,MT Defensivo,MT DEFENSIVO 024,2665,2655,2681,10,Repliegue,Negativo,,,,,16,Ferro,Boca Jrs,
+368,MT Defensivo,MT DEFENSIVO 024,2665,2655,2681,14,Repliegue,Negativo,,,,,16,Ferro,Boca Jrs,
+369,MT Defensivo,MT DEFENSIVO 024,2665,2655,2681,15,Repliegue,Negativo,,,,,16,Ferro,Boca Jrs,
+370,MT Defensivo,MT DEFENSIVO 025,2765,2755,2772,1,Cobertura,Positivo,,,,,16,Ferro,Boca Jrs,
+371,MT Defensivo,MT DEFENSIVO 025,2765,2755,2772,7,Cobertura,Positivo,,,,,16,Ferro,Boca Jrs,
+372,MT Defensivo,MT DEFENSIVO 025,2765,2755,2772,9,Cobertura,Positivo,,,,,16,Ferro,Boca Jrs,
+373,MT Defensivo,MT DEFENSIVO 025,2765,2755,2772,14,Cobertura,Positivo,,,,,16,Ferro,Boca Jrs,
+374,MT Defensivo,MT DEFENSIVO 025,2765,2755,2772,15,Cobertura,Positivo,,,,,16,Ferro,Boca Jrs,
+375,MT Defensivo,MT DEFENSIVO 026,3289,3279,3300,1,Lectura Salto,Negativo,,,,,16,Ferro,Boca Jrs,
+376,MT Defensivo,MT DEFENSIVO 026,3289,3279,3300,4,Lectura Salto,Negativo,,,,,16,Ferro,Boca Jrs,
+377,MT Defensivo,MT DEFENSIVO 026,3289,3279,3300,7,Lectura Salto,Negativo,,,,,16,Ferro,Boca Jrs,
+378,MT Defensivo,MT DEFENSIVO 026,3289,3279,3300,9,Lectura Salto,Negativo,,,,,16,Ferro,Boca Jrs,
+379,MT Defensivo,MT DEFENSIVO 026,3289,3279,3300,15,Lectura Salto,Negativo,,,,,16,Ferro,Boca Jrs,
+380,MT Defensivo,MT DEFENSIVO 027,3322,3312,3333,1,Cambio Marca,Positivo,,,,,16,Ferro,Boca Jrs,
+381,MT Defensivo,MT DEFENSIVO 027,3322,3312,3333,4,Cambio Marca,Positivo,,,,,16,Ferro,Boca Jrs,
+382,MT Defensivo,MT DEFENSIVO 027,3322,3312,3333,7,Cambio Marca,Positivo,,,,,16,Ferro,Boca Jrs,
+383,MT Defensivo,MT DEFENSIVO 027,3322,3312,3333,9,Cambio Marca,Positivo,,,,,16,Ferro,Boca Jrs,
+384,MT Defensivo,MT DEFENSIVO 027,3322,3312,3333,15,Cambio Marca,Positivo,,,,,16,Ferro,Boca Jrs,
+385,MT Defensivo,MT DEFENSIVO 028,3334,3324,3342,1,Lectura Salto,Negativo,,,,,16,Ferro,Boca Jrs,
+386,MT Defensivo,MT DEFENSIVO 028,3334,3324,3342,4,Lectura Salto,Negativo,,,,,16,Ferro,Boca Jrs,
+387,MT Defensivo,MT DEFENSIVO 028,3334,3324,3342,7,Lectura Salto,Negativo,,,,,16,Ferro,Boca Jrs,
+388,MT Defensivo,MT DEFENSIVO 028,3334,3324,3342,9,Lectura Salto,Negativo,,,,,16,Ferro,Boca Jrs,
+389,MT Defensivo,MT DEFENSIVO 028,3334,3324,3342,15,Lectura Salto,Negativo,,,,,16,Ferro,Boca Jrs,
+390,MT Defensivo,MT DEFENSIVO 029,3347,3337,3365,1,Repliegue,Positivo,,,,,16,Ferro,Boca Jrs,
+391,MT Defensivo,MT DEFENSIVO 029,3347,3337,3365,4,Repliegue,Positivo,,,,,16,Ferro,Boca Jrs,
+392,MT Defensivo,MT DEFENSIVO 029,3347,3337,3365,7,Repliegue,Positivo,,,,,16,Ferro,Boca Jrs,
+393,MT Defensivo,MT DEFENSIVO 029,3347,3337,3365,9,Repliegue,Positivo,,,,,16,Ferro,Boca Jrs,
+394,MT Defensivo,MT DEFENSIVO 029,3347,3337,3365,15,Repliegue,Positivo,,,,,16,Ferro,Boca Jrs,
+395,MT Defensivo,MT DEFENSIVO 030,3369,3359,3382,1,Repliegue,Negativo,,,,,16,Ferro,Boca Jrs,
+396,MT Defensivo,MT DEFENSIVO 030,3369,3359,3382,4,Repliegue,Negativo,,,,,16,Ferro,Boca Jrs,
+397,MT Defensivo,MT DEFENSIVO 030,3369,3359,3382,7,Repliegue,Negativo,,,,,16,Ferro,Boca Jrs,
+398,MT Defensivo,MT DEFENSIVO 030,3369,3359,3382,9,Repliegue,Negativo,,,,,16,Ferro,Boca Jrs,
+399,MT Defensivo,MT DEFENSIVO 030,3369,3359,3382,15,Repliegue,Negativo,,,,,16,Ferro,Boca Jrs,
+400,MT Defensivo,MT DEFENSIVO 031,3426,3416,3440,1,Lectura Salto,Positivo,,,,,16,Ferro,Boca Jrs,
+401,MT Defensivo,MT DEFENSIVO 031,3426,3416,3440,4,Lectura Salto,Positivo,,,,,16,Ferro,Boca Jrs,
+402,MT Defensivo,MT DEFENSIVO 031,3426,3416,3440,7,Lectura Salto,Positivo,,,,,16,Ferro,Boca Jrs,
+403,MT Defensivo,MT DEFENSIVO 031,3426,3416,3440,9,Lectura Salto,Positivo,,,,,16,Ferro,Boca Jrs,
+404,MT Defensivo,MT DEFENSIVO 031,3426,3416,3440,15,Lectura Salto,Positivo,,,,,16,Ferro,Boca Jrs,
+405,MT Defensivo,MT DEFENSIVO 032,3521,3511,3537,1,Repliegue,Positivo,,,,,16,Ferro,Boca Jrs,
+406,MT Defensivo,MT DEFENSIVO 032,3521,3511,3537,5,Repliegue,Positivo,,,,,16,Ferro,Boca Jrs,
+407,MT Defensivo,MT DEFENSIVO 032,3521,3511,3537,6,Repliegue,Positivo,,,,,16,Ferro,Boca Jrs,
+408,MT Defensivo,MT DEFENSIVO 032,3521,3511,3537,10,Repliegue,Positivo,,,,,16,Ferro,Boca Jrs,
+409,MT Defensivo,MT DEFENSIVO 032,3521,3511,3537,14,Repliegue,Positivo,,,,,16,Ferro,Boca Jrs,
+410,MT Defensivo,MT DEFENSIVO 033,3609,3599,3615,1,Cobertura,Positivo,,,,,16,Ferro,Boca Jrs,
+411,MT Defensivo,MT DEFENSIVO 033,3609,3599,3615,5,Cobertura,Positivo,,,,,16,Ferro,Boca Jrs,
+412,MT Defensivo,MT DEFENSIVO 033,3609,3599,3615,6,Cobertura,Positivo,,,,,16,Ferro,Boca Jrs,
+413,MT Defensivo,MT DEFENSIVO 033,3609,3599,3615,10,Cobertura,Positivo,,,,,16,Ferro,Boca Jrs,
+414,MT Defensivo,MT DEFENSIVO 033,3609,3599,3615,14,Cobertura,Positivo,,,,,16,Ferro,Boca Jrs,
+415,MT Defensivo,MT DEFENSIVO 034,4058,4048,4065,1,Repliegue,Positivo,,,,,16,Ferro,Boca Jrs,
+416,MT Defensivo,MT DEFENSIVO 034,4058,4048,4065,4,Repliegue,Positivo,,,,,16,Ferro,Boca Jrs,
+417,MT Defensivo,MT DEFENSIVO 034,4058,4048,4065,5,Repliegue,Positivo,,,,,16,Ferro,Boca Jrs,
+418,MT Defensivo,MT DEFENSIVO 034,4058,4048,4065,7,Repliegue,Positivo,,,,,16,Ferro,Boca Jrs,
+419,MT Defensivo,MT DEFENSIVO 034,4058,4048,4065,14,Repliegue,Positivo,,,,,16,Ferro,Boca Jrs,
+420,MT Defensivo,MT DEFENSIVO 035,4254,4244,4267,1,Cobertura,Negativo,,,,,16,Ferro,Boca Jrs,
+421,MT Defensivo,MT DEFENSIVO 035,4254,4244,4267,5,Cobertura,Negativo,,,,,16,Ferro,Boca Jrs,
+422,MT Defensivo,MT DEFENSIVO 035,4254,4244,4267,6,Cobertura,Negativo,,,,,16,Ferro,Boca Jrs,
+423,MT Defensivo,MT DEFENSIVO 035,4254,4244,4267,10,Cobertura,Negativo,,,,,16,Ferro,Boca Jrs,
+424,MT Defensivo,MT DEFENSIVO 035,4254,4244,4267,14,Cobertura,Negativo,,,,,16,Ferro,Boca Jrs,
+425,MT Defensivo,MT DEFENSIVO 036,4312,4302,4321,1,Lectura Salto,Positivo,,,,,16,Ferro,Boca Jrs,
+426,MT Defensivo,MT DEFENSIVO 036,4312,4302,4321,5,Lectura Salto,Positivo,,,,,16,Ferro,Boca Jrs,
+427,MT Defensivo,MT DEFENSIVO 036,4312,4302,4321,6,Lectura Salto,Positivo,,,,,16,Ferro,Boca Jrs,
+428,MT Defensivo,MT DEFENSIVO 036,4312,4302,4321,10,Lectura Salto,Positivo,,,,,16,Ferro,Boca Jrs,
+429,MT Defensivo,MT DEFENSIVO 036,4312,4302,4321,14,Lectura Salto,Positivo,,,,,16,Ferro,Boca Jrs,
+430,MT Defensivo,MT DEFENSIVO 037,4327,4317,4330,1,Lectura Salto,Positivo,,,,,16,Ferro,Boca Jrs,
+431,MT Defensivo,MT DEFENSIVO 037,4327,4317,4330,5,Lectura Salto,Positivo,,,,,16,Ferro,Boca Jrs,
+432,MT Defensivo,MT DEFENSIVO 037,4327,4317,4330,6,Lectura Salto,Positivo,,,,,16,Ferro,Boca Jrs,
+433,MT Defensivo,MT DEFENSIVO 037,4327,4317,4330,10,Lectura Salto,Positivo,,,,,16,Ferro,Boca Jrs,
+434,MT Defensivo,MT DEFENSIVO 037,4327,4317,4330,14,Lectura Salto,Positivo,,,,,16,Ferro,Boca Jrs,
+435,MT Defensivo,MT DEFENSIVO 038,4351,4341,4362,1,Cambio Marca,Positivo,,,,,16,Ferro,Boca Jrs,
+436,MT Defensivo,MT DEFENSIVO 038,4351,4341,4362,5,Cambio Marca,Positivo,,,,,16,Ferro,Boca Jrs,
+437,MT Defensivo,MT DEFENSIVO 038,4351,4341,4362,6,Cambio Marca,Positivo,,,,,16,Ferro,Boca Jrs,
+438,MT Defensivo,MT DEFENSIVO 038,4351,4341,4362,10,Cambio Marca,Positivo,,,,,16,Ferro,Boca Jrs,
+439,MT Defensivo,MT DEFENSIVO 038,4351,4341,4362,14,Cambio Marca,Positivo,,,,,16,Ferro,Boca Jrs,
+440,MT Defensivo,MT DEFENSIVO 039,4537,4527,4551,1,Cambio Marca,Negativo,,,,,16,Ferro,Boca Jrs,
+441,MT Defensivo,MT DEFENSIVO 039,4537,4527,4551,4,Cambio Marca,Negativo,,,,,16,Ferro,Boca Jrs,
+442,MT Defensivo,MT DEFENSIVO 039,4537,4527,4551,7,Cambio Marca,Negativo,,,,,16,Ferro,Boca Jrs,
+443,MT Defensivo,MT DEFENSIVO 039,4537,4527,4551,10,Cambio Marca,Negativo,,,,,16,Ferro,Boca Jrs,
+444,MT Defensivo,MT DEFENSIVO 039,4537,4527,4551,16,Cambio Marca,Negativo,,,,,16,Ferro,Boca Jrs,
+445,MT Defensivo,MT DEFENSIVO 040,4625,4615,4634,1,Lectura Salto,Positivo,,,,,16,Ferro,Boca Jrs,
+446,MT Defensivo,MT DEFENSIVO 040,4625,4615,4634,4,Lectura Salto,Positivo,,,,,16,Ferro,Boca Jrs,
+447,MT Defensivo,MT DEFENSIVO 040,4625,4615,4634,7,Lectura Salto,Positivo,,,,,16,Ferro,Boca Jrs,
+448,MT Defensivo,MT DEFENSIVO 040,4625,4615,4634,10,Lectura Salto,Positivo,,,,,16,Ferro,Boca Jrs,
+449,MT Defensivo,MT DEFENSIVO 040,4625,4615,4634,16,Lectura Salto,Positivo,,,,,16,Ferro,Boca Jrs,
+450,MT Defensivo,MT DEFENSIVO 041,4678,4668,4684,1,Cobertura,Positivo,,,,,16,Ferro,Boca Jrs,
+451,MT Defensivo,MT DEFENSIVO 041,4678,4668,4684,4,Cobertura,Positivo,,,,,16,Ferro,Boca Jrs,
+452,MT Defensivo,MT DEFENSIVO 041,4678,4668,4684,5,Cobertura,Positivo,,,,,16,Ferro,Boca Jrs,
+453,MT Defensivo,MT DEFENSIVO 041,4678,4668,4684,10,Cobertura,Positivo,,,,,16,Ferro,Boca Jrs,
+454,MT Defensivo,MT DEFENSIVO 041,4678,4668,4684,16,Cobertura,Positivo,,,,,16,Ferro,Boca Jrs,
+455,MT Defensivo,MT DEFENSIVO 042,5127,5117,5132,1,Cobertura,Positivo,,,,,16,Ferro,Boca Jrs,
+456,MT Defensivo,MT DEFENSIVO 042,5127,5117,5132,5,Cobertura,Positivo,,,,,16,Ferro,Boca Jrs,
+457,MT Defensivo,MT DEFENSIVO 042,5127,5117,5132,9,Cobertura,Positivo,,,,,16,Ferro,Boca Jrs,
+458,MT Defensivo,MT DEFENSIVO 042,5127,5117,5132,10,Cobertura,Positivo,,,,,16,Ferro,Boca Jrs,
+459,MT Defensivo,MT DEFENSIVO 042,5127,5117,5132,14,Cobertura,Positivo,,,,,16,Ferro,Boca Jrs,
+460,MT Defensivo,MT DEFENSIVO 043,5520,5510,5532,1,Lectura Salto,Negativo,,,,,16,Ferro,Boca Jrs,
+461,MT Defensivo,MT DEFENSIVO 043,5520,5510,5532,5,Lectura Salto,Negativo,,,,,16,Ferro,Boca Jrs,
+462,MT Defensivo,MT DEFENSIVO 043,5520,5510,5532,9,Lectura Salto,Negativo,,,,,16,Ferro,Boca Jrs,
+463,MT Defensivo,MT DEFENSIVO 043,5520,5510,5532,10,Lectura Salto,Negativo,,,,,16,Ferro,Boca Jrs,
+464,MT Defensivo,MT DEFENSIVO 043,5520,5510,5532,14,Lectura Salto,Negativo,,,,,16,Ferro,Boca Jrs,
+465,Transición Defensiva,TRANSICION DEFENSIVA 001,1471,1461,1483,1,Tiro,,,,2 vs 1,Corta (H 3),16,Ferro,Boca Jrs,
+466,Transición Defensiva,TRANSICION DEFENSIVA 001,1471,1461,1483,4,Tiro,,,,2 vs 1,Corta (H 3),16,Ferro,Boca Jrs,
+467,Transición Defensiva,TRANSICION DEFENSIVA 001,1471,1461,1483,6,Tiro,,,,2 vs 1,Corta (H 3),16,Ferro,Boca Jrs,
+468,Transición Defensiva,TRANSICION DEFENSIVA 001,1471,1461,1483,8,Tiro,,,,2 vs 1,Corta (H 3),16,Ferro,Boca Jrs,
+469,Transición Defensiva,TRANSICION DEFENSIVA 001,1471,1461,1483,9,Tiro,,,,2 vs 1,Corta (H 3),16,Ferro,Boca Jrs,
+470,Transición Defensiva,TRANSICION DEFENSIVA 002,2629,2619,2635,1,Pelota Parada,,,,2 vs 1,Corta (H 3),16,Ferro,Boca Jrs,
+471,Transición Defensiva,TRANSICION DEFENSIVA 002,2629,2619,2635,8,Pelota Parada,,,,2 vs 1,Corta (H 3),16,Ferro,Boca Jrs,
+472,Transición Defensiva,TRANSICION DEFENSIVA 002,2629,2619,2635,10,Pelota Parada,,,,2 vs 1,Corta (H 3),16,Ferro,Boca Jrs,
+473,Transición Defensiva,TRANSICION DEFENSIVA 002,2629,2619,2635,14,Pelota Parada,,,,2 vs 1,Corta (H 3),16,Ferro,Boca Jrs,
+474,Transición Defensiva,TRANSICION DEFENSIVA 002,2629,2619,2635,15,Pelota Parada,,,,2 vs 1,Corta (H 3),16,Ferro,Boca Jrs,
+475,Transición Defensiva,TRANSICION DEFENSIVA 003,3455,3445,3463,1,Recuperacion,,,,3 vs 2,Corta (H 3),16,Ferro,Boca Jrs,
+476,Transición Defensiva,TRANSICION DEFENSIVA 003,3455,3445,3463,4,Recuperacion,,,,3 vs 2,Corta (H 3),16,Ferro,Boca Jrs,
+477,Transición Defensiva,TRANSICION DEFENSIVA 003,3455,3445,3463,7,Recuperacion,,,,3 vs 2,Corta (H 3),16,Ferro,Boca Jrs,
+478,Transición Defensiva,TRANSICION DEFENSIVA 003,3455,3445,3463,9,Recuperacion,,,,3 vs 2,Corta (H 3),16,Ferro,Boca Jrs,
+479,Transición Defensiva,TRANSICION DEFENSIVA 003,3455,3445,3463,15,Recuperacion,,,,3 vs 2,Corta (H 3),16,Ferro,Boca Jrs,
+480,Transición Defensiva,TRANSICION DEFENSIVA 004,3911,3901,3918,1,Recuperacion,,,,3 vs 2,Corta (H 3),16,Ferro,Boca Jrs,
+481,Transición Defensiva,TRANSICION DEFENSIVA 004,3911,3901,3918,5,Recuperacion,,,,3 vs 2,Corta (H 3),16,Ferro,Boca Jrs,
+482,Transición Defensiva,TRANSICION DEFENSIVA 004,3911,3901,3918,7,Recuperacion,,,,3 vs 2,Corta (H 3),16,Ferro,Boca Jrs,
+483,Transición Defensiva,TRANSICION DEFENSIVA 004,3911,3901,3918,9,Recuperacion,,,,3 vs 2,Corta (H 3),16,Ferro,Boca Jrs,
+484,Transición Defensiva,TRANSICION DEFENSIVA 004,3911,3901,3918,14,Recuperacion,,,,3 vs 2,Corta (H 3),16,Ferro,Boca Jrs,
+485,Transición Defensiva,TRANSICION DEFENSIVA 005,5333,5323,5345,5,Gol,,,,2 vs 1,Corta (H 3),16,Ferro,Boca Jrs,
+486,Transición Defensiva,TRANSICION DEFENSIVA 005,5333,5323,5345,7,Gol,,,,2 vs 1,Corta (H 3),16,Ferro,Boca Jrs,
+487,Transición Defensiva,TRANSICION DEFENSIVA 005,5333,5323,5345,9,Gol,,,,2 vs 1,Corta (H 3),16,Ferro,Boca Jrs,
+488,Transición Defensiva,TRANSICION DEFENSIVA 005,5333,5323,5345,10,Gol,,,,2 vs 1,Corta (H 3),16,Ferro,Boca Jrs,
+489,Transición Defensiva,TRANSICION DEFENSIVA 005,5333,5323,5345,14,Gol,,,,2 vs 1,Corta (H 3),16,Ferro,Boca Jrs,
+490,Transición Defensiva,TRANSICION DEFENSIVA 006,5697,5687,5706,1,Recuperacion,,,,3 vs 2,Larga (+3),16,Ferro,Boca Jrs,
+491,Transición Defensiva,TRANSICION DEFENSIVA 006,5697,5687,5706,4,Recuperacion,,,,3 vs 2,Larga (+3),16,Ferro,Boca Jrs,
+492,Transición Defensiva,TRANSICION DEFENSIVA 006,5697,5687,5706,6,Recuperacion,,,,3 vs 2,Larga (+3),16,Ferro,Boca Jrs,
+493,Transición Defensiva,TRANSICION DEFENSIVA 006,5697,5687,5706,10,Recuperacion,,,,3 vs 2,Larga (+3),16,Ferro,Boca Jrs,
+494,Transición Defensiva,TRANSICION DEFENSIVA 006,5697,5687,5706,14,Recuperacion,,,,3 vs 2,Larga (+3),16,Ferro,Boca Jrs,
+495,Sustituciones,Alineación,0,0,0,,,,,,,,16,Ferro,Boca Jrs,
+496,Sustituciones,,329,329,329,,,,9.0,2.0,,,16,Ferro,Boca Jrs,
+497,Sustituciones,,329,329,329,,,,6.0,5.0,,,16,Ferro,Boca Jrs,
+498,Sustituciones,,329,329,329,,,,8.0,3.0,,,16,Ferro,Boca Jrs,
+499,Sustituciones,,611,611,611,,,,14.0,6.0,,,16,Ferro,Boca Jrs,
+500,Sustituciones,,611,611,611,,,,5.0,4.0,,,16,Ferro,Boca Jrs,
+501,Sustituciones,,616,616,616,,,,10.0,9.0,,,16,Ferro,Boca Jrs,
+502,Sustituciones,,666,666,666,,,,16.0,8.0,,,16,Ferro,Boca Jrs,
+503,Sustituciones,,717,717,717,,,,7.0,14.0,,,16,Ferro,Boca Jrs,
+504,Sustituciones,,953,953,953,,,,6.0,16.0,,,16,Ferro,Boca Jrs,
+505,Sustituciones,,953,953,953,,,,8.0,7.0,,,16,Ferro,Boca Jrs,
+506,Sustituciones,,953,953,953,,,,14.0,5.0,,,16,Ferro,Boca Jrs,
+507,Sustituciones,,1064,1064,1064,,,,17.0,10.0,,,16,Ferro,Boca Jrs,
+508,Sustituciones,,1104,1104,1104,,,,19.0,6.0,,,16,Ferro,Boca Jrs,
+509,Sustituciones,,1104,1104,1104,,,,15.0,8.0,,,16,Ferro,Boca Jrs,
+510,Sustituciones,,1278,1278,1278,,,,9.0,14.0,,,16,Ferro,Boca Jrs,
+511,Sustituciones,,1278,1278,1278,,,,8.0,17.0,,,16,Ferro,Boca Jrs,
+512,Sustituciones,,1278,1278,1278,,,,6.0,19.0,,,16,Ferro,Boca Jrs,
+513,Sustituciones,,1278,1278,1278,,,,4.0,15.0,,,16,Ferro,Boca Jrs,
+514,Sustituciones,,1548,1548,1548,,,,5.0,8.0,,,16,Ferro,Boca Jrs,
+515,Sustituciones,,1548,1548,1548,,,,10.0,9.0,,,16,Ferro,Boca Jrs,
+516,Sustituciones,,1548,1548,1548,,,,7.0,6.0,,,16,Ferro,Boca Jrs,
+517,Sustituciones,,1548,1548,1548,,,,16.0,4.0,,,16,Ferro,Boca Jrs,
+518,Sustituciones,,1814,1814,1814,,,,14.0,5.0,,,16,Ferro,Boca Jrs,
+519,Sustituciones,,1814,1814,1814,,,,8.0,10.0,,,16,Ferro,Boca Jrs,
+520,Sustituciones,,1814,1814,1814,,,,9.0,7.0,,,16,Ferro,Boca Jrs,
+521,Sustituciones,,1814,1814,1814,,,,5.0,16.0,,,16,Ferro,Boca Jrs,
+522,Sustituciones,,1889,1889,1889,,,,15.0,5.0,,,16,Ferro,Boca Jrs,
+523,Sustituciones,,2092,2092,2092,,,,7.0,8.0,,,16,Ferro,Boca Jrs,
+524,Sustituciones,,2122,2122,2122,,,,10.0,9.0,,,16,Ferro,Boca Jrs,
+525,Sustituciones,,2180,2180,2180,,,,5.0,14.0,,,16,Ferro,Boca Jrs,
+526,Sustituciones,,2368,2368,2368,,,,14.0,15.0,,,16,Ferro,Boca Jrs,
+527,Sustituciones,,2416,2416,2416,,,,16.0,14.0,,,16,Ferro,Boca Jrs,
+528,Sustituciones,,2416,2416,2416,,,,8.0,7.0,,,16,Ferro,Boca Jrs,
+529,Sustituciones,,2431,2431,2431,,,,7.0,8.0,,,16,Ferro,Boca Jrs,
+530,Sustituciones,,2587,2587,2587,,,,14.0,16.0,,,16,Ferro,Boca Jrs,
+531,Sustituciones,,2587,2587,2587,,,,15.0,5.0,,,16,Ferro,Boca Jrs,
+532,Sustituciones,,2611,2611,2611,,,,8.0,7.0,,,16,Ferro,Boca Jrs,
+533,Sustituciones,,2690,2690,2690,,,,7.0,8.0,,,16,Ferro,Boca Jrs,
+534,Sustituciones,,2718,2718,2718,,,,9.0,10.0,,,16,Ferro,Boca Jrs,
+535,Sustituciones,,3282,3282,3282,,,,4.0,9.0,,,16,Ferro,Boca Jrs,
+536,Sustituciones,,3282,3282,3282,,,,9.0,14.0,,,16,Ferro,Boca Jrs,
+537,Sustituciones,,3513,3513,3513,,,,5.0,15.0,,,16,Ferro,Boca Jrs,
+538,Sustituciones,,3513,3513,3513,,,,10.0,7.0,,,16,Ferro,Boca Jrs,
+539,Sustituciones,,3513,3513,3513,,,,14.0,4.0,,,16,Ferro,Boca Jrs,
+540,Sustituciones,,3513,3513,3513,,,,6.0,9.0,,,16,Ferro,Boca Jrs,
+541,Sustituciones,,3834,3834,3834,,,,9.0,10.0,,,16,Ferro,Boca Jrs,
+542,Sustituciones,,3849,3849,3849,,,,7.0,6.0,,,16,Ferro,Boca Jrs,
+543,Sustituciones,,4057,4057,4057,,,,4.0,9.0,,,16,Ferro,Boca Jrs,
+544,Sustituciones,,4218,4218,4218,,,,6.0,7.0,,,16,Ferro,Boca Jrs,
+545,Sustituciones,,4218,4218,4218,,,,10.0,4.0,,,16,Ferro,Boca Jrs,
+546,Sustituciones,,4518,4518,4518,,,,7.0,5.0,,,16,Ferro,Boca Jrs,
+547,Sustituciones,,4518,4518,4518,,,,4.0,14.0,,,16,Ferro,Boca Jrs,
+548,Sustituciones,,4518,4518,4518,,,,16.0,6.0,,,16,Ferro,Boca Jrs,
+549,Sustituciones,,4676,4676,4676,,,,5.0,7.0,,,16,Ferro,Boca Jrs,
+550,Sustituciones,,4747,4747,4747,,,,14.0,16.0,,,16,Ferro,Boca Jrs,
+551,Sustituciones,,4937,4937,4937,,,,9.0,4.0,,,16,Ferro,Boca Jrs,
+552,Sustituciones,,5174,5174,5174,,,,7.0,1.0,,,16,Ferro,Boca Jrs,
+553,Sustituciones,,5609,5609,5609,,,,22.0,7.0,,,16,Ferro,Boca Jrs,
+554,Sustituciones,,5634,5634,5634,,,,6.0,9.0,,,16,Ferro,Boca Jrs,
+555,Sustituciones,,5675,5675,5675,,,,4.0,5.0,,,16,Ferro,Boca Jrs,
+556,Sustituciones,,5680,5680,5680,,,,1.0,22.0,,,16,Ferro,Boca Jrs,
+557,MT Ofensivo,MT OFENSIVO 001,18,8,26,1,,Negativo,,,,,20,América,Ferro,Salto Linea
+558,MT Ofensivo,MT OFENSIVO 001,18,8,26,4,,Negativo,,,,,20,América,Ferro,Salto Linea
+559,MT Ofensivo,MT OFENSIVO 001,18,8,26,6,,Negativo,,,,,20,América,Ferro,Salto Linea
+560,MT Ofensivo,MT OFENSIVO 001,18,8,26,7,,Negativo,,,,,20,América,Ferro,Salto Linea
+561,MT Ofensivo,MT OFENSIVO 001,18,8,26,9,,Negativo,,,,,20,América,Ferro,Salto Linea
+562,MT Ofensivo,MT OFENSIVO 002,54,44,66,1,,Negativo,,,,,20,América,Ferro,Diagonal
+563,MT Ofensivo,MT OFENSIVO 002,54,44,66,4,,Negativo,,,,,20,América,Ferro,Diagonal
+564,MT Ofensivo,MT OFENSIVO 002,54,44,66,6,,Negativo,,,,,20,América,Ferro,Diagonal
+565,MT Ofensivo,MT OFENSIVO 002,54,44,66,7,,Negativo,,,,,20,América,Ferro,Diagonal
+566,MT Ofensivo,MT OFENSIVO 002,54,44,66,9,,Negativo,,,,,20,América,Ferro,Diagonal
+567,MT Ofensivo,MT OFENSIVO 003,91,81,106,1,,Negativo,,,,,20,América,Ferro,Diagonal
+568,MT Ofensivo,MT OFENSIVO 003,91,81,106,4,,Negativo,,,,,20,América,Ferro,Diagonal
+569,MT Ofensivo,MT OFENSIVO 003,91,81,106,6,,Negativo,,,,,20,América,Ferro,Diagonal
+570,MT Ofensivo,MT OFENSIVO 003,91,81,106,7,,Negativo,,,,,20,América,Ferro,Diagonal
+571,MT Ofensivo,MT OFENSIVO 003,91,81,106,9,,Negativo,,,,,20,América,Ferro,Diagonal
+572,MT Ofensivo,MT OFENSIVO 004,174,164,187,1,,Negativo,,,,,20,América,Ferro,Pivot
+573,MT Ofensivo,MT OFENSIVO 004,174,164,187,4,,Negativo,,,,,20,América,Ferro,Pivot
+574,MT Ofensivo,MT OFENSIVO 004,174,164,187,6,,Negativo,,,,,20,América,Ferro,Pivot
+575,MT Ofensivo,MT OFENSIVO 004,174,164,187,7,,Negativo,,,,,20,América,Ferro,Pivot
+576,MT Ofensivo,MT OFENSIVO 004,174,164,187,9,,Negativo,,,,,20,América,Ferro,Pivot
+577,MT Ofensivo,MT OFENSIVO 005,250,240,271,1,,Positivo,,,,,20,América,Ferro,Salto Linea
+578,MT Ofensivo,MT OFENSIVO 005,250,240,271,4,,Positivo,,,,,20,América,Ferro,Salto Linea
+579,MT Ofensivo,MT OFENSIVO 005,250,240,271,6,,Positivo,,,,,20,América,Ferro,Salto Linea
+580,MT Ofensivo,MT OFENSIVO 005,250,240,271,7,,Positivo,,,,,20,América,Ferro,Salto Linea
+581,MT Ofensivo,MT OFENSIVO 005,250,240,271,9,,Positivo,,,,,20,América,Ferro,Salto Linea
+582,MT Ofensivo,MT OFENSIVO 006,412,402,425,1,,Positivo,,,,,20,América,Ferro,Pivot
+583,MT Ofensivo,MT OFENSIVO 006,412,402,425,2,,Positivo,,,,,20,América,Ferro,Pivot
+584,MT Ofensivo,MT OFENSIVO 006,412,402,425,5,,Positivo,,,,,20,América,Ferro,Pivot
+585,MT Ofensivo,MT OFENSIVO 006,412,402,425,10,,Positivo,,,,,20,América,Ferro,Pivot
+586,MT Ofensivo,MT OFENSIVO 006,412,402,425,17,,Positivo,,,,,20,América,Ferro,Pivot
+587,MT Ofensivo,MT OFENSIVO 007,562,552,569,1,,Negativo,,,,,20,América,Ferro,Pivot
+588,MT Ofensivo,MT OFENSIVO 007,562,552,569,2,,Negativo,,,,,20,América,Ferro,Pivot
+589,MT Ofensivo,MT OFENSIVO 007,562,552,569,5,,Negativo,,,,,20,América,Ferro,Pivot
+590,MT Ofensivo,MT OFENSIVO 007,562,552,569,10,,Negativo,,,,,20,América,Ferro,Pivot
+591,MT Ofensivo,MT OFENSIVO 007,562,552,569,17,,Negativo,,,,,20,América,Ferro,Pivot
+592,MT Ofensivo,MT OFENSIVO 008,833,823,843,1,,Negativo,,,,,20,América,Ferro,Diagonal
+593,MT Ofensivo,MT OFENSIVO 008,833,823,843,5,,Negativo,,,,,20,América,Ferro,Diagonal
+594,MT Ofensivo,MT OFENSIVO 008,833,823,843,7,,Negativo,,,,,20,América,Ferro,Diagonal
+595,MT Ofensivo,MT OFENSIVO 008,833,823,843,9,,Negativo,,,,,20,América,Ferro,Diagonal
+596,MT Ofensivo,MT OFENSIVO 008,833,823,843,10,,Negativo,,,,,20,América,Ferro,Diagonal
+597,MT Ofensivo,MT OFENSIVO 009,1006,996,1019,1,,Negativo,,,,,20,América,Ferro,Pivot
+598,MT Ofensivo,MT OFENSIVO 009,1006,996,1019,2,,Negativo,,,,,20,América,Ferro,Pivot
+599,MT Ofensivo,MT OFENSIVO 009,1006,996,1019,5,,Negativo,,,,,20,América,Ferro,Pivot
+600,MT Ofensivo,MT OFENSIVO 009,1006,996,1019,10,,Negativo,,,,,20,América,Ferro,Pivot
+601,MT Ofensivo,MT OFENSIVO 009,1006,996,1019,16,,Negativo,,,,,20,América,Ferro,Pivot
+602,MT Ofensivo,MT OFENSIVO 010,1159,1149,1176,1,,Positivo,,,,,20,América,Ferro,Salto Linea
+603,MT Ofensivo,MT OFENSIVO 010,1159,1149,1176,2,,Positivo,,,,,20,América,Ferro,Salto Linea
+604,MT Ofensivo,MT OFENSIVO 010,1159,1149,1176,5,,Positivo,,,,,20,América,Ferro,Salto Linea
+605,MT Ofensivo,MT OFENSIVO 010,1159,1149,1176,10,,Positivo,,,,,20,América,Ferro,Salto Linea
+606,MT Ofensivo,MT OFENSIVO 010,1159,1149,1176,16,,Positivo,,,,,20,América,Ferro,Salto Linea
+607,MT Ofensivo,MT OFENSIVO 011,1255,1245,1268,1,,Positivo,,,,,20,América,Ferro,Diagonal
+608,MT Ofensivo,MT OFENSIVO 011,1255,1245,1268,2,,Positivo,,,,,20,América,Ferro,Diagonal
+609,MT Ofensivo,MT OFENSIVO 011,1255,1245,1268,5,,Positivo,,,,,20,América,Ferro,Diagonal
+610,MT Ofensivo,MT OFENSIVO 011,1255,1245,1268,10,,Positivo,,,,,20,América,Ferro,Diagonal
+611,MT Ofensivo,MT OFENSIVO 011,1255,1245,1268,16,,Positivo,,,,,20,América,Ferro,Diagonal
+612,MT Ofensivo,MT OFENSIVO 012,1461,1451,1469,1,,Positivo,,,,,20,América,Ferro,Pivot
+613,MT Ofensivo,MT OFENSIVO 012,1461,1451,1469,6,,Positivo,,,,,20,América,Ferro,Pivot
+614,MT Ofensivo,MT OFENSIVO 012,1461,1451,1469,7,,Positivo,,,,,20,América,Ferro,Pivot
+615,MT Ofensivo,MT OFENSIVO 012,1461,1451,1469,9,,Positivo,,,,,20,América,Ferro,Pivot
+616,MT Ofensivo,MT OFENSIVO 012,1461,1451,1469,17,,Positivo,,,,,20,América,Ferro,Pivot
+617,MT Ofensivo,MT OFENSIVO 013,1628,1618,1646,1,,Negativo,,,,,20,América,Ferro,Salto Linea
+618,MT Ofensivo,MT OFENSIVO 013,1628,1618,1646,2,,Negativo,,,,,20,América,Ferro,Salto Linea
+619,MT Ofensivo,MT OFENSIVO 013,1628,1618,1646,5,,Negativo,,,,,20,América,Ferro,Salto Linea
+620,MT Ofensivo,MT OFENSIVO 013,1628,1618,1646,10,,Negativo,,,,,20,América,Ferro,Salto Linea
+621,MT Ofensivo,MT OFENSIVO 013,1628,1618,1646,16,,Negativo,,,,,20,América,Ferro,Salto Linea
+622,MT Ofensivo,MT OFENSIVO 014,1687,1677,1696,1,,Negativo,,,,,20,América,Ferro,Salto Linea
+623,MT Ofensivo,MT OFENSIVO 014,1687,1677,1696,2,,Negativo,,,,,20,América,Ferro,Salto Linea
+624,MT Ofensivo,MT OFENSIVO 014,1687,1677,1696,5,,Negativo,,,,,20,América,Ferro,Salto Linea
+625,MT Ofensivo,MT OFENSIVO 014,1687,1677,1696,10,,Negativo,,,,,20,América,Ferro,Salto Linea
+626,MT Ofensivo,MT OFENSIVO 014,1687,1677,1696,16,,Negativo,,,,,20,América,Ferro,Salto Linea
+627,MT Ofensivo,MT OFENSIVO 015,1876,1866,1886,1,,Negativo,,,,,20,América,Ferro,Pivot
+628,MT Ofensivo,MT OFENSIVO 015,1876,1866,1886,2,,Negativo,,,,,20,América,Ferro,Pivot
+629,MT Ofensivo,MT OFENSIVO 015,1876,1866,1886,5,,Negativo,,,,,20,América,Ferro,Pivot
+630,MT Ofensivo,MT OFENSIVO 015,1876,1866,1886,10,,Negativo,,,,,20,América,Ferro,Pivot
+631,MT Ofensivo,MT OFENSIVO 015,1876,1866,1886,16,,Negativo,,,,,20,América,Ferro,Pivot
+632,MT Ofensivo,MT OFENSIVO 016,2181,2171,2192,1,,Positivo,,,,,20,América,Ferro,Pivot
+633,MT Ofensivo,MT OFENSIVO 016,2181,2171,2192,4,,Positivo,,,,,20,América,Ferro,Pivot
+634,MT Ofensivo,MT OFENSIVO 016,2181,2171,2192,6,,Positivo,,,,,20,América,Ferro,Pivot
+635,MT Ofensivo,MT OFENSIVO 016,2181,2171,2192,7,,Positivo,,,,,20,América,Ferro,Pivot
+636,MT Ofensivo,MT OFENSIVO 016,2181,2171,2192,9,,Positivo,,,,,20,América,Ferro,Pivot
+637,MT Ofensivo,MT OFENSIVO 017,2279,2269,2286,6,,Negativo,,,,,20,América,Ferro,Pivot
+638,MT Ofensivo,MT OFENSIVO 017,2279,2269,2286,7,,Negativo,,,,,20,América,Ferro,Pivot
+639,MT Ofensivo,MT OFENSIVO 017,2279,2269,2286,9,,Negativo,,,,,20,América,Ferro,Pivot
+640,MT Ofensivo,MT OFENSIVO 017,2279,2269,2286,17,,Negativo,,,,,20,América,Ferro,Pivot
+641,MT Ofensivo,MT OFENSIVO 018,2350,2340,2368,1,,Positivo,,,,,20,América,Ferro,Pivot
+642,MT Ofensivo,MT OFENSIVO 018,2350,2340,2368,6,,Positivo,,,,,20,América,Ferro,Pivot
+643,MT Ofensivo,MT OFENSIVO 018,2350,2340,2368,7,,Positivo,,,,,20,América,Ferro,Pivot
+644,MT Ofensivo,MT OFENSIVO 018,2350,2340,2368,9,,Positivo,,,,,20,América,Ferro,Pivot
+645,MT Ofensivo,MT OFENSIVO 018,2350,2340,2368,17,,Positivo,,,,,20,América,Ferro,Pivot
+646,MT Ofensivo,MT OFENSIVO 019,2399,2389,2409,1,,Negativo,,,,,20,América,Ferro,Salto Linea
+647,MT Ofensivo,MT OFENSIVO 019,2399,2389,2409,6,,Negativo,,,,,20,América,Ferro,Salto Linea
+648,MT Ofensivo,MT OFENSIVO 019,2399,2389,2409,7,,Negativo,,,,,20,América,Ferro,Salto Linea
+649,MT Ofensivo,MT OFENSIVO 019,2399,2389,2409,9,,Negativo,,,,,20,América,Ferro,Salto Linea
+650,MT Ofensivo,MT OFENSIVO 019,2399,2389,2409,17,,Negativo,,,,,20,América,Ferro,Salto Linea
+651,MT Ofensivo,MT OFENSIVO 020,2445,2435,2465,1,,Negativo,,,,,20,América,Ferro,Corte
+652,MT Ofensivo,MT OFENSIVO 020,2445,2435,2465,6,,Negativo,,,,,20,América,Ferro,Corte
+653,MT Ofensivo,MT OFENSIVO 020,2445,2435,2465,7,,Negativo,,,,,20,América,Ferro,Corte
+654,MT Ofensivo,MT OFENSIVO 020,2445,2435,2465,9,,Negativo,,,,,20,América,Ferro,Corte
+655,MT Ofensivo,MT OFENSIVO 020,2445,2435,2465,17,,Negativo,,,,,20,América,Ferro,Corte
+656,MT Ofensivo,MT OFENSIVO 021,2564,2554,2583,1,,Positivo,,,,,20,América,Ferro,Diagonal
+657,MT Ofensivo,MT OFENSIVO 021,2564,2554,2583,6,,Positivo,,,,,20,América,Ferro,Diagonal
+658,MT Ofensivo,MT OFENSIVO 021,2564,2554,2583,9,,Positivo,,,,,20,América,Ferro,Diagonal
+659,MT Ofensivo,MT OFENSIVO 021,2564,2554,2583,17,,Positivo,,,,,20,América,Ferro,Diagonal
+660,MT Ofensivo,MT OFENSIVO 022,2867,2857,2874,1,,Negativo,,,,,20,América,Ferro,Pivot
+661,MT Ofensivo,MT OFENSIVO 022,2867,2857,2874,4,,Negativo,,,,,20,América,Ferro,Pivot
+662,MT Ofensivo,MT OFENSIVO 022,2867,2857,2874,6,,Negativo,,,,,20,América,Ferro,Pivot
+663,MT Ofensivo,MT OFENSIVO 022,2867,2857,2874,8,,Negativo,,,,,20,América,Ferro,Pivot
+664,MT Ofensivo,MT OFENSIVO 022,2867,2857,2874,9,,Negativo,,,,,20,América,Ferro,Pivot
+665,MT Ofensivo,MT OFENSIVO 023,2909,2899,2923,1,,Positivo,,,,,20,América,Ferro,Puerta Atras
+666,MT Ofensivo,MT OFENSIVO 023,2909,2899,2923,4,,Positivo,,,,,20,América,Ferro,Puerta Atras
+667,MT Ofensivo,MT OFENSIVO 023,2909,2899,2923,6,,Positivo,,,,,20,América,Ferro,Puerta Atras
+668,MT Ofensivo,MT OFENSIVO 023,2909,2899,2923,8,,Positivo,,,,,20,América,Ferro,Puerta Atras
+669,MT Ofensivo,MT OFENSIVO 023,2909,2899,2923,9,,Positivo,,,,,20,América,Ferro,Puerta Atras
+670,MT Ofensivo,MT OFENSIVO 024,2937,2927,2946,1,,Negativo,,,,,20,América,Ferro,Salto Linea
+671,MT Ofensivo,MT OFENSIVO 024,2937,2927,2946,4,,Negativo,,,,,20,América,Ferro,Salto Linea
+672,MT Ofensivo,MT OFENSIVO 024,2937,2927,2946,6,,Negativo,,,,,20,América,Ferro,Salto Linea
+673,MT Ofensivo,MT OFENSIVO 024,2937,2927,2946,8,,Negativo,,,,,20,América,Ferro,Salto Linea
+674,MT Ofensivo,MT OFENSIVO 024,2937,2927,2946,9,,Negativo,,,,,20,América,Ferro,Salto Linea
+675,MT Ofensivo,MT OFENSIVO 025,3227,3217,3239,1,,Negativo,,,,,20,América,Ferro,Salto Linea
+676,MT Ofensivo,MT OFENSIVO 025,3227,3217,3239,2,,Negativo,,,,,20,América,Ferro,Salto Linea
+677,MT Ofensivo,MT OFENSIVO 025,3227,3217,3239,5,,Negativo,,,,,20,América,Ferro,Salto Linea
+678,MT Ofensivo,MT OFENSIVO 025,3227,3217,3239,10,,Negativo,,,,,20,América,Ferro,Salto Linea
+679,MT Ofensivo,MT OFENSIVO 025,3227,3217,3239,16,,Negativo,,,,,20,América,Ferro,Salto Linea
+680,MT Ofensivo,MT OFENSIVO 026,3305,3295,3316,1,,Negativo,,,,,20,América,Ferro,Corte
+681,MT Ofensivo,MT OFENSIVO 026,3305,3295,3316,2,,Negativo,,,,,20,América,Ferro,Corte
+682,MT Ofensivo,MT OFENSIVO 026,3305,3295,3316,5,,Negativo,,,,,20,América,Ferro,Corte
+683,MT Ofensivo,MT OFENSIVO 026,3305,3295,3316,10,,Negativo,,,,,20,América,Ferro,Corte
+684,MT Ofensivo,MT OFENSIVO 026,3305,3295,3316,16,,Negativo,,,,,20,América,Ferro,Corte
+685,MT Ofensivo,MT OFENSIVO 027,3325,3315,3330,1,,Negativo,,,,,20,América,Ferro,Diagonal
+686,MT Ofensivo,MT OFENSIVO 027,3325,3315,3330,2,,Negativo,,,,,20,América,Ferro,Diagonal
+687,MT Ofensivo,MT OFENSIVO 027,3325,3315,3330,5,,Negativo,,,,,20,América,Ferro,Diagonal
+688,MT Ofensivo,MT OFENSIVO 027,3325,3315,3330,10,,Negativo,,,,,20,América,Ferro,Diagonal
+689,MT Ofensivo,MT OFENSIVO 027,3325,3315,3330,16,,Negativo,,,,,20,América,Ferro,Diagonal
+690,MT Ofensivo,MT OFENSIVO 028,3865,3855,3872,1,,Negativo,,,,,20,América,Ferro,Pivot
+691,MT Ofensivo,MT OFENSIVO 028,3865,3855,3872,2,,Negativo,,,,,20,América,Ferro,Pivot
+692,MT Ofensivo,MT OFENSIVO 028,3865,3855,3872,5,,Negativo,,,,,20,América,Ferro,Pivot
+693,MT Ofensivo,MT OFENSIVO 028,3865,3855,3872,7,,Negativo,,,,,20,América,Ferro,Pivot
+694,MT Ofensivo,MT OFENSIVO 028,3865,3855,3872,17,,Negativo,,,,,20,América,Ferro,Pivot
+695,MT Ofensivo,MT OFENSIVO 029,3906,3896,3914,1,,Negativo,,,,,20,América,Ferro,Salto Linea
+696,MT Ofensivo,MT OFENSIVO 029,3906,3896,3914,2,,Negativo,,,,,20,América,Ferro,Salto Linea
+697,MT Ofensivo,MT OFENSIVO 029,3906,3896,3914,5,,Negativo,,,,,20,América,Ferro,Salto Linea
+698,MT Ofensivo,MT OFENSIVO 029,3906,3896,3914,7,,Negativo,,,,,20,América,Ferro,Salto Linea
+699,MT Ofensivo,MT OFENSIVO 029,3906,3896,3914,17,,Negativo,,,,,20,América,Ferro,Salto Linea
+700,MT Ofensivo,MT OFENSIVO 030,4013,4003,4024,1,,Positivo,,,,,20,América,Ferro,Pivot
+701,MT Ofensivo,MT OFENSIVO 030,4013,4003,4024,2,,Positivo,,,,,20,América,Ferro,Pivot
+702,MT Ofensivo,MT OFENSIVO 030,4013,4003,4024,5,,Positivo,,,,,20,América,Ferro,Pivot
+703,MT Ofensivo,MT OFENSIVO 030,4013,4003,4024,7,,Positivo,,,,,20,América,Ferro,Pivot
+704,MT Ofensivo,MT OFENSIVO 030,4013,4003,4024,17,,Positivo,,,,,20,América,Ferro,Pivot
+705,MT Ofensivo,MT OFENSIVO 031,4108,4098,4113,1,,Negativo,,,,,20,América,Ferro,Puerta Atras
+706,MT Ofensivo,MT OFENSIVO 031,4108,4098,4113,2,,Negativo,,,,,20,América,Ferro,Puerta Atras
+707,MT Ofensivo,MT OFENSIVO 031,4108,4098,4113,5,,Negativo,,,,,20,América,Ferro,Puerta Atras
+708,MT Ofensivo,MT OFENSIVO 031,4108,4098,4113,7,,Negativo,,,,,20,América,Ferro,Puerta Atras
+709,MT Ofensivo,MT OFENSIVO 031,4108,4098,4113,17,,Negativo,,,,,20,América,Ferro,Puerta Atras
+710,MT Ofensivo,MT OFENSIVO 032,4124,4114,4133,1,,Negativo,,,,,20,América,Ferro,Diagonal
+711,MT Ofensivo,MT OFENSIVO 032,4124,4114,4133,2,,Negativo,,,,,20,América,Ferro,Diagonal
+712,MT Ofensivo,MT OFENSIVO 032,4124,4114,4133,5,,Negativo,,,,,20,América,Ferro,Diagonal
+713,MT Ofensivo,MT OFENSIVO 032,4124,4114,4133,7,,Negativo,,,,,20,América,Ferro,Diagonal
+714,MT Ofensivo,MT OFENSIVO 032,4124,4114,4133,17,,Negativo,,,,,20,América,Ferro,Diagonal
+715,Transición Ofensiva,TRANSICION OFENSIVA 001,514,504,522,1,,,,,1 vs 1,Corta (H 3),20,América,Ferro,Perdida
+716,Transición Ofensiva,TRANSICION OFENSIVA 001,514,504,522,2,,,,,1 vs 1,Corta (H 3),20,América,Ferro,Perdida
+717,Transición Ofensiva,TRANSICION OFENSIVA 001,514,504,522,5,,,,,1 vs 1,Corta (H 3),20,América,Ferro,Perdida
+718,Transición Ofensiva,TRANSICION OFENSIVA 001,514,504,522,10,,,,,1 vs 1,Corta (H 3),20,América,Ferro,Perdida
+719,Transición Ofensiva,TRANSICION OFENSIVA 001,514,504,522,17,,,,,1 vs 1,Corta (H 3),20,América,Ferro,Perdida
+720,Transición Ofensiva,TRANSICION OFENSIVA 002,757,747,764,1,,,,,3 vs 2,Corta (H 3),20,América,Ferro,Tiro
+721,Transición Ofensiva,TRANSICION OFENSIVA 002,757,747,764,5,,,,,3 vs 2,Corta (H 3),20,América,Ferro,Tiro
+722,Transición Ofensiva,TRANSICION OFENSIVA 002,757,747,764,7,,,,,3 vs 2,Corta (H 3),20,América,Ferro,Tiro
+723,Transición Ofensiva,TRANSICION OFENSIVA 002,757,747,764,9,,,,,3 vs 2,Corta (H 3),20,América,Ferro,Tiro
+724,Transición Ofensiva,TRANSICION OFENSIVA 002,757,747,764,10,,,,,3 vs 2,Corta (H 3),20,América,Ferro,Tiro
+725,Transición Ofensiva,TRANSICION OFENSIVA 003,1440,1430,1450,1,,,,,3 vs 2,Corta (H 3),20,América,Ferro,Pelota Parada
+726,Transición Ofensiva,TRANSICION OFENSIVA 003,1440,1430,1450,6,,,,,3 vs 2,Corta (H 3),20,América,Ferro,Pelota Parada
+727,Transición Ofensiva,TRANSICION OFENSIVA 003,1440,1430,1450,7,,,,,3 vs 2,Corta (H 3),20,América,Ferro,Pelota Parada
+728,Transición Ofensiva,TRANSICION OFENSIVA 003,1440,1430,1450,9,,,,,3 vs 2,Corta (H 3),20,América,Ferro,Pelota Parada
+729,Transición Ofensiva,TRANSICION OFENSIVA 003,1440,1430,1450,17,,,,,3 vs 2,Corta (H 3),20,América,Ferro,Pelota Parada
+730,Transición Ofensiva,TRANSICION OFENSIVA 004,1958,1948,1980,1,,,,,3 vs 2,Larga (+3),20,América,Ferro,Gol
+731,Transición Ofensiva,TRANSICION OFENSIVA 004,1958,1948,1980,2,,,,,3 vs 2,Larga (+3),20,América,Ferro,Gol
+732,Transición Ofensiva,TRANSICION OFENSIVA 004,1958,1948,1980,5,,,,,3 vs 2,Larga (+3),20,América,Ferro,Gol
+733,Transición Ofensiva,TRANSICION OFENSIVA 004,1958,1948,1980,10,,,,,3 vs 2,Larga (+3),20,América,Ferro,Gol
+734,Transición Ofensiva,TRANSICION OFENSIVA 004,1958,1948,1980,16,,,,,3 vs 2,Larga (+3),20,América,Ferro,Gol
+735,Transición Ofensiva,TRANSICION OFENSIVA 005,2881,2871,2889,1,,,,,3 vs 2,Corta (H 3),20,América,Ferro,Tiro
+736,Transición Ofensiva,TRANSICION OFENSIVA 005,2881,2871,2889,4,,,,,3 vs 2,Corta (H 3),20,América,Ferro,Tiro
+737,Transición Ofensiva,TRANSICION OFENSIVA 005,2881,2871,2889,6,,,,,3 vs 2,Corta (H 3),20,América,Ferro,Tiro
+738,Transición Ofensiva,TRANSICION OFENSIVA 005,2881,2871,2889,8,,,,,3 vs 2,Corta (H 3),20,América,Ferro,Tiro
+739,Transición Ofensiva,TRANSICION OFENSIVA 005,2881,2871,2889,9,,,,,3 vs 2,Corta (H 3),20,América,Ferro,Tiro
+740,Transición Ofensiva,TRANSICION OFENSIVA 006,3818,3808,3827,1,,,,,3 vs 2,Larga (+3),20,América,Ferro,
+741,Transición Ofensiva,TRANSICION OFENSIVA 006,3818,3808,3827,2,,,,,3 vs 2,Larga (+3),20,América,Ferro,
+742,Transición Ofensiva,TRANSICION OFENSIVA 006,3818,3808,3827,5,,,,,3 vs 2,Larga (+3),20,América,Ferro,
+743,Transición Ofensiva,TRANSICION OFENSIVA 006,3818,3808,3827,7,,,,,3 vs 2,Larga (+3),20,América,Ferro,
+744,Transición Ofensiva,TRANSICION OFENSIVA 006,3818,3808,3827,17,,,,,3 vs 2,Larga (+3),20,América,Ferro,
+745,Transición Ofensiva,TRANSICION OFENSIVA 007,4060,4050,4068,1,,,,,,Corta (H 3),20,América,Ferro,Tiro
+746,Transición Ofensiva,TRANSICION OFENSIVA 007,4060,4050,4068,2,,,,,,Corta (H 3),20,América,Ferro,Tiro
+747,Transición Ofensiva,TRANSICION OFENSIVA 007,4060,4050,4068,5,,,,,,Corta (H 3),20,América,Ferro,Tiro
+748,Transición Ofensiva,TRANSICION OFENSIVA 007,4060,4050,4068,7,,,,,,Corta (H 3),20,América,Ferro,Tiro
+749,Transición Ofensiva,TRANSICION OFENSIVA 007,4060,4050,4068,17,,,,,,Corta (H 3),20,América,Ferro,Tiro
+750,MT Defensivo,MT DEFENSIVO 001,41,31,49,1,,Positivo,,,,,20,América,Ferro,Lectura Salto
+751,MT Defensivo,MT DEFENSIVO 001,41,31,49,4,,Positivo,,,,,20,América,Ferro,Lectura Salto
+752,MT Defensivo,MT DEFENSIVO 001,41,31,49,6,,Positivo,,,,,20,América,Ferro,Lectura Salto
+753,MT Defensivo,MT DEFENSIVO 001,41,31,49,7,,Positivo,,,,,20,América,Ferro,Lectura Salto
+754,MT Defensivo,MT DEFENSIVO 001,41,31,49,9,,Positivo,,,,,20,América,Ferro,Lectura Salto
+755,MT Defensivo,MT DEFENSIVO 002,67,57,82,1,,Positivo,,,,,20,América,Ferro,Cambio Marca
+756,MT Defensivo,MT DEFENSIVO 002,67,57,82,4,,Positivo,,,,,20,América,Ferro,Cambio Marca
+757,MT Defensivo,MT DEFENSIVO 002,67,57,82,6,,Positivo,,,,,20,América,Ferro,Cambio Marca
+758,MT Defensivo,MT DEFENSIVO 002,67,57,82,7,,Positivo,,,,,20,América,Ferro,Cambio Marca
+759,MT Defensivo,MT DEFENSIVO 002,67,57,82,9,,Positivo,,,,,20,América,Ferro,Cambio Marca
+760,MT Defensivo,MT DEFENSIVO 003,166,156,173,1,,Positivo,,,,,20,América,Ferro,Lectura Salto
+761,MT Defensivo,MT DEFENSIVO 003,166,156,173,4,,Positivo,,,,,20,América,Ferro,Lectura Salto
+762,MT Defensivo,MT DEFENSIVO 003,166,156,173,6,,Positivo,,,,,20,América,Ferro,Lectura Salto
+763,MT Defensivo,MT DEFENSIVO 003,166,156,173,7,,Positivo,,,,,20,América,Ferro,Lectura Salto
+764,MT Defensivo,MT DEFENSIVO 003,166,156,173,9,,Positivo,,,,,20,América,Ferro,Lectura Salto
+765,MT Defensivo,MT DEFENSIVO 004,206,196,215,1,,Positivo,,,,,20,América,Ferro,Repliegue
+766,MT Defensivo,MT DEFENSIVO 004,206,196,215,4,,Positivo,,,,,20,América,Ferro,Repliegue
+767,MT Defensivo,MT DEFENSIVO 004,206,196,215,6,,Positivo,,,,,20,América,Ferro,Repliegue
+768,MT Defensivo,MT DEFENSIVO 004,206,196,215,7,,Positivo,,,,,20,América,Ferro,Repliegue
+769,MT Defensivo,MT DEFENSIVO 004,206,196,215,9,,Positivo,,,,,20,América,Ferro,Repliegue
+770,MT Defensivo,MT DEFENSIVO 005,223,213,234,1,,Negativo,,,,,20,América,Ferro,Cambio Marca
+771,MT Defensivo,MT DEFENSIVO 005,223,213,234,4,,Negativo,,,,,20,América,Ferro,Cambio Marca
+772,MT Defensivo,MT DEFENSIVO 005,223,213,234,6,,Negativo,,,,,20,América,Ferro,Cambio Marca
+773,MT Defensivo,MT DEFENSIVO 005,223,213,234,7,,Negativo,,,,,20,América,Ferro,Cambio Marca
+774,MT Defensivo,MT DEFENSIVO 005,223,213,234,9,,Negativo,,,,,20,América,Ferro,Cambio Marca
+775,MT Defensivo,MT DEFENSIVO 006,321,311,332,1,,Positivo,,,,,20,América,Ferro,Lectura Salto
+776,MT Defensivo,MT DEFENSIVO 006,321,311,332,2,,Positivo,,,,,20,América,Ferro,Lectura Salto
+777,MT Defensivo,MT DEFENSIVO 006,321,311,332,5,,Positivo,,,,,20,América,Ferro,Lectura Salto
+778,MT Defensivo,MT DEFENSIVO 006,321,311,332,10,,Positivo,,,,,20,América,Ferro,Lectura Salto
+779,MT Defensivo,MT DEFENSIVO 006,321,311,332,17,,Positivo,,,,,20,América,Ferro,Lectura Salto
+780,MT Defensivo,MT DEFENSIVO 007,487,477,514,1,,Positivo,,,,,20,América,Ferro,Repliegue
+781,MT Defensivo,MT DEFENSIVO 007,487,477,514,2,,Positivo,,,,,20,América,Ferro,Repliegue
+782,MT Defensivo,MT DEFENSIVO 007,487,477,514,5,,Positivo,,,,,20,América,Ferro,Repliegue
+783,MT Defensivo,MT DEFENSIVO 007,487,477,514,10,,Positivo,,,,,20,América,Ferro,Repliegue
+784,MT Defensivo,MT DEFENSIVO 007,487,477,514,17,,Positivo,,,,,20,América,Ferro,Repliegue
+785,MT Defensivo,MT DEFENSIVO 008,690,680,702,1,,Positivo,,,,,20,América,Ferro,Cobertura
+786,MT Defensivo,MT DEFENSIVO 008,690,680,702,5,,Positivo,,,,,20,América,Ferro,Cobertura
+787,MT Defensivo,MT DEFENSIVO 008,690,680,702,7,,Positivo,,,,,20,América,Ferro,Cobertura
+788,MT Defensivo,MT DEFENSIVO 008,690,680,702,9,,Positivo,,,,,20,América,Ferro,Cobertura
+789,MT Defensivo,MT DEFENSIVO 008,690,680,702,10,,Positivo,,,,,20,América,Ferro,Cobertura
+790,MT Defensivo,MT DEFENSIVO 009,741,731,756,1,,Positivo,,,,,20,América,Ferro,Repliegue
+791,MT Defensivo,MT DEFENSIVO 009,741,731,756,5,,Positivo,,,,,20,América,Ferro,Repliegue
+792,MT Defensivo,MT DEFENSIVO 009,741,731,756,7,,Positivo,,,,,20,América,Ferro,Repliegue
+793,MT Defensivo,MT DEFENSIVO 009,741,731,756,9,,Positivo,,,,,20,América,Ferro,Repliegue
+794,MT Defensivo,MT DEFENSIVO 009,741,731,756,10,,Positivo,,,,,20,América,Ferro,Repliegue
+795,MT Defensivo,MT DEFENSIVO 010,773,763,784,1,,Positivo,,,,,20,América,Ferro,Repliegue
+796,MT Defensivo,MT DEFENSIVO 010,773,763,784,5,,Positivo,,,,,20,América,Ferro,Repliegue
+797,MT Defensivo,MT DEFENSIVO 010,773,763,784,7,,Positivo,,,,,20,América,Ferro,Repliegue
+798,MT Defensivo,MT DEFENSIVO 010,773,763,784,9,,Positivo,,,,,20,América,Ferro,Repliegue
+799,MT Defensivo,MT DEFENSIVO 010,773,763,784,10,,Positivo,,,,,20,América,Ferro,Repliegue
+800,MT Defensivo,MT DEFENSIVO 011,844,834,876,1,,Negativo,,,,,20,América,Ferro,Lectura Salto
+801,MT Defensivo,MT DEFENSIVO 011,844,834,876,5,,Negativo,,,,,20,América,Ferro,Lectura Salto
+802,MT Defensivo,MT DEFENSIVO 011,844,834,876,7,,Negativo,,,,,20,América,Ferro,Lectura Salto
+803,MT Defensivo,MT DEFENSIVO 011,844,834,876,9,,Negativo,,,,,20,América,Ferro,Lectura Salto
+804,MT Defensivo,MT DEFENSIVO 011,844,834,876,10,,Negativo,,,,,20,América,Ferro,Lectura Salto
+805,MT Defensivo,MT DEFENSIVO 012,1020,1010,1029,1,,Positivo,,,,,20,América,Ferro,Lectura Salto
+806,MT Defensivo,MT DEFENSIVO 012,1020,1010,1029,2,,Positivo,,,,,20,América,Ferro,Lectura Salto
+807,MT Defensivo,MT DEFENSIVO 012,1020,1010,1029,5,,Positivo,,,,,20,América,Ferro,Lectura Salto
+808,MT Defensivo,MT DEFENSIVO 012,1020,1010,1029,10,,Positivo,,,,,20,América,Ferro,Lectura Salto
+809,MT Defensivo,MT DEFENSIVO 012,1020,1010,1029,16,,Positivo,,,,,20,América,Ferro,Lectura Salto
+810,MT Defensivo,MT DEFENSIVO 013,1044,1034,1055,1,,Positivo,,,,,20,América,Ferro,Cobertura
+811,MT Defensivo,MT DEFENSIVO 013,1044,1034,1055,2,,Positivo,,,,,20,América,Ferro,Cobertura
+812,MT Defensivo,MT DEFENSIVO 013,1044,1034,1055,5,,Positivo,,,,,20,América,Ferro,Cobertura
+813,MT Defensivo,MT DEFENSIVO 013,1044,1034,1055,10,,Positivo,,,,,20,América,Ferro,Cobertura
+814,MT Defensivo,MT DEFENSIVO 013,1044,1034,1055,16,,Positivo,,,,,20,América,Ferro,Cobertura
+815,MT Defensivo,MT DEFENSIVO 014,1074,1064,1085,1,,Positivo,,,,,20,América,Ferro,Lectura Salto
+816,MT Defensivo,MT DEFENSIVO 014,1074,1064,1085,2,,Positivo,,,,,20,América,Ferro,Lectura Salto
+817,MT Defensivo,MT DEFENSIVO 014,1074,1064,1085,5,,Positivo,,,,,20,América,Ferro,Lectura Salto
+818,MT Defensivo,MT DEFENSIVO 014,1074,1064,1085,10,,Positivo,,,,,20,América,Ferro,Lectura Salto
+819,MT Defensivo,MT DEFENSIVO 014,1074,1064,1085,16,,Positivo,,,,,20,América,Ferro,Lectura Salto
+820,MT Defensivo,MT DEFENSIVO 015,1122,1112,1136,1,,Positivo,,,,,20,América,Ferro,Cobertura
+821,MT Defensivo,MT DEFENSIVO 015,1122,1112,1136,2,,Positivo,,,,,20,América,Ferro,Cobertura
+822,MT Defensivo,MT DEFENSIVO 015,1122,1112,1136,5,,Positivo,,,,,20,América,Ferro,Cobertura
+823,MT Defensivo,MT DEFENSIVO 015,1122,1112,1136,10,,Positivo,,,,,20,América,Ferro,Cobertura
+824,MT Defensivo,MT DEFENSIVO 015,1122,1112,1136,16,,Positivo,,,,,20,América,Ferro,Cobertura
+825,MT Defensivo,MT DEFENSIVO 016,1422,1412,1440,1,,Positivo,,,,,20,América,Ferro,Repliegue
+826,MT Defensivo,MT DEFENSIVO 016,1422,1412,1440,6,,Positivo,,,,,20,América,Ferro,Repliegue
+827,MT Defensivo,MT DEFENSIVO 016,1422,1412,1440,7,,Positivo,,,,,20,América,Ferro,Repliegue
+828,MT Defensivo,MT DEFENSIVO 016,1422,1412,1440,9,,Positivo,,,,,20,América,Ferro,Repliegue
+829,MT Defensivo,MT DEFENSIVO 016,1422,1412,1440,17,,Positivo,,,,,20,América,Ferro,Repliegue
+830,MT Defensivo,MT DEFENSIVO 017,1475,1465,1503,1,,Positivo,,,,,20,América,Ferro,Repliegue
+831,MT Defensivo,MT DEFENSIVO 017,1475,1465,1503,6,,Positivo,,,,,20,América,Ferro,Repliegue
+832,MT Defensivo,MT DEFENSIVO 017,1475,1465,1503,7,,Positivo,,,,,20,América,Ferro,Repliegue
+833,MT Defensivo,MT DEFENSIVO 017,1475,1465,1503,9,,Positivo,,,,,20,América,Ferro,Repliegue
+834,MT Defensivo,MT DEFENSIVO 017,1475,1465,1503,17,,Positivo,,,,,20,América,Ferro,Repliegue
+835,MT Defensivo,MT DEFENSIVO 018,1651,1641,1660,1,,Negativo,,,,,20,América,Ferro,Lectura Salto
+836,MT Defensivo,MT DEFENSIVO 018,1651,1641,1660,2,,Negativo,,,,,20,América,Ferro,Lectura Salto
+837,MT Defensivo,MT DEFENSIVO 018,1651,1641,1660,5,,Negativo,,,,,20,América,Ferro,Lectura Salto
+838,MT Defensivo,MT DEFENSIVO 018,1651,1641,1660,10,,Negativo,,,,,20,América,Ferro,Lectura Salto
+839,MT Defensivo,MT DEFENSIVO 018,1651,1641,1660,16,,Negativo,,,,,20,América,Ferro,Lectura Salto
+840,MT Defensivo,MT DEFENSIVO 019,1716,1706,1729,1,,Positivo,,,,,20,América,Ferro,Doble Marca
+841,MT Defensivo,MT DEFENSIVO 019,1716,1706,1729,2,,Positivo,,,,,20,América,Ferro,Doble Marca
+842,MT Defensivo,MT DEFENSIVO 019,1716,1706,1729,5,,Positivo,,,,,20,América,Ferro,Doble Marca
+843,MT Defensivo,MT DEFENSIVO 019,1716,1706,1729,10,,Positivo,,,,,20,América,Ferro,Doble Marca
+844,MT Defensivo,MT DEFENSIVO 019,1716,1706,1729,16,,Positivo,,,,,20,América,Ferro,Doble Marca
+845,MT Defensivo,MT DEFENSIVO 020,1890,1880,1914,1,,Positivo,,,,,20,América,Ferro,Repliegue
+846,MT Defensivo,MT DEFENSIVO 020,1890,1880,1914,2,,Positivo,,,,,20,América,Ferro,Repliegue
+847,MT Defensivo,MT DEFENSIVO 020,1890,1880,1914,5,,Positivo,,,,,20,América,Ferro,Repliegue
+848,MT Defensivo,MT DEFENSIVO 020,1890,1880,1914,10,,Positivo,,,,,20,América,Ferro,Repliegue
+849,MT Defensivo,MT DEFENSIVO 020,1890,1880,1914,16,,Positivo,,,,,20,América,Ferro,Repliegue
+850,MT Defensivo,MT DEFENSIVO 021,1931,1921,1942,1,,Positivo,,,,,20,América,Ferro,Cobertura
+851,MT Defensivo,MT DEFENSIVO 021,1931,1921,1942,2,,Positivo,,,,,20,América,Ferro,Cobertura
+852,MT Defensivo,MT DEFENSIVO 021,1931,1921,1942,5,,Positivo,,,,,20,América,Ferro,Cobertura
+853,MT Defensivo,MT DEFENSIVO 021,1931,1921,1942,10,,Positivo,,,,,20,América,Ferro,Cobertura
+854,MT Defensivo,MT DEFENSIVO 021,1931,1921,1942,16,,Positivo,,,,,20,América,Ferro,Cobertura
+855,MT Defensivo,MT DEFENSIVO 022,2060,2050,2071,1,,Positivo,,,,,20,América,Ferro,Lectura Salto
+856,MT Defensivo,MT DEFENSIVO 022,2060,2050,2071,4,,Positivo,,,,,20,América,Ferro,Lectura Salto
+857,MT Defensivo,MT DEFENSIVO 022,2060,2050,2071,6,,Positivo,,,,,20,América,Ferro,Lectura Salto
+858,MT Defensivo,MT DEFENSIVO 022,2060,2050,2071,7,,Positivo,,,,,20,América,Ferro,Lectura Salto
+859,MT Defensivo,MT DEFENSIVO 022,2060,2050,2071,9,,Positivo,,,,,20,América,Ferro,Lectura Salto
+860,MT Defensivo,MT DEFENSIVO 023,2148,2138,2176,1,,Positivo,,,,,20,América,Ferro,Cambio Marca
+861,MT Defensivo,MT DEFENSIVO 023,2148,2138,2176,4,,Positivo,,,,,20,América,Ferro,Cambio Marca
+862,MT Defensivo,MT DEFENSIVO 023,2148,2138,2176,6,,Positivo,,,,,20,América,Ferro,Cambio Marca
+863,MT Defensivo,MT DEFENSIVO 023,2148,2138,2176,7,,Positivo,,,,,20,América,Ferro,Cambio Marca
+864,MT Defensivo,MT DEFENSIVO 023,2148,2138,2176,9,,Positivo,,,,,20,América,Ferro,Cambio Marca
+865,MT Defensivo,MT DEFENSIVO 024,2385,2375,2397,1,,Positivo,,,,,20,América,Ferro,Repliegue
+866,MT Defensivo,MT DEFENSIVO 024,2385,2375,2397,6,,Positivo,,,,,20,América,Ferro,Repliegue
+867,MT Defensivo,MT DEFENSIVO 024,2385,2375,2397,7,,Positivo,,,,,20,América,Ferro,Repliegue
+868,MT Defensivo,MT DEFENSIVO 024,2385,2375,2397,9,,Positivo,,,,,20,América,Ferro,Repliegue
+869,MT Defensivo,MT DEFENSIVO 024,2385,2375,2397,17,,Positivo,,,,,20,América,Ferro,Repliegue
+870,MT Defensivo,MT DEFENSIVO 025,2544,2534,2553,1,,Positivo,,,,,20,América,Ferro,Cobertura
+871,MT Defensivo,MT DEFENSIVO 025,2544,2534,2553,6,,Positivo,,,,,20,América,Ferro,Cobertura
+872,MT Defensivo,MT DEFENSIVO 025,2544,2534,2553,7,,Positivo,,,,,20,América,Ferro,Cobertura
+873,MT Defensivo,MT DEFENSIVO 025,2544,2534,2553,9,,Positivo,,,,,20,América,Ferro,Cobertura
+874,MT Defensivo,MT DEFENSIVO 025,2544,2534,2553,17,,Positivo,,,,,20,América,Ferro,Cobertura
+875,MT Defensivo,MT DEFENSIVO 026,2693,2683,2698,1,,Positivo,,,,,20,América,Ferro,Cobertura
+876,MT Defensivo,MT DEFENSIVO 026,2693,2683,2698,2,,Positivo,,,,,20,América,Ferro,Cobertura
+877,MT Defensivo,MT DEFENSIVO 026,2693,2683,2698,5,,Positivo,,,,,20,América,Ferro,Cobertura
+878,MT Defensivo,MT DEFENSIVO 026,2693,2683,2698,10,,Positivo,,,,,20,América,Ferro,Cobertura
+879,MT Defensivo,MT DEFENSIVO 026,2693,2683,2698,16,,Positivo,,,,,20,América,Ferro,Cobertura
+880,MT Defensivo,MT DEFENSIVO 027,2704,2694,2719,1,,Positivo,,,,,20,América,Ferro,Cobertura
+881,MT Defensivo,MT DEFENSIVO 027,2704,2694,2719,2,,Positivo,,,,,20,América,Ferro,Cobertura
+882,MT Defensivo,MT DEFENSIVO 027,2704,2694,2719,5,,Positivo,,,,,20,América,Ferro,Cobertura
+883,MT Defensivo,MT DEFENSIVO 027,2704,2694,2719,10,,Positivo,,,,,20,América,Ferro,Cobertura
+884,MT Defensivo,MT DEFENSIVO 027,2704,2694,2719,16,,Positivo,,,,,20,América,Ferro,Cobertura
+885,MT Defensivo,MT DEFENSIVO 028,2775,2765,2785,1,,Positivo,,,,,20,América,Ferro,Lectura Salto
+886,MT Defensivo,MT DEFENSIVO 028,2775,2765,2785,2,,Positivo,,,,,20,América,Ferro,Lectura Salto
+887,MT Defensivo,MT DEFENSIVO 028,2775,2765,2785,5,,Positivo,,,,,20,América,Ferro,Lectura Salto
+888,MT Defensivo,MT DEFENSIVO 028,2775,2765,2785,10,,Positivo,,,,,20,América,Ferro,Lectura Salto
+889,MT Defensivo,MT DEFENSIVO 028,2775,2765,2785,16,,Positivo,,,,,20,América,Ferro,Lectura Salto
+890,MT Defensivo,MT DEFENSIVO 029,2874,2864,2880,1,,Positivo,,,,,20,América,Ferro,Cobertura
+891,MT Defensivo,MT DEFENSIVO 029,2874,2864,2880,4,,Positivo,,,,,20,América,Ferro,Cobertura
+892,MT Defensivo,MT DEFENSIVO 029,2874,2864,2880,6,,Positivo,,,,,20,América,Ferro,Cobertura
+893,MT Defensivo,MT DEFENSIVO 029,2874,2864,2880,8,,Positivo,,,,,20,América,Ferro,Cobertura
+894,MT Defensivo,MT DEFENSIVO 029,2874,2864,2880,9,,Positivo,,,,,20,América,Ferro,Cobertura
+895,MT Defensivo,MT DEFENSIVO 030,2960,2950,2976,1,,Positivo,,,,,20,América,Ferro,Repliegue
+896,MT Defensivo,MT DEFENSIVO 030,2960,2950,2976,4,,Positivo,,,,,20,América,Ferro,Repliegue
+897,MT Defensivo,MT DEFENSIVO 030,2960,2950,2976,6,,Positivo,,,,,20,América,Ferro,Repliegue
+898,MT Defensivo,MT DEFENSIVO 030,2960,2950,2976,8,,Positivo,,,,,20,América,Ferro,Repliegue
+899,MT Defensivo,MT DEFENSIVO 030,2960,2950,2976,9,,Positivo,,,,,20,América,Ferro,Repliegue
+900,MT Defensivo,MT DEFENSIVO 031,3068,3058,3078,1,,Positivo,,,,,20,América,Ferro,Lectura Salto
+901,MT Defensivo,MT DEFENSIVO 031,3068,3058,3078,4,,Positivo,,,,,20,América,Ferro,Lectura Salto
+902,MT Defensivo,MT DEFENSIVO 031,3068,3058,3078,6,,Positivo,,,,,20,América,Ferro,Lectura Salto
+903,MT Defensivo,MT DEFENSIVO 031,3068,3058,3078,8,,Positivo,,,,,20,América,Ferro,Lectura Salto
+904,MT Defensivo,MT DEFENSIVO 031,3068,3058,3078,9,,Positivo,,,,,20,América,Ferro,Lectura Salto
+905,MT Defensivo,MT DEFENSIVO 032,3080,3070,3096,1,,Negativo,,,,,20,América,Ferro,Lectura Salto
+906,MT Defensivo,MT DEFENSIVO 032,3080,3070,3096,4,,Negativo,,,,,20,América,Ferro,Lectura Salto
+907,MT Defensivo,MT DEFENSIVO 032,3080,3070,3096,6,,Negativo,,,,,20,América,Ferro,Lectura Salto
+908,MT Defensivo,MT DEFENSIVO 032,3080,3070,3096,8,,Negativo,,,,,20,América,Ferro,Lectura Salto
+909,MT Defensivo,MT DEFENSIVO 032,3080,3070,3096,9,,Negativo,,,,,20,América,Ferro,Lectura Salto
+910,MT Defensivo,MT DEFENSIVO 033,3246,3236,3271,1,,Positivo,,,,,20,América,Ferro,Repliegue
+911,MT Defensivo,MT DEFENSIVO 033,3246,3236,3271,2,,Positivo,,,,,20,América,Ferro,Repliegue
+912,MT Defensivo,MT DEFENSIVO 033,3246,3236,3271,5,,Positivo,,,,,20,América,Ferro,Repliegue
+913,MT Defensivo,MT DEFENSIVO 033,3246,3236,3271,10,,Positivo,,,,,20,América,Ferro,Repliegue
+914,MT Defensivo,MT DEFENSIVO 033,3246,3236,3271,16,,Positivo,,,,,20,América,Ferro,Repliegue
+915,MT Defensivo,MT DEFENSIVO 034,3549,3539,3563,1,,Negativo,,,,,20,América,Ferro,Lectura Salto
+916,MT Defensivo,MT DEFENSIVO 034,3549,3539,3563,6,,Negativo,,,,,20,América,Ferro,Lectura Salto
+917,MT Defensivo,MT DEFENSIVO 034,3549,3539,3563,8,,Negativo,,,,,20,América,Ferro,Lectura Salto
+918,MT Defensivo,MT DEFENSIVO 034,3549,3539,3563,16,,Negativo,,,,,20,América,Ferro,Lectura Salto
+919,MT Defensivo,MT DEFENSIVO 034,3549,3539,3563,18,,Negativo,,,,,20,América,Ferro,Lectura Salto
+920,MT Defensivo,MT DEFENSIVO 035,3811,3801,3818,1,,Positivo,,,,,20,América,Ferro,Cobertura
+921,MT Defensivo,MT DEFENSIVO 035,3811,3801,3818,2,,Positivo,,,,,20,América,Ferro,Cobertura
+922,MT Defensivo,MT DEFENSIVO 035,3811,3801,3818,5,,Positivo,,,,,20,América,Ferro,Cobertura
+923,MT Defensivo,MT DEFENSIVO 035,3811,3801,3818,7,,Positivo,,,,,20,América,Ferro,Cobertura
+924,MT Defensivo,MT DEFENSIVO 035,3811,3801,3818,17,,Positivo,,,,,20,América,Ferro,Cobertura
+925,MT Defensivo,MT DEFENSIVO 036,3835,3825,3851,1,,Negativo,,,,,20,América,Ferro,Lectura Salto
+926,MT Defensivo,MT DEFENSIVO 036,3835,3825,3851,2,,Negativo,,,,,20,América,Ferro,Lectura Salto
+927,MT Defensivo,MT DEFENSIVO 036,3835,3825,3851,5,,Negativo,,,,,20,América,Ferro,Lectura Salto
+928,MT Defensivo,MT DEFENSIVO 036,3835,3825,3851,7,,Negativo,,,,,20,América,Ferro,Lectura Salto
+929,MT Defensivo,MT DEFENSIVO 036,3835,3825,3851,17,,Negativo,,,,,20,América,Ferro,Lectura Salto
+930,MT Defensivo,MT DEFENSIVO 037,3883,3873,3899,1,,Positivo,,,,,20,América,Ferro,Lectura Salto
+931,MT Defensivo,MT DEFENSIVO 037,3883,3873,3899,2,,Positivo,,,,,20,América,Ferro,Lectura Salto
+932,MT Defensivo,MT DEFENSIVO 037,3883,3873,3899,5,,Positivo,,,,,20,América,Ferro,Lectura Salto
+933,MT Defensivo,MT DEFENSIVO 037,3883,3873,3899,7,,Positivo,,,,,20,América,Ferro,Lectura Salto
+934,MT Defensivo,MT DEFENSIVO 037,3883,3873,3899,17,,Positivo,,,,,20,América,Ferro,Lectura Salto
+935,MT Defensivo,MT DEFENSIVO 038,3915,3905,3949,1,,Positivo,,,,,20,América,Ferro,Repliegue
+936,MT Defensivo,MT DEFENSIVO 038,3915,3905,3949,2,,Positivo,,,,,20,América,Ferro,Repliegue
+937,MT Defensivo,MT DEFENSIVO 038,3915,3905,3949,5,,Positivo,,,,,20,América,Ferro,Repliegue
+938,MT Defensivo,MT DEFENSIVO 038,3915,3905,3949,7,,Positivo,,,,,20,América,Ferro,Repliegue
+939,MT Defensivo,MT DEFENSIVO 038,3915,3905,3949,17,,Positivo,,,,,20,América,Ferro,Repliegue
+940,MT Defensivo,MT DEFENSIVO 039,4038,4028,4060,1,,Positivo,,,,,20,América,Ferro,Repliegue
+941,MT Defensivo,MT DEFENSIVO 039,4038,4028,4060,2,,Positivo,,,,,20,América,Ferro,Repliegue
+942,MT Defensivo,MT DEFENSIVO 039,4038,4028,4060,5,,Positivo,,,,,20,América,Ferro,Repliegue
+943,MT Defensivo,MT DEFENSIVO 039,4038,4028,4060,7,,Positivo,,,,,20,América,Ferro,Repliegue
+944,MT Defensivo,MT DEFENSIVO 039,4038,4028,4060,17,,Positivo,,,,,20,América,Ferro,Repliegue
+945,MT Defensivo,MT DEFENSIVO 040,4312,4302,4327,1,,Positivo,,,,,20,América,Ferro,Repliegue
+946,MT Defensivo,MT DEFENSIVO 040,4312,4302,4327,5,,Positivo,,,,,20,América,Ferro,Repliegue
+947,MT Defensivo,MT DEFENSIVO 040,4312,4302,4327,6,,Positivo,,,,,20,América,Ferro,Repliegue
+948,MT Defensivo,MT DEFENSIVO 040,4312,4302,4327,16,,Positivo,,,,,20,América,Ferro,Repliegue
+949,MT Defensivo,MT DEFENSIVO 040,4312,4302,4327,17,,Positivo,,,,,20,América,Ferro,Repliegue
+950,MT Defensivo,MT DEFENSIVO 041,4328,4318,4343,1,,Positivo,,,,,20,América,Ferro,Repliegue
+951,MT Defensivo,MT DEFENSIVO 041,4328,4318,4343,5,,Positivo,,,,,20,América,Ferro,Repliegue
+952,MT Defensivo,MT DEFENSIVO 041,4328,4318,4343,6,,Positivo,,,,,20,América,Ferro,Repliegue
+953,MT Defensivo,MT DEFENSIVO 041,4328,4318,4343,16,,Positivo,,,,,20,América,Ferro,Repliegue
+954,MT Defensivo,MT DEFENSIVO 041,4328,4318,4343,17,,Positivo,,,,,20,América,Ferro,Repliegue
+955,Transición Defensiva,TRANSICION DEFENSIVA 001,522,512,532,1,,,,,3 vs 2,Corta (H 3),20,América,Ferro,Repliegue
+956,Transición Defensiva,TRANSICION DEFENSIVA 001,522,512,532,2,,,,,3 vs 2,Corta (H 3),20,América,Ferro,Repliegue
+957,Transición Defensiva,TRANSICION DEFENSIVA 001,522,512,532,5,,,,,3 vs 2,Corta (H 3),20,América,Ferro,Repliegue
+958,Transición Defensiva,TRANSICION DEFENSIVA 001,522,512,532,10,,,,,3 vs 2,Corta (H 3),20,América,Ferro,Repliegue
+959,Transición Defensiva,TRANSICION DEFENSIVA 001,522,512,532,17,,,,,3 vs 2,Corta (H 3),20,América,Ferro,Repliegue
+960,Sustituciones,Alineación,0,0,0,,,,,,,,20,América,Ferro,
+961,Sustituciones,,0,0,0,,,,6.0,2.0,,,20,América,Ferro,
+962,Sustituciones,,0,0,0,,,,7.0,3.0,,,20,América,Ferro,
+963,Sustituciones,,0,0,0,,,,9.0,5.0,,,20,América,Ferro,
+964,Sustituciones,,318,318,318,,,,2.0,6.0,,,20,América,Ferro,
+965,Sustituciones,,318,318,318,,,,10.0,4.0,,,20,América,Ferro,
+966,Sustituciones,,318,318,318,,,,5.0,7.0,,,20,América,Ferro,
+967,Sustituciones,,318,318,318,,,,17.0,9.0,,,20,América,Ferro,
+968,Sustituciones,,622,622,622,,,,7.0,2.0,,,20,América,Ferro,
+969,Sustituciones,,622,622,622,,,,4.0,5.0,,,20,América,Ferro,
+970,Sustituciones,,635,635,635,,,,6.0,17.0,,,20,América,Ferro,
+971,Sustituciones,,672,672,672,,,,5.0,4.0,,,20,América,Ferro,
+972,Sustituciones,,672,672,672,,,,9.0,6.0,,,20,América,Ferro,
+973,Sustituciones,,960,960,960,,,,2.0,7.0,,,20,América,Ferro,
+974,Sustituciones,,960,960,960,,,,16.0,5.0,,,20,América,Ferro,
+975,Sustituciones,,981,981,981,,,,5.0,9.0,,,20,América,Ferro,
+976,Sustituciones,,1386,1386,1386,,,,7.0,2.0,,,20,América,Ferro,
+977,Sustituciones,,1386,1386,1386,,,,17.0,10.0,,,20,América,Ferro,
+978,Sustituciones,,1386,1386,1386,,,,6.0,5.0,,,20,América,Ferro,
+979,Sustituciones,,1386,1386,1386,,,,9.0,16.0,,,20,América,Ferro,
+980,Sustituciones,,1622,1622,1622,,,,2.0,7.0,,,20,América,Ferro,
+981,Sustituciones,,1622,1622,1622,,,,5.0,17.0,,,20,América,Ferro,
+982,Sustituciones,,1622,1622,1622,,,,10.0,9.0,,,20,América,Ferro,
+983,Sustituciones,,1622,1622,1622,,,,16.0,6.0,,,20,América,Ferro,
+984,Sustituciones,,2055,2055,2055,,,,4.0,2.0,,,20,América,Ferro,
+985,Sustituciones,,2055,2055,2055,,,,7.0,5.0,,,20,América,Ferro,
+986,Sustituciones,,2055,2055,2055,,,,6.0,10.0,,,20,América,Ferro,
+987,Sustituciones,,2055,2055,2055,,,,9.0,16.0,,,20,América,Ferro,
+988,Sustituciones,,2248,2248,2248,,,,17.0,4.0,,,20,América,Ferro,
+989,Sustituciones,,2632,2632,2632,,,,2.0,17.0,,,20,América,Ferro,
+990,Sustituciones,,2632,2632,2632,,,,10.0,9.0,,,20,América,Ferro,
+991,Sustituciones,,2632,2632,2632,,,,5.0,6.0,,,20,América,Ferro,
+992,Sustituciones,,2632,2632,2632,,,,16.0,7.0,,,20,América,Ferro,
+993,Sustituciones,,2860,2860,2860,,,,8.0,2.0,,,20,América,Ferro,
+994,Sustituciones,,2860,2860,2860,,,,6.0,16.0,,,20,América,Ferro,
+995,Sustituciones,,2860,2860,2860,,,,4.0,5.0,,,20,América,Ferro,
+996,Sustituciones,,2860,2860,2860,,,,9.0,10.0,,,20,América,Ferro,
+997,Sustituciones,,3138,3138,3138,,,,2.0,8.0,,,20,América,Ferro,
+998,Sustituciones,,3138,3138,3138,,,,16.0,4.0,,,20,América,Ferro,
+999,Sustituciones,,3138,3138,3138,,,,5.0,6.0,,,20,América,Ferro,
+1000,Sustituciones,,3138,3138,3138,,,,10.0,9.0,,,20,América,Ferro,
+1001,Sustituciones,,3525,3525,3525,,,,8.0,2.0,,,20,América,Ferro,
+1002,Sustituciones,,3525,3525,3525,,,,6.0,5.0,,,20,América,Ferro,
+1003,Sustituciones,,3525,3525,3525,,,,18.0,10.0,,,20,América,Ferro,
+1004,Sustituciones,,3613,3613,3613,,,,2.0,16.0,,,20,América,Ferro,
+1005,Sustituciones,,3613,3613,3613,,,,7.0,8.0,,,20,América,Ferro,
+1006,Sustituciones,,3613,3613,3613,,,,17.0,6.0,,,20,América,Ferro,
+1007,Sustituciones,,3613,3613,3613,,,,5.0,18.0,,,20,América,Ferro,
+1008,Sustituciones,,4300,4300,4300,,,,16.0,2.0,,,20,América,Ferro,
+1009,Sustituciones,,4300,4300,4300,,,,6.0,7.0,,,20,América,Ferro,
+1010,MT Ofensivo,MT OFENSIVO 001,1969,1959,1971,5,,Negativo,,,,,21,Racing,Ferro,Diagonal
+1011,MT Ofensivo,MT OFENSIVO 001,1969,1959,1971,7,,Negativo,,,,,21,Racing,Ferro,Diagonal
+1012,MT Ofensivo,MT OFENSIVO 002,2006,1996,2008,7,,Negativo,,,,,21,Racing,Ferro,Diagonal
+1013,MT Ofensivo,MT OFENSIVO 002,2006,1996,2008,10,,Negativo,,,,,21,Racing,Ferro,Diagonal
+1014,MT Ofensivo,MT OFENSIVO 003,2082,2072,2084,5,,Positivo,,,,,21,Racing,Ferro,Corte
+1015,MT Ofensivo,MT OFENSIVO 004,2110,2100,2113,17,,Negativo,,,,,21,Racing,Ferro,Salto Linea
+1016,MT Ofensivo,MT OFENSIVO 005,2157,2147,2159,8,,Negativo,,,,,21,Racing,Ferro,Salto Linea
+1017,MT Ofensivo,MT OFENSIVO 006,2217,2207,2219,8,,Positivo,,,,,21,Racing,Ferro,Paralela
+1018,MT Ofensivo,MT OFENSIVO 006,2217,2207,2219,9,,Positivo,,,,,21,Racing,Ferro,Paralela
+1019,MT Ofensivo,MT OFENSIVO 007,2219,2209,2221,6,,Positivo,,,,,21,Racing,Ferro,Pivot
+1020,MT Ofensivo,MT OFENSIVO 007,2219,2209,2221,9,,Positivo,,,,,21,Racing,Ferro,Pivot
+1021,MT Ofensivo,MT OFENSIVO 008,2327,2317,2331,4,,Positivo,,,,,21,Racing,Ferro,Paralela
+1022,MT Ofensivo,MT OFENSIVO 008,2327,2317,2331,9,,Positivo,,,,,21,Racing,Ferro,Paralela
+1023,MT Ofensivo,MT OFENSIVO 009,2977,2977,2981,4,,Positivo,,,,,21,Racing,Ferro,Paralela
+1024,MT Ofensivo,MT OFENSIVO 009,2977,2977,2981,9,,Positivo,,,,,21,Racing,Ferro,Paralela
+1025,MT Ofensivo,MT OFENSIVO 010,3049,3049,3051,4,,Positivo,,,,,21,Racing,Ferro,Diagonal
+1026,MT Ofensivo,MT OFENSIVO 010,3049,3049,3051,9,,Positivo,,,,,21,Racing,Ferro,Diagonal
+1027,MT Ofensivo,MT OFENSIVO 011,3279,3279,3285,5,,Negativo,,,,,21,Racing,Ferro,Paralela
+1028,MT Ofensivo,MT OFENSIVO 011,3279,3279,3285,10,,Negativo,,,,,21,Racing,Ferro,Paralela
+1029,MT Ofensivo,MT OFENSIVO 012,3308,3308,3315,5,,Negativo,,,,,21,Racing,Ferro,Salto Linea
+1030,MT Ofensivo,MT OFENSIVO 012,3308,3308,3315,16,,Negativo,,,,,21,Racing,Ferro,Salto Linea
+1031,MT Ofensivo,MT OFENSIVO 013,3543,3543,3547,6,,Positivo,,,,,21,Racing,Ferro,Paralela
+1032,MT Ofensivo,MT OFENSIVO 013,3543,3543,3547,9,,Positivo,,,,,21,Racing,Ferro,Paralela
+1033,MT Ofensivo,MT OFENSIVO 014,3738,3738,3742,9,,Negativo,,,,,21,Racing,Ferro,Pivot
+1034,MT Ofensivo,MT OFENSIVO 015,4923,4923,4926,5,,Negativo,,,,,21,Racing,Ferro,Salto Linea
+1035,MT Ofensivo,MT OFENSIVO 015,4923,4923,4926,10,,Negativo,,,,,21,Racing,Ferro,Salto Linea
+1036,MT Ofensivo,MT OFENSIVO 016,5022,5022,5026,5,,Positivo,,,,,21,Racing,Ferro,Puerta Atras
+1037,MT Ofensivo,MT OFENSIVO 016,5022,5022,5026,7,,Positivo,,,,,21,Racing,Ferro,Puerta Atras
+1038,MT Ofensivo,MT OFENSIVO 017,5096,5096,5099,4,,Positivo,,,,,21,Racing,Ferro,Paralela
+1039,MT Ofensivo,MT OFENSIVO 017,5096,5096,5099,10,,Positivo,,,,,21,Racing,Ferro,Paralela
+1040,MT Ofensivo,MT OFENSIVO 018,5377,5377,5380,6,,Negativo,,,,,21,Racing,Ferro,Paralela
+1041,MT Ofensivo,MT OFENSIVO 018,5377,5377,5380,9,,Negativo,,,,,21,Racing,Ferro,Paralela
+1042,MT Ofensivo,MT OFENSIVO 019,5428,5428,5431,4,,Negativo,,,,,21,Racing,Ferro,Diagonal
+1043,MT Ofensivo,MT OFENSIVO 019,5428,5428,5431,9,,Negativo,,,,,21,Racing,Ferro,Diagonal
+1044,MT Ofensivo,MT OFENSIVO 020,5884,5884,5888,4,,Negativo,,,,,21,Racing,Ferro,Paralela
+1045,MT Ofensivo,MT OFENSIVO 020,5884,5884,5888,9,,Negativo,,,,,21,Racing,Ferro,Paralela
+1046,MT Ofensivo,MT OFENSIVO 021,6009,6009,6013,6,,Positivo,,,,,21,Racing,Ferro,Paralela
+1047,MT Ofensivo,MT OFENSIVO 021,6009,6009,6013,9,,Positivo,,,,,21,Racing,Ferro,Paralela
+1048,MT Ofensivo,MT OFENSIVO 022,6416,6416,6418,1,,Negativo,,,,,21,Racing,Ferro,Salto Linea
+1049,MT Ofensivo,MT OFENSIVO 023,6603,6603,6605,1,,Negativo,,,,,21,Racing,Ferro,Salto Linea
+1050,MT Ofensivo,MT OFENSIVO 023,6603,6603,6605,9,,Negativo,,,,,21,Racing,Ferro,Salto Linea
+1051,MT Ofensivo,MT OFENSIVO 024,6892,6892,6899,7,,,,,,,21,Racing,Ferro,Paralela
+1052,MT Ofensivo,MT OFENSIVO 024,6892,6892,6899,10,,,,,,,21,Racing,Ferro,Paralela
+1053,MT Ofensivo,MT OFENSIVO 025,6971,6971,6973,7,,Negativo,,,,,21,Racing,Ferro,Salto Linea
+1054,MT Ofensivo,MT OFENSIVO 025,6971,6971,6973,9,,Negativo,,,,,21,Racing,Ferro,Salto Linea
+1055,MT Ofensivo,MT OFENSIVO 026,7205,7205,7208,7,,Negativo,,,,,21,Racing,Ferro,Salto Linea
+1056,MT Ofensivo,MT OFENSIVO 026,7205,7205,7208,10,,Negativo,,,,,21,Racing,Ferro,Salto Linea
+1057,Transición Ofensiva,TRANSICION OFENSIVA 001,2051,2041,2056,5,,,,,1 vs 1,,21,Racing,Ferro,Perdida
+1058,Transición Ofensiva,TRANSICION OFENSIVA 002,2594,2584,2607,5,,,,,3 vs 2,Larga (+3),21,Racing,Ferro,Tiro
+1059,Transición Ofensiva,TRANSICION OFENSIVA 002,2594,2584,2607,7,,,,,3 vs 2,Larga (+3),21,Racing,Ferro,Tiro
+1060,Transición Ofensiva,TRANSICION OFENSIVA 002,2594,2584,2607,10,,,,,3 vs 2,Larga (+3),21,Racing,Ferro,Tiro
+1061,Transición Ofensiva,TRANSICION OFENSIVA 002,2594,2584,2607,16,,,,,3 vs 2,Larga (+3),21,Racing,Ferro,Tiro
+1062,Transición Ofensiva,TRANSICION OFENSIVA 003,2687,2677,2693,5,,,,,2 vs 1,,21,Racing,Ferro,Perdida
+1063,Transición Ofensiva,TRANSICION OFENSIVA 003,2687,2677,2693,10,,,,,2 vs 1,,21,Racing,Ferro,Perdida
+1064,Transición Ofensiva,TRANSICION OFENSIVA 004,2833,2823,2836,9,,,,,1 vs 1,Corta (H 3),21,Racing,Ferro,Pelota Parada
+1065,Transición Ofensiva,TRANSICION OFENSIVA 005,2881,2870,2881,4,,,,,2 vs 1,Corta (H 3),21,Racing,Ferro,Pelota Parada
+1066,Transición Ofensiva,TRANSICION OFENSIVA 005,2881,2870,2881,6,,,,,2 vs 1,Corta (H 3),21,Racing,Ferro,Pelota Parada
+1067,Transición Ofensiva,TRANSICION OFENSIVA 006,3339,3339,3346,10,,,,,2 vs 1,,21,Racing,Ferro,Perdida
+1068,Transición Ofensiva,TRANSICION OFENSIVA 007,3431,3431,3434,7,,,,,1 vs 1,Corta (H 3),21,Racing,Ferro,Perdida
+1069,Transición Ofensiva,TRANSICION OFENSIVA 008,3517,3517,3521,7,,,,,2 vs 1,Corta (H 3),21,Racing,Ferro,Perdida
+1070,Transición Ofensiva,TRANSICION OFENSIVA 008,3517,3517,3521,10,,,,,2 vs 1,Corta (H 3),21,Racing,Ferro,Perdida
+1071,Transición Ofensiva,TRANSICION OFENSIVA 009,3603,3603,3611,5,,,,,3 vs 2,Corta (H 3),21,Racing,Ferro,Tiro
+1072,Transición Ofensiva,TRANSICION OFENSIVA 009,3603,3603,3611,9,,,,,3 vs 2,Corta (H 3),21,Racing,Ferro,Tiro
+1073,Transición Ofensiva,TRANSICION OFENSIVA 009,3603,3603,3611,17,,,,,3 vs 2,Corta (H 3),21,Racing,Ferro,Tiro
+1074,Transición Ofensiva,TRANSICION OFENSIVA 010,3711,3711,3719,4,,,,,3 vs 2,Larga (+3),21,Racing,Ferro,Tiro
+1075,Transición Ofensiva,TRANSICION OFENSIVA 010,3711,3711,3719,9,,,,,3 vs 2,Larga (+3),21,Racing,Ferro,Tiro
+1076,Transición Ofensiva,TRANSICION OFENSIVA 010,3711,3711,3719,17,,,,,3 vs 2,Larga (+3),21,Racing,Ferro,Tiro
+1077,Transición Ofensiva,TRANSICION OFENSIVA 011,5002,5002,5007,7,,,,,2 vs 1,Corta (H 3),21,Racing,Ferro,Tiro
+1078,Transición Ofensiva,TRANSICION OFENSIVA 011,5002,5002,5007,10,,,,,2 vs 1,Corta (H 3),21,Racing,Ferro,Tiro
+1079,Transición Ofensiva,TRANSICION OFENSIVA 012,5044,5044,5047,7,,,,,1 vs 1,Corta (H 3),21,Racing,Ferro,Perdida
+1080,Transición Ofensiva,TRANSICION OFENSIVA 013,5178,5178,5180,4,,,,,1 vs 1,,21,Racing,Ferro,Pelota Parada
+1081,Transición Ofensiva,TRANSICION OFENSIVA 014,5223,5223,5224,4,,,,,1 vs 1,Corta (H 3),21,Racing,Ferro,Pelota Parada
+1082,Transición Ofensiva,TRANSICION OFENSIVA 015,5466,5466,5472,10,,,,,2 vs 1,Corta (H 3),21,Racing,Ferro,Pelota Parada
+1083,Transición Ofensiva,TRANSICION OFENSIVA 016,5579,5579,5586,5,,,,,3 vs 2,Corta (H 3),21,Racing,Ferro,Perdida
+1084,Transición Ofensiva,TRANSICION OFENSIVA 016,5579,5579,5586,7,,,,,3 vs 2,Corta (H 3),21,Racing,Ferro,Perdida
+1085,Transición Ofensiva,TRANSICION OFENSIVA 016,5579,5579,5586,10,,,,,3 vs 2,Corta (H 3),21,Racing,Ferro,Perdida
+1086,Transición Ofensiva,TRANSICION OFENSIVA 017,5631,5631,5641,5,,,,,3 vs 2,Larga (+3),21,Racing,Ferro,Tiro
+1087,Transición Ofensiva,TRANSICION OFENSIVA 017,5631,5631,5641,16,,,,,3 vs 2,Larga (+3),21,Racing,Ferro,Tiro
+1088,Transición Ofensiva,TRANSICION OFENSIVA 018,5920,5920,5926,4,,,,,3 vs 2,Corta (H 3),21,Racing,Ferro,Tiro
+1089,Transición Ofensiva,TRANSICION OFENSIVA 018,5920,5920,5926,6,,,,,3 vs 2,Corta (H 3),21,Racing,Ferro,Tiro
+1090,Transición Ofensiva,TRANSICION OFENSIVA 018,5920,5920,5926,8,,,,,3 vs 2,Corta (H 3),21,Racing,Ferro,Tiro
+1091,Transición Ofensiva,TRANSICION OFENSIVA 019,6292,6292,6297,5,,,,,2 vs 1,Corta (H 3),21,Racing,Ferro,Perdida
+1092,Transición Ofensiva,TRANSICION OFENSIVA 019,6292,6292,6297,21,,,,,2 vs 1,Corta (H 3),21,Racing,Ferro,Perdida
+1093,Transición Ofensiva,TRANSICION OFENSIVA 020,6988,6988,6997,5,,,,,2 vs 1,Corta (H 3),21,Racing,Ferro,Perdida
+1094,Transición Ofensiva,TRANSICION OFENSIVA 020,6988,6988,6997,10,,,,,2 vs 1,Corta (H 3),21,Racing,Ferro,Perdida
+1095,MT Defensivo,MT DEFENSIVO 001,2053,2043,2056,5,,Positivo,,,,,21,Racing,Ferro,Lectura Salto
+1096,MT Defensivo,MT DEFENSIVO 002,2246,2236,2252,4,,Positivo,,,,,21,Racing,Ferro,Repliegue
+1097,MT Defensivo,MT DEFENSIVO 002,2246,2236,2252,6,,Positivo,,,,,21,Racing,Ferro,Repliegue
+1098,MT Defensivo,MT DEFENSIVO 002,2246,2236,2252,8,,Positivo,,,,,21,Racing,Ferro,Repliegue
+1099,MT Defensivo,MT DEFENSIVO 002,2246,2236,2252,9,,Positivo,,,,,21,Racing,Ferro,Repliegue
+1100,MT Defensivo,MT DEFENSIVO 003,2279,2269,2281,8,,Positivo,,,,,21,Racing,Ferro,Lectura Salto
+1101,MT Defensivo,MT DEFENSIVO 004,2682,2672,2687,5,,Positivo,,,,,21,Racing,Ferro,Repliegue
+1102,MT Defensivo,MT DEFENSIVO 004,2682,2672,2687,7,,Positivo,,,,,21,Racing,Ferro,Repliegue
+1103,MT Defensivo,MT DEFENSIVO 004,2682,2672,2687,10,,Positivo,,,,,21,Racing,Ferro,Repliegue
+1104,MT Defensivo,MT DEFENSIVO 004,2682,2672,2687,16,,Positivo,,,,,21,Racing,Ferro,Repliegue
+1105,MT Defensivo,MT DEFENSIVO 005,2827,2817,2832,4,,Positivo,,,,,21,Racing,Ferro,Repliegue
+1106,MT Defensivo,MT DEFENSIVO 005,2827,2817,2832,6,,Positivo,,,,,21,Racing,Ferro,Repliegue
+1107,MT Defensivo,MT DEFENSIVO 005,2827,2817,2832,9,,Positivo,,,,,21,Racing,Ferro,Repliegue
+1108,MT Defensivo,MT DEFENSIVO 005,2827,2817,2832,17,,Positivo,,,,,21,Racing,Ferro,Repliegue
+1109,MT Defensivo,MT DEFENSIVO 006,2958,2958,2961,6,,Positivo,,,,,21,Racing,Ferro,Doble Marca
+1110,MT Defensivo,MT DEFENSIVO 006,2958,2958,2961,8,,Positivo,,,,,21,Racing,Ferro,Doble Marca
+1111,MT Defensivo,MT DEFENSIVO 007,3426,3426,3431,5,,Positivo,,,,,21,Racing,Ferro,Repliegue
+1112,MT Defensivo,MT DEFENSIVO 007,3426,3426,3431,7,,Positivo,,,,,21,Racing,Ferro,Repliegue
+1113,MT Defensivo,MT DEFENSIVO 007,3426,3426,3431,10,,Positivo,,,,,21,Racing,Ferro,Repliegue
+1114,MT Defensivo,MT DEFENSIVO 007,3426,3426,3431,16,,Positivo,,,,,21,Racing,Ferro,Repliegue
+1115,MT Defensivo,MT DEFENSIVO 008,3660,3660,3662,4,,Positivo,,,,,21,Racing,Ferro,Doble Marca
+1116,MT Defensivo,MT DEFENSIVO 008,3660,3660,3662,17,,Positivo,,,,,21,Racing,Ferro,Doble Marca
+1117,MT Defensivo,MT DEFENSIVO 009,3796,3796,3804,4,,Positivo,,,,,21,Racing,Ferro,Repliegue
+1118,MT Defensivo,MT DEFENSIVO 009,3796,3796,3804,6,,Positivo,,,,,21,Racing,Ferro,Repliegue
+1119,MT Defensivo,MT DEFENSIVO 009,3796,3796,3804,9,,Positivo,,,,,21,Racing,Ferro,Repliegue
+1120,MT Defensivo,MT DEFENSIVO 009,3796,3796,3804,17,,Positivo,,,,,21,Racing,Ferro,Repliegue
+1121,MT Defensivo,MT DEFENSIVO 010,3848,3848,3852,5,,Positivo,,,,,21,Racing,Ferro,Doble Marca
+1122,MT Defensivo,MT DEFENSIVO 010,3848,3848,3852,6,,Positivo,,,,,21,Racing,Ferro,Doble Marca
+1123,MT Defensivo,MT DEFENSIVO 011,5169,5169,5172,4,,Positivo,,,,,21,Racing,Ferro,Cambio Marca
+1124,MT Defensivo,MT DEFENSIVO 011,5169,5169,5172,6,,Positivo,,,,,21,Racing,Ferro,Cambio Marca
+1125,MT Defensivo,MT DEFENSIVO 012,5447,5447,5450,7,,Negativo,,,,,21,Racing,Ferro,Doble Marca
+1126,MT Defensivo,MT DEFENSIVO 012,5447,5447,5450,16,,Negativo,,,,,21,Racing,Ferro,Doble Marca
+1127,MT Defensivo,MT DEFENSIVO 013,5798,5798,5801,5,,Positivo,,,,,21,Racing,Ferro,Doble Marca
+1128,MT Defensivo,MT DEFENSIVO 013,5798,5798,5801,7,,Positivo,,,,,21,Racing,Ferro,Doble Marca
+1129,MT Defensivo,MT DEFENSIVO 014,6334,6334,6336,7,,Positivo,,,,,21,Racing,Ferro,Lectura Salto
+1130,MT Defensivo,MT DEFENSIVO 015,6385,6385,6387,5,,Negativo,,,,,21,Racing,Ferro,Lectura Salto
+1131,MT Defensivo,MT DEFENSIVO 016,6569,6569,6575,4,,Positivo,,,,,21,Racing,Ferro,Repliegue
+1132,MT Defensivo,MT DEFENSIVO 016,6569,6569,6575,6,,Positivo,,,,,21,Racing,Ferro,Repliegue
+1133,MT Defensivo,MT DEFENSIVO 016,6569,6569,6575,8,,Positivo,,,,,21,Racing,Ferro,Repliegue
+1134,MT Defensivo,MT DEFENSIVO 016,6569,6569,6575,16,,Positivo,,,,,21,Racing,Ferro,Repliegue
+1135,MT Defensivo,MT DEFENSIVO 017,6774,6774,6779,6,,Positivo,,,,,21,Racing,Ferro,Repliegue
+1136,MT Defensivo,MT DEFENSIVO 017,6774,6774,6779,8,,Positivo,,,,,21,Racing,Ferro,Repliegue
+1137,MT Defensivo,MT DEFENSIVO 017,6774,6774,6779,16,,Positivo,,,,,21,Racing,Ferro,Repliegue
+1138,MT Defensivo,MT DEFENSIVO 017,6774,6774,6779,17,,Positivo,,,,,21,Racing,Ferro,Repliegue
+1139,MT Defensivo,MT DEFENSIVO 018,6942,6942,6947,6,,Positivo,,,,,21,Racing,Ferro,Repliegue
+1140,MT Defensivo,MT DEFENSIVO 018,6942,6942,6947,8,,Positivo,,,,,21,Racing,Ferro,Repliegue
+1141,MT Defensivo,MT DEFENSIVO 018,6942,6942,6947,16,,Positivo,,,,,21,Racing,Ferro,Repliegue
+1142,MT Defensivo,MT DEFENSIVO 018,6942,6942,6947,17,,Positivo,,,,,21,Racing,Ferro,Repliegue
+1143,Transición Defensiva,TRANSICION DEFENSIVA 001,1970,1960,1976,5,,,,,2 vs 1,Corta (H 3),21,Racing,Ferro,Tiro
+1144,Transición Defensiva,TRANSICION DEFENSIVA 001,1970,1960,1976,7,,,,,2 vs 1,Corta (H 3),21,Racing,Ferro,Tiro
+1145,Transición Defensiva,TRANSICION DEFENSIVA 001,1970,1960,1976,17,,,,,2 vs 1,Corta (H 3),21,Racing,Ferro,Tiro
+1146,Transición Defensiva,TRANSICION DEFENSIVA 002,2184,2174,2188,8,,,,,1 vs 1,Corta (H 3),21,Racing,Ferro,Pelota Parada
+1147,Transición Defensiva,TRANSICION DEFENSIVA 003,2303,2293,2307,6,,,,,2 vs 1,Corta (H 3),21,Racing,Ferro,Tiro
+1148,Transición Defensiva,TRANSICION DEFENSIVA 004,2485,2475,2489,5,,,,,3 vs 2,Corta (H 3),21,Racing,Ferro,Pelota Parada
+1149,Transición Defensiva,TRANSICION DEFENSIVA 004,2485,2475,2489,10,,,,,3 vs 2,Corta (H 3),21,Racing,Ferro,Pelota Parada
+1150,Transición Defensiva,TRANSICION DEFENSIVA 004,2485,2475,2489,16,,,,,3 vs 2,Corta (H 3),21,Racing,Ferro,Pelota Parada
+1151,Transición Defensiva,TRANSICION DEFENSIVA 005,2694,2684,2698,7,,,,,1 vs 1,Corta (H 3),21,Racing,Ferro,Pelota Parada
+1152,Transición Defensiva,TRANSICION DEFENSIVA 006,2981,2981,2987,4,,,,,2 vs 1,Corta (H 3),21,Racing,Ferro,Repliegue
+1153,Transición Defensiva,TRANSICION DEFENSIVA 006,2981,2981,2987,8,,,,,2 vs 1,Corta (H 3),21,Racing,Ferro,Repliegue
+1154,Transición Defensiva,TRANSICION DEFENSIVA 007,3342,3342,3350,16,,,,,2 vs 1,Corta (H 3),21,Racing,Ferro,Tiro
+1155,Transición Defensiva,TRANSICION DEFENSIVA 008,3521,3521,3525,5,,,,,2 vs 1,,21,Racing,Ferro,Tiro
+1156,Transición Defensiva,TRANSICION DEFENSIVA 008,3521,3521,3525,16,,,,,2 vs 1,,21,Racing,Ferro,Tiro
+1157,Transición Defensiva,TRANSICION DEFENSIVA 009,3745,3745,3764,4,,,,,3 vs 2,Larga (+3),21,Racing,Ferro,Tiro
+1158,Transición Defensiva,TRANSICION DEFENSIVA 009,3745,3745,3764,6,,,,,3 vs 2,Larga (+3),21,Racing,Ferro,Tiro
+1159,Transición Defensiva,TRANSICION DEFENSIVA 009,3745,3745,3764,9,,,,,3 vs 2,Larga (+3),21,Racing,Ferro,Tiro
+1160,Transición Defensiva,TRANSICION DEFENSIVA 009,3745,3745,3764,17,,,,,3 vs 2,Larga (+3),21,Racing,Ferro,Tiro
+1161,Transición Defensiva,TRANSICION DEFENSIVA 010,4801,4801,4806,7,,,,,2 vs 1,Corta (H 3),21,Racing,Ferro,Tiro
+1162,Transición Defensiva,TRANSICION DEFENSIVA 010,4801,4801,4806,17,,,,,2 vs 1,Corta (H 3),21,Racing,Ferro,Tiro
+1163,Transición Defensiva,TRANSICION DEFENSIVA 011,5038,5038,5044,16,,,,,2 vs 1,,21,Racing,Ferro,Recuperacion
+1164,Transición Defensiva,TRANSICION DEFENSIVA 012,5209,5209,5216,4,,,,,2 vs 1,Corta (H 3),21,Racing,Ferro,Recuperacion
+1165,Transición Defensiva,TRANSICION DEFENSIVA 013,5585,5585,5590,5,,,,,1 vs 1,Corta (H 3),21,Racing,Ferro,Tiro
+1166,Transición Defensiva,TRANSICION DEFENSIVA 014,6066,6066,6080,4,,,,,3 vs 2,Larga (+3),21,Racing,Ferro,Tiro
+1167,Transición Defensiva,TRANSICION DEFENSIVA 014,6066,6066,6080,9,,,,,3 vs 2,Larga (+3),21,Racing,Ferro,Tiro
+1168,Transición Defensiva,TRANSICION DEFENSIVA 014,6066,6066,6080,21,,,,,3 vs 2,Larga (+3),21,Racing,Ferro,Tiro
+1169,Transición Defensiva,TRANSICION DEFENSIVA 015,6144,6144,6152,4,,,,,2 vs 1,,21,Racing,Ferro,Recuperacion
+1170,Transición Defensiva,TRANSICION DEFENSIVA 015,6144,6144,6152,21,,,,,2 vs 1,,21,Racing,Ferro,Recuperacion
+1171,Transición Defensiva,TRANSICION DEFENSIVA 016,6240,6240,6244,5,,,,,1 vs 1,,21,Racing,Ferro,Pelota Parada
+1172,Transición Defensiva,TRANSICION DEFENSIVA 017,6337,6337,6341,7,,,,,3 vs 2,Corta (H 3),21,Racing,Ferro,Tiro
+1173,Transición Defensiva,TRANSICION DEFENSIVA 017,6337,6337,6341,10,,,,,3 vs 2,Corta (H 3),21,Racing,Ferro,Tiro
+1174,Transición Defensiva,TRANSICION DEFENSIVA 017,6337,6337,6341,16,,,,,3 vs 2,Corta (H 3),21,Racing,Ferro,Tiro
+1175,Transición Defensiva,TRANSICION DEFENSIVA 018,6451,6451,6455,7,,,,,1 vs 1,,21,Racing,Ferro,Pelota Parada
+1176,Transición Defensiva,TRANSICION DEFENSIVA 019,6814,6814,6819,6,,,,,3 vs 2,,21,Racing,Ferro,Recuperacion
+1177,Transición Defensiva,TRANSICION DEFENSIVA 019,6814,6814,6819,8,,,,,3 vs 2,,21,Racing,Ferro,Recuperacion
+1178,Sustituciones,Alineación,0,0,0,,,,,,,,21,Racing,Ferro,
+1179,MT Ofensivo,MT OFENSIVO 001,123,113,134,1,,Negativo,,,,,25,Jorge Newbery,Ferro,Pivot
+1180,MT Ofensivo,MT OFENSIVO 001,123,113,134,4,,Negativo,,,,,25,Jorge Newbery,Ferro,Pivot
+1181,MT Ofensivo,MT OFENSIVO 001,123,113,134,7,,Negativo,,,,,25,Jorge Newbery,Ferro,Pivot
+1182,MT Ofensivo,MT OFENSIVO 001,123,113,134,17,,Negativo,,,,,25,Jorge Newbery,Ferro,Pivot
+1183,MT Ofensivo,MT OFENSIVO 001,123,113,134,19,,Negativo,,,,,25,Jorge Newbery,Ferro,Pivot
+1184,MT Ofensivo,MT OFENSIVO 002,166,156,183,1,,Positivo,,,,,25,Jorge Newbery,Ferro,Diagonal
+1185,MT Ofensivo,MT OFENSIVO 002,166,156,183,4,,Positivo,,,,,25,Jorge Newbery,Ferro,Diagonal
+1186,MT Ofensivo,MT OFENSIVO 002,166,156,183,7,,Positivo,,,,,25,Jorge Newbery,Ferro,Diagonal
+1187,MT Ofensivo,MT OFENSIVO 002,166,156,183,17,,Positivo,,,,,25,Jorge Newbery,Ferro,Diagonal
+1188,MT Ofensivo,MT OFENSIVO 002,166,156,183,19,,Positivo,,,,,25,Jorge Newbery,Ferro,Diagonal
+1189,MT Ofensivo,MT OFENSIVO 003,199,189,210,1,,Negativo,,,,,25,Jorge Newbery,Ferro,Diagonal
+1190,MT Ofensivo,MT OFENSIVO 003,199,189,210,4,,Negativo,,,,,25,Jorge Newbery,Ferro,Diagonal
+1191,MT Ofensivo,MT OFENSIVO 003,199,189,210,7,,Negativo,,,,,25,Jorge Newbery,Ferro,Diagonal
+1192,MT Ofensivo,MT OFENSIVO 003,199,189,210,17,,Negativo,,,,,25,Jorge Newbery,Ferro,Diagonal
+1193,MT Ofensivo,MT OFENSIVO 003,199,189,210,19,,Negativo,,,,,25,Jorge Newbery,Ferro,Diagonal
+1194,MT Ofensivo,MT OFENSIVO 004,248,238,257,1,,Negativo,,,,,25,Jorge Newbery,Ferro,Diagonal
+1195,MT Ofensivo,MT OFENSIVO 004,248,238,257,4,,Negativo,,,,,25,Jorge Newbery,Ferro,Diagonal
+1196,MT Ofensivo,MT OFENSIVO 004,248,238,257,7,,Negativo,,,,,25,Jorge Newbery,Ferro,Diagonal
+1197,MT Ofensivo,MT OFENSIVO 004,248,238,257,17,,Negativo,,,,,25,Jorge Newbery,Ferro,Diagonal
+1198,MT Ofensivo,MT OFENSIVO 004,248,238,257,19,,Negativo,,,,,25,Jorge Newbery,Ferro,Diagonal
+1199,MT Ofensivo,MT OFENSIVO 005,297,287,311,1,,Positivo,,,,,25,Jorge Newbery,Ferro,Corte
+1200,MT Ofensivo,MT OFENSIVO 005,297,287,311,4,,Positivo,,,,,25,Jorge Newbery,Ferro,Corte
+1201,MT Ofensivo,MT OFENSIVO 005,297,287,311,7,,Positivo,,,,,25,Jorge Newbery,Ferro,Corte
+1202,MT Ofensivo,MT OFENSIVO 005,297,287,311,17,,Positivo,,,,,25,Jorge Newbery,Ferro,Corte
+1203,MT Ofensivo,MT OFENSIVO 005,297,287,311,19,,Positivo,,,,,25,Jorge Newbery,Ferro,Corte
+1204,MT Ofensivo,MT OFENSIVO 006,320,310,327,1,,Positivo,,,,,25,Jorge Newbery,Ferro,Pivot
+1205,MT Ofensivo,MT OFENSIVO 006,320,310,327,4,,Positivo,,,,,25,Jorge Newbery,Ferro,Pivot
+1206,MT Ofensivo,MT OFENSIVO 006,320,310,327,7,,Positivo,,,,,25,Jorge Newbery,Ferro,Pivot
+1207,MT Ofensivo,MT OFENSIVO 006,320,310,327,17,,Positivo,,,,,25,Jorge Newbery,Ferro,Pivot
+1208,MT Ofensivo,MT OFENSIVO 006,320,310,327,19,,Positivo,,,,,25,Jorge Newbery,Ferro,Pivot
+1209,MT Ofensivo,MT OFENSIVO 007,410,400,418,1,,Negativo,,,,,25,Jorge Newbery,Ferro,Pared
+1210,MT Ofensivo,MT OFENSIVO 007,410,400,418,5,,Negativo,,,,,25,Jorge Newbery,Ferro,Pared
+1211,MT Ofensivo,MT OFENSIVO 007,410,400,418,10,,Negativo,,,,,25,Jorge Newbery,Ferro,Pared
+1212,MT Ofensivo,MT OFENSIVO 007,410,400,418,11,,Negativo,,,,,25,Jorge Newbery,Ferro,Pared
+1213,MT Ofensivo,MT OFENSIVO 007,410,400,418,14,,Negativo,,,,,25,Jorge Newbery,Ferro,Pared
+1214,MT Ofensivo,MT OFENSIVO 008,441,431,454,1,,Positivo,,,,,25,Jorge Newbery,Ferro,Corte
+1215,MT Ofensivo,MT OFENSIVO 008,441,431,454,5,,Positivo,,,,,25,Jorge Newbery,Ferro,Corte
+1216,MT Ofensivo,MT OFENSIVO 008,441,431,454,10,,Positivo,,,,,25,Jorge Newbery,Ferro,Corte
+1217,MT Ofensivo,MT OFENSIVO 008,441,431,454,11,,Positivo,,,,,25,Jorge Newbery,Ferro,Corte
+1218,MT Ofensivo,MT OFENSIVO 008,441,431,454,14,,Positivo,,,,,25,Jorge Newbery,Ferro,Corte
+1219,MT Ofensivo,MT OFENSIVO 009,468,458,492,1,,Negativo,,,,,25,Jorge Newbery,Ferro,Salto Linea
+1220,MT Ofensivo,MT OFENSIVO 009,468,458,492,5,,Negativo,,,,,25,Jorge Newbery,Ferro,Salto Linea
+1221,MT Ofensivo,MT OFENSIVO 009,468,458,492,10,,Negativo,,,,,25,Jorge Newbery,Ferro,Salto Linea
+1222,MT Ofensivo,MT OFENSIVO 009,468,458,492,11,,Negativo,,,,,25,Jorge Newbery,Ferro,Salto Linea
+1223,MT Ofensivo,MT OFENSIVO 009,468,458,492,14,,Negativo,,,,,25,Jorge Newbery,Ferro,Salto Linea
+1224,MT Ofensivo,MT OFENSIVO 010,496,486,517,1,,Positivo,,,,,25,Jorge Newbery,Ferro,Puerta Atras
+1225,MT Ofensivo,MT OFENSIVO 010,496,486,517,5,,Positivo,,,,,25,Jorge Newbery,Ferro,Puerta Atras
+1226,MT Ofensivo,MT OFENSIVO 010,496,486,517,10,,Positivo,,,,,25,Jorge Newbery,Ferro,Puerta Atras
+1227,MT Ofensivo,MT OFENSIVO 010,496,486,517,11,,Positivo,,,,,25,Jorge Newbery,Ferro,Puerta Atras
+1228,MT Ofensivo,MT OFENSIVO 010,496,486,517,14,,Positivo,,,,,25,Jorge Newbery,Ferro,Puerta Atras
+1229,MT Ofensivo,MT OFENSIVO 011,565,555,585,1,,Negativo,,,,,25,Jorge Newbery,Ferro,Corte
+1230,MT Ofensivo,MT OFENSIVO 011,565,555,585,5,,Negativo,,,,,25,Jorge Newbery,Ferro,Corte
+1231,MT Ofensivo,MT OFENSIVO 011,565,555,585,10,,Negativo,,,,,25,Jorge Newbery,Ferro,Corte
+1232,MT Ofensivo,MT OFENSIVO 011,565,555,585,11,,Negativo,,,,,25,Jorge Newbery,Ferro,Corte
+1233,MT Ofensivo,MT OFENSIVO 011,565,555,585,14,,Negativo,,,,,25,Jorge Newbery,Ferro,Corte
+1234,MT Ofensivo,MT OFENSIVO 012,614,604,627,1,,Positivo,,,,,25,Jorge Newbery,Ferro,Pivot
+1235,MT Ofensivo,MT OFENSIVO 012,614,604,627,5,,Positivo,,,,,25,Jorge Newbery,Ferro,Pivot
+1236,MT Ofensivo,MT OFENSIVO 012,614,604,627,10,,Positivo,,,,,25,Jorge Newbery,Ferro,Pivot
+1237,MT Ofensivo,MT OFENSIVO 012,614,604,627,11,,Positivo,,,,,25,Jorge Newbery,Ferro,Pivot
+1238,MT Ofensivo,MT OFENSIVO 012,614,604,627,14,,Positivo,,,,,25,Jorge Newbery,Ferro,Pivot
+1239,MT Ofensivo,MT OFENSIVO 013,696,686,702,1,,Negativo,,,,,25,Jorge Newbery,Ferro,Diagonal
+1240,MT Ofensivo,MT OFENSIVO 013,696,686,702,4,,Negativo,,,,,25,Jorge Newbery,Ferro,Diagonal
+1241,MT Ofensivo,MT OFENSIVO 013,696,686,702,7,,Negativo,,,,,25,Jorge Newbery,Ferro,Diagonal
+1242,MT Ofensivo,MT OFENSIVO 013,696,686,702,17,,Negativo,,,,,25,Jorge Newbery,Ferro,Diagonal
+1243,MT Ofensivo,MT OFENSIVO 013,696,686,702,19,,Negativo,,,,,25,Jorge Newbery,Ferro,Diagonal
+1244,MT Ofensivo,MT OFENSIVO 014,717,707,723,1,,Negativo,,,,,25,Jorge Newbery,Ferro,Paralela
+1245,MT Ofensivo,MT OFENSIVO 014,717,707,723,4,,Negativo,,,,,25,Jorge Newbery,Ferro,Paralela
+1246,MT Ofensivo,MT OFENSIVO 014,717,707,723,7,,Negativo,,,,,25,Jorge Newbery,Ferro,Paralela
+1247,MT Ofensivo,MT OFENSIVO 014,717,707,723,17,,Negativo,,,,,25,Jorge Newbery,Ferro,Paralela
+1248,MT Ofensivo,MT OFENSIVO 014,717,707,723,19,,Negativo,,,,,25,Jorge Newbery,Ferro,Paralela
+1249,MT Ofensivo,MT OFENSIVO 015,754,744,765,1,,Negativo,,,,,25,Jorge Newbery,Ferro,Salto Linea
+1250,MT Ofensivo,MT OFENSIVO 015,754,744,765,4,,Negativo,,,,,25,Jorge Newbery,Ferro,Salto Linea
+1251,MT Ofensivo,MT OFENSIVO 015,754,744,765,7,,Negativo,,,,,25,Jorge Newbery,Ferro,Salto Linea
+1252,MT Ofensivo,MT OFENSIVO 015,754,744,765,17,,Negativo,,,,,25,Jorge Newbery,Ferro,Salto Linea
+1253,MT Ofensivo,MT OFENSIVO 015,754,744,765,19,,Negativo,,,,,25,Jorge Newbery,Ferro,Salto Linea
+1254,MT Ofensivo,MT OFENSIVO 016,816,806,825,1,,Negativo,,,,,25,Jorge Newbery,Ferro,Diagonal
+1255,MT Ofensivo,MT OFENSIVO 016,816,806,825,4,,Negativo,,,,,25,Jorge Newbery,Ferro,Diagonal
+1256,MT Ofensivo,MT OFENSIVO 016,816,806,825,7,,Negativo,,,,,25,Jorge Newbery,Ferro,Diagonal
+1257,MT Ofensivo,MT OFENSIVO 016,816,806,825,17,,Negativo,,,,,25,Jorge Newbery,Ferro,Diagonal
+1258,MT Ofensivo,MT OFENSIVO 016,816,806,825,19,,Negativo,,,,,25,Jorge Newbery,Ferro,Diagonal
+1259,MT Ofensivo,MT OFENSIVO 017,990,980,1004,1,,Negativo,,,,,25,Jorge Newbery,Ferro,Paralela
+1260,MT Ofensivo,MT OFENSIVO 017,990,980,1004,4,,Negativo,,,,,25,Jorge Newbery,Ferro,Paralela
+1261,MT Ofensivo,MT OFENSIVO 017,990,980,1004,10,,Negativo,,,,,25,Jorge Newbery,Ferro,Paralela
+1262,MT Ofensivo,MT OFENSIVO 017,990,980,1004,17,,Negativo,,,,,25,Jorge Newbery,Ferro,Paralela
+1263,MT Ofensivo,MT OFENSIVO 017,990,980,1004,21,,Negativo,,,,,25,Jorge Newbery,Ferro,Paralela
+1264,MT Ofensivo,MT OFENSIVO 018,1132,1122,1152,1,,Positivo,,,,,25,Jorge Newbery,Ferro,Corte
+1265,MT Ofensivo,MT OFENSIVO 018,1132,1122,1152,5,,Positivo,,,,,25,Jorge Newbery,Ferro,Corte
+1266,MT Ofensivo,MT OFENSIVO 018,1132,1122,1152,10,,Positivo,,,,,25,Jorge Newbery,Ferro,Corte
+1267,MT Ofensivo,MT OFENSIVO 018,1132,1122,1152,14,,Positivo,,,,,25,Jorge Newbery,Ferro,Corte
+1268,MT Ofensivo,MT OFENSIVO 018,1132,1122,1152,17,,Positivo,,,,,25,Jorge Newbery,Ferro,Corte
+1269,MT Ofensivo,MT OFENSIVO 019,1216,1206,1227,1,,Positivo,,,,,25,Jorge Newbery,Ferro,Pivot
+1270,MT Ofensivo,MT OFENSIVO 019,1216,1206,1227,5,,Positivo,,,,,25,Jorge Newbery,Ferro,Pivot
+1271,MT Ofensivo,MT OFENSIVO 019,1216,1206,1227,10,,Positivo,,,,,25,Jorge Newbery,Ferro,Pivot
+1272,MT Ofensivo,MT OFENSIVO 019,1216,1206,1227,14,,Positivo,,,,,25,Jorge Newbery,Ferro,Pivot
+1273,MT Ofensivo,MT OFENSIVO 019,1216,1206,1227,17,,Positivo,,,,,25,Jorge Newbery,Ferro,Pivot
+1274,MT Ofensivo,MT OFENSIVO 020,1407,1397,1420,1,,Positivo,,,,,25,Jorge Newbery,Ferro,Pivot
+1275,MT Ofensivo,MT OFENSIVO 020,1407,1397,1420,5,,Positivo,,,,,25,Jorge Newbery,Ferro,Pivot
+1276,MT Ofensivo,MT OFENSIVO 020,1407,1397,1420,10,,Positivo,,,,,25,Jorge Newbery,Ferro,Pivot
+1277,MT Ofensivo,MT OFENSIVO 020,1407,1397,1420,11,,Positivo,,,,,25,Jorge Newbery,Ferro,Pivot
+1278,MT Ofensivo,MT OFENSIVO 020,1407,1397,1420,14,,Positivo,,,,,25,Jorge Newbery,Ferro,Pivot
+1279,MT Ofensivo,MT OFENSIVO 021,1445,1435,1454,1,,Negativo,,,,,25,Jorge Newbery,Ferro,Salto Linea
+1280,MT Ofensivo,MT OFENSIVO 021,1445,1435,1454,5,,Negativo,,,,,25,Jorge Newbery,Ferro,Salto Linea
+1281,MT Ofensivo,MT OFENSIVO 021,1445,1435,1454,10,,Negativo,,,,,25,Jorge Newbery,Ferro,Salto Linea
+1282,MT Ofensivo,MT OFENSIVO 021,1445,1435,1454,11,,Negativo,,,,,25,Jorge Newbery,Ferro,Salto Linea
+1283,MT Ofensivo,MT OFENSIVO 021,1445,1435,1454,14,,Negativo,,,,,25,Jorge Newbery,Ferro,Salto Linea
+1284,MT Ofensivo,MT OFENSIVO 022,1456,1446,1473,1,,Negativo,,,,,25,Jorge Newbery,Ferro,Salto Linea
+1285,MT Ofensivo,MT OFENSIVO 022,1456,1446,1473,5,,Negativo,,,,,25,Jorge Newbery,Ferro,Salto Linea
+1286,MT Ofensivo,MT OFENSIVO 022,1456,1446,1473,10,,Negativo,,,,,25,Jorge Newbery,Ferro,Salto Linea
+1287,MT Ofensivo,MT OFENSIVO 022,1456,1446,1473,11,,Negativo,,,,,25,Jorge Newbery,Ferro,Salto Linea
+1288,MT Ofensivo,MT OFENSIVO 022,1456,1446,1473,14,,Negativo,,,,,25,Jorge Newbery,Ferro,Salto Linea
+1289,MT Ofensivo,MT OFENSIVO 023,1477,1467,1495,1,,Negativo,,,,,25,Jorge Newbery,Ferro,Pared
+1290,MT Ofensivo,MT OFENSIVO 023,1477,1467,1495,5,,Negativo,,,,,25,Jorge Newbery,Ferro,Pared
+1291,MT Ofensivo,MT OFENSIVO 023,1477,1467,1495,10,,Negativo,,,,,25,Jorge Newbery,Ferro,Pared
+1292,MT Ofensivo,MT OFENSIVO 023,1477,1467,1495,11,,Negativo,,,,,25,Jorge Newbery,Ferro,Pared
+1293,MT Ofensivo,MT OFENSIVO 023,1477,1467,1495,14,,Negativo,,,,,25,Jorge Newbery,Ferro,Pared
+1294,MT Ofensivo,MT OFENSIVO 024,1703,1693,1712,1,,Negativo,,,,,25,Jorge Newbery,Ferro,Pared
+1295,MT Ofensivo,MT OFENSIVO 024,1703,1693,1712,4,,Negativo,,,,,25,Jorge Newbery,Ferro,Pared
+1296,MT Ofensivo,MT OFENSIVO 024,1703,1693,1712,7,,Negativo,,,,,25,Jorge Newbery,Ferro,Pared
+1297,MT Ofensivo,MT OFENSIVO 024,1703,1693,1712,17,,Negativo,,,,,25,Jorge Newbery,Ferro,Pared
+1298,MT Ofensivo,MT OFENSIVO 024,1703,1693,1712,19,,Negativo,,,,,25,Jorge Newbery,Ferro,Pared
+1299,MT Ofensivo,MT OFENSIVO 025,2196,2186,2206,1,,Negativo,,,,,25,Jorge Newbery,Ferro,Pivot
+1300,MT Ofensivo,MT OFENSIVO 025,2196,2186,2206,5,,Negativo,,,,,25,Jorge Newbery,Ferro,Pivot
+1301,MT Ofensivo,MT OFENSIVO 025,2196,2186,2206,10,,Negativo,,,,,25,Jorge Newbery,Ferro,Pivot
+1302,MT Ofensivo,MT OFENSIVO 025,2196,2186,2206,11,,Negativo,,,,,25,Jorge Newbery,Ferro,Pivot
+1303,MT Ofensivo,MT OFENSIVO 025,2196,2186,2206,14,,Negativo,,,,,25,Jorge Newbery,Ferro,Pivot
+1304,MT Ofensivo,MT OFENSIVO 026,2458,2448,2467,1,,Positivo,,,,,25,Jorge Newbery,Ferro,Pivot
+1305,MT Ofensivo,MT OFENSIVO 026,2458,2448,2467,5,,Positivo,,,,,25,Jorge Newbery,Ferro,Pivot
+1306,MT Ofensivo,MT OFENSIVO 026,2458,2448,2467,10,,Positivo,,,,,25,Jorge Newbery,Ferro,Pivot
+1307,MT Ofensivo,MT OFENSIVO 026,2458,2448,2467,11,,Positivo,,,,,25,Jorge Newbery,Ferro,Pivot
+1308,MT Ofensivo,MT OFENSIVO 026,2458,2448,2467,14,,Positivo,,,,,25,Jorge Newbery,Ferro,Pivot
+1309,MT Ofensivo,MT OFENSIVO 027,2544,2534,2555,1,,Positivo,,,,,25,Jorge Newbery,Ferro,Diagonal
+1310,MT Ofensivo,MT OFENSIVO 027,2544,2534,2555,5,,Positivo,,,,,25,Jorge Newbery,Ferro,Diagonal
+1311,MT Ofensivo,MT OFENSIVO 027,2544,2534,2555,10,,Positivo,,,,,25,Jorge Newbery,Ferro,Diagonal
+1312,MT Ofensivo,MT OFENSIVO 027,2544,2534,2555,11,,Positivo,,,,,25,Jorge Newbery,Ferro,Diagonal
+1313,MT Ofensivo,MT OFENSIVO 027,2544,2534,2555,14,,Positivo,,,,,25,Jorge Newbery,Ferro,Diagonal
+1314,MT Ofensivo,MT OFENSIVO 028,2671,2661,2678,1,,Positivo,,,,,25,Jorge Newbery,Ferro,Diagonal
+1315,MT Ofensivo,MT OFENSIVO 028,2671,2661,2678,4,,Positivo,,,,,25,Jorge Newbery,Ferro,Diagonal
+1316,MT Ofensivo,MT OFENSIVO 028,2671,2661,2678,7,,Positivo,,,,,25,Jorge Newbery,Ferro,Diagonal
+1317,MT Ofensivo,MT OFENSIVO 028,2671,2661,2678,17,,Positivo,,,,,25,Jorge Newbery,Ferro,Diagonal
+1318,MT Ofensivo,MT OFENSIVO 028,2671,2661,2678,19,,Positivo,,,,,25,Jorge Newbery,Ferro,Diagonal
+1319,MT Ofensivo,MT OFENSIVO 029,2695,2685,2707,1,,Negativo,,,,,25,Jorge Newbery,Ferro,Diagonal
+1320,MT Ofensivo,MT OFENSIVO 029,2695,2685,2707,4,,Negativo,,,,,25,Jorge Newbery,Ferro,Diagonal
+1321,MT Ofensivo,MT OFENSIVO 029,2695,2685,2707,7,,Negativo,,,,,25,Jorge Newbery,Ferro,Diagonal
+1322,MT Ofensivo,MT OFENSIVO 029,2695,2685,2707,17,,Negativo,,,,,25,Jorge Newbery,Ferro,Diagonal
+1323,MT Ofensivo,MT OFENSIVO 029,2695,2685,2707,19,,Negativo,,,,,25,Jorge Newbery,Ferro,Diagonal
+1324,MT Ofensivo,MT OFENSIVO 030,2726,2716,2737,1,,Negativo,,,,,25,Jorge Newbery,Ferro,Corte
+1325,MT Ofensivo,MT OFENSIVO 030,2726,2716,2737,4,,Negativo,,,,,25,Jorge Newbery,Ferro,Corte
+1326,MT Ofensivo,MT OFENSIVO 030,2726,2716,2737,7,,Negativo,,,,,25,Jorge Newbery,Ferro,Corte
+1327,MT Ofensivo,MT OFENSIVO 030,2726,2716,2737,17,,Negativo,,,,,25,Jorge Newbery,Ferro,Corte
+1328,MT Ofensivo,MT OFENSIVO 030,2726,2716,2737,19,,Negativo,,,,,25,Jorge Newbery,Ferro,Corte
+1329,MT Ofensivo,MT OFENSIVO 031,2926,2916,2933,1,,Positivo,,,,,25,Jorge Newbery,Ferro,Diagonal
+1330,MT Ofensivo,MT OFENSIVO 031,2926,2916,2933,4,,Positivo,,,,,25,Jorge Newbery,Ferro,Diagonal
+1331,MT Ofensivo,MT OFENSIVO 031,2926,2916,2933,11,,Positivo,,,,,25,Jorge Newbery,Ferro,Diagonal
+1332,MT Ofensivo,MT OFENSIVO 031,2926,2916,2933,19,,Positivo,,,,,25,Jorge Newbery,Ferro,Diagonal
+1333,MT Ofensivo,MT OFENSIVO 031,2926,2916,2933,21,,Positivo,,,,,25,Jorge Newbery,Ferro,Diagonal
+1334,MT Ofensivo,MT OFENSIVO 032,3202,3192,3215,1,,Negativo,,,,,25,Jorge Newbery,Ferro,Paralela
+1335,MT Ofensivo,MT OFENSIVO 032,3202,3192,3215,5,,Negativo,,,,,25,Jorge Newbery,Ferro,Paralela
+1336,MT Ofensivo,MT OFENSIVO 032,3202,3192,3215,10,,Negativo,,,,,25,Jorge Newbery,Ferro,Paralela
+1337,MT Ofensivo,MT OFENSIVO 032,3202,3192,3215,14,,Negativo,,,,,25,Jorge Newbery,Ferro,Paralela
+1338,MT Ofensivo,MT OFENSIVO 033,3262,3252,3276,1,,Negativo,,,,,25,Jorge Newbery,Ferro,Salto Linea
+1339,MT Ofensivo,MT OFENSIVO 033,3262,3252,3276,5,,Negativo,,,,,25,Jorge Newbery,Ferro,Salto Linea
+1340,MT Ofensivo,MT OFENSIVO 033,3262,3252,3276,10,,Negativo,,,,,25,Jorge Newbery,Ferro,Salto Linea
+1341,MT Ofensivo,MT OFENSIVO 033,3262,3252,3276,11,,Negativo,,,,,25,Jorge Newbery,Ferro,Salto Linea
+1342,MT Ofensivo,MT OFENSIVO 033,3262,3252,3276,14,,Negativo,,,,,25,Jorge Newbery,Ferro,Salto Linea
+1343,MT Ofensivo,MT OFENSIVO 034,3548,3538,3554,1,,Negativo,,,,,25,Jorge Newbery,Ferro,Salto Linea
+1344,MT Ofensivo,MT OFENSIVO 034,3548,3538,3554,4,,Negativo,,,,,25,Jorge Newbery,Ferro,Salto Linea
+1345,MT Ofensivo,MT OFENSIVO 034,3548,3538,3554,7,,Negativo,,,,,25,Jorge Newbery,Ferro,Salto Linea
+1346,MT Ofensivo,MT OFENSIVO 034,3548,3538,3554,10,,Negativo,,,,,25,Jorge Newbery,Ferro,Salto Linea
+1347,MT Ofensivo,MT OFENSIVO 034,3548,3538,3554,17,,Negativo,,,,,25,Jorge Newbery,Ferro,Salto Linea
+1348,MT Ofensivo,MT OFENSIVO 035,3733,3723,3739,1,,Negativo,,,,,25,Jorge Newbery,Ferro,Salto Linea
+1349,MT Ofensivo,MT OFENSIVO 035,3733,3723,3739,4,,Negativo,,,,,25,Jorge Newbery,Ferro,Salto Linea
+1350,MT Ofensivo,MT OFENSIVO 035,3733,3723,3739,7,,Negativo,,,,,25,Jorge Newbery,Ferro,Salto Linea
+1351,MT Ofensivo,MT OFENSIVO 035,3733,3723,3739,10,,Negativo,,,,,25,Jorge Newbery,Ferro,Salto Linea
+1352,MT Ofensivo,MT OFENSIVO 035,3733,3723,3739,17,,Negativo,,,,,25,Jorge Newbery,Ferro,Salto Linea
+1353,MT Ofensivo,MT OFENSIVO 036,3825,3815,3834,1,,Positivo,,,,,25,Jorge Newbery,Ferro,Diagonal
+1354,MT Ofensivo,MT OFENSIVO 036,3825,3815,3834,5,,Positivo,,,,,25,Jorge Newbery,Ferro,Diagonal
+1355,MT Ofensivo,MT OFENSIVO 036,3825,3815,3834,10,,Positivo,,,,,25,Jorge Newbery,Ferro,Diagonal
+1356,MT Ofensivo,MT OFENSIVO 036,3825,3815,3834,11,,Positivo,,,,,25,Jorge Newbery,Ferro,Diagonal
+1357,MT Ofensivo,MT OFENSIVO 036,3825,3815,3834,14,,Positivo,,,,,25,Jorge Newbery,Ferro,Diagonal
+1358,MT Ofensivo,MT OFENSIVO 037,3875,3865,3893,1,,Negativo,,,,,25,Jorge Newbery,Ferro,Corte
+1359,MT Ofensivo,MT OFENSIVO 037,3875,3865,3893,5,,Negativo,,,,,25,Jorge Newbery,Ferro,Corte
+1360,MT Ofensivo,MT OFENSIVO 037,3875,3865,3893,10,,Negativo,,,,,25,Jorge Newbery,Ferro,Corte
+1361,MT Ofensivo,MT OFENSIVO 037,3875,3865,3893,11,,Negativo,,,,,25,Jorge Newbery,Ferro,Corte
+1362,MT Ofensivo,MT OFENSIVO 037,3875,3865,3893,14,,Negativo,,,,,25,Jorge Newbery,Ferro,Corte
+1363,Transición Ofensiva,TRANSICION OFENSIVA 001,1267,1257,1284,1,,,,,3 vs 2,Larga (+3),25,Jorge Newbery,Ferro,Perdida
+1364,Transición Ofensiva,TRANSICION OFENSIVA 001,1267,1257,1284,5,,,,,3 vs 2,Larga (+3),25,Jorge Newbery,Ferro,Perdida
+1365,Transición Ofensiva,TRANSICION OFENSIVA 001,1267,1257,1284,10,,,,,3 vs 2,Larga (+3),25,Jorge Newbery,Ferro,Perdida
+1366,Transición Ofensiva,TRANSICION OFENSIVA 001,1267,1257,1284,14,,,,,3 vs 2,Larga (+3),25,Jorge Newbery,Ferro,Perdida
+1367,Transición Ofensiva,TRANSICION OFENSIVA 001,1267,1257,1284,17,,,,,3 vs 2,Larga (+3),25,Jorge Newbery,Ferro,Perdida
+1368,Transición Ofensiva,TRANSICION OFENSIVA 002,1987,1977,2004,1,,,,,3 vs 2,Corta (H 3),25,Jorge Newbery,Ferro,Tiro
+1369,Transición Ofensiva,TRANSICION OFENSIVA 002,1987,1977,2004,5,,,,,3 vs 2,Corta (H 3),25,Jorge Newbery,Ferro,Tiro
+1370,Transición Ofensiva,TRANSICION OFENSIVA 002,1987,1977,2004,11,,,,,3 vs 2,Corta (H 3),25,Jorge Newbery,Ferro,Tiro
+1371,Transición Ofensiva,TRANSICION OFENSIVA 002,1987,1977,2004,14,,,,,3 vs 2,Corta (H 3),25,Jorge Newbery,Ferro,Tiro
+1372,Transición Ofensiva,TRANSICION OFENSIVA 002,1987,1977,2004,19,,,,,3 vs 2,Corta (H 3),25,Jorge Newbery,Ferro,Tiro
+1373,Transición Ofensiva,TRANSICION OFENSIVA 003,2210,2200,2220,1,,,,,3 vs 2,Corta (H 3),25,Jorge Newbery,Ferro,Perdida
+1374,Transición Ofensiva,TRANSICION OFENSIVA 003,2210,2200,2220,5,,,,,3 vs 2,Corta (H 3),25,Jorge Newbery,Ferro,Perdida
+1375,Transición Ofensiva,TRANSICION OFENSIVA 003,2210,2200,2220,10,,,,,3 vs 2,Corta (H 3),25,Jorge Newbery,Ferro,Perdida
+1376,Transición Ofensiva,TRANSICION OFENSIVA 003,2210,2200,2220,11,,,,,3 vs 2,Corta (H 3),25,Jorge Newbery,Ferro,Perdida
+1377,Transición Ofensiva,TRANSICION OFENSIVA 003,2210,2200,2220,14,,,,,3 vs 2,Corta (H 3),25,Jorge Newbery,Ferro,Perdida
+1378,Transición Ofensiva,TRANSICION OFENSIVA 004,2421,2411,2428,1,,,,,3 vs 2,Larga (+3),25,Jorge Newbery,Ferro,
+1379,Transición Ofensiva,TRANSICION OFENSIVA 004,2421,2411,2428,5,,,,,3 vs 2,Larga (+3),25,Jorge Newbery,Ferro,
+1380,Transición Ofensiva,TRANSICION OFENSIVA 004,2421,2411,2428,10,,,,,3 vs 2,Larga (+3),25,Jorge Newbery,Ferro,
+1381,Transición Ofensiva,TRANSICION OFENSIVA 004,2421,2411,2428,11,,,,,3 vs 2,Larga (+3),25,Jorge Newbery,Ferro,
+1382,Transición Ofensiva,TRANSICION OFENSIVA 004,2421,2411,2428,14,,,,,3 vs 2,Larga (+3),25,Jorge Newbery,Ferro,
+1383,Transición Ofensiva,TRANSICION OFENSIVA 005,4484,4474,4496,1,,,,,,Corta (H 3),25,Jorge Newbery,Ferro,Gol
+1384,Transición Ofensiva,TRANSICION OFENSIVA 005,4484,4474,4496,5,,,,,,Corta (H 3),25,Jorge Newbery,Ferro,Gol
+1385,Transición Ofensiva,TRANSICION OFENSIVA 005,4484,4474,4496,7,,,,,,Corta (H 3),25,Jorge Newbery,Ferro,Gol
+1386,Transición Ofensiva,TRANSICION OFENSIVA 005,4484,4474,4496,11,,,,,,Corta (H 3),25,Jorge Newbery,Ferro,Gol
+1387,Transición Ofensiva,TRANSICION OFENSIVA 005,4484,4474,4496,14,,,,,,Corta (H 3),25,Jorge Newbery,Ferro,Gol
+1388,MT Defensivo,MT DEFENSIVO 001,93,83,101,1,,Positivo,,,,,25,Jorge Newbery,Ferro,Repliegue
+1389,MT Defensivo,MT DEFENSIVO 001,93,83,101,4,,Positivo,,,,,25,Jorge Newbery,Ferro,Repliegue
+1390,MT Defensivo,MT DEFENSIVO 001,93,83,101,7,,Positivo,,,,,25,Jorge Newbery,Ferro,Repliegue
+1391,MT Defensivo,MT DEFENSIVO 001,93,83,101,17,,Positivo,,,,,25,Jorge Newbery,Ferro,Repliegue
+1392,MT Defensivo,MT DEFENSIVO 001,93,83,101,19,,Positivo,,,,,25,Jorge Newbery,Ferro,Repliegue
+1393,MT Defensivo,MT DEFENSIVO 002,137,127,151,1,,Positivo,,,,,25,Jorge Newbery,Ferro,Repliegue
+1394,MT Defensivo,MT DEFENSIVO 002,137,127,151,4,,Positivo,,,,,25,Jorge Newbery,Ferro,Repliegue
+1395,MT Defensivo,MT DEFENSIVO 002,137,127,151,7,,Positivo,,,,,25,Jorge Newbery,Ferro,Repliegue
+1396,MT Defensivo,MT DEFENSIVO 002,137,127,151,17,,Positivo,,,,,25,Jorge Newbery,Ferro,Repliegue
+1397,MT Defensivo,MT DEFENSIVO 002,137,127,151,19,,Positivo,,,,,25,Jorge Newbery,Ferro,Repliegue
+1398,MT Defensivo,MT DEFENSIVO 003,187,177,196,1,,Positivo,,,,,25,Jorge Newbery,Ferro,Lectura Salto
+1399,MT Defensivo,MT DEFENSIVO 003,187,177,196,4,,Positivo,,,,,25,Jorge Newbery,Ferro,Lectura Salto
+1400,MT Defensivo,MT DEFENSIVO 003,187,177,196,7,,Positivo,,,,,25,Jorge Newbery,Ferro,Lectura Salto
+1401,MT Defensivo,MT DEFENSIVO 003,187,177,196,17,,Positivo,,,,,25,Jorge Newbery,Ferro,Lectura Salto
+1402,MT Defensivo,MT DEFENSIVO 003,187,177,196,19,,Positivo,,,,,25,Jorge Newbery,Ferro,Lectura Salto
+1403,MT Defensivo,MT DEFENSIVO 004,221,211,237,1,,Negativo,,,,,25,Jorge Newbery,Ferro,Cobertura
+1404,MT Defensivo,MT DEFENSIVO 004,221,211,237,4,,Negativo,,,,,25,Jorge Newbery,Ferro,Cobertura
+1405,MT Defensivo,MT DEFENSIVO 004,221,211,237,7,,Negativo,,,,,25,Jorge Newbery,Ferro,Cobertura
+1406,MT Defensivo,MT DEFENSIVO 004,221,211,237,17,,Negativo,,,,,25,Jorge Newbery,Ferro,Cobertura
+1407,MT Defensivo,MT DEFENSIVO 004,221,211,237,19,,Negativo,,,,,25,Jorge Newbery,Ferro,Cobertura
+1408,MT Defensivo,MT DEFENSIVO 005,271,261,291,1,,Positivo,,,,,25,Jorge Newbery,Ferro,Repliegue
+1409,MT Defensivo,MT DEFENSIVO 005,271,261,291,4,,Positivo,,,,,25,Jorge Newbery,Ferro,Repliegue
+1410,MT Defensivo,MT DEFENSIVO 005,271,261,291,7,,Positivo,,,,,25,Jorge Newbery,Ferro,Repliegue
+1411,MT Defensivo,MT DEFENSIVO 005,271,261,291,17,,Positivo,,,,,25,Jorge Newbery,Ferro,Repliegue
+1412,MT Defensivo,MT DEFENSIVO 005,271,261,291,19,,Positivo,,,,,25,Jorge Newbery,Ferro,Repliegue
+1413,MT Defensivo,MT DEFENSIVO 006,541,531,560,1,,Positivo,,,,,25,Jorge Newbery,Ferro,Repliegue
+1414,MT Defensivo,MT DEFENSIVO 006,541,531,560,5,,Positivo,,,,,25,Jorge Newbery,Ferro,Repliegue
+1415,MT Defensivo,MT DEFENSIVO 006,541,531,560,10,,Positivo,,,,,25,Jorge Newbery,Ferro,Repliegue
+1416,MT Defensivo,MT DEFENSIVO 006,541,531,560,11,,Positivo,,,,,25,Jorge Newbery,Ferro,Repliegue
+1417,MT Defensivo,MT DEFENSIVO 006,541,531,560,14,,Positivo,,,,,25,Jorge Newbery,Ferro,Repliegue
+1418,MT Defensivo,MT DEFENSIVO 007,704,694,712,1,,Negativo,,,,,25,Jorge Newbery,Ferro,Repliegue
+1419,MT Defensivo,MT DEFENSIVO 007,704,694,712,4,,Negativo,,,,,25,Jorge Newbery,Ferro,Repliegue
+1420,MT Defensivo,MT DEFENSIVO 007,704,694,712,7,,Negativo,,,,,25,Jorge Newbery,Ferro,Repliegue
+1421,MT Defensivo,MT DEFENSIVO 007,704,694,712,17,,Negativo,,,,,25,Jorge Newbery,Ferro,Repliegue
+1422,MT Defensivo,MT DEFENSIVO 007,704,694,712,19,,Negativo,,,,,25,Jorge Newbery,Ferro,Repliegue
+1423,MT Defensivo,MT DEFENSIVO 008,725,715,743,1,,Positivo,,,,,25,Jorge Newbery,Ferro,Lectura Salto
+1424,MT Defensivo,MT DEFENSIVO 008,725,715,743,4,,Positivo,,,,,25,Jorge Newbery,Ferro,Lectura Salto
+1425,MT Defensivo,MT DEFENSIVO 008,725,715,743,7,,Positivo,,,,,25,Jorge Newbery,Ferro,Lectura Salto
+1426,MT Defensivo,MT DEFENSIVO 008,725,715,743,17,,Positivo,,,,,25,Jorge Newbery,Ferro,Lectura Salto
+1427,MT Defensivo,MT DEFENSIVO 008,725,715,743,19,,Positivo,,,,,25,Jorge Newbery,Ferro,Lectura Salto
+1428,MT Defensivo,MT DEFENSIVO 009,778,768,788,1,,Positivo,,,,,25,Jorge Newbery,Ferro,Lectura Salto
+1429,MT Defensivo,MT DEFENSIVO 009,778,768,788,4,,Positivo,,,,,25,Jorge Newbery,Ferro,Lectura Salto
+1430,MT Defensivo,MT DEFENSIVO 009,778,768,788,7,,Positivo,,,,,25,Jorge Newbery,Ferro,Lectura Salto
+1431,MT Defensivo,MT DEFENSIVO 009,778,768,788,17,,Positivo,,,,,25,Jorge Newbery,Ferro,Lectura Salto
+1432,MT Defensivo,MT DEFENSIVO 009,778,768,788,19,,Positivo,,,,,25,Jorge Newbery,Ferro,Lectura Salto
+1433,MT Defensivo,MT DEFENSIVO 010,795,785,803,1,,Positivo,,,,,25,Jorge Newbery,Ferro,Repliegue
+1434,MT Defensivo,MT DEFENSIVO 010,795,785,803,4,,Positivo,,,,,25,Jorge Newbery,Ferro,Repliegue
+1435,MT Defensivo,MT DEFENSIVO 010,795,785,803,7,,Positivo,,,,,25,Jorge Newbery,Ferro,Repliegue
+1436,MT Defensivo,MT DEFENSIVO 010,795,785,803,17,,Positivo,,,,,25,Jorge Newbery,Ferro,Repliegue
+1437,MT Defensivo,MT DEFENSIVO 010,795,785,803,19,,Positivo,,,,,25,Jorge Newbery,Ferro,Repliegue
+1438,MT Defensivo,MT DEFENSIVO 011,833,823,845,1,,Positivo,,,,,25,Jorge Newbery,Ferro,Lectura Salto
+1439,MT Defensivo,MT DEFENSIVO 011,833,823,845,4,,Positivo,,,,,25,Jorge Newbery,Ferro,Lectura Salto
+1440,MT Defensivo,MT DEFENSIVO 011,833,823,845,7,,Positivo,,,,,25,Jorge Newbery,Ferro,Lectura Salto
+1441,MT Defensivo,MT DEFENSIVO 011,833,823,845,17,,Positivo,,,,,25,Jorge Newbery,Ferro,Lectura Salto
+1442,MT Defensivo,MT DEFENSIVO 011,833,823,845,19,,Positivo,,,,,25,Jorge Newbery,Ferro,Lectura Salto
+1443,MT Defensivo,MT DEFENSIVO 012,862,852,873,1,,Positivo,,,,,25,Jorge Newbery,Ferro,Cobertura
+1444,MT Defensivo,MT DEFENSIVO 012,862,852,873,4,,Positivo,,,,,25,Jorge Newbery,Ferro,Cobertura
+1445,MT Defensivo,MT DEFENSIVO 012,862,852,873,7,,Positivo,,,,,25,Jorge Newbery,Ferro,Cobertura
+1446,MT Defensivo,MT DEFENSIVO 012,862,852,873,17,,Positivo,,,,,25,Jorge Newbery,Ferro,Cobertura
+1447,MT Defensivo,MT DEFENSIVO 012,862,852,873,19,,Positivo,,,,,25,Jorge Newbery,Ferro,Cobertura
+1448,MT Defensivo,MT DEFENSIVO 013,921,911,930,1,,Positivo,,,,,25,Jorge Newbery,Ferro,Repliegue
+1449,MT Defensivo,MT DEFENSIVO 013,921,911,930,4,,Positivo,,,,,25,Jorge Newbery,Ferro,Repliegue
+1450,MT Defensivo,MT DEFENSIVO 013,921,911,930,17,,Positivo,,,,,25,Jorge Newbery,Ferro,Repliegue
+1451,MT Defensivo,MT DEFENSIVO 013,921,911,930,19,,Positivo,,,,,25,Jorge Newbery,Ferro,Repliegue
+1452,MT Defensivo,MT DEFENSIVO 013,921,911,930,21,,Positivo,,,,,25,Jorge Newbery,Ferro,Repliegue
+1453,MT Defensivo,MT DEFENSIVO 014,952,942,973,1,,Positivo,,,,,25,Jorge Newbery,Ferro,Repliegue
+1454,MT Defensivo,MT DEFENSIVO 014,952,942,973,4,,Positivo,,,,,25,Jorge Newbery,Ferro,Repliegue
+1455,MT Defensivo,MT DEFENSIVO 014,952,942,973,17,,Positivo,,,,,25,Jorge Newbery,Ferro,Repliegue
+1456,MT Defensivo,MT DEFENSIVO 014,952,942,973,19,,Positivo,,,,,25,Jorge Newbery,Ferro,Repliegue
+1457,MT Defensivo,MT DEFENSIVO 014,952,942,973,21,,Positivo,,,,,25,Jorge Newbery,Ferro,Repliegue
+1458,MT Defensivo,MT DEFENSIVO 015,1158,1148,1170,1,,Positivo,,,,,25,Jorge Newbery,Ferro,Cobertura
+1459,MT Defensivo,MT DEFENSIVO 015,1158,1148,1170,5,,Positivo,,,,,25,Jorge Newbery,Ferro,Cobertura
+1460,MT Defensivo,MT DEFENSIVO 015,1158,1148,1170,10,,Positivo,,,,,25,Jorge Newbery,Ferro,Cobertura
+1461,MT Defensivo,MT DEFENSIVO 015,1158,1148,1170,14,,Positivo,,,,,25,Jorge Newbery,Ferro,Cobertura
+1462,MT Defensivo,MT DEFENSIVO 015,1158,1148,1170,17,,Positivo,,,,,25,Jorge Newbery,Ferro,Cobertura
+1463,MT Defensivo,MT DEFENSIVO 016,1181,1171,1200,1,,Negativo,,,,,25,Jorge Newbery,Ferro,Repliegue
+1464,MT Defensivo,MT DEFENSIVO 016,1181,1171,1200,5,,Negativo,,,,,25,Jorge Newbery,Ferro,Repliegue
+1465,MT Defensivo,MT DEFENSIVO 016,1181,1171,1200,10,,Negativo,,,,,25,Jorge Newbery,Ferro,Repliegue
+1466,MT Defensivo,MT DEFENSIVO 016,1181,1171,1200,14,,Negativo,,,,,25,Jorge Newbery,Ferro,Repliegue
+1467,MT Defensivo,MT DEFENSIVO 016,1181,1171,1200,17,,Negativo,,,,,25,Jorge Newbery,Ferro,Repliegue
+1468,MT Defensivo,MT DEFENSIVO 017,1230,1220,1242,1,,Negativo,,,,,25,Jorge Newbery,Ferro,Cambio Marca
+1469,MT Defensivo,MT DEFENSIVO 017,1230,1220,1242,5,,Negativo,,,,,25,Jorge Newbery,Ferro,Cambio Marca
+1470,MT Defensivo,MT DEFENSIVO 017,1230,1220,1242,10,,Negativo,,,,,25,Jorge Newbery,Ferro,Cambio Marca
+1471,MT Defensivo,MT DEFENSIVO 017,1230,1220,1242,14,,Negativo,,,,,25,Jorge Newbery,Ferro,Cambio Marca
+1472,MT Defensivo,MT DEFENSIVO 017,1230,1220,1242,17,,Negativo,,,,,25,Jorge Newbery,Ferro,Cambio Marca
+1473,MT Defensivo,MT DEFENSIVO 018,2149,2139,2166,1,,Positivo,,,,,25,Jorge Newbery,Ferro,Cobertura
+1474,MT Defensivo,MT DEFENSIVO 018,2149,2139,2166,5,,Positivo,,,,,25,Jorge Newbery,Ferro,Cobertura
+1475,MT Defensivo,MT DEFENSIVO 018,2149,2139,2166,10,,Positivo,,,,,25,Jorge Newbery,Ferro,Cobertura
+1476,MT Defensivo,MT DEFENSIVO 018,2149,2139,2166,11,,Positivo,,,,,25,Jorge Newbery,Ferro,Cobertura
+1477,MT Defensivo,MT DEFENSIVO 018,2149,2139,2166,14,,Positivo,,,,,25,Jorge Newbery,Ferro,Cobertura
+1478,MT Defensivo,MT DEFENSIVO 019,2302,2292,2315,1,,Positivo,,,,,25,Jorge Newbery,Ferro,Repliegue
+1479,MT Defensivo,MT DEFENSIVO 019,2302,2292,2315,5,,Positivo,,,,,25,Jorge Newbery,Ferro,Repliegue
+1480,MT Defensivo,MT DEFENSIVO 019,2302,2292,2315,10,,Positivo,,,,,25,Jorge Newbery,Ferro,Repliegue
+1481,MT Defensivo,MT DEFENSIVO 019,2302,2292,2315,11,,Positivo,,,,,25,Jorge Newbery,Ferro,Repliegue
+1482,MT Defensivo,MT DEFENSIVO 019,2302,2292,2315,14,,Positivo,,,,,25,Jorge Newbery,Ferro,Repliegue
+1483,MT Defensivo,MT DEFENSIVO 020,2407,2397,2420,1,,Positivo,,,,,25,Jorge Newbery,Ferro,Lectura Salto
+1484,MT Defensivo,MT DEFENSIVO 020,2407,2397,2420,5,,Positivo,,,,,25,Jorge Newbery,Ferro,Lectura Salto
+1485,MT Defensivo,MT DEFENSIVO 020,2407,2397,2420,10,,Positivo,,,,,25,Jorge Newbery,Ferro,Lectura Salto
+1486,MT Defensivo,MT DEFENSIVO 020,2407,2397,2420,11,,Positivo,,,,,25,Jorge Newbery,Ferro,Lectura Salto
+1487,MT Defensivo,MT DEFENSIVO 020,2407,2397,2420,14,,Positivo,,,,,25,Jorge Newbery,Ferro,Lectura Salto
+1488,MT Defensivo,MT DEFENSIVO 021,2559,2549,2567,1,,Positivo,,,,,25,Jorge Newbery,Ferro,Lectura Salto
+1489,MT Defensivo,MT DEFENSIVO 021,2559,2549,2567,5,,Positivo,,,,,25,Jorge Newbery,Ferro,Lectura Salto
+1490,MT Defensivo,MT DEFENSIVO 021,2559,2549,2567,10,,Positivo,,,,,25,Jorge Newbery,Ferro,Lectura Salto
+1491,MT Defensivo,MT DEFENSIVO 021,2559,2549,2567,11,,Positivo,,,,,25,Jorge Newbery,Ferro,Lectura Salto
+1492,MT Defensivo,MT DEFENSIVO 021,2559,2549,2567,14,,Positivo,,,,,25,Jorge Newbery,Ferro,Lectura Salto
+1493,MT Defensivo,MT DEFENSIVO 022,2713,2703,2725,1,,Positivo,,,,,25,Jorge Newbery,Ferro,Repliegue
+1494,MT Defensivo,MT DEFENSIVO 022,2713,2703,2725,4,,Positivo,,,,,25,Jorge Newbery,Ferro,Repliegue
+1495,MT Defensivo,MT DEFENSIVO 022,2713,2703,2725,7,,Positivo,,,,,25,Jorge Newbery,Ferro,Repliegue
+1496,MT Defensivo,MT DEFENSIVO 022,2713,2703,2725,17,,Positivo,,,,,25,Jorge Newbery,Ferro,Repliegue
+1497,MT Defensivo,MT DEFENSIVO 022,2713,2703,2725,19,,Positivo,,,,,25,Jorge Newbery,Ferro,Repliegue
+1498,MT Defensivo,MT DEFENSIVO 023,2751,2741,2761,1,,Positivo,,,,,25,Jorge Newbery,Ferro,Cobertura
+1499,MT Defensivo,MT DEFENSIVO 023,2751,2741,2761,4,,Positivo,,,,,25,Jorge Newbery,Ferro,Cobertura
+1500,MT Defensivo,MT DEFENSIVO 023,2751,2741,2761,7,,Positivo,,,,,25,Jorge Newbery,Ferro,Cobertura
+1501,MT Defensivo,MT DEFENSIVO 023,2751,2741,2761,17,,Positivo,,,,,25,Jorge Newbery,Ferro,Cobertura
+1502,MT Defensivo,MT DEFENSIVO 023,2751,2741,2761,19,,Positivo,,,,,25,Jorge Newbery,Ferro,Cobertura
+1503,MT Defensivo,MT DEFENSIVO 024,3237,3227,3244,1,,Positivo,,,,,25,Jorge Newbery,Ferro,Cobertura
+1504,MT Defensivo,MT DEFENSIVO 024,3237,3227,3244,5,,Positivo,,,,,25,Jorge Newbery,Ferro,Cobertura
+1505,MT Defensivo,MT DEFENSIVO 024,3237,3227,3244,10,,Positivo,,,,,25,Jorge Newbery,Ferro,Cobertura
+1506,MT Defensivo,MT DEFENSIVO 024,3237,3227,3244,11,,Positivo,,,,,25,Jorge Newbery,Ferro,Cobertura
+1507,MT Defensivo,MT DEFENSIVO 024,3237,3227,3244,14,,Positivo,,,,,25,Jorge Newbery,Ferro,Cobertura
+1508,MT Defensivo,MT DEFENSIVO 025,3336,3326,3351,1,,Positivo,,,,,25,Jorge Newbery,Ferro,Lectura Salto
+1509,MT Defensivo,MT DEFENSIVO 025,3336,3326,3351,5,,Positivo,,,,,25,Jorge Newbery,Ferro,Lectura Salto
+1510,MT Defensivo,MT DEFENSIVO 025,3336,3326,3351,10,,Positivo,,,,,25,Jorge Newbery,Ferro,Lectura Salto
+1511,MT Defensivo,MT DEFENSIVO 025,3336,3326,3351,11,,Positivo,,,,,25,Jorge Newbery,Ferro,Lectura Salto
+1512,MT Defensivo,MT DEFENSIVO 025,3336,3326,3351,14,,Positivo,,,,,25,Jorge Newbery,Ferro,Lectura Salto
+1513,MT Defensivo,MT DEFENSIVO 026,3610,3600,3623,1,,Positivo,,,,,25,Jorge Newbery,Ferro,Repliegue
+1514,MT Defensivo,MT DEFENSIVO 026,3610,3600,3623,4,,Positivo,,,,,25,Jorge Newbery,Ferro,Repliegue
+1515,MT Defensivo,MT DEFENSIVO 026,3610,3600,3623,7,,Positivo,,,,,25,Jorge Newbery,Ferro,Repliegue
+1516,MT Defensivo,MT DEFENSIVO 026,3610,3600,3623,10,,Positivo,,,,,25,Jorge Newbery,Ferro,Repliegue
+1517,MT Defensivo,MT DEFENSIVO 026,3610,3600,3623,17,,Positivo,,,,,25,Jorge Newbery,Ferro,Repliegue
+1518,MT Defensivo,MT DEFENSIVO 027,3752,3742,3762,1,,Positivo,,,,,25,Jorge Newbery,Ferro,Lectura Salto
+1519,MT Defensivo,MT DEFENSIVO 027,3752,3742,3762,4,,Positivo,,,,,25,Jorge Newbery,Ferro,Lectura Salto
+1520,MT Defensivo,MT DEFENSIVO 027,3752,3742,3762,7,,Positivo,,,,,25,Jorge Newbery,Ferro,Lectura Salto
+1521,MT Defensivo,MT DEFENSIVO 027,3752,3742,3762,10,,Positivo,,,,,25,Jorge Newbery,Ferro,Lectura Salto
+1522,MT Defensivo,MT DEFENSIVO 027,3752,3742,3762,17,,Positivo,,,,,25,Jorge Newbery,Ferro,Lectura Salto
+1523,MT Defensivo,MT DEFENSIVO 028,3909,3899,3917,1,,Positivo,,,,,25,Jorge Newbery,Ferro,Lectura Salto
+1524,MT Defensivo,MT DEFENSIVO 028,3909,3899,3917,5,,Positivo,,,,,25,Jorge Newbery,Ferro,Lectura Salto
+1525,MT Defensivo,MT DEFENSIVO 028,3909,3899,3917,10,,Positivo,,,,,25,Jorge Newbery,Ferro,Lectura Salto
+1526,MT Defensivo,MT DEFENSIVO 028,3909,3899,3917,11,,Positivo,,,,,25,Jorge Newbery,Ferro,Lectura Salto
+1527,MT Defensivo,MT DEFENSIVO 028,3909,3899,3917,14,,Positivo,,,,,25,Jorge Newbery,Ferro,Lectura Salto
+1528,MT Defensivo,MT DEFENSIVO 029,4108,4098,4114,1,,Negativo,,,,,25,Jorge Newbery,Ferro,Lectura Salto
+1529,MT Defensivo,MT DEFENSIVO 029,4108,4098,4114,5,,Negativo,,,,,25,Jorge Newbery,Ferro,Lectura Salto
+1530,MT Defensivo,MT DEFENSIVO 029,4108,4098,4114,7,,Negativo,,,,,25,Jorge Newbery,Ferro,Lectura Salto
+1531,MT Defensivo,MT DEFENSIVO 029,4108,4098,4114,11,,Negativo,,,,,25,Jorge Newbery,Ferro,Lectura Salto
+1532,MT Defensivo,MT DEFENSIVO 029,4108,4098,4114,14,,Negativo,,,,,25,Jorge Newbery,Ferro,Lectura Salto
+1533,MT Defensivo,MT DEFENSIVO 030,4123,4113,4129,1,,Positivo,,,,,25,Jorge Newbery,Ferro,Cobertura
+1534,MT Defensivo,MT DEFENSIVO 030,4123,4113,4129,5,,Positivo,,,,,25,Jorge Newbery,Ferro,Cobertura
+1535,MT Defensivo,MT DEFENSIVO 030,4123,4113,4129,7,,Positivo,,,,,25,Jorge Newbery,Ferro,Cobertura
+1536,MT Defensivo,MT DEFENSIVO 030,4123,4113,4129,11,,Positivo,,,,,25,Jorge Newbery,Ferro,Cobertura
+1537,MT Defensivo,MT DEFENSIVO 030,4123,4113,4129,14,,Positivo,,,,,25,Jorge Newbery,Ferro,Cobertura
+1538,MT Defensivo,MT DEFENSIVO 031,4467,4457,4492,1,,Positivo,,,,,25,Jorge Newbery,Ferro,Repliegue
+1539,MT Defensivo,MT DEFENSIVO 031,4467,4457,4492,5,,Positivo,,,,,25,Jorge Newbery,Ferro,Repliegue
+1540,MT Defensivo,MT DEFENSIVO 031,4467,4457,4492,7,,Positivo,,,,,25,Jorge Newbery,Ferro,Repliegue
+1541,MT Defensivo,MT DEFENSIVO 031,4467,4457,4492,11,,Positivo,,,,,25,Jorge Newbery,Ferro,Repliegue
+1542,MT Defensivo,MT DEFENSIVO 031,4467,4457,4492,14,,Positivo,,,,,25,Jorge Newbery,Ferro,Repliegue
+1543,Transición Defensiva,TRANSICION DEFENSIVA 001,413,403,423,1,,,,,3 vs 2,,25,Jorge Newbery,Ferro,Tiro
+1544,Transición Defensiva,TRANSICION DEFENSIVA 001,413,403,423,5,,,,,3 vs 2,,25,Jorge Newbery,Ferro,Tiro
+1545,Transición Defensiva,TRANSICION DEFENSIVA 001,413,403,423,10,,,,,3 vs 2,,25,Jorge Newbery,Ferro,Tiro
+1546,Transición Defensiva,TRANSICION DEFENSIVA 001,413,403,423,11,,,,,3 vs 2,,25,Jorge Newbery,Ferro,Tiro
+1547,Transición Defensiva,TRANSICION DEFENSIVA 001,413,403,423,14,,,,,3 vs 2,,25,Jorge Newbery,Ferro,Tiro
+1548,Transición Defensiva,TRANSICION DEFENSIVA 002,518,508,531,1,,,,,3 vs 2,,25,Jorge Newbery,Ferro,Repliegue
+1549,Transición Defensiva,TRANSICION DEFENSIVA 002,518,508,531,5,,,,,3 vs 2,,25,Jorge Newbery,Ferro,Repliegue
+1550,Transición Defensiva,TRANSICION DEFENSIVA 002,518,508,531,10,,,,,3 vs 2,,25,Jorge Newbery,Ferro,Repliegue
+1551,Transición Defensiva,TRANSICION DEFENSIVA 002,518,508,531,11,,,,,3 vs 2,,25,Jorge Newbery,Ferro,Repliegue
+1552,Transición Defensiva,TRANSICION DEFENSIVA 002,518,508,531,14,,,,,3 vs 2,,25,Jorge Newbery,Ferro,Repliegue
+1553,Transición Defensiva,TRANSICION DEFENSIVA 003,585,575,595,1,,,,,3 vs 2,Corta (H 3),25,Jorge Newbery,Ferro,Recuperacion
+1554,Transición Defensiva,TRANSICION DEFENSIVA 003,585,575,595,5,,,,,3 vs 2,Corta (H 3),25,Jorge Newbery,Ferro,Recuperacion
+1555,Transición Defensiva,TRANSICION DEFENSIVA 003,585,575,595,10,,,,,3 vs 2,Corta (H 3),25,Jorge Newbery,Ferro,Recuperacion
+1556,Transición Defensiva,TRANSICION DEFENSIVA 003,585,575,595,11,,,,,3 vs 2,Corta (H 3),25,Jorge Newbery,Ferro,Recuperacion
+1557,Transición Defensiva,TRANSICION DEFENSIVA 003,585,575,595,14,,,,,3 vs 2,Corta (H 3),25,Jorge Newbery,Ferro,Recuperacion
+1558,Transición Defensiva,TRANSICION DEFENSIVA 004,1095,1085,1110,1,,,,,3 vs 2,Larga (+3),25,Jorge Newbery,Ferro,Repliegue
+1559,Transición Defensiva,TRANSICION DEFENSIVA 004,1095,1085,1110,5,,,,,3 vs 2,Larga (+3),25,Jorge Newbery,Ferro,Repliegue
+1560,Transición Defensiva,TRANSICION DEFENSIVA 004,1095,1085,1110,10,,,,,3 vs 2,Larga (+3),25,Jorge Newbery,Ferro,Repliegue
+1561,Transición Defensiva,TRANSICION DEFENSIVA 004,1095,1085,1110,14,,,,,3 vs 2,Larga (+3),25,Jorge Newbery,Ferro,Repliegue
+1562,Transición Defensiva,TRANSICION DEFENSIVA 004,1095,1085,1110,17,,,,,3 vs 2,Larga (+3),25,Jorge Newbery,Ferro,Repliegue
+1563,Transición Defensiva,TRANSICION DEFENSIVA 005,1340,1330,1360,1,,,,,1 vs 1,Corta (H 3),25,Jorge Newbery,Ferro,Gol
+1564,Transición Defensiva,TRANSICION DEFENSIVA 005,1340,1330,1360,5,,,,,1 vs 1,Corta (H 3),25,Jorge Newbery,Ferro,Gol
+1565,Transición Defensiva,TRANSICION DEFENSIVA 005,1340,1330,1360,10,,,,,1 vs 1,Corta (H 3),25,Jorge Newbery,Ferro,Gol
+1566,Transición Defensiva,TRANSICION DEFENSIVA 005,1340,1330,1360,14,,,,,1 vs 1,Corta (H 3),25,Jorge Newbery,Ferro,Gol
+1567,Transición Defensiva,TRANSICION DEFENSIVA 005,1340,1330,1360,17,,,,,1 vs 1,Corta (H 3),25,Jorge Newbery,Ferro,Gol
+1568,Transición Defensiva,TRANSICION DEFENSIVA 006,1712,1702,1721,1,,,,,3 vs 2,,25,Jorge Newbery,Ferro,Repliegue
+1569,Transición Defensiva,TRANSICION DEFENSIVA 006,1712,1702,1721,4,,,,,3 vs 2,,25,Jorge Newbery,Ferro,Repliegue
+1570,Transición Defensiva,TRANSICION DEFENSIVA 006,1712,1702,1721,7,,,,,3 vs 2,,25,Jorge Newbery,Ferro,Repliegue
+1571,Transición Defensiva,TRANSICION DEFENSIVA 006,1712,1702,1721,17,,,,,3 vs 2,,25,Jorge Newbery,Ferro,Repliegue
+1572,Transición Defensiva,TRANSICION DEFENSIVA 006,1712,1702,1721,19,,,,,3 vs 2,,25,Jorge Newbery,Ferro,Repliegue
+1573,Transición Defensiva,TRANSICION DEFENSIVA 007,1812,1802,1826,1,,,,,3 vs 2,Corta (H 3),25,Jorge Newbery,Ferro,Tiro
+1574,Transición Defensiva,TRANSICION DEFENSIVA 007,1812,1802,1826,4,,,,,3 vs 2,Corta (H 3),25,Jorge Newbery,Ferro,Tiro
+1575,Transición Defensiva,TRANSICION DEFENSIVA 007,1812,1802,1826,7,,,,,3 vs 2,Corta (H 3),25,Jorge Newbery,Ferro,Tiro
+1576,Transición Defensiva,TRANSICION DEFENSIVA 007,1812,1802,1826,17,,,,,3 vs 2,Corta (H 3),25,Jorge Newbery,Ferro,Tiro
+1577,Transición Defensiva,TRANSICION DEFENSIVA 007,1812,1802,1826,19,,,,,3 vs 2,Corta (H 3),25,Jorge Newbery,Ferro,Tiro
+1578,Transición Defensiva,TRANSICION DEFENSIVA 008,2220,2210,2229,1,,,,,3 vs 2,Corta (H 3),25,Jorge Newbery,Ferro,Recuperacion
+1579,Transición Defensiva,TRANSICION DEFENSIVA 008,2220,2210,2229,5,,,,,3 vs 2,Corta (H 3),25,Jorge Newbery,Ferro,Recuperacion
+1580,Transición Defensiva,TRANSICION DEFENSIVA 008,2220,2210,2229,10,,,,,3 vs 2,Corta (H 3),25,Jorge Newbery,Ferro,Recuperacion
+1581,Transición Defensiva,TRANSICION DEFENSIVA 008,2220,2210,2229,11,,,,,3 vs 2,Corta (H 3),25,Jorge Newbery,Ferro,Recuperacion
+1582,Transición Defensiva,TRANSICION DEFENSIVA 008,2220,2210,2229,14,,,,,3 vs 2,Corta (H 3),25,Jorge Newbery,Ferro,Recuperacion
+1583,Transición Defensiva,TRANSICION DEFENSIVA 009,3554,3544,3573,1,,,,,3 vs 2,Larga (+3),25,Jorge Newbery,Ferro,Repliegue
+1584,Transición Defensiva,TRANSICION DEFENSIVA 009,3554,3544,3573,4,,,,,3 vs 2,Larga (+3),25,Jorge Newbery,Ferro,Repliegue
+1585,Transición Defensiva,TRANSICION DEFENSIVA 009,3554,3544,3573,7,,,,,3 vs 2,Larga (+3),25,Jorge Newbery,Ferro,Repliegue
+1586,Transición Defensiva,TRANSICION DEFENSIVA 009,3554,3544,3573,10,,,,,3 vs 2,Larga (+3),25,Jorge Newbery,Ferro,Repliegue
+1587,Transición Defensiva,TRANSICION DEFENSIVA 009,3554,3544,3573,17,,,,,3 vs 2,Larga (+3),25,Jorge Newbery,Ferro,Repliegue
+1588,Transición Defensiva,TRANSICION DEFENSIVA 010,3739,3729,3752,1,,,,,3 vs 2,Larga (+3),25,Jorge Newbery,Ferro,Repliegue
+1589,Transición Defensiva,TRANSICION DEFENSIVA 010,3739,3729,3752,4,,,,,3 vs 2,Larga (+3),25,Jorge Newbery,Ferro,Repliegue
+1590,Transición Defensiva,TRANSICION DEFENSIVA 010,3739,3729,3752,7,,,,,3 vs 2,Larga (+3),25,Jorge Newbery,Ferro,Repliegue
+1591,Transición Defensiva,TRANSICION DEFENSIVA 010,3739,3729,3752,10,,,,,3 vs 2,Larga (+3),25,Jorge Newbery,Ferro,Repliegue
+1592,Transición Defensiva,TRANSICION DEFENSIVA 010,3739,3729,3752,17,,,,,3 vs 2,Larga (+3),25,Jorge Newbery,Ferro,Repliegue
+1593,Sustituciones,Alineación,0,0,0,,,,,,,,25,Jorge Newbery,Ferro,
+1594,Sustituciones,,1,1,1,,,,19.0,2.0,,,25,Jorge Newbery,Ferro,
+1595,Sustituciones,,1,1,1,,,,17.0,3.0,,,25,Jorge Newbery,Ferro,
+1596,Sustituciones,,1,1,1,,,,7.0,5.0,,,25,Jorge Newbery,Ferro,
+1597,Sustituciones,,377,377,377,,,,5.0,19.0,,,25,Jorge Newbery,Ferro,
+1598,Sustituciones,,377,377,377,,,,10.0,4.0,,,25,Jorge Newbery,Ferro,
+1599,Sustituciones,,377,377,377,,,,11.0,17.0,,,25,Jorge Newbery,Ferro,
+1600,Sustituciones,,377,377,377,,,,14.0,7.0,,,25,Jorge Newbery,Ferro,
+1601,Sustituciones,,652,652,652,,,,17.0,5.0,,,25,Jorge Newbery,Ferro,
+1602,Sustituciones,,652,652,652,,,,7.0,10.0,,,25,Jorge Newbery,Ferro,
+1603,Sustituciones,,652,652,652,,,,19.0,11.0,,,25,Jorge Newbery,Ferro,
+1604,Sustituciones,,652,652,652,,,,4.0,14.0,,,25,Jorge Newbery,Ferro,
+1605,Sustituciones,,917,917,917,,,,21.0,7.0,,,25,Jorge Newbery,Ferro,
+1606,Sustituciones,,989,989,989,,,,10.0,19.0,,,25,Jorge Newbery,Ferro,
+1607,Sustituciones,,1083,1083,1083,,,,5.0,21.0,,,25,Jorge Newbery,Ferro,
+1608,Sustituciones,,1083,1083,1083,,,,14.0,4.0,,,25,Jorge Newbery,Ferro,
+1609,Sustituciones,,1352,1352,1352,,,,11.0,17.0,,,25,Jorge Newbery,Ferro,
+1610,Sustituciones,,1686,1686,1686,,,,4.0,10.0,,,25,Jorge Newbery,Ferro,
+1611,Sustituciones,,1686,1686,1686,,,,17.0,11.0,,,25,Jorge Newbery,Ferro,
+1612,Sustituciones,,1686,1686,1686,,,,19.0,5.0,,,25,Jorge Newbery,Ferro,
+1613,Sustituciones,,1686,1686,1686,,,,7.0,14.0,,,25,Jorge Newbery,Ferro,
+1614,Sustituciones,,1979,1979,1979,,,,5.0,17.0,,,25,Jorge Newbery,Ferro,
+1615,Sustituciones,,1979,1979,1979,,,,11.0,4.0,,,25,Jorge Newbery,Ferro,
+1616,Sustituciones,,1979,1979,1979,,,,14.0,7.0,,,25,Jorge Newbery,Ferro,
+1617,Sustituciones,,2135,2135,2135,,,,10.0,19.0,,,25,Jorge Newbery,Ferro,
+1618,Sustituciones,,2654,2654,2654,,,,4.0,11.0,,,25,Jorge Newbery,Ferro,
+1619,Sustituciones,,2654,2654,2654,,,,17.0,5.0,,,25,Jorge Newbery,Ferro,
+1620,Sustituciones,,2654,2654,2654,,,,19.0,10.0,,,25,Jorge Newbery,Ferro,
+1621,Sustituciones,,2654,2654,2654,,,,7.0,14.0,,,25,Jorge Newbery,Ferro,
+1622,Sustituciones,,2924,2924,2924,,,,21.0,17.0,,,25,Jorge Newbery,Ferro,
+1623,Sustituciones,,2924,2924,2924,,,,11.0,7.0,,,25,Jorge Newbery,Ferro,
+1624,Sustituciones,,2947,2947,2947,,,,5.0,4.0,,,25,Jorge Newbery,Ferro,
+1625,Sustituciones,,3064,3064,3064,,,,10.0,21.0,,,25,Jorge Newbery,Ferro,
+1626,Sustituciones,,3064,3064,3064,,,,14.0,11.0,,,25,Jorge Newbery,Ferro,
+1627,Sustituciones,,3064,3064,3064,,,,7.0,19.0,,,25,Jorge Newbery,Ferro,
+1628,Sustituciones,,3200,3200,3200,,,,11.0,7.0,,,25,Jorge Newbery,Ferro,
+1629,Sustituciones,,3382,3382,3382,,,,17.0,14.0,,,25,Jorge Newbery,Ferro,
+1630,Sustituciones,,3493,3493,3493,,,,4.0,11.0,,,25,Jorge Newbery,Ferro,
+1631,Sustituciones,,3493,3493,3493,,,,7.0,5.0,,,25,Jorge Newbery,Ferro,
+1632,Sustituciones,,3821,3821,3821,,,,11.0,7.0,,,25,Jorge Newbery,Ferro,
+1633,Sustituciones,,3821,3821,3821,,,,14.0,4.0,,,25,Jorge Newbery,Ferro,
+1634,Sustituciones,,3821,3821,3821,,,,5.0,17.0,,,25,Jorge Newbery,Ferro,
+1635,Sustituciones,,4099,4099,4099,,,,7.0,10.0,,,25,Jorge Newbery,Ferro,
+1636,MT Ofensivo,MT OFENSIVO 001,73,73,82,5,,Negativo,,,,,31,Gimnasia,Ferro,Paralela
+1637,MT Ofensivo,MT OFENSIVO 001,73,73,82,10,,Negativo,,,,,31,Gimnasia,Ferro,Paralela
+1638,MT Ofensivo,MT OFENSIVO 002,327,326,337,10,,Negativo,,,,,31,Gimnasia,Ferro,Pivot
+1639,MT Ofensivo,MT OFENSIVO 003,347,347,357,10,,Negativo,,,,,31,Gimnasia,Ferro,Pivot
+1640,MT Ofensivo,MT OFENSIVO 003,347,347,357,14,,Negativo,,,,,31,Gimnasia,Ferro,Pivot
+1641,MT Ofensivo,MT OFENSIVO 004,367,366,373,14,,Negativo,,,,,31,Gimnasia,Ferro,Paralela
+1642,MT Ofensivo,MT OFENSIVO 005,489,489,496,4,,Negativo,,,,,31,Gimnasia,Ferro,Salto Linea
+1643,MT Ofensivo,MT OFENSIVO 005,489,489,496,15,,Negativo,,,,,31,Gimnasia,Ferro,Salto Linea
+1644,MT Ofensivo,MT OFENSIVO 006,570,570,580,9,,Positivo,,,,,31,Gimnasia,Ferro,Paralela
+1645,MT Ofensivo,MT OFENSIVO 006,570,570,580,15,,Positivo,,,,,31,Gimnasia,Ferro,Paralela
+1646,MT Ofensivo,MT OFENSIVO 007,617,617,622,9,,Negativo,,,,,31,Gimnasia,Ferro,Pivot
+1647,MT Ofensivo,MT OFENSIVO 007,617,617,622,17,,Negativo,,,,,31,Gimnasia,Ferro,Pivot
+1648,MT Ofensivo,MT OFENSIVO 008,655,655,665,15,,Negativo,,,,,31,Gimnasia,Ferro,Paralela
+1649,MT Ofensivo,MT OFENSIVO 009,688,688,697,17,,Negativo,,,,,31,Gimnasia,Ferro,Salto Linea
+1650,MT Ofensivo,MT OFENSIVO 010,926,926,945,14,,Negativo,,,,,31,Gimnasia,Ferro,Salto Linea
+1651,MT Ofensivo,MT OFENSIVO 011,980,980,987,8,,Negativo,,,,,31,Gimnasia,Ferro,Salto Linea
+1652,MT Ofensivo,MT OFENSIVO 012,1044,1044,1056,8,,Positivo,,,,,31,Gimnasia,Ferro,Corte
+1653,MT Ofensivo,MT OFENSIVO 013,1435,1435,1450,5,,Negativo,,,,,31,Gimnasia,Ferro,Salto Linea
+1654,MT Ofensivo,MT OFENSIVO 013,1435,1435,1450,10,,Negativo,,,,,31,Gimnasia,Ferro,Salto Linea
+1655,MT Ofensivo,MT OFENSIVO 014,1515,1515,1526,5,,Negativo,,,,,31,Gimnasia,Ferro,Corte
+1656,MT Ofensivo,MT OFENSIVO 015,1674,1674,1689,8,,Positivo,,,,,31,Gimnasia,Ferro,Corte
+1657,MT Ofensivo,MT OFENSIVO 016,1701,1701,1708,6,,Positivo,,,,,31,Gimnasia,Ferro,Corte
+1658,MT Ofensivo,MT OFENSIVO 016,1701,1701,1708,17,,Positivo,,,,,31,Gimnasia,Ferro,Corte
+1659,MT Ofensivo,MT OFENSIVO 017,1760,1760,1766,4,,Positivo,,,,,31,Gimnasia,Ferro,Paralela
+1660,MT Ofensivo,MT OFENSIVO 018,1767,1767,1773,17,,Negativo,,,,,31,Gimnasia,Ferro,Corte
+1661,MT Ofensivo,MT OFENSIVO 019,1847,1847,1857,15,,Negativo,,,,,31,Gimnasia,Ferro,Salto Linea
+1662,MT Ofensivo,MT OFENSIVO 020,2463,2463,2472,5,,Negativo,,,,,31,Gimnasia,Ferro,Paralela
+1663,MT Ofensivo,MT OFENSIVO 021,2578,2572,2585,5,,Negativo,,,,,31,Gimnasia,Ferro,Salto Linea
+1664,MT Ofensivo,MT OFENSIVO 021,2578,2572,2585,8,,Negativo,,,,,31,Gimnasia,Ferro,Salto Linea
+1665,MT Ofensivo,MT OFENSIVO 022,3451,3451,3466,5,,Positivo,,,,,31,Gimnasia,Ferro,Puerta Atras
+1666,MT Ofensivo,MT OFENSIVO 022,3451,3451,3466,10,,Positivo,,,,,31,Gimnasia,Ferro,Puerta Atras
+1667,MT Ofensivo,MT OFENSIVO 023,3526,3526,3537,5,,Positivo,,,,,31,Gimnasia,Ferro,Paralela
+1668,MT Ofensivo,MT OFENSIVO 023,3526,3526,3537,10,,Positivo,,,,,31,Gimnasia,Ferro,Paralela
+1669,MT Ofensivo,MT OFENSIVO 024,3751,3751,3760,6,,Negativo,,,,,31,Gimnasia,Ferro,Paralela
+1670,MT Ofensivo,MT OFENSIVO 025,3959,3959,3967,14,,Negativo,,,,,31,Gimnasia,Ferro,Paralela
+1671,MT Ofensivo,MT OFENSIVO 026,4026,4026,4036,8,,Positivo,,,,,31,Gimnasia,Ferro,Corte
+1672,MT Ofensivo,MT OFENSIVO 027,4406,4406,4413,6,,Negativo,,,,,31,Gimnasia,Ferro,Paralela
+1673,MT Ofensivo,MT OFENSIVO 027,4406,4406,4413,9,,Negativo,,,,,31,Gimnasia,Ferro,Paralela
+1674,MT Ofensivo,MT OFENSIVO 028,4485,4485,4494,9,,Negativo,,,,,31,Gimnasia,Ferro,Paralela
+1675,MT Ofensivo,MT OFENSIVO 028,4485,4485,4494,18,,Negativo,,,,,31,Gimnasia,Ferro,Paralela
+1676,MT Ofensivo,MT OFENSIVO 029,4929,4929,4935,5,,Negativo,,,,,31,Gimnasia,Ferro,Corte
+1677,MT Ofensivo,MT OFENSIVO 030,5034,5034,5044,9,,Negativo,,,,,31,Gimnasia,Ferro,Paralela
+1678,MT Ofensivo,MT OFENSIVO 030,5034,5034,5044,15,,Negativo,,,,,31,Gimnasia,Ferro,Paralela
+1679,MT Ofensivo,MT OFENSIVO 031,5096,5096,5104,6,,Negativo,,,,,31,Gimnasia,Ferro,Diagonal
+1680,MT Ofensivo,MT OFENSIVO 031,5096,5096,5104,9,,Negativo,,,,,31,Gimnasia,Ferro,Diagonal
+1681,MT Ofensivo,MT OFENSIVO 032,5369,5369,5385,9,,Positivo,,,,,31,Gimnasia,Ferro,Pivot
+1682,MT Ofensivo,MT OFENSIVO 033,5653,5653,5662,9,,Positivo,,,,,31,Gimnasia,Ferro,Puerta Atras
+1683,MT Ofensivo,MT OFENSIVO 034,5998,5998,6008,9,,Positivo,,,,,31,Gimnasia,Ferro,Puerta Atras
+1684,MT Ofensivo,MT OFENSIVO 035,5998,5998,6008,9,,Negativo,,,,,31,Gimnasia,Ferro,Pared
+1685,MT Ofensivo,MT OFENSIVO 035,5998,5998,6008,10,,Negativo,,,,,31,Gimnasia,Ferro,Pared
+1686,Transición Ofensiva,TRANSICION OFENSIVA 001,123,122,130,7,,,,,1 vs 1,Corta (H 3),31,Gimnasia,Ferro,Perdida
+1687,Transición Ofensiva,TRANSICION OFENSIVA 001,123,122,130,10,,,,,1 vs 1,Corta (H 3),31,Gimnasia,Ferro,Perdida
+1688,Transición Ofensiva,TRANSICION OFENSIVA 002,187,186,195,14,,,,,3 vs 1,Corta (H 3),31,Gimnasia,Ferro,Recuperacion
+1689,Transición Ofensiva,TRANSICION OFENSIVA 003,269,268,274,5,,,,,,Corta (H 3),31,Gimnasia,Ferro,Perdida
+1690,Transición Ofensiva,TRANSICION OFENSIVA 004,279,278,286,5,,,,,3 vs 2,Corta (H 3),31,Gimnasia,Ferro,Tiro
+1691,Transición Ofensiva,TRANSICION OFENSIVA 004,279,278,286,10,,,,,3 vs 2,Corta (H 3),31,Gimnasia,Ferro,Tiro
+1692,Transición Ofensiva,TRANSICION OFENSIVA 005,389,389,396,5,,,,,2 vs 1,Corta (H 3),31,Gimnasia,Ferro,Perdida
+1693,Transición Ofensiva,TRANSICION OFENSIVA 006,526,525,535,9,,,,,2 vs 1,Corta (H 3),31,Gimnasia,Ferro,Perdida
+1694,Transición Ofensiva,TRANSICION OFENSIVA 006,526,525,535,15,,,,,2 vs 1,Corta (H 3),31,Gimnasia,Ferro,Perdida
+1695,Transición Ofensiva,TRANSICION OFENSIVA 007,1207,1207,1214,15,,,,,3 vs 2,Corta (H 3),31,Gimnasia,Ferro,Perdida
+1696,Transición Ofensiva,TRANSICION OFENSIVA 008,1784,1784,1789,9,,,,,1 vs 1,,31,Gimnasia,Ferro,Tiro
+1697,Transición Ofensiva,TRANSICION OFENSIVA 009,1806,1806,1818,17,,,,,1 vs 1,Larga (+3),31,Gimnasia,Ferro,Recuperacion
+1698,Transición Ofensiva,TRANSICION OFENSIVA 010,4424,4424,4432,18,,,,,1 vs 1,Corta (H 3),31,Gimnasia,Ferro,Perdida
+1699,Transición Ofensiva,TRANSICION OFENSIVA 011,5526,5526,5533,8,,,,,2 vs 1,Corta (H 3),31,Gimnasia,Ferro,Tiro
+1700,Transición Ofensiva,TRANSICION OFENSIVA 011,5526,5526,5533,10,,,,,2 vs 1,Corta (H 3),31,Gimnasia,Ferro,Tiro
+1701,MT Defensivo,MT DEFENSIVO 001,92,90,101,5,,Positivo,,,,,31,Gimnasia,Ferro,Cobertura
+1702,MT Defensivo,MT DEFENSIVO 002,156,155,168,7,,Negativo,,,,,31,Gimnasia,Ferro,Lectura Salto
+1703,MT Defensivo,MT DEFENSIVO 003,262,262,271,14,,Positivo,,,,,31,Gimnasia,Ferro,Lectura Salto
+1704,MT Defensivo,MT DEFENSIVO 004,303,300,314,5,,Positivo,,,,,31,Gimnasia,Ferro,
+1705,MT Defensivo,MT DEFENSIVO 004,303,300,314,8,,Positivo,,,,,31,Gimnasia,Ferro,
+1706,MT Defensivo,MT DEFENSIVO 004,303,300,314,10,,Positivo,,,,,31,Gimnasia,Ferro,
+1707,MT Defensivo,MT DEFENSIVO 004,303,300,314,14,,Positivo,,,,,31,Gimnasia,Ferro,
+1708,MT Defensivo,MT DEFENSIVO 005,410,408,435,5,,Positivo,,,,,31,Gimnasia,Ferro,Repliegue
+1709,MT Defensivo,MT DEFENSIVO 005,410,408,435,8,,Positivo,,,,,31,Gimnasia,Ferro,Repliegue
+1710,MT Defensivo,MT DEFENSIVO 005,410,408,435,10,,Positivo,,,,,31,Gimnasia,Ferro,Repliegue
+1711,MT Defensivo,MT DEFENSIVO 005,410,408,435,17,,Positivo,,,,,31,Gimnasia,Ferro,Repliegue
+1712,MT Defensivo,MT DEFENSIVO 006,453,452,461,4,,Positivo,,,,,31,Gimnasia,Ferro,
+1713,MT Defensivo,MT DEFENSIVO 006,453,452,461,9,,Positivo,,,,,31,Gimnasia,Ferro,
+1714,MT Defensivo,MT DEFENSIVO 006,453,452,461,15,,Positivo,,,,,31,Gimnasia,Ferro,
+1715,MT Defensivo,MT DEFENSIVO 006,453,452,461,17,,Positivo,,,,,31,Gimnasia,Ferro,
+1716,MT Defensivo,MT DEFENSIVO 007,548,548,561,5,,Positivo,,,,,31,Gimnasia,Ferro,
+1717,MT Defensivo,MT DEFENSIVO 007,548,548,561,9,,Positivo,,,,,31,Gimnasia,Ferro,
+1718,MT Defensivo,MT DEFENSIVO 007,548,548,561,15,,Positivo,,,,,31,Gimnasia,Ferro,
+1719,MT Defensivo,MT DEFENSIVO 007,548,548,561,17,,Positivo,,,,,31,Gimnasia,Ferro,
+1720,MT Defensivo,MT DEFENSIVO 008,811,811,832,5,,Positivo,,,,,31,Gimnasia,Ferro,Repliegue
+1721,MT Defensivo,MT DEFENSIVO 008,811,811,832,8,,Positivo,,,,,31,Gimnasia,Ferro,Repliegue
+1722,MT Defensivo,MT DEFENSIVO 008,811,811,832,10,,Positivo,,,,,31,Gimnasia,Ferro,Repliegue
+1723,MT Defensivo,MT DEFENSIVO 008,811,811,832,14,,Positivo,,,,,31,Gimnasia,Ferro,Repliegue
+1724,MT Defensivo,MT DEFENSIVO 009,910,910,917,8,,Negativo,,,,,31,Gimnasia,Ferro,Doble Marca
+1725,MT Defensivo,MT DEFENSIVO 009,910,910,917,15,,Negativo,,,,,31,Gimnasia,Ferro,Doble Marca
+1726,MT Defensivo,MT DEFENSIVO 010,1099,1099,1109,5,,Positivo,,,,,31,Gimnasia,Ferro,
+1727,MT Defensivo,MT DEFENSIVO 010,1099,1099,1109,9,,Positivo,,,,,31,Gimnasia,Ferro,
+1728,MT Defensivo,MT DEFENSIVO 010,1099,1099,1109,15,,Positivo,,,,,31,Gimnasia,Ferro,
+1729,MT Defensivo,MT DEFENSIVO 010,1099,1099,1109,17,,Positivo,,,,,31,Gimnasia,Ferro,
+1730,MT Defensivo,MT DEFENSIVO 011,1658,1658,1666,8,,Positivo,,,,,31,Gimnasia,Ferro,Cobertura
+1731,MT Defensivo,MT DEFENSIVO 012,1895,1895,1902,15,,Positivo,,,,,31,Gimnasia,Ferro,Lectura Salto
+1732,MT Defensivo,MT DEFENSIVO 013,1901,1901,1911,4,,Negativo,,,,,31,Gimnasia,Ferro,Repliegue
+1733,MT Defensivo,MT DEFENSIVO 014,2527,2527,2537,14,,Negativo,,,,,31,Gimnasia,Ferro,Lectura Salto
+1734,MT Defensivo,MT DEFENSIVO 015,3789,3789,3802,17,,Positivo,,,,,31,Gimnasia,Ferro,Cobertura
+1735,MT Defensivo,MT DEFENSIVO 016,3906,3906,3911,4,,Positivo,,,,,31,Gimnasia,Ferro,Doble Marca
+1736,MT Defensivo,MT DEFENSIVO 016,3906,3906,3911,17,,Positivo,,,,,31,Gimnasia,Ferro,Doble Marca
+1737,MT Defensivo,MT DEFENSIVO 017,4122,4122,4133,5,,Negativo,,,,,31,Gimnasia,Ferro,Repliegue
+1738,MT Defensivo,MT DEFENSIVO 017,4122,4122,4133,8,,Negativo,,,,,31,Gimnasia,Ferro,Repliegue
+1739,MT Defensivo,MT DEFENSIVO 017,4122,4122,4133,10,,Negativo,,,,,31,Gimnasia,Ferro,Repliegue
+1740,MT Defensivo,MT DEFENSIVO 017,4122,4122,4133,14,,Negativo,,,,,31,Gimnasia,Ferro,Repliegue
+1741,Transición Defensiva,TRANSICION DEFENSIVA 001,272,272,280,10,,,,,3 vs 2,Corta (H 3),31,Gimnasia,Ferro,Repliegue
+1742,Transición Defensiva,TRANSICION DEFENSIVA 001,272,272,280,14,,,,,3 vs 2,Corta (H 3),31,Gimnasia,Ferro,Repliegue
+1743,Transición Defensiva,TRANSICION DEFENSIVA 002,638,638,645,5,,,,,1 vs 1,Corta (H 3),31,Gimnasia,Ferro,Tiro
+1744,Transición Defensiva,TRANSICION DEFENSIVA 002,638,638,645,15,,,,,1 vs 1,Corta (H 3),31,Gimnasia,Ferro,Tiro
+1745,Transición Defensiva,TRANSICION DEFENSIVA 003,770,770,778,14,,,,,1 vs 1,,31,Gimnasia,Ferro,
+1746,Transición Defensiva,TRANSICION DEFENSIVA 004,1118,1118,1131,17,,,,,3 vs 2,Corta (H 3),31,Gimnasia,Ferro,Pelota Parada
+1747,Transición Defensiva,TRANSICION DEFENSIVA 005,1212,1212,1223,9,,,,,1 vs 1,Corta (H 3),31,Gimnasia,Ferro,Repliegue
+1748,Transición Defensiva,TRANSICION DEFENSIVA 005,1212,1212,1223,15,,,,,1 vs 1,Corta (H 3),31,Gimnasia,Ferro,Repliegue
+1749,Transición Defensiva,TRANSICION DEFENSIVA 006,1307,1307,1325,15,,,,,,Corta (H 3),31,Gimnasia,Ferro,Perdida
+1750,Transición Defensiva,TRANSICION DEFENSIVA 006,1307,1307,1325,17,,,,,,Corta (H 3),31,Gimnasia,Ferro,Perdida
+1751,Transición Defensiva,TRANSICION DEFENSIVA 007,1815,1815,1821,4,,,,,2 vs 1,,31,Gimnasia,Ferro,Pelota Parada
+1752,Transición Defensiva,TRANSICION DEFENSIVA 008,1885,1885,1897,4,,,,,,Larga (+3),31,Gimnasia,Ferro,Repliegue
+1753,Transición Defensiva,TRANSICION DEFENSIVA 008,1885,1885,1897,9,,,,,,Larga (+3),31,Gimnasia,Ferro,Repliegue
+1754,Transición Defensiva,TRANSICION DEFENSIVA 008,1885,1885,1897,15,,,,,,Larga (+3),31,Gimnasia,Ferro,Repliegue
+1755,Transición Defensiva,TRANSICION DEFENSIVA 008,1885,1885,1897,17,,,,,,Larga (+3),31,Gimnasia,Ferro,Repliegue
+1756,Transición Defensiva,TRANSICION DEFENSIVA 009,2239,2239,2247,,,,,,2 vs 1,Corta (H 3),31,Gimnasia,Ferro,Tiro
+1757,Transición Defensiva,TRANSICION DEFENSIVA 010,2475,2475,2493,10,,,,,1 vs 1,Larga (+3),31,Gimnasia,Ferro,Gol
+1758,Transición Defensiva,TRANSICION DEFENSIVA 011,3468,3468,3479,14,,,,,1 vs 1,,31,Gimnasia,Ferro,Repliegue
+1759,Transición Defensiva,TRANSICION DEFENSIVA 012,4383,4383,4398,,,,,,1 vs 1,Corta (H 3),31,Gimnasia,Ferro,Repliegue
+1760,Transición Defensiva,TRANSICION DEFENSIVA 013,4413,4413,4425,6,,,,,2 vs 1,Larga (+3),31,Gimnasia,Ferro,Recuperacion
+1761,Transición Defensiva,TRANSICION DEFENSIVA 014,4970,4970,4986,5,,,,,1 vs 1,Corta (H 3),31,Gimnasia,Ferro,Tiro
+1762,Sustituciones,Alineación,0,0,0,,,,,,,,31,Gimnasia,Ferro,
+1763,MT Ofensivo,MT OFENSIVO 001,94,94,98,10,Salto Linea,Positivo,,,,,5,Pinocho,Ferro,
+1764,MT Ofensivo,MT OFENSIVO 001,94,94,98,14,Salto Linea,Positivo,,,,,5,Pinocho,Ferro,
+1765,MT Ofensivo,MT OFENSIVO 002,287,287,290,5,Pared,Positivo,,,,,5,Pinocho,Ferro,
+1766,MT Ofensivo,MT OFENSIVO 002,287,287,290,10,Pared,Positivo,,,,,5,Pinocho,Ferro,
+1767,MT Ofensivo,MT OFENSIVO 003,635,635,638,9,Paralela,Positivo,,,,,5,Pinocho,Ferro,
+1768,MT Ofensivo,MT OFENSIVO 003,635,635,638,17,Paralela,Positivo,,,,,5,Pinocho,Ferro,
+1769,MT Ofensivo,MT OFENSIVO 004,639,639,645,9,Pivot,Positivo,,,,,5,Pinocho,Ferro,
+1770,MT Ofensivo,MT OFENSIVO 005,1179,1179,1184,4,Diagonal,Positivo,,,,,5,Pinocho,Ferro,
+1771,MT Ofensivo,MT OFENSIVO 005,1179,1179,1184,14,Diagonal,Positivo,,,,,5,Pinocho,Ferro,
+1772,MT Ofensivo,MT OFENSIVO 006,1230,1230,1233,4,Diagonal,Negativo,,,,,5,Pinocho,Ferro,
+1773,MT Ofensivo,MT OFENSIVO 006,1230,1230,1233,9,Diagonal,Negativo,,,,,5,Pinocho,Ferro,
+1774,MT Ofensivo,MT OFENSIVO 007,1323,1323,1325,9,Paralela,Negativo,,,,,5,Pinocho,Ferro,
+1775,MT Ofensivo,MT OFENSIVO 007,1323,1323,1325,15,Paralela,Negativo,,,,,5,Pinocho,Ferro,
+1776,MT Ofensivo,MT OFENSIVO 008,1338,1338,1341,1,Salto Linea,Negativo,,,,,5,Pinocho,Ferro,
+1777,MT Ofensivo,MT OFENSIVO 008,1338,1338,1341,9,Salto Linea,Negativo,,,,,5,Pinocho,Ferro,
+1778,MT Ofensivo,MT OFENSIVO 009,1847,1847,1851,10,Salto Linea,Positivo,,,,,5,Pinocho,Ferro,
+1779,MT Ofensivo,MT OFENSIVO 009,1847,1847,1851,11,Salto Linea,Positivo,,,,,5,Pinocho,Ferro,
+1780,MT Ofensivo,MT OFENSIVO 010,1990,1990,1992,11,Pared,Negativo,,,,,5,Pinocho,Ferro,
+1781,MT Ofensivo,MT OFENSIVO 010,1990,1990,1992,17,Pared,Negativo,,,,,5,Pinocho,Ferro,
+1782,MT Ofensivo,MT OFENSIVO 011,2354,2354,2356,10,Salto Linea,Negativo,,,,,5,Pinocho,Ferro,
+1783,MT Ofensivo,MT OFENSIVO 011,2354,2354,2356,17,Salto Linea,Negativo,,,,,5,Pinocho,Ferro,
+1784,MT Ofensivo,MT OFENSIVO 012,2543,2543,2549,5,Salto Linea,Positivo,,,,,5,Pinocho,Ferro,
+1785,MT Ofensivo,MT OFENSIVO 012,2543,2543,2549,10,Salto Linea,Positivo,,,,,5,Pinocho,Ferro,
+1786,MT Ofensivo,MT OFENSIVO 013,2866,2866,2869,5,Diagonal,Positivo,,,,,5,Pinocho,Ferro,
+1787,MT Ofensivo,MT OFENSIVO 013,2866,2866,2869,14,Diagonal,Positivo,,,,,5,Pinocho,Ferro,
+1788,MT Ofensivo,MT OFENSIVO 014,3187,3187,3191,10,Paralela,Positivo,,,,,5,Pinocho,Ferro,
+1789,MT Ofensivo,MT OFENSIVO 014,3187,3187,3191,14,Paralela,Positivo,,,,,5,Pinocho,Ferro,
+1790,MT Ofensivo,MT OFENSIVO 015,3276,3276,3280,10,Pared,Negativo,,,,,5,Pinocho,Ferro,
+1791,MT Ofensivo,MT OFENSIVO 015,3276,3276,3280,14,Pared,Negativo,,,,,5,Pinocho,Ferro,
+1792,MT Ofensivo,MT OFENSIVO 016,3377,3377,3380,17,Diagonal,Negativo,,,,,5,Pinocho,Ferro,
+1793,MT Ofensivo,MT OFENSIVO 017,3478,3478,3482,17,Salto Linea,Negativo,,,,,5,Pinocho,Ferro,
+1794,MT Ofensivo,MT OFENSIVO 018,3664,3664,3667,10,Paralela,Negativo,,,,,5,Pinocho,Ferro,
+1795,MT Ofensivo,MT OFENSIVO 018,3664,3664,3667,14,Paralela,Negativo,,,,,5,Pinocho,Ferro,
+1796,MT Ofensivo,MT OFENSIVO 019,3893,3893,3896,14,Salto Linea,Negativo,,,,,5,Pinocho,Ferro,
+1797,MT Ofensivo,MT OFENSIVO 020,4055,4055,4057,9,Diagonal,Positivo,,,,,5,Pinocho,Ferro,
+1798,MT Ofensivo,MT OFENSIVO 020,4055,4055,4057,17,Diagonal,Positivo,,,,,5,Pinocho,Ferro,
+1799,MT Ofensivo,MT OFENSIVO 021,4055,4055,4058,9,Pivot,Negativo,,,,,5,Pinocho,Ferro,
+1800,MT Ofensivo,MT OFENSIVO 022,5030,5030,5032,10,Salto Linea,Positivo,,,,,5,Pinocho,Ferro,
+1801,MT Ofensivo,MT OFENSIVO 022,5030,5030,5032,11,Salto Linea,Positivo,,,,,5,Pinocho,Ferro,
+1802,Transición Ofensiva,TRANSICION OFENSIVA 001,177,177,180,5,Tiro,,,,3 vs 2,Corta (H 3),5,Pinocho,Ferro,
+1803,Transición Ofensiva,TRANSICION OFENSIVA 001,177,177,180,10,Tiro,,,,3 vs 2,Corta (H 3),5,Pinocho,Ferro,
+1804,Transición Ofensiva,TRANSICION OFENSIVA 002,477,477,479,15,Perdida,,,,1 vs 1,Corta (H 3),5,Pinocho,Ferro,
+1805,Transición Ofensiva,TRANSICION OFENSIVA 003,771,771,775,5,Gol,,,,3 vs 2,Corta (H 3),5,Pinocho,Ferro,
+1806,Transición Ofensiva,TRANSICION OFENSIVA 003,771,771,775,11,Gol,,,,3 vs 2,Corta (H 3),5,Pinocho,Ferro,
+1807,Transición Ofensiva,TRANSICION OFENSIVA 004,829,829,832,10,Perdida,,,,2 vs 1,Corta (H 3),5,Pinocho,Ferro,
+1808,Transición Ofensiva,TRANSICION OFENSIVA 004,829,829,832,11,Perdida,,,,2 vs 1,Corta (H 3),5,Pinocho,Ferro,
+1809,Transición Ofensiva,TRANSICION OFENSIVA 005,1256,1256,1258,15,Perdida,,,,1 vs 1,Corta (H 3),5,Pinocho,Ferro,
+1810,Transición Ofensiva,TRANSICION OFENSIVA 006,1509,1509,1514,9,Pelota Parada,,,,3 vs 2,Corta (H 3),5,Pinocho,Ferro,
+1811,Transición Ofensiva,TRANSICION OFENSIVA 006,1509,1509,1514,17,Pelota Parada,,,,3 vs 2,Corta (H 3),5,Pinocho,Ferro,
+1812,Transición Ofensiva,TRANSICION OFENSIVA 007,1930,1930,1934,10,Perdida,,,,3 vs 2,Corta (H 3),5,Pinocho,Ferro,
+1813,Transición Ofensiva,TRANSICION OFENSIVA 007,1930,1930,1934,11,Perdida,,,,3 vs 2,Corta (H 3),5,Pinocho,Ferro,
+1814,Transición Ofensiva,TRANSICION OFENSIVA 008,2047,2047,2055,6,Perdida,,,,3 vs 2,Larga (+3),5,Pinocho,Ferro,
+1815,Transición Ofensiva,TRANSICION OFENSIVA 008,2047,2047,2055,11,Perdida,,,,3 vs 2,Larga (+3),5,Pinocho,Ferro,
+1816,Transición Ofensiva,TRANSICION OFENSIVA 008,2047,2047,2055,15,Perdida,,,,3 vs 2,Larga (+3),5,Pinocho,Ferro,
+1817,Transición Ofensiva,TRANSICION OFENSIVA 009,2119,2119,2122,4,Tiro,,,,3 vs 2,Corta (H 3),5,Pinocho,Ferro,
+1818,Transición Ofensiva,TRANSICION OFENSIVA 009,2119,2119,2122,15,Tiro,,,,3 vs 2,Corta (H 3),5,Pinocho,Ferro,
+1819,Transición Ofensiva,TRANSICION OFENSIVA 009,2119,2119,2122,17,Tiro,,,,3 vs 2,Corta (H 3),5,Pinocho,Ferro,
+1820,Transición Ofensiva,TRANSICION OFENSIVA 010,3520,3520,3529,7,Perdida,,,,3 vs 2,Larga (+3),5,Pinocho,Ferro,
+1821,Transición Ofensiva,TRANSICION OFENSIVA 010,3520,3520,3529,15,Perdida,,,,3 vs 2,Larga (+3),5,Pinocho,Ferro,
+1822,Transición Ofensiva,TRANSICION OFENSIVA 010,3520,3520,3529,17,Perdida,,,,3 vs 2,Larga (+3),5,Pinocho,Ferro,
+1823,Transición Ofensiva,TRANSICION OFENSIVA 011,3776,3776,3780,5,Pelota Parada,,,,1 vs 1,Corta (H 3),5,Pinocho,Ferro,
+1824,Transición Ofensiva,TRANSICION OFENSIVA 012,3912,3912,3921,10,Pelota Parada,,,,3 vs 2,Corta (H 3),5,Pinocho,Ferro,
+1825,Transición Ofensiva,TRANSICION OFENSIVA 012,3912,3912,3921,14,Pelota Parada,,,,3 vs 2,Corta (H 3),5,Pinocho,Ferro,
+1826,Transición Ofensiva,TRANSICION OFENSIVA 013,4128,4128,4134,9,Gol,,,,2 vs 1,Corta (H 3),5,Pinocho,Ferro,
+1827,Transición Ofensiva,TRANSICION OFENSIVA 013,4128,4128,4134,15,Gol,,,,2 vs 1,Corta (H 3),5,Pinocho,Ferro,
+1828,Transición Ofensiva,TRANSICION OFENSIVA 014,4177,4177,4182,5,Pelota Parada,,,,3 vs 2,Corta (H 3),5,Pinocho,Ferro,
+1829,Transición Ofensiva,TRANSICION OFENSIVA 014,4177,4177,4182,14,Pelota Parada,,,,3 vs 2,Corta (H 3),5,Pinocho,Ferro,
+1830,Transición Ofensiva,TRANSICION OFENSIVA 015,4292,4292,4298,10,Tiro,,,,1 vs 1,Corta (H 3),5,Pinocho,Ferro,
+1831,Transición Ofensiva,TRANSICION OFENSIVA 016,4575,4575,4579,10,Tiro,,,,3 vs 2,Corta (H 3),5,Pinocho,Ferro,
+1832,Transición Ofensiva,TRANSICION OFENSIVA 016,4575,4575,4579,11,Tiro,,,,3 vs 2,Corta (H 3),5,Pinocho,Ferro,
+1833,Transición Ofensiva,TRANSICION OFENSIVA 017,5038,5038,5042,5,Tiro,,,,3 vs 2,Corta (H 3),5,Pinocho,Ferro,
+1834,Transición Ofensiva,TRANSICION OFENSIVA 017,5038,5038,5042,10,Tiro,,,,3 vs 2,Corta (H 3),5,Pinocho,Ferro,
+1835,Transición Ofensiva,TRANSICION OFENSIVA 017,5038,5038,5042,11,Tiro,,,,3 vs 2,Corta (H 3),5,Pinocho,Ferro,
+1836,MT Defensivo,MT DEFENSIVO 001,495,495,498,17,Cobertura,Positivo,,,,,5,Pinocho,Ferro,
+1837,MT Defensivo,MT DEFENSIVO 002,1506,1506,1509,17,Lectura Salto,Positivo,,,,,5,Pinocho,Ferro,
+1838,MT Defensivo,MT DEFENSIVO 003,1692,1692,1705,5,Repliegue,Positivo,,,,,5,Pinocho,Ferro,
+1839,MT Defensivo,MT DEFENSIVO 003,1692,1692,1705,10,Repliegue,Positivo,,,,,5,Pinocho,Ferro,
+1840,MT Defensivo,MT DEFENSIVO 003,1692,1692,1705,11,Repliegue,Positivo,,,,,5,Pinocho,Ferro,
+1841,MT Defensivo,MT DEFENSIVO 003,1692,1692,1705,14,Repliegue,Positivo,,,,,5,Pinocho,Ferro,
+1842,MT Defensivo,MT DEFENSIVO 004,1738,1738,1752,5,Repliegue,Positivo,,,,,5,Pinocho,Ferro,
+1843,MT Defensivo,MT DEFENSIVO 004,1738,1738,1752,10,Repliegue,Positivo,,,,,5,Pinocho,Ferro,
+1844,MT Defensivo,MT DEFENSIVO 004,1738,1738,1752,11,Repliegue,Positivo,,,,,5,Pinocho,Ferro,
+1845,MT Defensivo,MT DEFENSIVO 004,1738,1738,1752,14,Repliegue,Positivo,,,,,5,Pinocho,Ferro,
+1846,MT Defensivo,MT DEFENSIVO 005,1925,1925,1929,5,Doble Marca,Positivo,,,,,5,Pinocho,Ferro,
+1847,MT Defensivo,MT DEFENSIVO 005,1925,1925,1929,11,Doble Marca,Positivo,,,,,5,Pinocho,Ferro,
+1848,MT Defensivo,MT DEFENSIVO 006,1968,1968,1971,5,Repliegue,Negativo,,,,,5,Pinocho,Ferro,
+1849,MT Defensivo,MT DEFENSIVO 006,1968,1968,1971,11,Repliegue,Negativo,,,,,5,Pinocho,Ferro,
+1850,MT Defensivo,MT DEFENSIVO 006,1968,1968,1971,14,Repliegue,Negativo,,,,,5,Pinocho,Ferro,
+1851,MT Defensivo,MT DEFENSIVO 006,1968,1968,1971,17,Repliegue,Negativo,,,,,5,Pinocho,Ferro,
+1852,MT Defensivo,MT DEFENSIVO 007,2045,2045,2047,6,Cambio Marca,Positivo,,,,,5,Pinocho,Ferro,
+1853,MT Defensivo,MT DEFENSIVO 008,2572,2572,2575,14,Cobertura,Positivo,,,,,5,Pinocho,Ferro,
+1854,MT Defensivo,MT DEFENSIVO 009,2985,2985,2987,10,Doble Marca,Positivo,,,,,5,Pinocho,Ferro,
+1855,MT Defensivo,MT DEFENSIVO 009,2985,2985,2987,14,Doble Marca,Positivo,,,,,5,Pinocho,Ferro,
+1856,MT Defensivo,MT DEFENSIVO 010,3658,3658,3661,6,Doble Marca,Positivo,,,,,5,Pinocho,Ferro,
+1857,MT Defensivo,MT DEFENSIVO 010,3658,3658,3661,14,Doble Marca,Positivo,,,,,5,Pinocho,Ferro,
+1858,MT Defensivo,MT DEFENSIVO 011,3713,3713,3716,10,Doble Marca,Negativo,,,,,5,Pinocho,Ferro,
+1859,MT Defensivo,MT DEFENSIVO 011,3713,3713,3716,17,Doble Marca,Negativo,,,,,5,Pinocho,Ferro,
+1860,MT Defensivo,MT DEFENSIVO 012,4008,4008,4010,9,Cobertura,Negativo,,,,,5,Pinocho,Ferro,
+1861,MT Defensivo,MT DEFENSIVO 013,4302,4302,4305,11,Cambio Marca,Negativo,,,,,5,Pinocho,Ferro,
+1862,MT Defensivo,MT DEFENSIVO 014,4499,4499,4507,5,Repliegue,Negativo,,,,,5,Pinocho,Ferro,
+1863,MT Defensivo,MT DEFENSIVO 014,4499,4499,4507,6,Repliegue,Negativo,,,,,5,Pinocho,Ferro,
+1864,MT Defensivo,MT DEFENSIVO 014,4499,4499,4507,14,Repliegue,Negativo,,,,,5,Pinocho,Ferro,
+1865,MT Defensivo,MT DEFENSIVO 014,4499,4499,4507,17,Repliegue,Negativo,,,,,5,Pinocho,Ferro,
+1866,MT Defensivo,MT DEFENSIVO 015,4626,4626,4630,5,Repliegue,Negativo,,,,,5,Pinocho,Ferro,
+1867,MT Defensivo,MT DEFENSIVO 015,4626,4626,4630,11,Repliegue,Negativo,,,,,5,Pinocho,Ferro,
+1868,MT Defensivo,MT DEFENSIVO 015,4626,4626,4630,14,Repliegue,Negativo,,,,,5,Pinocho,Ferro,
+1869,MT Defensivo,MT DEFENSIVO 015,4626,4626,4630,17,Repliegue,Negativo,,,,,5,Pinocho,Ferro,
+1870,MT Defensivo,MT DEFENSIVO 016,4727,4727,4744,6,Repliegue,Positivo,,,,,5,Pinocho,Ferro,
+1871,MT Defensivo,MT DEFENSIVO 016,4727,4727,4744,14,Repliegue,Positivo,,,,,5,Pinocho,Ferro,
+1872,MT Defensivo,MT DEFENSIVO 016,4727,4727,4744,16,Repliegue,Positivo,,,,,5,Pinocho,Ferro,
+1873,MT Defensivo,MT DEFENSIVO 016,4727,4727,4744,17,Repliegue,Positivo,,,,,5,Pinocho,Ferro,
+1874,MT Defensivo,MT DEFENSIVO 017,4819,4819,4824,6,Repliegue,Negativo,,,,,5,Pinocho,Ferro,
+1875,MT Defensivo,MT DEFENSIVO 017,4819,4819,4824,14,Repliegue,Negativo,,,,,5,Pinocho,Ferro,
+1876,MT Defensivo,MT DEFENSIVO 017,4819,4819,4824,16,Repliegue,Negativo,,,,,5,Pinocho,Ferro,
+1877,MT Defensivo,MT DEFENSIVO 017,4819,4819,4824,17,Repliegue,Negativo,,,,,5,Pinocho,Ferro,
+1878,MT Defensivo,MT DEFENSIVO 018,4854,4854,4858,6,Repliegue,Negativo,,,,,5,Pinocho,Ferro,
+1879,MT Defensivo,MT DEFENSIVO 018,4854,4854,4858,14,Repliegue,Negativo,,,,,5,Pinocho,Ferro,
+1880,MT Defensivo,MT DEFENSIVO 018,4854,4854,4858,16,Repliegue,Negativo,,,,,5,Pinocho,Ferro,
+1881,MT Defensivo,MT DEFENSIVO 018,4854,4854,4858,17,Repliegue,Negativo,,,,,5,Pinocho,Ferro,
+1882,MT Defensivo,MT DEFENSIVO 019,5003,5003,5012,6,Repliegue,Negativo,,,,,5,Pinocho,Ferro,
+1883,MT Defensivo,MT DEFENSIVO 019,5003,5003,5012,14,Repliegue,Negativo,,,,,5,Pinocho,Ferro,
+1884,MT Defensivo,MT DEFENSIVO 019,5003,5003,5012,16,Repliegue,Negativo,,,,,5,Pinocho,Ferro,
+1885,MT Defensivo,MT DEFENSIVO 019,5003,5003,5012,17,Repliegue,Negativo,,,,,5,Pinocho,Ferro,
+1886,MT Defensivo,MT DEFENSIVO 020,5111,5111,5114,6,Repliegue,Positivo,,,,,5,Pinocho,Ferro,
+1887,MT Defensivo,MT DEFENSIVO 020,5111,5111,5114,14,Repliegue,Positivo,,,,,5,Pinocho,Ferro,
+1888,MT Defensivo,MT DEFENSIVO 020,5111,5111,5114,16,Repliegue,Positivo,,,,,5,Pinocho,Ferro,
+1889,MT Defensivo,MT DEFENSIVO 020,5111,5111,5114,17,Repliegue,Positivo,,,,,5,Pinocho,Ferro,
+1890,MT Defensivo,MT DEFENSIVO 021,5164,5164,5172,6,Repliegue,Negativo,,,,,5,Pinocho,Ferro,
+1891,MT Defensivo,MT DEFENSIVO 021,5164,5164,5172,14,Repliegue,Negativo,,,,,5,Pinocho,Ferro,
+1892,MT Defensivo,MT DEFENSIVO 021,5164,5164,5172,16,Repliegue,Negativo,,,,,5,Pinocho,Ferro,
+1893,MT Defensivo,MT DEFENSIVO 021,5164,5164,5172,17,Repliegue,Negativo,,,,,5,Pinocho,Ferro,
+1894,MT Defensivo,MT DEFENSIVO 022,5299,5299,5310,6,Repliegue,Negativo,,,,,5,Pinocho,Ferro,
+1895,MT Defensivo,MT DEFENSIVO 022,5299,5299,5310,14,Repliegue,Negativo,,,,,5,Pinocho,Ferro,
+1896,MT Defensivo,MT DEFENSIVO 022,5299,5299,5310,16,Repliegue,Negativo,,,,,5,Pinocho,Ferro,
+1897,MT Defensivo,MT DEFENSIVO 022,5299,5299,5310,17,Repliegue,Negativo,,,,,5,Pinocho,Ferro,
+1898,Transición Defensiva,TRANSICION DEFENSIVA 001,19,19,23,5,Tiro,,,,3 vs 2,Corta (H 3),5,Pinocho,Ferro,
+1899,Transición Defensiva,TRANSICION DEFENSIVA 001,19,19,23,11,Tiro,,,,3 vs 2,Corta (H 3),5,Pinocho,Ferro,
+1900,Transición Defensiva,TRANSICION DEFENSIVA 001,19,19,23,14,Tiro,,,,3 vs 2,Corta (H 3),5,Pinocho,Ferro,
+1901,Transición Defensiva,TRANSICION DEFENSIVA 002,601,601,605,4,Repliegue,,,,2 vs 1,Corta (H 3),5,Pinocho,Ferro,
+1902,Transición Defensiva,TRANSICION DEFENSIVA 002,601,601,605,17,Repliegue,,,,2 vs 1,Corta (H 3),5,Pinocho,Ferro,
+1903,Transición Defensiva,TRANSICION DEFENSIVA 003,618,618,623,4,Recuperacion,,,,3 vs 2,Corta (H 3),5,Pinocho,Ferro,
+1904,Transición Defensiva,TRANSICION DEFENSIVA 003,618,618,623,15,Recuperacion,,,,3 vs 2,Corta (H 3),5,Pinocho,Ferro,
+1905,Transición Defensiva,TRANSICION DEFENSIVA 003,618,618,623,17,Recuperacion,,,,3 vs 2,Corta (H 3),5,Pinocho,Ferro,
+1906,Transición Defensiva,TRANSICION DEFENSIVA 004,834,834,840,5,Pelota Parada,,,,3 vs 2,Corta (H 3),5,Pinocho,Ferro,
+1907,Transición Defensiva,TRANSICION DEFENSIVA 004,834,834,840,10,Pelota Parada,,,,3 vs 2,Corta (H 3),5,Pinocho,Ferro,
+1908,Transición Defensiva,TRANSICION DEFENSIVA 004,834,834,840,11,Pelota Parada,,,,3 vs 2,Corta (H 3),5,Pinocho,Ferro,
+1909,Transición Defensiva,TRANSICION DEFENSIVA 005,999,999,1003,5,Pelota Parada,,,,3 vs 2,Corta (H 3),5,Pinocho,Ferro,
+1910,Transición Defensiva,TRANSICION DEFENSIVA 005,999,999,1003,11,Pelota Parada,,,,3 vs 2,Corta (H 3),5,Pinocho,Ferro,
+1911,Transición Defensiva,TRANSICION DEFENSIVA 005,999,999,1003,14,Pelota Parada,,,,3 vs 2,Corta (H 3),5,Pinocho,Ferro,
+1912,Transición Defensiva,TRANSICION DEFENSIVA 006,4103,4103,4108,17,Pelota Parada,,,,1 vs 1,Corta (H 3),5,Pinocho,Ferro,
+1913,Transición Defensiva,TRANSICION DEFENSIVA 007,4204,4204,4209,5,Tiro,,,,1 vs 1,Corta (H 3),5,Pinocho,Ferro,
+1914,Transición Defensiva,TRANSICION DEFENSIVA 008,4527,4527,4531,5,Gol,,,,3 vs 2,Corta (H 3),5,Pinocho,Ferro,
+1915,Transición Defensiva,TRANSICION DEFENSIVA 008,4527,4527,4531,17,Gol,,,,3 vs 2,Corta (H 3),5,Pinocho,Ferro,
+1916,Transición Defensiva,TRANSICION DEFENSIVA 009,4569,4569,4574,11,Recuperacion,,,,3 vs 2,,5,Pinocho,Ferro,
+1917,Transición Defensiva,TRANSICION DEFENSIVA 009,4569,4569,4574,14,Recuperacion,,,,3 vs 2,,5,Pinocho,Ferro,
+1918,Transición Defensiva,TRANSICION DEFENSIVA 010,5247,5247,5251,5,Tiro,,,,3 vs 2,Corta (H 3),5,Pinocho,Ferro,
+1919,Transición Defensiva,TRANSICION DEFENSIVA 010,5247,5247,5251,14,Tiro,,,,3 vs 2,Corta (H 3),5,Pinocho,Ferro,
+1920,Sustituciones,Alineación,0,0,0,,,,,,,,5,Pinocho,Ferro,

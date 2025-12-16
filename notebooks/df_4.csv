@@ -1,0 +1,2422 @@
+,Evento,Inicio,Fin,Parte,Duracion,Jornada,Local,Visitante
+0,Partido en juego 001,0.0,7.0,1,7.0,10,Ferro,Glorias
+1,Partido en juego 002,0.0,38.0,1,38.0,10,Ferro,Glorias
+2,Partido en juego 003,40.0,69.0,1,29.0,10,Ferro,Glorias
+3,Partido en juego 004,89.0,124.0,1,35.0,10,Ferro,Glorias
+4,Partido en juego 005,126.0,146.0,1,20.0,10,Ferro,Glorias
+5,Partido en juego 006,150.0,168.0,1,18.0,10,Ferro,Glorias
+6,Partido en juego 007,175.0,200.0,1,25.0,10,Ferro,Glorias
+7,Partido en juego 008,197.0,221.0,1,24.0,10,Ferro,Glorias
+8,Partido en juego 009,244.0,258.0,1,14.0,10,Ferro,Glorias
+9,Partido en juego 010,253.0,268.0,1,15.0,10,Ferro,Glorias
+10,Partido en juego 011,271.0,325.0,1,54.0,10,Ferro,Glorias
+11,Partido en juego 012,330.0,346.0,1,16.0,10,Ferro,Glorias
+12,Partido en juego 013,354.0,366.0,1,12.0,10,Ferro,Glorias
+13,Partido en juego 014,362.0,379.0,1,17.0,10,Ferro,Glorias
+14,Partido en juego 015,375.0,430.0,1,55.0,10,Ferro,Glorias
+15,Partido en juego 016,431.0,449.0,1,18.0,10,Ferro,Glorias
+16,Partido en juego 017,525.0,564.0,1,39.0,10,Ferro,Glorias
+17,Partido en juego 018,581.0,598.0,1,17.0,10,Ferro,Glorias
+18,Partido en juego 019,624.0,665.0,1,41.0,10,Ferro,Glorias
+19,Partido en juego 020,667.0,719.0,1,52.0,10,Ferro,Glorias
+20,Partido en juego 021,743.0,771.0,1,28.0,10,Ferro,Glorias
+21,Partido en juego 022,777.0,810.0,1,33.0,10,Ferro,Glorias
+22, ,837.0,854.0,1,17.0,10,Ferro,Glorias
+23,Partido en juego 024,851.0,879.0,1,28.0,10,Ferro,Glorias
+24,Partido en juego 025,921.0,941.0,1,20.0,10,Ferro,Glorias
+25,Partido en juego 026,944.0,974.0,1,30.0,10,Ferro,Glorias
+26,Partido en juego 027,974.0,986.0,1,12.0,10,Ferro,Glorias
+27,Partido en juego 028,986.0,1011.0,1,25.0,10,Ferro,Glorias
+28,Partido en juego 029,1018.0,1049.0,1,31.0,10,Ferro,Glorias
+29,Partido en juego 030,1053.0,1072.0,1,19.0,10,Ferro,Glorias
+30,Partido en juego 031,1076.0,1099.0,1,23.0,10,Ferro,Glorias
+31,Partido en juego 032,1099.0,1139.0,1,40.0,10,Ferro,Glorias
+32,Partido en juego 033,1135.0,1190.0,1,55.0,10,Ferro,Glorias
+33,Partido en juego 034,1206.0,1241.0,1,35.0,10,Ferro,Glorias
+34,Partido en juego 035,1249.0,1264.0,1,15.0,10,Ferro,Glorias
+35,Partido en juego 036,1262.0,1274.0,1,12.0,10,Ferro,Glorias
+36,Partido en juego 037,1280.0,1323.0,1,43.0,10,Ferro,Glorias
+37,Partido en juego 038,1339.0,1358.0,1,19.0,10,Ferro,Glorias
+38,Partido en juego 039,1350.0,1369.0,1,19.0,10,Ferro,Glorias
+39,Partido en juego 040,1369.0,1397.0,1,28.0,10,Ferro,Glorias
+40,Partido en juego 041,1457.0,1476.0,1,19.0,10,Ferro,Glorias
+41,Partido en juego 042,1469.0,1525.0,1,56.0,10,Ferro,Glorias
+42,Partido en juego 043,1551.0,1577.0,1,26.0,10,Ferro,Glorias
+43,Partido en juego 044,1666.0,1681.0,1,15.0,10,Ferro,Glorias
+44,Partido en juego 045,1691.0,1711.0,1,20.0,10,Ferro,Glorias
+45,Partido en juego 046,1709.0,1733.0,1,24.0,10,Ferro,Glorias
+46,Partido en juego 047,1737.0,1750.0,1,13.0,10,Ferro,Glorias
+47,Partido en juego 048,1754.0,1769.0,1,15.0,10,Ferro,Glorias
+48,Partido en juego 049,1770.0,1787.0,1,17.0,10,Ferro,Glorias
+49,Partido en juego 050,1782.0,1797.0,1,15.0,10,Ferro,Glorias
+50,Partido en juego 051,1804.0,1822.0,1,18.0,10,Ferro,Glorias
+51,Partido en juego 052,1824.0,1840.0,1,16.0,10,Ferro,Glorias
+52,Partido en juego 053,1842.0,1874.0,1,32.0,10,Ferro,Glorias
+53,Partido en juego 054,1879.0,1891.0,1,12.0,10,Ferro,Glorias
+54,Partido en juego 055,1885.0,1899.0,1,14.0,10,Ferro,Glorias
+55,Partido en juego 056,1936.0,1950.0,1,14.0,10,Ferro,Glorias
+56,Partido en juego 057,1943.0,1963.0,1,20.0,10,Ferro,Glorias
+57,Partido en juego 058,1970.0,2004.0,1,34.0,10,Ferro,Glorias
+58,Partido en juego 059,2022.0,2038.0,1,16.0,10,Ferro,Glorias
+59,Partido en juego 060,2055.0,2073.0,1,18.0,10,Ferro,Glorias
+60,Partido en juego 061,2129.0,2140.0,1,11.0,10,Ferro,Glorias
+61,Partido en juego 062,2155.0,2170.0,1,15.0,10,Ferro,Glorias
+62,Partido en juego 063,2168.0,2193.0,1,25.0,10,Ferro,Glorias
+63,Partido en juego 064,2190.0,2222.0,1,32.0,10,Ferro,Glorias
+64,Partido en juego 065,2304.0,2323.0,1,19.0,10,Ferro,Glorias
+65,Partido en juego 066,2321.0,2335.0,1,14.0,10,Ferro,Glorias
+66,Partido en juego 067,2334.0,2346.0,1,12.0,10,Ferro,Glorias
+67,Partido en juego 068,2346.0,2360.0,1,14.0,10,Ferro,Glorias
+68,Partido en juego 069,2350.0,2366.0,2,16.0,10,Ferro,Glorias
+69,Partido en juego 070,2374.0,2389.0,2,15.0,10,Ferro,Glorias
+70,Partido en juego 071,2382.0,2409.0,2,27.0,10,Ferro,Glorias
+71,Partido en juego 072,2414.0,2453.0,2,39.0,10,Ferro,Glorias
+72,Partido en juego 073,2457.0,2484.0,2,27.0,10,Ferro,Glorias
+73,Partido en juego 074,2505.0,2566.0,2,61.0,10,Ferro,Glorias
+74,Partido en juego 075,2623.0,2635.0,2,12.0,10,Ferro,Glorias
+75, ,2636.0,2651.0,2,15.0,10,Ferro,Glorias
+76,Partido en juego 077,2664.0,2680.0,2,16.0,10,Ferro,Glorias
+77, ,2698.0,2715.0,2,17.0,10,Ferro,Glorias
+78,Partido en juego 079,2763.0,2776.0,2,13.0,10,Ferro,Glorias
+79,Partido en juego 080,2769.0,2782.0,2,13.0,10,Ferro,Glorias
+80,Partido en juego 081,2787.0,2800.0,2,13.0,10,Ferro,Glorias
+81,Partido en juego 082,2815.0,2862.0,2,47.0,10,Ferro,Glorias
+82,Partido en juego 083,2864.0,2914.0,2,50.0,10,Ferro,Glorias
+83,Partido en juego 084,2931.0,2958.0,2,27.0,10,Ferro,Glorias
+84,Partido en juego 085,2973.0,3001.0,2,28.0,10,Ferro,Glorias
+85,Partido en juego 086,3009.0,3041.0,2,32.0,10,Ferro,Glorias
+86,Partido en juego 087,3051.0,3063.0,2,12.0,10,Ferro,Glorias
+87,Partido en juego 088,3078.0,3099.0,2,21.0,10,Ferro,Glorias
+88,Partido en juego 089,3101.0,3127.0,2,26.0,10,Ferro,Glorias
+89,Partido en juego 090,3123.0,3168.0,2,45.0,10,Ferro,Glorias
+90,Partido en juego 091,3171.0,3197.0,2,26.0,10,Ferro,Glorias
+91,Partido en juego 092,3206.0,3224.0,2,18.0,10,Ferro,Glorias
+92,Partido en juego 093,3225.0,3243.0,2,18.0,10,Ferro,Glorias
+93,Partido en juego 094,3248.0,3264.0,2,16.0,10,Ferro,Glorias
+94,Partido en juego 095,3264.0,3304.0,2,40.0,10,Ferro,Glorias
+95,Partido en juego 096,3314.0,3328.0,2,14.0,10,Ferro,Glorias
+96,Partido en juego 097,3325.0,3340.0,2,15.0,10,Ferro,Glorias
+97,Partido en juego 098,3341.0,3365.0,2,24.0,10,Ferro,Glorias
+98,Partido en juego 099,3364.0,3376.0,2,12.0,10,Ferro,Glorias
+99,Partido en juego 100,3379.0,3392.0,2,13.0,10,Ferro,Glorias
+100,Partido en juego 101,3399.0,3423.0,2,24.0,10,Ferro,Glorias
+101,Partido en juego 102,3428.0,3467.0,2,39.0,10,Ferro,Glorias
+102,t,3481.0,3580.0,2,99.0,10,Ferro,Glorias
+103,Partido en juego 104,3581.0,3592.0,2,11.0,10,Ferro,Glorias
+104,Partido en juego 105,3587.0,3600.0,2,13.0,10,Ferro,Glorias
+105,Partido en juego 106,3602.0,3619.0,2,17.0,10,Ferro,Glorias
+106,Partido en juego 107,3617.0,3642.0,2,25.0,10,Ferro,Glorias
+107,Partido en juego 108,3643.0,3658.0,2,15.0,10,Ferro,Glorias
+108,Partido en juego 109,3665.0,3677.0,2,12.0,10,Ferro,Glorias
+109,Partido en juego 110,3683.0,3709.0,2,26.0,10,Ferro,Glorias
+110,Partido en juego 111,3712.0,3740.0,2,28.0,10,Ferro,Glorias
+111,Partido en juego 112,3764.0,3776.0,2,12.0,10,Ferro,Glorias
+112,Partido en juego 113,3774.0,3790.0,2,16.0,10,Ferro,Glorias
+113,Partido en juego 114,3798.0,3818.0,2,20.0,10,Ferro,Glorias
+114,Partido en juego 115,3811.0,3837.0,2,26.0,10,Ferro,Glorias
+115,Partido en juego 116,3840.0,3854.0,2,14.0,10,Ferro,Glorias
+116,Partido en juego 117,3860.0,3877.0,2,17.0,10,Ferro,Glorias
+117,Partido en juego 118,3901.0,3947.0,2,46.0,10,Ferro,Glorias
+118,Partido en juego 119,3950.0,3970.0,2,20.0,10,Ferro,Glorias
+119,Partido en juego 120,3974.0,4025.0,2,51.0,10,Ferro,Glorias
+120,Partido en juego 121,4066.0,4087.0,2,21.0,10,Ferro,Glorias
+121,Partido en juego 122,4089.0,4103.0,2,14.0,10,Ferro,Glorias
+122,Partido en juego 123,4105.0,4119.0,2,14.0,10,Ferro,Glorias
+123,Partido en juego 124,4125.0,4147.0,2,22.0,10,Ferro,Glorias
+124,Partido en juego 125,4142.0,4155.0,2,13.0,10,Ferro,Glorias
+125,Partido en juego 126,4180.0,4198.0,2,18.0,10,Ferro,Glorias
+126,Partido en juego 127,4191.0,4226.0,2,35.0,10,Ferro,Glorias
+127,Partido en juego 128,4445.0,4460.0,2,15.0,10,Ferro,Glorias
+128,Partido en juego 129,4471.0,4484.0,2,13.0,10,Ferro,Glorias
+129,Partido en juego 130,4484.0,4503.0,2,19.0,10,Ferro,Glorias
+130,Partido en juego 131,4503.0,4538.0,2,35.0,10,Ferro,Glorias
+131,Partido en juego 132,4539.0,4558.0,2,19.0,10,Ferro,Glorias
+132,Partido en juego 133,4570.0,4586.0,2,16.0,10,Ferro,Glorias
+133,Partido en juego 134,4676.0,4689.0,2,13.0,10,Ferro,Glorias
+134,Partido en juego 135,4685.0,4700.0,2,15.0,10,Ferro,Glorias
+135,Partido en juego 136,4697.0,4748.0,2,51.0,10,Ferro,Glorias
+136,Partido en juego 137,4746.0,4783.0,2,37.0,10,Ferro,Glorias
+137,Partido en juego 138,4831.0,4858.0,2,27.0,10,Ferro,Glorias
+138,Partido en juego 139,4886.0,4908.0,2,22.0,10,Ferro,Glorias
+139,Partido en juego 140,4908.0,4922.0,2,14.0,10,Ferro,Glorias
+140,Partido en juego 141,4919.0,4939.0,2,20.0,10,Ferro,Glorias
+141,Partido en juego 142,4934.0,4955.0,2,21.0,10,Ferro,Glorias
+142,Partido en juego 143,4999.0,5021.0,2,22.0,10,Ferro,Glorias
+143,Partido en juego 144,5011.0,5023.0,2,12.0,10,Ferro,Glorias
+144,Partido en juego 145,5022.0,5035.0,2,13.0,10,Ferro,Glorias
+145,Partido en juego 001,0.0,18.0,1,18.0,12,Ferro,Hebraica
+146,Partido en juego 002,19.0,45.0,1,26.0,12,Ferro,Hebraica
+147,Partido en juego 003,49.0,64.0,1,15.0,12,Ferro,Hebraica
+148,Partido en juego 004,64.0,107.0,1,43.0,12,Ferro,Hebraica
+149,Partido en juego 005,122.0,170.0,1,48.0,12,Ferro,Hebraica
+150,Partido en juego 006,199.0,211.0,1,12.0,12,Ferro,Hebraica
+151,Partido en juego 007,211.0,235.0,1,24.0,12,Ferro,Hebraica
+152,Partido en juego 008,232.0,247.0,1,15.0,12,Ferro,Hebraica
+153,Partido en juego 009,247.0,269.0,1,22.0,12,Ferro,Hebraica
+154,Partido en juego 010,353.0,366.0,1,13.0,12,Ferro,Hebraica
+155,Partido en juego 011,366.0,385.0,1,19.0,12,Ferro,Hebraica
+156,Partido en juego 012,383.0,401.0,1,18.0,12,Ferro,Hebraica
+157,Partido en juego 013,404.0,422.0,1,18.0,12,Ferro,Hebraica
+158,Partido en juego 014,426.0,440.0,1,14.0,12,Ferro,Hebraica
+159,Partido en juego 015,449.0,462.0,1,13.0,12,Ferro,Hebraica
+160,Partido en juego 016,462.0,482.0,1,20.0,12,Ferro,Hebraica
+161,Partido en juego 017,480.0,502.0,1,22.0,12,Ferro,Hebraica
+162, ,511.0,530.0,1,19.0,12,Ferro,Hebraica
+163,Partido en juego 019,526.0,537.0,1,11.0,12,Ferro,Hebraica
+164,Partido en juego 020,529.0,556.0,1,27.0,12,Ferro,Hebraica
+165,Partido en juego 021,559.0,571.0,1,12.0,12,Ferro,Hebraica
+166,Partido en juego 022,574.0,591.0,1,17.0,12,Ferro,Hebraica
+167,Partido en juego 023,633.0,646.0,1,13.0,12,Ferro,Hebraica
+168,Partido en juego 024,638.0,665.0,1,27.0,12,Ferro,Hebraica
+169,Partido en juego 025,668.0,685.0,1,17.0,12,Ferro,Hebraica
+170,Partido en juego 026,698.0,715.0,1,17.0,12,Ferro,Hebraica
+171,Partido en juego 027,760.0,781.0,1,21.0,12,Ferro,Hebraica
+172,Partido en juego 028,803.0,846.0,1,43.0,12,Ferro,Hebraica
+173,Partido en juego 029,837.0,849.0,1,12.0,12,Ferro,Hebraica
+174,Partido en juego 030,886.0,930.0,1,44.0,12,Ferro,Hebraica
+175,Partido en juego 031,930.0,949.0,1,19.0,12,Ferro,Hebraica
+176,Partido en juego 032,944.0,959.0,1,15.0,12,Ferro,Hebraica
+177,Partido en juego 033,957.0,984.0,1,27.0,12,Ferro,Hebraica
+178,Partido en juego 034,994.0,1040.0,1,46.0,12,Ferro,Hebraica
+179,Partido en juego 035,1056.0,1073.0,1,17.0,12,Ferro,Hebraica
+180,Partido en juego 036,1071.0,1085.0,1,14.0,12,Ferro,Hebraica
+181,Partido en juego 037,1087.0,1127.0,1,40.0,12,Ferro,Hebraica
+182,Partido en juego 038,1125.0,1148.0,1,23.0,12,Ferro,Hebraica
+183,Partido en juego 039,1146.0,1158.0,1,12.0,12,Ferro,Hebraica
+184,Partido en juego 040,1163.0,1186.0,1,23.0,12,Ferro,Hebraica
+185,Partido en juego 041,1185.0,1211.0,1,26.0,12,Ferro,Hebraica
+186,Partido en juego 042,1220.0,1257.0,1,37.0,12,Ferro,Hebraica
+187,Partido en juego 043,1269.0,1303.0,1,34.0,12,Ferro,Hebraica
+188,Partido en juego 044,1328.0,1343.0,1,15.0,12,Ferro,Hebraica
+189,Partido en juego 045,1349.0,1379.0,1,30.0,12,Ferro,Hebraica
+190,Partido en juego 046,1379.0,1398.0,1,19.0,12,Ferro,Hebraica
+191,Partido en juego 047,1414.0,1424.0,1,10.0,12,Ferro,Hebraica
+192,Partido en juego 048,1428.0,1439.0,1,11.0,12,Ferro,Hebraica
+193,Partido en juego 049,1439.0,1458.0,1,19.0,12,Ferro,Hebraica
+194,Partido en juego 050,1454.0,1473.0,1,19.0,12,Ferro,Hebraica
+195,Partido en juego 051,1476.0,1497.0,1,21.0,12,Ferro,Hebraica
+196,Partido en juego 052,1494.0,1513.0,1,19.0,12,Ferro,Hebraica
+197,Partido en juego 053,1508.0,1539.0,1,31.0,12,Ferro,Hebraica
+198,Partido en juego 054,1543.0,1555.0,1,12.0,12,Ferro,Hebraica
+199,Partido en juego 055,1558.0,1576.0,1,18.0,12,Ferro,Hebraica
+200,Partido en juego 056,1587.0,1603.0,1,16.0,12,Ferro,Hebraica
+201,Partido en juego 057,1611.0,1632.0,1,21.0,12,Ferro,Hebraica
+202,Partido en juego 058,1640.0,1661.0,1,21.0,12,Ferro,Hebraica
+203,Partido en juego 059,1660.0,1673.0,1,13.0,12,Ferro,Hebraica
+204,Partido en juego 060,1671.0,1683.0,1,12.0,12,Ferro,Hebraica
+205,Partido en juego 061,1685.0,1712.0,1,27.0,12,Ferro,Hebraica
+206,Partido en juego 062,1718.0,1747.0,1,29.0,12,Ferro,Hebraica
+207,Partido en juego 063,1747.0,1770.0,1,23.0,12,Ferro,Hebraica
+208,Partido en juego 064,1764.0,1776.0,1,12.0,12,Ferro,Hebraica
+209,Partido en juego 065,1775.0,1811.0,1,36.0,12,Ferro,Hebraica
+210,Partido en juego 066,1817.0,1829.0,1,12.0,12,Ferro,Hebraica
+211,Partido en juego 067,1829.0,1849.0,1,20.0,12,Ferro,Hebraica
+212,Partido en juego 068,1854.0,1917.0,1,63.0,12,Ferro,Hebraica
+213,Partido en juego 069,1918.0,1952.0,1,34.0,12,Ferro,Hebraica
+214,Partido en juego 070,1954.0,1971.0,1,17.0,12,Ferro,Hebraica
+215,Partido en juego 071,1978.0,1995.0,1,17.0,12,Ferro,Hebraica
+216,Partido en juego 072,2006.0,2017.0,1,11.0,12,Ferro,Hebraica
+217,Partido en juego 073,2096.0,2108.0,1,12.0,12,Ferro,Hebraica
+218,Partido en juego 074,2116.0,2130.0,1,14.0,12,Ferro,Hebraica
+219,Partido en juego 075,2127.0,2153.0,1,26.0,12,Ferro,Hebraica
+220,Partido en juego 076,2149.0,2165.0,2,16.0,12,Ferro,Hebraica
+221,Partido en juego 077,2162.0,2225.0,2,63.0,12,Ferro,Hebraica
+222,Partido en juego 078,2231.0,2247.0,2,16.0,12,Ferro,Hebraica
+223,Partido en juego 079,2245.0,2261.0,2,16.0,12,Ferro,Hebraica
+224,Partido en juego 080,2256.0,2276.0,2,20.0,12,Ferro,Hebraica
+225,Partido en juego 081,2277.0,2292.0,2,15.0,12,Ferro,Hebraica
+226,Partido en juego 082,2296.0,2314.0,2,18.0,12,Ferro,Hebraica
+227,Partido en juego 083,2362.0,2379.0,2,17.0,12,Ferro,Hebraica
+228,Partido en juego 084,2375.0,2396.0,2,21.0,12,Ferro,Hebraica
+229,Partido en juego 085,2395.0,2438.0,2,43.0,12,Ferro,Hebraica
+230,Partido en juego 086,2445.0,2460.0,2,15.0,12,Ferro,Hebraica
+231,Partido en juego 087,2461.0,2483.0,2,22.0,12,Ferro,Hebraica
+232,Partido en juego 088,2489.0,2516.0,2,27.0,12,Ferro,Hebraica
+233,Partido en juego 089,2518.0,2539.0,2,21.0,12,Ferro,Hebraica
+234,Partido en juego 090,2530.0,2554.0,2,24.0,12,Ferro,Hebraica
+235,Partido en juego 091,2557.0,2575.0,2,18.0,12,Ferro,Hebraica
+236,Partido en juego 092,2579.0,2599.0,2,20.0,12,Ferro,Hebraica
+237,Partido en juego 093,2611.0,2652.0,2,41.0,12,Ferro,Hebraica
+238,Partido en juego 094,2647.0,2660.0,2,13.0,12,Ferro,Hebraica
+239,Partido en juego 095,2660.0,2679.0,2,19.0,12,Ferro,Hebraica
+240,t,2674.0,2695.0,2,21.0,12,Ferro,Hebraica
+241,Partido en juego 097,2686.0,2699.0,2,13.0,12,Ferro,Hebraica
+242,Partido en juego 098,2706.0,2723.0,2,17.0,12,Ferro,Hebraica
+243,Partido en juego 099,2725.0,2761.0,2,36.0,12,Ferro,Hebraica
+244,Partido en juego 100,2769.0,2796.0,2,27.0,12,Ferro,Hebraica
+245,Partido en juego 101,2808.0,2834.0,2,26.0,12,Ferro,Hebraica
+246,Partido en juego 102,2835.0,2853.0,2,18.0,12,Ferro,Hebraica
+247,Partido en juego 103,2840.0,2853.0,2,13.0,12,Ferro,Hebraica
+248,Partido en juego 104,2988.0,3022.0,2,34.0,12,Ferro,Hebraica
+249,Partido en juego 105,3028.0,3050.0,2,22.0,12,Ferro,Hebraica
+250,Partido en juego 106,3051.0,3068.0,2,17.0,12,Ferro,Hebraica
+251,Partido en juego 107,3075.0,3104.0,2,29.0,12,Ferro,Hebraica
+252,Partido en juego 108,3099.0,3121.0,2,22.0,12,Ferro,Hebraica
+253,Partido en juego 109,3179.0,3193.0,2,14.0,12,Ferro,Hebraica
+254,Partido en juego 110,3222.0,3249.0,2,27.0,12,Ferro,Hebraica
+255,Partido en juego 111,3257.0,3270.0,2,13.0,12,Ferro,Hebraica
+256,Partido en juego 112,3266.0,3285.0,2,19.0,12,Ferro,Hebraica
+257,Partido en juego 113,3354.0,3373.0,2,19.0,12,Ferro,Hebraica
+258,Partido en juego 114,3379.0,3397.0,2,18.0,12,Ferro,Hebraica
+259,Partido en juego 115,3388.0,3404.0,2,16.0,12,Ferro,Hebraica
+260,Partido en juego 116,3414.0,3473.0,2,59.0,12,Ferro,Hebraica
+261,Partido en juego 117,3469.0,3495.0,2,26.0,12,Ferro,Hebraica
+262,Partido en juego 118,3631.0,3644.0,2,13.0,12,Ferro,Hebraica
+263,Partido en juego 119,3678.0,3704.0,2,26.0,12,Ferro,Hebraica
+264,Partido en juego 120,3713.0,3727.0,2,14.0,12,Ferro,Hebraica
+265,Partido en juego 121,3733.0,3745.0,2,12.0,12,Ferro,Hebraica
+266,Partido en juego 122,3748.0,3761.0,2,13.0,12,Ferro,Hebraica
+267,Partido en juego 123,3764.0,3778.0,2,14.0,12,Ferro,Hebraica
+268,Partido en juego 124,3784.0,3842.0,2,58.0,12,Ferro,Hebraica
+269,Partido en juego 125,3860.0,3877.0,2,17.0,12,Ferro,Hebraica
+270,Partido en juego 126,3872.0,3894.0,2,22.0,12,Ferro,Hebraica
+271,Partido en juego 127,3891.0,3922.0,2,31.0,12,Ferro,Hebraica
+272,Partido en juego 128,3924.0,3938.0,2,14.0,12,Ferro,Hebraica
+273,Partido en juego 129,3969.0,3994.0,2,25.0,12,Ferro,Hebraica
+274,Partido en juego 130,3990.0,4004.0,2,14.0,12,Ferro,Hebraica
+275,Partido en juego 131,4009.0,4033.0,2,24.0,12,Ferro,Hebraica
+276,Partido en juego 132,4035.0,4048.0,2,13.0,12,Ferro,Hebraica
+277,Partido en juego 133,4045.0,4060.0,2,15.0,12,Ferro,Hebraica
+278,Partido en juego 134,4065.0,4087.0,2,22.0,12,Ferro,Hebraica
+279,Partido en juego 135,4089.0,4101.0,2,12.0,12,Ferro,Hebraica
+280,Partido en juego 136,4099.0,4113.0,2,14.0,12,Ferro,Hebraica
+281,Partido en juego 137,4122.0,4135.0,2,13.0,12,Ferro,Hebraica
+282,Partido en juego 138,4136.0,4152.0,2,16.0,12,Ferro,Hebraica
+283,Partido en juego 139,4159.0,4181.0,2,22.0,12,Ferro,Hebraica
+284,Partido en juego 140,4174.0,4205.0,2,31.0,12,Ferro,Hebraica
+285,Partido en juego 141,4196.0,4225.0,2,29.0,12,Ferro,Hebraica
+286,Partido en juego 142,4235.0,4247.0,2,12.0,12,Ferro,Hebraica
+287,Partido en juego 143,4251.0,4265.0,2,14.0,12,Ferro,Hebraica
+288,Partido en juego 144,4262.0,4282.0,2,20.0,12,Ferro,Hebraica
+289,Partido en juego 145,4278.0,4302.0,2,24.0,12,Ferro,Hebraica
+290,Partido en juego 146,4297.0,4309.0,2,12.0,12,Ferro,Hebraica
+291,Partido en juego 147,4304.0,4326.0,2,22.0,12,Ferro,Hebraica
+292,Partido en juego 148,4326.0,4344.0,2,18.0,12,Ferro,Hebraica
+293,Partido en juego 149,4361.0,4376.0,2,15.0,12,Ferro,Hebraica
+294,Partido en juego 150,4501.0,4551.0,2,50.0,12,Ferro,Hebraica
+295,Partido en juego 151,4545.0,4592.0,2,47.0,12,Ferro,Hebraica
+296,Partido en juego 152,4587.0,4602.0,2,15.0,12,Ferro,Hebraica
+297,Partido en juego 153,4605.0,4624.0,2,19.0,12,Ferro,Hebraica
+298,Partido en juego 154,4620.0,4640.0,2,20.0,12,Ferro,Hebraica
+299,Partido en juego 155,4655.0,4684.0,2,29.0,12,Ferro,Hebraica
+300,Partido en juego 156,4678.0,4693.0,2,15.0,12,Ferro,Hebraica
+301,Partido en juego 157,4689.0,4708.0,2,19.0,12,Ferro,Hebraica
+302,Partido en juego 158,4800.0,4817.0,2,17.0,12,Ferro,Hebraica
+303,Partido en juego 159,4838.0,4852.0,2,14.0,12,Ferro,Hebraica
+304,Partido en juego 001,2640.0,2691.0,1,51.0,13,Independiente,Ferro
+305,Partido en juego 002,2684.0,2703.0,1,19.0,13,Independiente,Ferro
+306,Partido en juego 003,2697.0,2788.0,1,91.0,13,Independiente,Ferro
+307,Partido en juego 004,2799.0,2814.0,1,15.0,13,Independiente,Ferro
+308,Partido en juego 005,2819.0,2838.0,1,19.0,13,Independiente,Ferro
+309,Partido en juego 006,2849.0,2889.0,1,40.0,13,Independiente,Ferro
+310,Partido en juego 007,2890.0,2918.0,1,28.0,13,Independiente,Ferro
+311,Partido en juego 008,2907.0,2983.0,1,76.0,13,Independiente,Ferro
+312,Partido en juego 009,2974.0,3005.0,1,31.0,13,Independiente,Ferro
+313,Partido en juego 010,3020.0,3053.0,1,33.0,13,Independiente,Ferro
+314,Partido en juego 011,3097.0,3122.0,1,25.0,13,Independiente,Ferro
+315,Partido en juego 012,3121.0,3165.0,1,44.0,13,Independiente,Ferro
+316,Partido en juego 013,3157.0,3180.0,1,23.0,13,Independiente,Ferro
+317,Partido en juego 014,3175.0,3212.0,1,37.0,13,Independiente,Ferro
+318,Partido en juego 015,3211.0,3241.0,1,30.0,13,Independiente,Ferro
+319,Partido en juego 016,3242.0,3279.0,1,37.0,13,Independiente,Ferro
+320,Partido en juego 017,3318.0,3341.0,1,23.0,13,Independiente,Ferro
+321,Partido en juego 018,3397.0,3413.0,1,16.0,13,Independiente,Ferro
+322,Partido en juego 019,3425.0,3485.0,1,60.0,13,Independiente,Ferro
+323,Partido en juego 020,3479.0,3502.0,1,23.0,13,Independiente,Ferro
+324,Partido en juego 021,3499.0,3526.0,1,27.0,13,Independiente,Ferro
+325,Partido en juego 022,3531.0,3548.0,1,17.0,13,Independiente,Ferro
+326,Partido en juego 023,3547.0,3569.0,1,22.0,13,Independiente,Ferro
+327,Partido en juego 024,3570.0,3606.0,1,36.0,13,Independiente,Ferro
+328,Partido en juego 025,3603.0,3662.0,1,59.0,13,Independiente,Ferro
+329,Partido en juego 026,3654.0,3668.0,1,14.0,13,Independiente,Ferro
+330,Partido en juego 027,3668.0,3691.0,1,23.0,13,Independiente,Ferro
+331,Partido en juego 028,3690.0,3717.0,1,27.0,13,Independiente,Ferro
+332,Partido en juego 029,3723.0,3752.0,1,29.0,13,Independiente,Ferro
+333,Partido en juego 030,3815.0,3846.0,1,31.0,13,Independiente,Ferro
+334,Partido en juego 031,3853.0,3889.0,1,36.0,13,Independiente,Ferro
+335,Partido en juego 032,3905.0,3927.0,1,22.0,13,Independiente,Ferro
+336,Partido en juego 033,3928.0,3956.0,1,28.0,13,Independiente,Ferro
+337,Partido en juego 034,4010.0,4053.0,1,43.0,13,Independiente,Ferro
+338,Partido en juego 035,4055.0,4103.0,1,48.0,13,Independiente,Ferro
+339,Partido en juego 036,4108.0,4148.0,1,40.0,13,Independiente,Ferro
+340,Partido en juego 037,4155.0,4174.0,1,19.0,13,Independiente,Ferro
+341,Partido en juego 038,4173.0,4207.0,1,34.0,13,Independiente,Ferro
+342,Partido en juego 039,4207.0,4236.0,1,29.0,13,Independiente,Ferro
+343,Partido en juego 040,4243.0,4262.0,1,19.0,13,Independiente,Ferro
+344,Partido en juego 041,4272.0,4300.0,1,28.0,13,Independiente,Ferro
+345,Partido en juego 042,4292.0,4312.0,1,20.0,13,Independiente,Ferro
+346,Partido en juego 043,4414.0,4439.0,1,25.0,13,Independiente,Ferro
+347,Partido en juego 044,4443.0,4469.0,1,26.0,13,Independiente,Ferro
+348,Partido en juego 045,4486.0,4508.0,1,22.0,13,Independiente,Ferro
+349,Partido en juego 046,4549.0,4566.0,1,17.0,13,Independiente,Ferro
+350,Partido en juego 047,4566.0,4599.0,1,33.0,13,Independiente,Ferro
+351,Partido en juego 048,4592.0,4628.0,1,36.0,13,Independiente,Ferro
+352,Partido en juego 049,4635.0,4656.0,1,21.0,13,Independiente,Ferro
+353,Partido en juego 050,4653.0,4681.0,1,28.0,13,Independiente,Ferro
+354,Partido en juego 051,4703.0,4735.0,1,32.0,13,Independiente,Ferro
+355,Partido en juego 052,4729.0,4750.0,1,21.0,13,Independiente,Ferro
+356,Partido en juego 053,4754.0,4778.0,1,24.0,13,Independiente,Ferro
+357,Partido en juego 054,4796.0,4817.0,1,21.0,13,Independiente,Ferro
+358,Partido en juego 055,4820.0,4873.0,1,53.0,13,Independiente,Ferro
+359,Partido en juego 056,4959.0,4990.0,1,31.0,13,Independiente,Ferro
+360,Partido en juego 057,4988.0,5014.0,1,26.0,13,Independiente,Ferro
+361,Partido en juego 058,5016.0,5042.0,1,26.0,13,Independiente,Ferro
+362,Partido en juego 059,5042.0,5058.0,1,16.0,13,Independiente,Ferro
+363,Partido en juego 060,5054.0,5081.0,1,27.0,13,Independiente,Ferro
+364,Partido en juego 061,5079.0,5104.0,1,25.0,13,Independiente,Ferro
+365,Partido en juego 062,5106.0,5146.0,1,40.0,13,Independiente,Ferro
+366,Partido en juego 063,5155.0,5195.0,1,40.0,13,Independiente,Ferro
+367,Partido en juego 064,5188.0,5223.0,1,35.0,13,Independiente,Ferro
+368,Partido en juego 065,5225.0,5251.0,1,26.0,13,Independiente,Ferro
+369,Partido en juego 066,5272.0,5288.0,1,16.0,13,Independiente,Ferro
+370,Partido en juego 067,5308.0,5347.0,1,39.0,13,Independiente,Ferro
+371,Partido en juego 068,6176.0,6256.0,2,80.0,13,Independiente,Ferro
+372,Partido en juego 069,6256.0,6289.0,2,33.0,13,Independiente,Ferro
+373,Partido en juego 070,6300.0,6337.0,2,37.0,13,Independiente,Ferro
+374,Partido en juego 071,6336.0,6365.0,2,29.0,13,Independiente,Ferro
+375,Partido en juego 072,6367.0,6396.0,2,29.0,13,Independiente,Ferro
+376,Partido en juego 073,6397.0,6443.0,2,46.0,13,Independiente,Ferro
+377,Partido en juego 074,6448.0,6469.0,2,21.0,13,Independiente,Ferro
+378,Partido en juego 075,6471.0,6494.0,2,23.0,13,Independiente,Ferro
+379,Partido en juego 076,6491.0,6530.0,2,39.0,13,Independiente,Ferro
+380,Partido en juego 077,6528.0,6577.0,2,49.0,13,Independiente,Ferro
+381,Partido en juego 078,6587.0,6630.0,2,43.0,13,Independiente,Ferro
+382,Partido en juego 079,6633.0,6657.0,2,24.0,13,Independiente,Ferro
+383,Partido en juego 080,6657.0,6738.0,2,81.0,13,Independiente,Ferro
+384,Partido en juego 081,6739.0,6772.0,2,33.0,13,Independiente,Ferro
+385,Partido en juego 082,6767.0,6798.0,2,31.0,13,Independiente,Ferro
+386,Partido en juego 083,6799.0,6829.0,2,30.0,13,Independiente,Ferro
+387,Partido en juego 084,6837.0,6874.0,2,37.0,13,Independiente,Ferro
+388,Partido en juego 085,6903.0,6946.0,2,43.0,13,Independiente,Ferro
+389,Partido en juego 086,6941.0,6979.0,2,38.0,13,Independiente,Ferro
+390,Partido en juego 087,6972.0,7001.0,2,29.0,13,Independiente,Ferro
+391,Partido en juego 088,6996.0,7029.0,2,33.0,13,Independiente,Ferro
+392,Partido en juego 089,7032.0,7062.0,2,30.0,13,Independiente,Ferro
+393,Partido en juego 090,7058.0,7092.0,2,34.0,13,Independiente,Ferro
+394,Partido en juego 091,7090.0,7112.0,2,22.0,13,Independiente,Ferro
+395,Partido en juego 092,7106.0,7133.0,2,27.0,13,Independiente,Ferro
+396,Partido en juego 093,7163.0,7185.0,2,22.0,13,Independiente,Ferro
+397,Partido en juego 094,7182.0,7219.0,2,37.0,13,Independiente,Ferro
+398,Partido en juego 095,7213.0,7232.0,2,19.0,13,Independiente,Ferro
+399,Partido en juego 096,7235.0,7296.0,2,61.0,13,Independiente,Ferro
+400,Partido en juego 097,7357.0,7398.0,2,41.0,13,Independiente,Ferro
+401,Partido en juego 098,7396.0,7419.0,2,23.0,13,Independiente,Ferro
+402,Partido en juego 099,7420.0,7441.0,2,21.0,13,Independiente,Ferro
+403,Partido en juego 100,7547.0,7604.0,2,57.0,13,Independiente,Ferro
+404,Partido en juego 101,7632.0,7659.0,2,27.0,13,Independiente,Ferro
+405,Partido en juego 102,7652.0,7685.0,2,33.0,13,Independiente,Ferro
+406,Partido en juego 103,7685.0,7720.0,2,35.0,13,Independiente,Ferro
+407,Partido en juego 104,7724.0,7753.0,2,29.0,13,Independiente,Ferro
+408,Partido en juego 105,7790.0,7820.0,2,30.0,13,Independiente,Ferro
+409,Partido en juego 106,7813.0,7856.0,2,43.0,13,Independiente,Ferro
+410,Partido en juego 107,7852.0,7876.0,2,24.0,13,Independiente,Ferro
+411,Partido en juego 108,7884.0,7913.0,2,29.0,13,Independiente,Ferro
+412,Partido en juego 109,7917.0,7964.0,2,47.0,13,Independiente,Ferro
+413,Partido en juego 110,7960.0,7980.0,2,20.0,13,Independiente,Ferro
+414,Partido en juego 111,7986.0,8019.0,2,33.0,13,Independiente,Ferro
+415,Partido en juego 112,8013.0,8030.0,2,17.0,13,Independiente,Ferro
+416,Partido en juego 113,8059.0,8118.0,2,59.0,13,Independiente,Ferro
+417,Partido en juego 114,8155.0,8188.0,2,33.0,13,Independiente,Ferro
+418,Partido en juego 115,8206.0,8246.0,2,40.0,13,Independiente,Ferro
+419,Partido en juego 116,8441.0,8476.0,2,35.0,13,Independiente,Ferro
+420,Partido en juego 117,8473.0,8512.0,2,39.0,13,Independiente,Ferro
+421,Partido en juego 118,8515.0,8577.0,2,62.0,13,Independiente,Ferro
+422,Partido en juego 119,8569.0,8621.0,2,52.0,13,Independiente,Ferro
+423,Partido en juego 120,8686.0,8728.0,2,42.0,13,Independiente,Ferro
+424,PARTIDO EN JUEGO 001,0.0,14.0,1,14.0,14,Ferro,Gimnasia
+425,PARTIDO EN JUEGO 190,0.0,6.0,1,6.0,14,Ferro,Gimnasia
+426,PARTIDO EN JUEGO 002,29.0,39.0,1,10.0,14,Ferro,Gimnasia
+427,PARTIDO EN JUEGO 003,44.0,62.0,1,18.0,14,Ferro,Gimnasia
+428,PARTIDO EN JUEGO 004,77.0,98.0,1,21.0,14,Ferro,Gimnasia
+429,PARTIDO EN JUEGO 005,104.0,122.0,1,18.0,14,Ferro,Gimnasia
+430,PARTIDO EN JUEGO 006,155.0,171.0,1,16.0,14,Ferro,Gimnasia
+431,PARTIDO EN JUEGO 007,185.0,200.0,1,15.0,14,Ferro,Gimnasia
+432,PARTIDO EN JUEGO 008,215.0,219.0,1,4.0,14,Ferro,Gimnasia
+433,PARTIDO EN JUEGO 009,229.0,233.0,1,4.0,14,Ferro,Gimnasia
+434,PARTIDO EN JUEGO 010,240.0,249.0,1,9.0,14,Ferro,Gimnasia
+435,PARTIDO EN JUEGO 011,278.0,286.0,1,8.0,14,Ferro,Gimnasia
+436,PARTIDO EN JUEGO 012,295.0,305.0,1,10.0,14,Ferro,Gimnasia
+437,PARTIDO EN JUEGO 013,316.0,321.0,1,5.0,14,Ferro,Gimnasia
+438,PARTIDO EN JUEGO 014,324.0,330.0,1,6.0,14,Ferro,Gimnasia
+439,PARTIDO EN JUEGO 015,336.0,350.0,1,14.0,14,Ferro,Gimnasia
+440,PARTIDO EN JUEGO 016,368.0,386.0,1,18.0,14,Ferro,Gimnasia
+441,PARTIDO EN JUEGO 017,404.0,407.0,1,3.0,14,Ferro,Gimnasia
+442,t,420.0,431.0,1,11.0,14,Ferro,Gimnasia
+443,PARTIDO EN JUEGO 019,431.0,466.0,1,35.0,14,Ferro,Gimnasia
+444,PARTIDO EN JUEGO 020,483.0,491.0,1,8.0,14,Ferro,Gimnasia
+445,PARTIDO EN JUEGO 021,500.0,508.0,1,8.0,14,Ferro,Gimnasia
+446,PARTIDO EN JUEGO 022,518.0,526.0,1,8.0,14,Ferro,Gimnasia
+447,PARTIDO EN JUEGO 023,552.0,565.0,1,13.0,14,Ferro,Gimnasia
+448,PARTIDO EN JUEGO 024,573.0,587.0,1,14.0,14,Ferro,Gimnasia
+449,PARTIDO EN JUEGO 025,594.0,603.0,1,9.0,14,Ferro,Gimnasia
+450,PARTIDO EN JUEGO 026,615.0,625.0,1,10.0,14,Ferro,Gimnasia
+451,PARTIDO EN JUEGO 027,639.0,650.0,1,11.0,14,Ferro,Gimnasia
+452,PARTIDO EN JUEGO 028,656.0,663.0,1,7.0,14,Ferro,Gimnasia
+453,PARTIDO EN JUEGO 029,725.0,729.0,1,4.0,14,Ferro,Gimnasia
+454,PARTIDO EN JUEGO 030,740.0,748.0,1,8.0,14,Ferro,Gimnasia
+455,PARTIDO EN JUEGO 031,760.0,769.0,1,9.0,14,Ferro,Gimnasia
+456,PARTIDO EN JUEGO 032,770.0,773.0,1,3.0,14,Ferro,Gimnasia
+457,PARTIDO EN JUEGO 033,776.0,794.0,1,18.0,14,Ferro,Gimnasia
+458,PARTIDO EN JUEGO 034,795.0,798.0,1,3.0,14,Ferro,Gimnasia
+459,PARTIDO EN JUEGO 035,826.0,832.0,1,6.0,14,Ferro,Gimnasia
+460,PARTIDO EN JUEGO 036,838.0,848.0,1,10.0,14,Ferro,Gimnasia
+461,PARTIDO EN JUEGO 037,859.0,881.0,1,22.0,14,Ferro,Gimnasia
+462,PARTIDO EN JUEGO 038,897.0,915.0,1,18.0,14,Ferro,Gimnasia
+463,PARTIDO EN JUEGO 039,947.0,959.0,1,12.0,14,Ferro,Gimnasia
+464,PARTIDO EN JUEGO 040,976.0,984.0,1,8.0,14,Ferro,Gimnasia
+465,PARTIDO EN JUEGO 041,1002.0,1023.0,1,21.0,14,Ferro,Gimnasia
+466,PARTIDO EN JUEGO 042,1038.0,1046.0,1,8.0,14,Ferro,Gimnasia
+467,PARTIDO EN JUEGO 043,1062.0,1067.0,1,5.0,14,Ferro,Gimnasia
+468,PARTIDO EN JUEGO 044,1077.0,1091.0,1,14.0,14,Ferro,Gimnasia
+469,PARTIDO EN JUEGO 045,1095.0,1107.0,1,12.0,14,Ferro,Gimnasia
+470,PARTIDO EN JUEGO 046,1283.0,1303.0,1,20.0,14,Ferro,Gimnasia
+471,PARTIDO EN JUEGO 047,1474.0,1496.0,1,22.0,14,Ferro,Gimnasia
+472,PARTIDO EN JUEGO 048,1509.0,1519.0,1,10.0,14,Ferro,Gimnasia
+473,PARTIDO EN JUEGO 049,1548.0,1561.0,1,13.0,14,Ferro,Gimnasia
+474,PARTIDO EN JUEGO 050,1580.0,1586.0,1,6.0,14,Ferro,Gimnasia
+475,PARTIDO EN JUEGO 051,1589.0,1607.0,1,18.0,14,Ferro,Gimnasia
+476,PARTIDO EN JUEGO 052,1624.0,1629.0,1,5.0,14,Ferro,Gimnasia
+477,PARTIDO EN JUEGO 053,1646.0,1656.0,1,10.0,14,Ferro,Gimnasia
+478,PARTIDO EN JUEGO 054,1664.0,1678.0,1,14.0,14,Ferro,Gimnasia
+479,PARTIDO EN JUEGO 055,1690.0,1698.0,1,8.0,14,Ferro,Gimnasia
+480,PARTIDO EN JUEGO 056,1715.0,1718.0,1,3.0,14,Ferro,Gimnasia
+481,PARTIDO EN JUEGO 057,1732.0,1739.0,1,7.0,14,Ferro,Gimnasia
+482,PARTIDO EN JUEGO 058,1754.0,1766.0,1,12.0,14,Ferro,Gimnasia
+483,PARTIDO EN JUEGO 059,1774.0,1781.0,1,7.0,14,Ferro,Gimnasia
+484,PARTIDO EN JUEGO 060,1795.0,1799.0,1,4.0,14,Ferro,Gimnasia
+485,PARTIDO EN JUEGO 061,1811.0,1823.0,1,12.0,14,Ferro,Gimnasia
+486,PARTIDO EN JUEGO 062,1835.0,1873.0,1,38.0,14,Ferro,Gimnasia
+487,PARTIDO EN JUEGO 063,1895.0,1915.0,1,20.0,14,Ferro,Gimnasia
+488,PARTIDO EN JUEGO 064,1951.0,1967.0,1,16.0,14,Ferro,Gimnasia
+489,PARTIDO EN JUEGO 065,2054.0,2066.0,1,12.0,14,Ferro,Gimnasia
+490,PARTIDO EN JUEGO 066,2105.0,2116.0,1,11.0,14,Ferro,Gimnasia
+491,PARTIDO EN JUEGO 067,2131.0,2154.0,1,23.0,14,Ferro,Gimnasia
+492,PARTIDO EN JUEGO 068,2230.0,2238.0,1,8.0,14,Ferro,Gimnasia
+493,PARTIDO EN JUEGO 069,2246.0,2258.0,1,12.0,14,Ferro,Gimnasia
+494,PARTIDO EN JUEGO 070,2265.0,2271.0,1,6.0,14,Ferro,Gimnasia
+495,PARTIDO EN JUEGO 071,2300.0,2310.0,1,10.0,14,Ferro,Gimnasia
+496,PARTIDO EN JUEGO 072,2313.0,2322.0,1,9.0,14,Ferro,Gimnasia
+497,PARTIDO EN JUEGO 073,2364.0,2386.0,1,22.0,14,Ferro,Gimnasia
+498,PARTIDO EN JUEGO 074,2401.0,2407.0,1,6.0,14,Ferro,Gimnasia
+499,PARTIDO EN JUEGO 075,2413.0,2425.0,1,12.0,14,Ferro,Gimnasia
+500,PARTIDO EN JUEGO 076,2432.0,2437.0,1,5.0,14,Ferro,Gimnasia
+501,PARTIDO EN JUEGO 077,2469.0,2495.0,1,26.0,14,Ferro,Gimnasia
+502,PARTIDO EN JUEGO 078,2508.0,2527.0,1,19.0,14,Ferro,Gimnasia
+503,PARTIDO EN JUEGO 079,2548.0,2554.0,1,6.0,14,Ferro,Gimnasia
+504,PARTIDO EN JUEGO 080,2632.0,2643.0,1,11.0,14,Ferro,Gimnasia
+505,PARTIDO EN JUEGO 081,2728.0,2737.0,1,9.0,14,Ferro,Gimnasia
+506,PARTIDO EN JUEGO 082,2739.0,2758.0,1,19.0,14,Ferro,Gimnasia
+507,PARTIDO EN JUEGO 083,2778.0,2792.0,1,14.0,14,Ferro,Gimnasia
+508,PARTIDO EN JUEGO 084,2797.0,2807.0,1,10.0,14,Ferro,Gimnasia
+509,PARTIDO EN JUEGO 085,2874.0,2880.0,1,6.0,14,Ferro,Gimnasia
+510,PARTIDO EN JUEGO 086,2891.0,2905.0,1,14.0,14,Ferro,Gimnasia
+511,PARTIDO EN JUEGO 087,2910.0,2920.0,1,10.0,14,Ferro,Gimnasia
+512,PARTIDO EN JUEGO 088,2933.0,2947.0,1,14.0,14,Ferro,Gimnasia
+513,PARTIDO EN JUEGO 089,3025.0,3030.0,1,5.0,14,Ferro,Gimnasia
+514,PARTIDO EN JUEGO 090,3035.0,3047.0,1,12.0,14,Ferro,Gimnasia
+515,PARTIDO EN JUEGO 091,3056.0,3063.0,1,7.0,14,Ferro,Gimnasia
+516,PARTIDO EN JUEGO 092,3071.0,3085.0,1,14.0,14,Ferro,Gimnasia
+517,PARTIDO EN JUEGO 093,3093.0,3106.0,1,13.0,14,Ferro,Gimnasia
+518,PARTIDO EN JUEGO 094,3123.0,3126.0,1,3.0,14,Ferro,Gimnasia
+519,PARTIDO EN JUEGO 095,3132.0,3144.0,1,12.0,14,Ferro,Gimnasia
+520,PARTIDO EN JUEGO 096,3153.0,3181.0,2,28.0,14,Ferro,Gimnasia
+521,PARTIDO EN JUEGO 097,3173.0,3184.0,2,11.0,14,Ferro,Gimnasia
+522,PARTIDO EN JUEGO 098,3199.0,3209.0,2,10.0,14,Ferro,Gimnasia
+523, PARTIDO EN JUEGO 099,3220.0,3247.0,2,27.0,14,Ferro,Gimnasia
+524,PARTIDO EN JUEGO 100,3252.0,3270.0,2,18.0,14,Ferro,Gimnasia
+525,PARTIDO EN JUEGO 101,3291.0,3298.0,2,7.0,14,Ferro,Gimnasia
+526,PARTIDO EN JUEGO 102,3308.0,3317.0,2,9.0,14,Ferro,Gimnasia
+527,PARTIDO EN JUEGO 103,3331.0,3345.0,2,14.0,14,Ferro,Gimnasia
+528,PARTIDO EN JUEGO 104,3371.0,3396.0,2,25.0,14,Ferro,Gimnasia
+529,PARTIDO EN JUEGO 105,3404.0,3418.0,2,14.0,14,Ferro,Gimnasia
+530,PARTIDO EN JUEGO 106,3431.0,3440.0,2,9.0,14,Ferro,Gimnasia
+531,PARTIDO EN JUEGO 107,3448.0,3458.0,2,10.0,14,Ferro,Gimnasia
+532,PARTIDO EN JUEGO 108,3469.0,3481.0,2,12.0,14,Ferro,Gimnasia
+533,PARTIDO EN JUEGO 109,3487.0,3496.0,2,9.0,14,Ferro,Gimnasia
+534,PARTIDO EN JUEGO 110,3507.0,3511.0,2,4.0,14,Ferro,Gimnasia
+535,PARTIDO EN JUEGO 111,3516.0,3523.0,2,7.0,14,Ferro,Gimnasia
+536,PARTIDO EN JUEGO 112,3526.0,3535.0,2,9.0,14,Ferro,Gimnasia
+537,PARTIDO EN JUEGO 113,3541.0,3564.0,2,23.0,14,Ferro,Gimnasia
+538,PARTIDO EN JUEGO 114,3575.0,3584.0,2,9.0,14,Ferro,Gimnasia
+539,PARTIDO EN JUEGO 115,3594.0,3605.0,2,11.0,14,Ferro,Gimnasia
+540,PARTIDO EN JUEGO 116,3610.0,3642.0,2,32.0,14,Ferro,Gimnasia
+541,PARTIDO EN JUEGO 117,3653.0,3695.0,2,42.0,14,Ferro,Gimnasia
+542,PARTIDO EN JUEGO 118,3709.0,3715.0,2,6.0,14,Ferro,Gimnasia
+543,PARTIDO EN JUEGO 119,3720.0,3770.0,2,50.0,14,Ferro,Gimnasia
+544,PARTIDO EN JUEGO 120,3780.0,3791.0,2,11.0,14,Ferro,Gimnasia
+545,PARTIDO EN JUEGO 121,3802.0,3811.0,2,9.0,14,Ferro,Gimnasia
+546,PARTIDO EN JUEGO 122,3822.0,3853.0,2,31.0,14,Ferro,Gimnasia
+547,PARTIDO EN JUEGO 123,3868.0,3877.0,2,9.0,14,Ferro,Gimnasia
+548,PARTIDO EN JUEGO 124,3883.0,3901.0,2,18.0,14,Ferro,Gimnasia
+549,PARTIDO EN JUEGO 125,3904.0,3925.0,2,21.0,14,Ferro,Gimnasia
+550,PARTIDO EN JUEGO 126,3933.0,3954.0,2,21.0,14,Ferro,Gimnasia
+551,PARTIDO EN JUEGO 127,4024.0,4043.0,2,19.0,14,Ferro,Gimnasia
+552,PARTIDO EN JUEGO 128,4052.0,4072.0,2,20.0,14,Ferro,Gimnasia
+553,PARTIDO EN JUEGO 129,4077.0,4083.0,2,6.0,14,Ferro,Gimnasia
+554,PARTIDO EN JUEGO 130,4110.0,4115.0,2,5.0,14,Ferro,Gimnasia
+555,PARTIDO EN JUEGO 131,4164.0,4170.0,2,6.0,14,Ferro,Gimnasia
+556,PARTIDO EN JUEGO 132,4178.0,4195.0,2,17.0,14,Ferro,Gimnasia
+557,PARTIDO EN JUEGO 133,4226.0,4235.0,2,9.0,14,Ferro,Gimnasia
+558,PARTIDO EN JUEGO 134,4244.0,4249.0,2,5.0,14,Ferro,Gimnasia
+559,PARTIDO EN JUEGO 135,4263.0,4266.0,2,3.0,14,Ferro,Gimnasia
+560,PARTIDO EN JUEGO 136,4272.0,4279.0,2,7.0,14,Ferro,Gimnasia
+561,PARTIDO EN JUEGO 137,4291.0,4302.0,2,11.0,14,Ferro,Gimnasia
+562,t,4317.0,4325.0,2,8.0,14,Ferro,Gimnasia
+563,PARTIDO EN JUEGO 139,4326.0,4345.0,2,19.0,14,Ferro,Gimnasia
+564,PARTIDO EN JUEGO 140,4405.0,4438.0,2,33.0,14,Ferro,Gimnasia
+565,PARTIDO EN JUEGO 141,4454.0,4467.0,2,13.0,14,Ferro,Gimnasia
+566,PARTIDO EN JUEGO 142,4472.0,4480.0,2,8.0,14,Ferro,Gimnasia
+567,PARTIDO EN JUEGO 143,4502.0,4505.0,2,3.0,14,Ferro,Gimnasia
+568,PARTIDO EN JUEGO 144,4536.0,4556.0,2,20.0,14,Ferro,Gimnasia
+569,PARTIDO EN JUEGO 145,4562.0,4567.0,2,5.0,14,Ferro,Gimnasia
+570,PARTIDO EN JUEGO 146,4575.0,4580.0,2,5.0,14,Ferro,Gimnasia
+571,PARTIDO EN JUEGO 147,4589.0,4601.0,2,12.0,14,Ferro,Gimnasia
+572,PARTIDO EN JUEGO 148,4605.0,4628.0,2,23.0,14,Ferro,Gimnasia
+573,PARTIDO EN JUEGO 149,4665.0,4672.0,2,7.0,14,Ferro,Gimnasia
+574,PARTIDO EN JUEGO 150,4685.0,4698.0,2,13.0,14,Ferro,Gimnasia
+575,PARTIDO EN JUEGO 151,4706.0,4720.0,2,14.0,14,Ferro,Gimnasia
+576,PARTIDO EN JUEGO 152,4730.0,4743.0,2,13.0,14,Ferro,Gimnasia
+577,PARTIDO EN JUEGO 153,4752.0,4758.0,2,6.0,14,Ferro,Gimnasia
+578,PARTIDO EN JUEGO 154,4915.0,4920.0,2,5.0,14,Ferro,Gimnasia
+579,PARTIDO EN JUEGO 155,4938.0,4945.0,2,7.0,14,Ferro,Gimnasia
+580,PARTIDO EN JUEGO 156,4957.0,4967.0,2,10.0,14,Ferro,Gimnasia
+581,PARTIDO EN JUEGO 157,5006.0,5032.0,2,26.0,14,Ferro,Gimnasia
+582,PARTIDO EN JUEGO 158,5042.0,5049.0,2,7.0,14,Ferro,Gimnasia
+583,PARTIDO EN JUEGO 159,5058.0,5061.0,2,3.0,14,Ferro,Gimnasia
+584,PARTIDO EN JUEGO 160,5084.0,5090.0,2,6.0,14,Ferro,Gimnasia
+585,PARTIDO EN JUEGO 161,5118.0,5125.0,2,7.0,14,Ferro,Gimnasia
+586,PARTIDO EN JUEGO 162,5130.0,5145.0,2,15.0,14,Ferro,Gimnasia
+587,PARTIDO EN JUEGO 163,5159.0,5169.0,2,10.0,14,Ferro,Gimnasia
+588,PARTIDO EN JUEGO 164,5185.0,5209.0,2,24.0,14,Ferro,Gimnasia
+589,PARTIDO EN JUEGO 165,5230.0,5233.0,2,3.0,14,Ferro,Gimnasia
+590,PARTIDO EN JUEGO 166,5238.0,5256.0,2,18.0,14,Ferro,Gimnasia
+591,PARTIDO EN JUEGO 167,5314.0,5319.0,2,5.0,14,Ferro,Gimnasia
+592,PARTIDO EN JUEGO 168,5332.0,5337.0,2,5.0,14,Ferro,Gimnasia
+593,PARTIDO EN JUEGO 169,5353.0,5361.0,2,8.0,14,Ferro,Gimnasia
+594,PARTIDO EN JUEGO 170,5362.0,5366.0,2,4.0,14,Ferro,Gimnasia
+595,PARTIDO EN JUEGO 171,5372.0,5381.0,2,9.0,14,Ferro,Gimnasia
+596,PARTIDO EN JUEGO 172,5426.0,5433.0,2,7.0,14,Ferro,Gimnasia
+597,PARTIDO EN JUEGO 173,5442.0,5443.0,2,1.0,14,Ferro,Gimnasia
+598,PARTIDO EN JUEGO 174,5444.0,5467.0,2,23.0,14,Ferro,Gimnasia
+599,PARTIDO EN JUEGO 175,5473.0,5494.0,2,21.0,14,Ferro,Gimnasia
+600,PARTIDO EN JUEGO 176,5501.0,5511.0,2,10.0,14,Ferro,Gimnasia
+601,PARTIDO EN JUEGO 177,5542.0,5551.0,2,9.0,14,Ferro,Gimnasia
+602,PARTIDO EN JUEGO 178,5561.0,5574.0,2,13.0,14,Ferro,Gimnasia
+603,PARTIDO EN JUEGO 179,5674.0,5691.0,2,17.0,14,Ferro,Gimnasia
+604,PARTIDO EN JUEGO 180,5707.0,5729.0,2,22.0,14,Ferro,Gimnasia
+605,PARTIDO EN JUEGO 181,5732.0,5745.0,2,13.0,14,Ferro,Gimnasia
+606,PARTIDO EN JUEGO 182,5751.0,5755.0,2,4.0,14,Ferro,Gimnasia
+607,PARTIDO EN JUEGO 183,5759.0,5778.0,2,19.0,14,Ferro,Gimnasia
+608,PARTIDO EN JUEGO 184,5792.0,5796.0,2,4.0,14,Ferro,Gimnasia
+609,PARTIDO EN JUEGO 185,5807.0,5816.0,2,9.0,14,Ferro,Gimnasia
+610,PARTIDO EN JUEGO 186,5839.0,5842.0,2,3.0,14,Ferro,Gimnasia
+611,PARTIDO EN JUEGO 187,5850.0,5854.0,2,4.0,14,Ferro,Gimnasia
+612,PARTIDO EN JUEGO 188,5957.0,5962.0,2,5.0,14,Ferro,Gimnasia
+613,PARTIDO EN JUEGO 189,5981.0,5992.0,2,11.0,14,Ferro,Gimnasia
+614,PARTIDO EN JUEGO 001,339.0,349.0,1,10.0,16,Ferro,Boca Jrs
+615,PARTIDO EN JUEGO 002,358.0,368.0,1,10.0,16,Ferro,Boca Jrs
+616,PARTIDO EN JUEGO 003,381.0,384.0,1,3.0,16,Ferro,Boca Jrs
+617,PARTIDO EN JUEGO 004,391.0,404.0,1,13.0,16,Ferro,Boca Jrs
+618,PARTIDO EN JUEGO 005,413.0,422.0,1,9.0,16,Ferro,Boca Jrs
+619,PARTIDO EN JUEGO 006,431.0,451.0,1,20.0,16,Ferro,Boca Jrs
+620,PARTIDO EN JUEGO 007,474.0,480.0,1,6.0,16,Ferro,Boca Jrs
+621,PARTIDO EN JUEGO 008,493.0,512.0,1,19.0,16,Ferro,Boca Jrs
+622,PARTIDO EN JUEGO 009,522.0,548.0,1,26.0,16,Ferro,Boca Jrs
+623,PARTIDO EN JUEGO 010,558.0,569.0,1,11.0,16,Ferro,Boca Jrs
+624,PARTIDO EN JUEGO 011,592.0,647.0,1,55.0,16,Ferro,Boca Jrs
+625,PARTIDO EN JUEGO 012,662.0,675.0,1,13.0,16,Ferro,Boca Jrs
+626,PARTIDO EN JUEGO 013,690.0,696.0,1,6.0,16,Ferro,Boca Jrs
+627,PARTIDO EN JUEGO 014,708.0,727.0,1,19.0,16,Ferro,Boca Jrs
+628,PARTIDO EN JUEGO 015,740.0,752.0,1,12.0,16,Ferro,Boca Jrs
+629,PARTIDO EN JUEGO 016,765.0,780.0,1,15.0,16,Ferro,Boca Jrs
+630,PARTIDO EN JUEGO 017,787.0,809.0,1,22.0,16,Ferro,Boca Jrs
+631,PARTIDO EN JUEGO 018,824.0,830.0,1,6.0,16,Ferro,Boca Jrs
+632,PARTIDO EN JUEGO 019,836.0,854.0,1,18.0,16,Ferro,Boca Jrs
+633,PARTIDO EN JUEGO 020,874.0,886.0,1,12.0,16,Ferro,Boca Jrs
+634,PARTIDO EN JUEGO 021,906.0,927.0,1,21.0,16,Ferro,Boca Jrs
+635,PARTIDO EN JUEGO 022,980.0,983.0,1,3.0,16,Ferro,Boca Jrs
+636,PARTIDO EN JUEGO 023,994.0,1000.0,1,6.0,16,Ferro,Boca Jrs
+637,PARTIDO EN JUEGO 024,1010.0,1024.0,1,14.0,16,Ferro,Boca Jrs
+638,PARTIDO EN JUEGO 025,1034.0,1046.0,1,12.0,16,Ferro,Boca Jrs
+639,PARTIDO EN JUEGO 026,1069.0,1074.0,1,5.0,16,Ferro,Boca Jrs
+640,PARTIDO EN JUEGO 027,1088.0,1097.0,1,9.0,16,Ferro,Boca Jrs
+641,PARTIDO EN JUEGO 028,1114.0,1127.0,1,13.0,16,Ferro,Boca Jrs
+642,PARTIDO EN JUEGO 029,1139.0,1151.0,1,12.0,16,Ferro,Boca Jrs
+643,PARTIDO EN JUEGO 030,1162.0,1185.0,1,23.0,16,Ferro,Boca Jrs
+644,PARTIDO EN JUEGO 031,1218.0,1225.0,1,7.0,16,Ferro,Boca Jrs
+645,PARTIDO EN JUEGO 032,1231.0,1265.0,1,34.0,16,Ferro,Boca Jrs
+646,PARTIDO EN JUEGO 033,1277.0,1285.0,1,8.0,16,Ferro,Boca Jrs
+647,PARTIDO EN JUEGO 034,1296.0,1310.0,1,14.0,16,Ferro,Boca Jrs
+648,PARTIDO EN JUEGO 035,1345.0,1356.0,1,11.0,16,Ferro,Boca Jrs
+649,PARTIDO EN JUEGO 036,1370.0,1393.0,1,23.0,16,Ferro,Boca Jrs
+650,PARTIDO EN JUEGO 037,1395.0,1404.0,1,9.0,16,Ferro,Boca Jrs
+651,PARTIDO EN JUEGO 038,1419.0,1423.0,1,4.0,16,Ferro,Boca Jrs
+652,PARTIDO EN JUEGO 039,1433.0,1442.0,1,9.0,16,Ferro,Boca Jrs
+653,PARTIDO EN JUEGO 040,1463.0,1466.0,1,3.0,16,Ferro,Boca Jrs
+654,PARTIDO EN JUEGO 041,1474.0,1484.0,1,10.0,16,Ferro,Boca Jrs
+655,PARTIDO EN JUEGO 042,1497.0,1505.0,1,8.0,16,Ferro,Boca Jrs
+656,PARTIDO EN JUEGO 043,1504.0,1514.0,1,10.0,16,Ferro,Boca Jrs
+657,PARTIDO EN JUEGO 044,1534.0,1548.0,1,14.0,16,Ferro,Boca Jrs
+658,PARTIDO EN JUEGO 045,1571.0,1574.0,1,3.0,16,Ferro,Boca Jrs
+659,PARTIDO EN JUEGO 046,1579.0,1606.0,1,27.0,16,Ferro,Boca Jrs
+660,PARTIDO EN JUEGO 047,1619.0,1631.0,1,12.0,16,Ferro,Boca Jrs
+661,PARTIDO EN JUEGO 048,1673.0,1677.0,1,4.0,16,Ferro,Boca Jrs
+662,PARTIDO EN JUEGO 049,1689.0,1716.0,1,27.0,16,Ferro,Boca Jrs
+663,PARTIDO EN JUEGO 050,1721.0,1729.0,1,8.0,16,Ferro,Boca Jrs
+664,PARTIDO EN JUEGO 051,1743.0,1748.0,1,5.0,16,Ferro,Boca Jrs
+665,PARTIDO EN JUEGO 052,1782.0,1790.0,1,8.0,16,Ferro,Boca Jrs
+666,PARTIDO EN JUEGO 053,1802.0,1811.0,1,9.0,16,Ferro,Boca Jrs
+667,PARTIDO EN JUEGO 054,1840.0,1866.0,1,26.0,16,Ferro,Boca Jrs
+668,PARTIDO EN JUEGO 055,1893.0,1929.0,1,36.0,16,Ferro,Boca Jrs
+669,PARTIDO EN JUEGO 056,1939.0,1962.0,1,23.0,16,Ferro,Boca Jrs
+670,PARTIDO EN JUEGO 057,1976.0,1981.0,1,5.0,16,Ferro,Boca Jrs
+671,PARTIDO EN JUEGO 058,1999.0,2008.0,1,9.0,16,Ferro,Boca Jrs
+672,PARTIDO EN JUEGO 059,2016.0,2037.0,1,21.0,16,Ferro,Boca Jrs
+673,PARTIDO EN JUEGO 060,2042.0,2063.0,1,21.0,16,Ferro,Boca Jrs
+674,PARTIDO EN JUEGO 061,2088.0,2093.0,1,5.0,16,Ferro,Boca Jrs
+675,PARTIDO EN JUEGO 062,2101.0,2108.0,1,7.0,16,Ferro,Boca Jrs
+676,PARTIDO EN JUEGO 063,2117.0,2132.0,1,15.0,16,Ferro,Boca Jrs
+677,PARTIDO EN JUEGO 064,2139.0,2171.0,1,32.0,16,Ferro,Boca Jrs
+678,PARTIDO EN JUEGO 065,2192.0,2215.0,1,23.0,16,Ferro,Boca Jrs
+679,PARTIDO EN JUEGO 066,2231.0,2250.0,1,19.0,16,Ferro,Boca Jrs
+680,PARTIDO EN JUEGO 067,2360.0,2380.0,1,20.0,16,Ferro,Boca Jrs
+681,PARTIDO EN JUEGO 068,2394.0,2414.0,1,20.0,16,Ferro,Boca Jrs
+682,PARTIDO EN JUEGO 069,2430.0,2446.0,1,16.0,16,Ferro,Boca Jrs
+683,PARTIDO EN JUEGO 070,2516.0,2522.0,1,6.0,16,Ferro,Boca Jrs
+684,PARTIDO EN JUEGO 071,2529.0,2561.0,1,32.0,16,Ferro,Boca Jrs
+685,PARTIDO EN JUEGO 072,2574.0,2582.0,1,8.0,16,Ferro,Boca Jrs
+686,PARTIDO EN JUEGO 073,2623.0,2634.0,1,11.0,16,Ferro,Boca Jrs
+687,PARTIDO EN JUEGO 074,2647.0,2681.0,1,34.0,16,Ferro,Boca Jrs
+688,PARTIDO EN JUEGO 075,2692.0,2710.0,1,18.0,16,Ferro,Boca Jrs
+689,PARTIDO EN JUEGO 076,2722.0,2731.0,1,9.0,16,Ferro,Boca Jrs
+690,PARTIDO EN JUEGO 077,2744.0,2751.0,1,7.0,16,Ferro,Boca Jrs
+691,PARTIDO EN JUEGO 078,2752.0,2775.0,1,23.0,16,Ferro,Boca Jrs
+692,PARTIDO EN JUEGO 079,2782.0,2800.0,1,18.0,16,Ferro,Boca Jrs
+693,PARTIDO EN JUEGO 080,2903.0,2911.0,1,8.0,16,Ferro,Boca Jrs
+694,PARTIDO EN JUEGO 081,2921.0,2930.0,1,9.0,16,Ferro,Boca Jrs
+695,PARTIDO EN JUEGO 082,2945.0,2949.0,1,4.0,16,Ferro,Boca Jrs
+696,PARTIDO EN JUEGO 083,2963.0,2970.0,1,7.0,16,Ferro,Boca Jrs
+697,a,2981.0,2989.0,1,8.0,16,Ferro,Boca Jrs
+698,PARTIDO EN JUEGO 085,3262.0,3269.0,2,7.0,16,Ferro,Boca Jrs
+699,PARTIDO EN JUEGO 086,3276.0,3282.0,2,6.0,16,Ferro,Boca Jrs
+700,PARTIDO EN JUEGO 087,3292.0,3302.0,2,10.0,16,Ferro,Boca Jrs
+701,PARTIDO EN JUEGO 088,3310.0,3316.0,2,6.0,16,Ferro,Boca Jrs
+702,PARTIDO EN JUEGO 089,3324.0,3369.0,2,45.0,16,Ferro,Boca Jrs
+703,PARTIDO EN JUEGO 090,3372.0,3383.0,2,11.0,16,Ferro,Boca Jrs
+704,PARTIDO EN JUEGO 091,3397.0,3406.0,2,9.0,16,Ferro,Boca Jrs
+705,PARTIDO EN JUEGO 092,3415.0,3418.0,2,3.0,16,Ferro,Boca Jrs
+706,PARTIDO EN JUEGO 093,3431.0,3461.0,2,30.0,16,Ferro,Boca Jrs
+707,PARTIDO EN JUEGO 094,3477.0,3486.0,2,9.0,16,Ferro,Boca Jrs
+708,PARTIDO EN JUEGO 095,3499.0,3503.0,2,4.0,16,Ferro,Boca Jrs
+709,PARTIDO EN JUEGO 096,3515.0,3548.0,2,33.0,16,Ferro,Boca Jrs
+710,PARTIDO EN JUEGO 097,3596.0,3600.0,2,4.0,16,Ferro,Boca Jrs
+711,t,3607.0,3610.0,2,3.0,16,Ferro,Boca Jrs
+712,PARTIDO EN JUEGO 099,3612.0,3619.0,2,7.0,16,Ferro,Boca Jrs
+713,PARTIDO EN JUEGO 100,3634.0,3654.0,2,20.0,16,Ferro,Boca Jrs
+714,PARTIDO EN JUEGO 101,3698.0,3706.0,2,8.0,16,Ferro,Boca Jrs
+715,PARTIDO EN JUEGO 102,3708.0,3748.0,2,40.0,16,Ferro,Boca Jrs
+716,PARTIDO EN JUEGO 103,3792.0,3812.0,2,20.0,16,Ferro,Boca Jrs
+717,PARTIDO EN JUEGO 104,3820.0,3825.0,2,5.0,16,Ferro,Boca Jrs
+718,PARTIDO EN JUEGO 105,3836.0,3839.0,2,3.0,16,Ferro,Boca Jrs
+719,PARTIDO EN JUEGO 106,3849.0,3860.0,2,11.0,16,Ferro,Boca Jrs
+720,PARTIDO EN JUEGO 107,3868.0,3879.0,2,11.0,16,Ferro,Boca Jrs
+721,PARTIDO EN JUEGO 108,3900.0,3925.0,2,25.0,16,Ferro,Boca Jrs
+722,PARTIDO EN JUEGO 109,3951.0,3957.0,2,6.0,16,Ferro,Boca Jrs
+723,PARTIDO EN JUEGO 110,3962.0,3971.0,2,9.0,16,Ferro,Boca Jrs
+724,PARTIDO EN JUEGO 111,3983.0,3991.0,2,8.0,16,Ferro,Boca Jrs
+725,PARTIDO EN JUEGO 112,3998.0,4005.0,2,7.0,16,Ferro,Boca Jrs
+726,PARTIDO EN JUEGO 113,4014.0,4018.0,2,4.0,16,Ferro,Boca Jrs
+727,PARTIDO EN JUEGO 114,4046.0,4104.0,2,58.0,16,Ferro,Boca Jrs
+728,PARTIDO EN JUEGO 115,4114.0,4119.0,2,5.0,16,Ferro,Boca Jrs
+729,PARTIDO EN JUEGO 116,4129.0,4132.0,2,3.0,16,Ferro,Boca Jrs
+730,PARTIDO EN JUEGO 117,4146.0,4154.0,2,8.0,16,Ferro,Boca Jrs
+731,PARTIDO EN JUEGO 118,4162.0,4180.0,2,18.0,16,Ferro,Boca Jrs
+732,PARTIDO EN JUEGO 119,4195.0,4200.0,2,5.0,16,Ferro,Boca Jrs
+733,PARTIDO EN JUEGO 120,4205.0,4217.0,2,12.0,16,Ferro,Boca Jrs
+734,PARTIDO EN JUEGO 121,4234.0,4272.0,2,38.0,16,Ferro,Boca Jrs
+735,PARTIDO EN JUEGO 122,4300.0,4310.0,2,10.0,16,Ferro,Boca Jrs
+736,PARTIDO EN JUEGO 123,4317.0,4321.0,2,4.0,16,Ferro,Boca Jrs
+737,PARTIDO EN JUEGO 124,4328.0,4339.0,2,11.0,16,Ferro,Boca Jrs
+738,PARTIDO EN JUEGO 125,4352.0,4369.0,2,17.0,16,Ferro,Boca Jrs
+739,PARTIDO EN JUEGO 126,4379.0,4399.0,2,20.0,16,Ferro,Boca Jrs
+740,PARTIDO EN JUEGO 127,4428.0,4432.0,2,4.0,16,Ferro,Boca Jrs
+741,PARTIDO EN JUEGO 128,4440.0,4452.0,2,12.0,16,Ferro,Boca Jrs
+742,PARTIDO EN JUEGO 129,4463.0,4478.0,2,15.0,16,Ferro,Boca Jrs
+743,PARTIDO EN JUEGO 130,4497.0,4512.0,2,15.0,16,Ferro,Boca Jrs
+744,PARTIDO EN JUEGO 131,4522.0,4577.0,2,55.0,16,Ferro,Boca Jrs
+745,PARTIDO EN JUEGO 132,4587.0,4600.0,2,13.0,16,Ferro,Boca Jrs
+746,PARTIDO EN JUEGO 133,4603.0,4614.0,2,11.0,16,Ferro,Boca Jrs
+747,PARTIDO EN JUEGO 134,4626.0,4637.0,2,11.0,16,Ferro,Boca Jrs
+748,PARTIDO EN JUEGO 135,4648.0,4659.0,2,11.0,16,Ferro,Boca Jrs
+749,PARTIDO EN JUEGO 136,4671.0,4682.0,2,11.0,16,Ferro,Boca Jrs
+750,PARTIDO EN JUEGO 137,4692.0,4710.0,2,18.0,16,Ferro,Boca Jrs
+751,PARTIDO EN JUEGO 138,4726.0,4765.0,2,39.0,16,Ferro,Boca Jrs
+752,PARTIDO EN JUEGO 139,4863.0,4876.0,2,13.0,16,Ferro,Boca Jrs
+753,PARTIDO EN JUEGO 140,4941.0,4949.0,2,8.0,16,Ferro,Boca Jrs
+754,PARTIDO EN JUEGO 141,4978.0,4994.0,2,16.0,16,Ferro,Boca Jrs
+755,PARTIDO EN JUEGO 142,4996.0,5027.0,2,31.0,16,Ferro,Boca Jrs
+756,PARTIDO EN JUEGO 143,5034.0,5078.0,2,44.0,16,Ferro,Boca Jrs
+757,PARTIDO EN JUEGO 144,5081.0,5108.0,2,27.0,16,Ferro,Boca Jrs
+758,PARTIDO EN JUEGO 145,5124.0,5143.0,2,19.0,16,Ferro,Boca Jrs
+759,PARTIDO EN JUEGO 146,5158.0,5189.0,2,31.0,16,Ferro,Boca Jrs
+760,PARTIDO EN JUEGO 147,5190.0,5197.0,2,7.0,16,Ferro,Boca Jrs
+761,PARTIDO EN JUEGO 148,5337.0,5349.0,2,12.0,16,Ferro,Boca Jrs
+762,PARTIDO EN JUEGO 149,5378.0,5474.0,2,96.0,16,Ferro,Boca Jrs
+763,PARTIDO EN JUEGO 150,5501.0,5512.0,2,11.0,16,Ferro,Boca Jrs
+764,PARTIDO EN JUEGO 151,5518.0,5534.0,2,16.0,16,Ferro,Boca Jrs
+765,PARTIDO EN JUEGO 152,5628.0,5662.0,2,34.0,16,Ferro,Boca Jrs
+766,PARTIDO EN JUEGO 153,5667.0,5676.0,2,9.0,16,Ferro,Boca Jrs
+767,PARTIDO EN JUEGO 154,5687.0,5709.0,2,22.0,16,Ferro,Boca Jrs
+768,PARTIDO EN JUEGO 155,5711.0,5780.0,2,69.0,16,Ferro,Boca Jrs
+769,Partido en juego 001,0.0,20.0,1,20.0,19,Ferro,San Lorenzo
+770,Partido en juego 002,20.0,37.0,1,17.0,19,Ferro,San Lorenzo
+771,Partido en juego 003,39.0,55.0,1,16.0,19,Ferro,San Lorenzo
+772,Partido en juego 004,55.0,76.0,1,21.0,19,Ferro,San Lorenzo
+773,Partido en juego 005,284.0,306.0,1,22.0,19,Ferro,San Lorenzo
+774,Partido en juego 006,301.0,335.0,1,34.0,19,Ferro,San Lorenzo
+775,Partido en juego 007,336.0,358.0,1,22.0,19,Ferro,San Lorenzo
+776,Partido en juego 008,355.0,386.0,1,31.0,19,Ferro,San Lorenzo
+777,Partido en juego 009,391.0,422.0,1,31.0,19,Ferro,San Lorenzo
+778,Partido en juego 010,420.0,452.0,1,32.0,19,Ferro,San Lorenzo
+779,Partido en juego 011,450.0,472.0,1,22.0,19,Ferro,San Lorenzo
+780,Partido en juego 012,467.0,495.0,1,28.0,19,Ferro,San Lorenzo
+781,Partido en juego 013,502.0,566.0,1,64.0,19,Ferro,San Lorenzo
+782,Partido en juego 014,581.0,601.0,1,20.0,19,Ferro,San Lorenzo
+783,Partido en juego 015,600.0,625.0,1,25.0,19,Ferro,San Lorenzo
+784,Partido en juego 016,634.0,664.0,1,30.0,19,Ferro,San Lorenzo
+785,Partido en juego 017,675.0,718.0,1,43.0,19,Ferro,San Lorenzo
+786,Partido en juego 018,713.0,735.0,1,22.0,19,Ferro,San Lorenzo
+787,Partido en juego 019,774.0,798.0,1,24.0,19,Ferro,San Lorenzo
+788,Partido en juego 020,791.0,823.0,1,32.0,19,Ferro,San Lorenzo
+789,Partido en juego 021,824.0,843.0,1,19.0,19,Ferro,San Lorenzo
+790,Partido en juego 022,841.0,914.0,1,73.0,19,Ferro,San Lorenzo
+791,Partido en juego 023,913.0,930.0,1,17.0,19,Ferro,San Lorenzo
+792,Partido en juego 024,941.0,964.0,1,23.0,19,Ferro,San Lorenzo
+793,Partido en juego 025,965.0,986.0,1,21.0,19,Ferro,San Lorenzo
+794,Partido en juego 026,982.0,1015.0,1,33.0,19,Ferro,San Lorenzo
+795,Partido en juego 027,1009.0,1035.0,1,26.0,19,Ferro,San Lorenzo
+796,Partido en juego 028,1038.0,1061.0,1,23.0,19,Ferro,San Lorenzo
+797,Partido en juego 029,1070.0,1099.0,1,29.0,19,Ferro,San Lorenzo
+798,Partido en juego 030,1093.0,1139.0,1,46.0,19,Ferro,San Lorenzo
+799,Partido en juego 031,1160.0,1181.0,1,21.0,19,Ferro,San Lorenzo
+800,Partido en juego 032,1182.0,1201.0,1,19.0,19,Ferro,San Lorenzo
+801,Partido en juego 033,1209.0,1239.0,1,30.0,19,Ferro,San Lorenzo
+802,Partido en juego 034,1250.0,1278.0,1,28.0,19,Ferro,San Lorenzo
+803,Partido en juego 035,1270.0,1313.0,1,43.0,19,Ferro,San Lorenzo
+804,Partido en juego 036,1309.0,1333.0,1,24.0,19,Ferro,San Lorenzo
+805,Partido en juego 037,1336.0,1360.0,1,24.0,19,Ferro,San Lorenzo
+806,Partido en juego 038,1361.0,1382.0,1,21.0,19,Ferro,San Lorenzo
+807,Partido en juego 039,1385.0,1446.0,1,61.0,19,Ferro,San Lorenzo
+808,Partido en juego 040,1454.0,1474.0,1,20.0,19,Ferro,San Lorenzo
+809,Partido en juego 041,1478.0,1505.0,1,27.0,19,Ferro,San Lorenzo
+810,Partido en juego 042,1496.0,1535.0,1,39.0,19,Ferro,San Lorenzo
+811,Partido en juego 043,1538.0,1570.0,1,32.0,19,Ferro,San Lorenzo
+812,Partido en juego 044,1567.0,1592.0,1,25.0,19,Ferro,San Lorenzo
+813,Partido en juego 045,1592.0,1611.0,1,19.0,19,Ferro,San Lorenzo
+814,Partido en juego 046,1621.0,1662.0,1,41.0,19,Ferro,San Lorenzo
+815,Partido en juego 047,1661.0,1679.0,1,18.0,19,Ferro,San Lorenzo
+816,Partido en juego 048,1670.0,1723.0,1,53.0,19,Ferro,San Lorenzo
+817,Partido en juego 049,1735.0,1801.0,1,66.0,19,Ferro,San Lorenzo
+818,Partido en juego 050,1795.0,1836.0,1,41.0,19,Ferro,San Lorenzo
+819,Partido en juego 051,1970.0,2078.0,2,108.0,19,Ferro,San Lorenzo
+820,Partido en juego 052,2082.0,2104.0,2,22.0,19,Ferro,San Lorenzo
+821,Partido en juego 053,2117.0,2147.0,2,30.0,19,Ferro,San Lorenzo
+822,Partido en juego 054,2147.0,2174.0,2,27.0,19,Ferro,San Lorenzo
+823,Partido en juego 055,2224.0,2248.0,2,24.0,19,Ferro,San Lorenzo
+824,Partido en juego 056,2265.0,2283.0,2,18.0,19,Ferro,San Lorenzo
+825,Partido en juego 057,2280.0,2317.0,2,37.0,19,Ferro,San Lorenzo
+826,Partido en juego 058,2339.0,2393.0,2,54.0,19,Ferro,San Lorenzo
+827,Partido en juego 059,2393.0,2413.0,2,20.0,19,Ferro,San Lorenzo
+828,Partido en juego 060,2406.0,2442.0,2,36.0,19,Ferro,San Lorenzo
+829,Partido en juego 061,2433.0,2461.0,2,28.0,19,Ferro,San Lorenzo
+830,Partido en juego 062,2464.0,2494.0,2,30.0,19,Ferro,San Lorenzo
+831,Partido en juego 063,2492.0,2538.0,2,46.0,19,Ferro,San Lorenzo
+832,Partido en juego 064,2547.0,2636.0,2,89.0,19,Ferro,San Lorenzo
+833,Partido en juego 065,2630.0,2671.0,2,41.0,19,Ferro,San Lorenzo
+834,Partido en juego 066,2670.0,2691.0,2,21.0,19,Ferro,San Lorenzo
+835,Partido en juego 067,2684.0,2761.0,2,77.0,19,Ferro,San Lorenzo
+836,Partido en juego 068,2771.0,2813.0,2,42.0,19,Ferro,San Lorenzo
+837,Partido en juego 069,2821.0,2875.0,2,54.0,19,Ferro,San Lorenzo
+838,Partido en juego 070,2875.0,2921.0,2,46.0,19,Ferro,San Lorenzo
+839,Partido en juego 071,2923.0,2955.0,2,32.0,19,Ferro,San Lorenzo
+840,Partido en juego 072,2982.0,3035.0,2,53.0,19,Ferro,San Lorenzo
+841,Partido en juego 073,3074.0,3117.0,2,43.0,19,Ferro,San Lorenzo
+842,Partido en juego 074,3118.0,3174.0,2,56.0,19,Ferro,San Lorenzo
+843,Partido en juego 075,3207.0,3235.0,2,28.0,19,Ferro,San Lorenzo
+844,Partido en juego 076,3241.0,3288.0,2,47.0,19,Ferro,San Lorenzo
+845,Partido en juego 077,3295.0,3327.0,2,32.0,19,Ferro,San Lorenzo
+846,Partido en juego 078,3319.0,3370.0,2,51.0,19,Ferro,San Lorenzo
+847,Partido en juego 079,3461.0,3509.0,2,48.0,19,Ferro,San Lorenzo
+848,Partido en juego 080,3501.0,3538.0,2,37.0,19,Ferro,San Lorenzo
+849,Partido en juego 081,3537.0,3575.0,2,38.0,19,Ferro,San Lorenzo
+850,Partido en juego 082,3631.0,3737.0,2,106.0,19,Ferro,San Lorenzo
+851,Partido en juego 083,3839.0,3910.0,2,71.0,19,Ferro,San Lorenzo
+852,Partido en juego 084,3909.0,3945.0,2,36.0,19,Ferro,San Lorenzo
+853,Partido en juego 085,3948.0,4015.0,2,67.0,19,Ferro,San Lorenzo
+854,Partido en juego 086,4007.0,4040.0,2,33.0,19,Ferro,San Lorenzo
+855,Partido en juego 087,4034.0,4057.0,2,23.0,19,Ferro,San Lorenzo
+856,Partido en juego 088,4072.0,4112.0,2,40.0,19,Ferro,San Lorenzo
+857,Partido en juego 089,4105.0,4144.0,2,39.0,19,Ferro,San Lorenzo
+858,Partido en juego 090,4146.0,4174.0,2,28.0,19,Ferro,San Lorenzo
+859,Partido en juego 091,4169.0,4225.0,2,56.0,19,Ferro,San Lorenzo
+860,Partido en juego 092,4221.0,4266.0,2,45.0,19,Ferro,San Lorenzo
+861,PARTIDO EN JUEGO 001,5.0,11.0,1,6.0,20,América,Ferro
+862,PARTIDO EN JUEGO 002,23.0,38.0,1,15.0,20,América,Ferro
+863,PARTIDO EN JUEGO 003,43.0,49.0,1,6.0,20,América,Ferro
+864,PARTIDO EN JUEGO 004,58.0,89.0,1,31.0,20,América,Ferro
+865,PARTIDO EN JUEGO 005,102.0,112.0,1,10.0,20,América,Ferro
+866,PARTIDO EN JUEGO 006,117.0,124.0,1,7.0,20,América,Ferro
+867,PARTIDO EN JUEGO 007,127.0,133.0,1,6.0,20,América,Ferro
+868,PARTIDO EN JUEGO 008,167.0,189.0,1,22.0,20,América,Ferro
+869,PARTIDO EN JUEGO 009,210.0,217.0,1,7.0,20,América,Ferro
+870,PARTIDO EN JUEGO 010,224.0,270.0,1,46.0,20,América,Ferro
+871,PARTIDO EN JUEGO 011,301.0,333.0,1,32.0,20,América,Ferro
+872,PARTIDO EN JUEGO 012,340.0,351.0,1,11.0,20,América,Ferro
+873,PARTIDO EN JUEGO 013,373.0,378.0,1,5.0,20,América,Ferro
+874,PARTIDO EN JUEGO 014,397.0,415.0,1,18.0,20,América,Ferro
+875,PARTIDO EN JUEGO 015,414.0,448.0,1,34.0,20,América,Ferro
+876,PARTIDO EN JUEGO 016,461.0,466.0,1,5.0,20,América,Ferro
+877,PARTIDO EN JUEGO 017,479.0,489.0,1,10.0,20,América,Ferro
+878,PARTIDO EN JUEGO 018,490.0,530.0,1,40.0,20,América,Ferro
+879,PARTIDO EN JUEGO 019,548.0,560.0,1,12.0,20,América,Ferro
+880,PARTIDO EN JUEGO 020,563.0,569.0,1,6.0,20,América,Ferro
+881,PARTIDO EN JUEGO 021,579.0,582.0,1,3.0,20,América,Ferro
+882,PARTIDO EN JUEGO 022,603.0,641.0,1,38.0,20,América,Ferro
+883,PARTIDO EN JUEGO 023,687.0,704.0,1,17.0,20,América,Ferro
+884,PARTIDO EN JUEGO 024,717.0,726.0,1,9.0,20,América,Ferro
+885,PARTIDO EN JUEGO 025,748.0,762.0,1,14.0,20,América,Ferro
+886,PARTIDO EN JUEGO 026,766.0,772.0,1,6.0,20,América,Ferro
+887,PARTIDO EN JUEGO 027,772.0,785.0,1,13.0,20,América,Ferro
+888,PARTIDO EN JUEGO 028,798.0,805.0,1,7.0,20,América,Ferro
+889,PARTIDO EN JUEGO 029,813.0,814.0,1,1.0,20,América,Ferro
+890,PARTIDO EN JUEGO 030,823.0,830.0,1,7.0,20,América,Ferro
+891,PARTIDO EN JUEGO 031,836.0,878.0,1,42.0,20,América,Ferro
+892,PARTIDO EN JUEGO 032,880.0,897.0,1,17.0,20,América,Ferro
+893,PARTIDO EN JUEGO 033,922.0,932.0,1,10.0,20,América,Ferro
+894,PARTIDO EN JUEGO 034,952.0,963.0,1,11.0,20,América,Ferro
+895,PARTIDO EN JUEGO 035,974.0,987.0,1,13.0,20,América,Ferro
+896,PARTIDO EN JUEGO 036,1009.0,1030.0,1,21.0,20,América,Ferro
+897,PARTIDO EN JUEGO 037,1044.0,1056.0,1,12.0,20,América,Ferro
+898,PARTIDO EN JUEGO 038,1068.0,1095.0,1,27.0,20,América,Ferro
+899,PARTIDO EN JUEGO 039,1130.0,1141.0,1,11.0,20,América,Ferro
+900,PARTIDO EN JUEGO 040,1154.0,1180.0,1,26.0,20,América,Ferro
+901,PARTIDO EN JUEGO 041,1208.0,1212.0,1,4.0,20,América,Ferro
+902,PARTIDO EN JUEGO 042,1215.0,1223.0,1,8.0,20,América,Ferro
+903,PARTIDO EN JUEGO 043,1241.0,1257.0,1,16.0,20,América,Ferro
+904,t,1293.0,1305.0,1,12.0,20,América,Ferro
+905,PARTIDO EN JUEGO 045,1307.0,1315.0,1,8.0,20,América,Ferro
+906,PARTIDO EN JUEGO 046,1323.0,1332.0,1,9.0,20,América,Ferro
+907,PARTIDO EN JUEGO 047,1376.0,1381.0,1,5.0,20,América,Ferro
+908,PARTIDO EN JUEGO 048,1403.0,1422.0,1,19.0,20,América,Ferro
+909,PARTIDO EN JUEGO 049,1424.0,1446.0,1,22.0,20,América,Ferro
+910,PARTIDO EN JUEGO 050,1460.0,1469.0,1,9.0,20,América,Ferro
+911,PARTIDO EN JUEGO 051,1476.0,1504.0,1,28.0,20,América,Ferro
+912,PARTIDO EN JUEGO 052,1508.0,1516.0,1,8.0,20,América,Ferro
+913,PARTIDO EN JUEGO 053,1526.0,1530.0,1,4.0,20,América,Ferro
+914,PARTIDO EN JUEGO 054,1534.0,1565.0,1,31.0,20,América,Ferro
+915,t,1600.0,1618.0,1,18.0,20,América,Ferro
+916,PARTIDO EN JUEGO 056,1619.0,1646.0,1,27.0,20,América,Ferro
+917,PARTIDO EN JUEGO 057,1651.0,1657.0,1,6.0,20,América,Ferro
+918,PARTIDO EN JUEGO 058,1668.0,1672.0,1,4.0,20,América,Ferro
+919,PARTIDO EN JUEGO 059,1680.0,1685.0,1,5.0,20,América,Ferro
+920,PARTIDO EN JUEGO 060,1689.0,1696.0,1,7.0,20,América,Ferro
+921,PARTIDO EN JUEGO 061,1719.0,1729.0,1,10.0,20,América,Ferro
+922,PARTIDO EN JUEGO 062,1849.0,1856.0,1,7.0,20,América,Ferro
+923,PARTIDO EN JUEGO 063,1866.0,1873.0,1,7.0,20,América,Ferro
+924,PARTIDO EN JUEGO 064,1879.0,1885.0,1,6.0,20,América,Ferro
+925,PARTIDO EN JUEGO 065,1889.0,1916.0,1,27.0,20,América,Ferro
+926,PARTIDO EN JUEGO 066,1918.0,1923.0,1,5.0,20,América,Ferro
+927,PARTIDO EN JUEGO 067,1930.0,1981.0,1,51.0,20,América,Ferro
+928,PARTIDO EN JUEGO 068,2011.0,2024.0,1,13.0,20,América,Ferro
+929,PARTIDO EN JUEGO 069,2038.0,2056.0,1,18.0,20,América,Ferro
+930,PARTIDO EN JUEGO 070,2063.0,2078.0,1,15.0,20,América,Ferro
+931,PARTIDO EN JUEGO 071,2111.0,2121.0,1,10.0,20,América,Ferro
+932,PARTIDO EN JUEGO 072,2124.0,2132.0,1,8.0,20,América,Ferro
+933,PARTIDO EN JUEGO 073,2140.0,2146.0,1,6.0,20,América,Ferro
+934,PARTIDO EN JUEGO 074,2149.0,2174.0,1,25.0,20,América,Ferro
+935,PARTIDO EN JUEGO 075,2183.0,2201.0,1,18.0,20,América,Ferro
+936,PARTIDO EN JUEGO 076,2215.0,2223.0,1,8.0,20,América,Ferro
+937,PARTIDO EN JUEGO 077,2240.0,2255.0,2,15.0,20,América,Ferro
+938,PARTIDO EN JUEGO 078,2270.0,2285.0,2,15.0,20,América,Ferro
+939,PARTIDO EN JUEGO 079,2289.0,2304.0,2,15.0,20,América,Ferro
+940,PARTIDO EN JUEGO 080,2334.0,2346.0,2,12.0,20,América,Ferro
+941,PARTIDO EN JUEGO 081,2353.0,2361.0,2,8.0,20,América,Ferro
+942,PARTIDO EN JUEGO 082,2386.0,2412.0,2,26.0,20,América,Ferro
+943,PARTIDO EN JUEGO 083,2428.0,2464.0,2,36.0,20,América,Ferro
+944,PARTIDO EN JUEGO 084,2481.0,2483.0,2,2.0,20,América,Ferro
+945,PARTIDO EN JUEGO 085,2491.0,2498.0,2,7.0,20,América,Ferro
+946,PARTIDO EN JUEGO 086,2502.0,2521.0,2,19.0,20,América,Ferro
+947,PARTIDO EN JUEGO 087,2537.0,2540.0,2,3.0,20,América,Ferro
+948,PARTIDO EN JUEGO 088,2544.0,2558.0,2,14.0,20,América,Ferro
+949,PARTIDO EN JUEGO 089,2569.0,2585.0,2,16.0,20,América,Ferro
+950,PARTIDO EN JUEGO 090,2588.0,2614.0,2,26.0,20,América,Ferro
+951,PARTIDO EN JUEGO 091,2622.0,2632.0,2,10.0,20,América,Ferro
+952,PARTIDO EN JUEGO 092,2646.0,2651.0,2,5.0,20,América,Ferro
+953,PARTIDO EN JUEGO 093,2682.0,2688.0,2,6.0,20,América,Ferro
+954,PARTIDO EN JUEGO 094,2693.0,2719.0,2,26.0,20,América,Ferro
+955,PARTIDO EN JUEGO 095,2727.0,2734.0,2,7.0,20,América,Ferro
+956,PARTIDO EN JUEGO 096,2743.0,2756.0,2,13.0,20,América,Ferro
+957,PARTIDO EN JUEGO 097,2764.0,2767.0,2,3.0,20,América,Ferro
+958,PARTIDO EN JUEGO 098,2778.0,2781.0,2,3.0,20,América,Ferro
+959,PARTIDO EN JUEGO 099,2788.0,2792.0,2,4.0,20,América,Ferro
+960,t,2808.0,2840.0,2,32.0,20,América,Ferro
+961,PARTIDO EN JUEGO 101,2841.0,2895.0,2,54.0,20,América,Ferro
+962,PARTIDO EN JUEGO 102,2913.0,2925.0,2,12.0,20,América,Ferro
+963,PARTIDO EN JUEGO 103,2928.0,2945.0,2,17.0,20,América,Ferro
+964,PARTIDO EN JUEGO 104,2956.0,2977.0,2,21.0,20,América,Ferro
+965,PARTIDO EN JUEGO 105,2997.0,3020.0,2,23.0,20,América,Ferro
+966,PARTIDO EN JUEGO 106,3045.0,3051.0,2,6.0,20,América,Ferro
+967,PARTIDO EN JUEGO 107,3058.0,3077.0,2,19.0,20,América,Ferro
+968,PARTIDO EN JUEGO 108,3080.0,3092.0,2,12.0,20,América,Ferro
+969,PARTIDO EN JUEGO 109,3110.0,3132.0,2,22.0,20,América,Ferro
+970,PARTIDO EN JUEGO 110,3137.0,3149.0,2,12.0,20,América,Ferro
+971,PARTIDO EN JUEGO 111,3156.0,3182.0,2,26.0,20,América,Ferro
+972,PARTIDO EN JUEGO 112,3195.0,3213.0,2,18.0,20,América,Ferro
+973,PARTIDO EN JUEGO 113,3231.0,3238.0,2,7.0,20,América,Ferro
+974,PARTIDO EN JUEGO 114,3249.0,3273.0,2,24.0,20,América,Ferro
+975,PARTIDO EN JUEGO 115,3291.0,3298.0,2,7.0,20,América,Ferro
+976,PARTIDO EN JUEGO 116,3312.0,3319.0,2,7.0,20,América,Ferro
+977,PARTIDO EN JUEGO 117,3327.0,3351.0,2,24.0,20,América,Ferro
+978,PARTIDO EN JUEGO 118,3404.0,3412.0,2,8.0,20,América,Ferro
+979,PARTIDO EN JUEGO 119,3431.0,3439.0,2,8.0,20,América,Ferro
+980,PARTIDO EN JUEGO 120,3461.0,3482.0,2,21.0,20,América,Ferro
+981,PARTIDO EN JUEGO 121,3484.0,3543.0,2,59.0,20,América,Ferro
+982,PARTIDO EN JUEGO 122,3545.0,3561.0,2,16.0,20,América,Ferro
+983,PARTIDO EN JUEGO 123,3815.0,3857.0,2,42.0,20,América,Ferro
+984,PARTIDO EN JUEGO 124,3864.0,3872.0,2,8.0,20,América,Ferro
+985,PARTIDO EN JUEGO 125,3882.0,3949.0,2,67.0,20,América,Ferro
+986,PARTIDO EN JUEGO 126,3955.0,3972.0,2,17.0,20,América,Ferro
+987,PARTIDO EN JUEGO 127,3985.0,3993.0,2,8.0,20,América,Ferro
+988,t,4014.0,4065.0,2,51.0,20,América,Ferro
+989,PARTIDO EN JUEGO 129,4066.0,4075.0,2,9.0,20,América,Ferro
+990,PARTIDO EN JUEGO 130,4090.0,4095.0,2,5.0,20,América,Ferro
+991,PARTIDO EN JUEGO 131,4103.0,4116.0,2,13.0,20,América,Ferro
+992,PARTIDO EN JUEGO 132,4123.0,4134.0,2,11.0,20,América,Ferro
+993,PARTIDO EN JUEGO 133,4137.0,4142.0,2,5.0,20,América,Ferro
+994,PARTIDO EN JUEGO 134,4253.0,4309.0,2,56.0,20,América,Ferro
+995,PARTIDO EN JUEGO 135,4313.0,4329.0,2,16.0,20,América,Ferro
+996,PARTIDO EN JUEGO 136,4330.0,4341.0,2,11.0,20,América,Ferro
+997,PARTIDO EN JUEGO 137,4344.0,4353.0,2,9.0,20,América,Ferro
+998,PARTIDO EN JUEGO 138,4355.0,4361.0,2,6.0,20,América,Ferro
+999,PARTIDO EN JUEGO 139,4370.0,4379.0,2,9.0,20,América,Ferro
+1000,PARTIDO EN JUEGO 140,4386.0,4413.0,2,27.0,20,América,Ferro
+1001,PARTIDO EN JUEGO 141,4416.0,4425.0,2,9.0,20,América,Ferro
+1002,PARTIDO EN JUEGO 142,4441.0,4457.0,2,16.0,20,América,Ferro
+1003,PARTIDO EN JUEGO 143,4458.0,4476.0,2,18.0,20,América,Ferro
+1004,Partido en juego 001,1696.0,1706.0,1,10.0,21,Racing,Ferro
+1005,Partido en juego 002,1698.0,1738.0,1,40.0,21,Racing,Ferro
+1006,Partido en juego 003,1858.0,1885.0,1,27.0,21,Racing,Ferro
+1007,Partido en juego 004,1880.0,1908.0,1,28.0,21,Racing,Ferro
+1008,Partido en juego 005,1907.0,1946.0,1,39.0,21,Racing,Ferro
+1009,Partido en juego 006,1953.0,1978.0,1,25.0,21,Racing,Ferro
+1010,Partido en juego 007,1982.0,2011.0,1,29.0,21,Racing,Ferro
+1011,Partido en juego 008,2017.0,2044.0,1,27.0,21,Racing,Ferro
+1012,Partido en juego 009,2040.0,2061.0,1,21.0,21,Racing,Ferro
+1013,Partido en juego 010,2058.0,2077.0,1,19.0,21,Racing,Ferro
+1014,Partido en juego 011,2069.0,2089.0,1,20.0,21,Racing,Ferro
+1015,Partido en juego 012,2090.0,2114.0,1,24.0,21,Racing,Ferro
+1016,Partido en juego 013,2119.0,2138.0,1,19.0,21,Racing,Ferro
+1017,Partido en juego 014,2139.0,2189.0,1,50.0,21,Racing,Ferro
+1018,Partido en juego 015,2189.0,2224.0,1,35.0,21,Racing,Ferro
+1019,Partido en juego 016,2223.0,2260.0,1,37.0,21,Racing,Ferro
+1020,Partido en juego 017,2256.0,2284.0,1,28.0,21,Racing,Ferro
+1021,Partido en juego 018,2289.0,2311.0,1,22.0,21,Racing,Ferro
+1022,Partido en juego 019,2308.0,2352.0,1,44.0,21,Racing,Ferro
+1023,Partido en juego 020,2361.0,2379.0,1,18.0,21,Racing,Ferro
+1024,Partido en juego 021,2372.0,2407.0,1,35.0,21,Racing,Ferro
+1025,Partido en juego 022,2427.0,2458.0,1,31.0,21,Racing,Ferro
+1026,Partido en juego 023,2452.0,2490.0,1,38.0,21,Racing,Ferro
+1027,Partido en juego 024,2495.0,2532.0,1,37.0,21,Racing,Ferro
+1028,Partido en juego 025,2543.0,2572.0,1,29.0,21,Racing,Ferro
+1029,Partido en juego 026,2568.0,2609.0,1,41.0,21,Racing,Ferro
+1030,Partido en juego 027,2613.0,2635.0,1,22.0,21,Racing,Ferro
+1031,Partido en juego 028,2631.0,2699.0,1,68.0,21,Racing,Ferro
+1032,Partido en juego 029,2762.0,2778.0,1,16.0,21,Racing,Ferro
+1033,Partido en juego 030,2772.0,2804.0,1,32.0,21,Racing,Ferro
+1034,Partido en juego 031,2810.0,2843.0,1,33.0,21,Racing,Ferro
+1035,Partido en juego 032,2840.0,2863.0,1,23.0,21,Racing,Ferro
+1036,Partido en juego 033,2858.0,2882.0,1,24.0,21,Racing,Ferro
+1037,Partido en juego 034,2883.0,2902.0,1,19.0,21,Racing,Ferro
+1038,Partido en juego 035,2930.0,2964.0,1,34.0,21,Racing,Ferro
+1039,Partido en juego 036,2961.0,2989.0,1,28.0,21,Racing,Ferro
+1040,Partido en juego 037,2998.0,3024.0,1,26.0,21,Racing,Ferro
+1041,Partido en juego 038,3023.0,3057.0,1,34.0,21,Racing,Ferro
+1042,Partido en juego 039,3058.0,3088.0,1,30.0,21,Racing,Ferro
+1043,Partido en juego 040,3102.0,3133.0,1,31.0,21,Racing,Ferro
+1044,Partido en juego 041,3144.0,3164.0,1,20.0,21,Racing,Ferro
+1045,Partido en juego 042,3246.0,3269.0,1,23.0,21,Racing,Ferro
+1046,Partido en juego 043,3266.0,3286.0,1,20.0,21,Racing,Ferro
+1047,Partido en juego 044,3283.0,3302.0,1,19.0,21,Racing,Ferro
+1048,Partido en juego 045,3296.0,3319.0,1,23.0,21,Racing,Ferro
+1049,Partido en juego 046,3318.0,3353.0,1,35.0,21,Racing,Ferro
+1050,Partido en juego 047,3345.0,3371.0,1,26.0,21,Racing,Ferro
+1051,Partido en juego 048,3389.0,3440.0,1,51.0,21,Racing,Ferro
+1052,Partido en juego 049,3454.0,3493.0,1,39.0,21,Racing,Ferro
+1053,Partido en juego 050,3497.0,3526.0,1,29.0,21,Racing,Ferro
+1054,Partido en juego 051,3524.0,3553.0,1,29.0,21,Racing,Ferro
+1055,Partido en juego 052,3560.0,3582.0,1,22.0,21,Racing,Ferro
+1056,Partido en juego 053,3587.0,3612.0,1,25.0,21,Racing,Ferro
+1057,Partido en juego 054,3624.0,3643.0,1,19.0,21,Racing,Ferro
+1058,Partido en juego 055,3641.0,3666.0,1,25.0,21,Racing,Ferro
+1059,Partido en juego 056,3696.0,3721.0,1,25.0,21,Racing,Ferro
+1060,Partido en juego 057,3723.0,3805.0,1,82.0,21,Racing,Ferro
+1061,Partido en juego 058,3798.0,3835.0,1,37.0,21,Racing,Ferro
+1062,Partido en juego 059,3900.0,3919.0,1,19.0,21,Racing,Ferro
+1063,Partido en juego 060,4777.0,4812.0,2,35.0,21,Racing,Ferro
+1064,Partido en juego 061,4817.0,4856.0,2,39.0,21,Racing,Ferro
+1065,Partido en juego 062,4913.0,4955.0,2,42.0,21,Racing,Ferro
+1066,Partido en juego 063,4977.0,5009.0,2,32.0,21,Racing,Ferro
+1067,Partido en juego 064,5002.0,5029.0,2,27.0,21,Racing,Ferro
+1068,Partido en juego 065,5022.0,5053.0,2,31.0,21,Racing,Ferro
+1069,Partido en juego 066,5049.0,5074.0,2,25.0,21,Racing,Ferro
+1070,Partido en juego 067,5083.0,5106.0,2,23.0,21,Racing,Ferro
+1071,Partido en juego 068,5104.0,5146.0,2,42.0,21,Racing,Ferro
+1072,Partido en juego 069,5152.0,5179.0,2,27.0,21,Racing,Ferro
+1073,Partido en juego 070,5194.0,5227.0,2,33.0,21,Racing,Ferro
+1074,Partido en juego 071,5264.0,5291.0,2,27.0,21,Racing,Ferro
+1075,Partido en juego 072,5283.0,5316.0,2,33.0,21,Racing,Ferro
+1076,Partido en juego 073,5342.0,5370.0,2,28.0,21,Racing,Ferro
+1077,Partido en juego 074,5364.0,5381.0,2,17.0,21,Racing,Ferro
+1078,Partido en juego 075,5403.0,5429.0,2,26.0,21,Racing,Ferro
+1079,Partido en juego 076,5429.0,5473.0,2,44.0,21,Racing,Ferro
+1080,Partido en juego 077,5470.0,5494.0,2,24.0,21,Racing,Ferro
+1081,Partido en juego 078,5496.0,5519.0,2,23.0,21,Racing,Ferro
+1082,Partido en juego 079,5515.0,5593.0,2,78.0,21,Racing,Ferro
+1083,Partido en juego 080,5596.0,5642.0,2,46.0,21,Racing,Ferro
+1084,Partido en juego 081,5653.0,5674.0,2,21.0,21,Racing,Ferro
+1085,Partido en juego 082,5678.0,5695.0,2,17.0,21,Racing,Ferro
+1086,Partido en juego 083,5696.0,5719.0,2,23.0,21,Racing,Ferro
+1087,Partido en juego 084,5728.0,5744.0,2,16.0,21,Racing,Ferro
+1088,Partido en juego 085,5751.0,5806.0,2,55.0,21,Racing,Ferro
+1089,Partido en juego 086,5836.0,5861.0,2,25.0,21,Racing,Ferro
+1090,Partido en juego 087,5872.0,5904.0,2,32.0,21,Racing,Ferro
+1091,Partido en juego 088,5909.0,5929.0,2,20.0,21,Racing,Ferro
+1092,Partido en juego 089,5939.0,6020.0,2,81.0,21,Racing,Ferro
+1093,Partido en juego 090,6046.0,6083.0,2,37.0,21,Racing,Ferro
+1094,Partido en juego 091,6104.0,6157.0,2,53.0,21,Racing,Ferro
+1095,Partido en juego 092,6181.0,6216.0,2,35.0,21,Racing,Ferro
+1096,Partido en juego 093,6225.0,6246.0,2,21.0,21,Racing,Ferro
+1097,Partido en juego 094,6267.0,6310.0,2,43.0,21,Racing,Ferro
+1098,Partido en juego 095,6314.0,6344.0,2,30.0,21,Racing,Ferro
+1099,Partido en juego 096,6368.0,6418.0,2,50.0,21,Racing,Ferro
+1100,Partido en juego 097,6412.0,6431.0,2,19.0,21,Racing,Ferro
+1101,Partido en juego 098,6525.0,6579.0,2,54.0,21,Racing,Ferro
+1102,Partido en juego 099,6588.0,6613.0,2,25.0,21,Racing,Ferro
+1103,Partido en juego 100,6617.0,6640.0,2,23.0,21,Racing,Ferro
+1104,Partido en juego 101,6711.0,6747.0,2,36.0,21,Racing,Ferro
+1105,Partido en juego 102,6755.0,6782.0,2,27.0,21,Racing,Ferro
+1106,Partido en juego 103,6789.0,6821.0,2,32.0,21,Racing,Ferro
+1107,Partido en juego 104,6826.0,6857.0,2,31.0,21,Racing,Ferro
+1108,Partido en juego 105,6882.0,6905.0,2,23.0,21,Racing,Ferro
+1109,Partido en juego 106,6919.0,6948.0,2,29.0,21,Racing,Ferro
+1110,Partido en juego 107,6955.0,7000.0,2,45.0,21,Racing,Ferro
+1111,Partido en juego 108,7035.0,7060.0,2,25.0,21,Racing,Ferro
+1112,Partido en juego 109,7059.0,7083.0,2,24.0,21,Racing,Ferro
+1113,Partido en juego 110,7155.0,7175.0,2,20.0,21,Racing,Ferro
+1114,Partido en juego 111,7176.0,7222.0,2,46.0,21,Racing,Ferro
+1115,Partido en juego 112,7220.0,7248.0,2,28.0,21,Racing,Ferro
+1116,Partido en juego 001,0.0,30.0,1,30.0,22,Ferro,Pinocho
+1117,Partido en juego 002,26.0,56.0,1,30.0,22,Ferro,Pinocho
+1118,Partido en juego 003,49.0,79.0,1,30.0,22,Ferro,Pinocho
+1119,Partido en juego 004,90.0,116.0,1,26.0,22,Ferro,Pinocho
+1120,Partido en juego 005,118.0,140.0,1,22.0,22,Ferro,Pinocho
+1121,Partido en juego 006,143.0,155.0,1,12.0,22,Ferro,Pinocho
+1122,Partido en juego 007,153.0,179.0,1,26.0,22,Ferro,Pinocho
+1123,Partido en juego 008,189.0,204.0,1,15.0,22,Ferro,Pinocho
+1124,Partido en juego 009,214.0,274.0,1,60.0,22,Ferro,Pinocho
+1125,Partido en juego 010,305.0,340.0,1,35.0,22,Ferro,Pinocho
+1126,Partido en juego 011,359.0,379.0,1,20.0,22,Ferro,Pinocho
+1127,Partido en juego 012,416.0,429.0,1,13.0,22,Ferro,Pinocho
+1128,Partido en juego 013,446.0,477.0,1,31.0,22,Ferro,Pinocho
+1129,Partido en juego 014,505.0,519.0,1,14.0,22,Ferro,Pinocho
+1130,Partido en juego 015,517.0,531.0,1,14.0,22,Ferro,Pinocho
+1131,Partido en juego 016,532.0,556.0,1,24.0,22,Ferro,Pinocho
+1132,Partido en juego 017,559.0,579.0,1,20.0,22,Ferro,Pinocho
+1133,Partido en juego 018,597.0,609.0,1,12.0,22,Ferro,Pinocho
+1134,Partido en juego 019,617.0,630.0,1,13.0,22,Ferro,Pinocho
+1135,Partido en juego 020,635.0,648.0,1,13.0,22,Ferro,Pinocho
+1136,Partido en juego 021,648.0,673.0,1,25.0,22,Ferro,Pinocho
+1137,Partido en juego 022,673.0,689.0,1,16.0,22,Ferro,Pinocho
+1138,Partido en juego 023,723.0,737.0,1,14.0,22,Ferro,Pinocho
+1139,Partido en juego 024,751.0,769.0,1,18.0,22,Ferro,Pinocho
+1140,Partido en juego 025,793.0,816.0,1,23.0,22,Ferro,Pinocho
+1141,Partido en juego 026,819.0,850.0,1,31.0,22,Ferro,Pinocho
+1142,Partido en juego 027,861.0,897.0,1,36.0,22,Ferro,Pinocho
+1143,Partido en juego 028,904.0,934.0,1,30.0,22,Ferro,Pinocho
+1144,Partido en juego 029,947.0,959.0,1,12.0,22,Ferro,Pinocho
+1145,Partido en juego 030,958.0,990.0,1,32.0,22,Ferro,Pinocho
+1146,Partido en juego 031,992.0,1004.0,1,12.0,22,Ferro,Pinocho
+1147,Partido en juego 032,1010.0,1036.0,1,26.0,22,Ferro,Pinocho
+1148,Partido en juego 033,1035.0,1053.0,1,18.0,22,Ferro,Pinocho
+1149,Partido en juego 034,1053.0,1085.0,1,32.0,22,Ferro,Pinocho
+1150,Partido en juego 035,1095.0,1115.0,1,20.0,22,Ferro,Pinocho
+1151,Partido en juego 036,1117.0,1138.0,1,21.0,22,Ferro,Pinocho
+1152,Partido en juego 037,1136.0,1156.0,1,20.0,22,Ferro,Pinocho
+1153,Partido en juego 038,1161.0,1175.0,1,14.0,22,Ferro,Pinocho
+1154,Partido en juego 039,1168.0,1192.0,1,24.0,22,Ferro,Pinocho
+1155,Partido en juego 040,1200.0,1223.0,1,23.0,22,Ferro,Pinocho
+1156,Partido en juego 041,1214.0,1232.0,1,18.0,22,Ferro,Pinocho
+1157,Partido en juego 042,1229.0,1256.0,1,27.0,22,Ferro,Pinocho
+1158,Partido en juego 043,1272.0,1285.0,1,13.0,22,Ferro,Pinocho
+1159,Partido en juego 044,1301.0,1330.0,1,29.0,22,Ferro,Pinocho
+1160,Partido en juego 045,1332.0,1376.0,1,44.0,22,Ferro,Pinocho
+1161,Partido en juego 046,1381.0,1399.0,1,18.0,22,Ferro,Pinocho
+1162,Partido en juego 047,1394.0,1435.0,1,41.0,22,Ferro,Pinocho
+1163,Partido en juego 048,1447.0,1466.0,1,19.0,22,Ferro,Pinocho
+1164,Partido en juego 049,1522.0,1556.0,1,34.0,22,Ferro,Pinocho
+1165,Partido en juego 050,1571.0,1606.0,1,35.0,22,Ferro,Pinocho
+1166,Partido en juego 051,1622.0,1635.0,1,13.0,22,Ferro,Pinocho
+1167,Partido en juego 052,1643.0,1668.0,1,25.0,22,Ferro,Pinocho
+1168,Partido en juego 053,1674.0,1687.0,1,13.0,22,Ferro,Pinocho
+1169,Partido en juego 054,1687.0,1700.0,1,13.0,22,Ferro,Pinocho
+1170,Partido en juego 055,1704.0,1727.0,1,23.0,22,Ferro,Pinocho
+1171,Partido en juego 056,1740.0,1759.0,1,19.0,22,Ferro,Pinocho
+1172,Partido en juego 057,1755.0,1785.0,1,30.0,22,Ferro,Pinocho
+1173,Partido en juego 058,1807.0,1823.0,1,16.0,22,Ferro,Pinocho
+1174,Partido en juego 059,1823.0,1848.0,1,25.0,22,Ferro,Pinocho
+1175,Partido en juego 060,1851.0,1922.0,1,71.0,22,Ferro,Pinocho
+1176,Partido en juego 061,1963.0,1983.0,1,20.0,22,Ferro,Pinocho
+1177, ,2008.0,2041.0,1,33.0,22,Ferro,Pinocho
+1178,Partido en juego 063,2073.0,2094.0,1,21.0,22,Ferro,Pinocho
+1179,Partido en juego 064,2177.0,2189.0,1,12.0,22,Ferro,Pinocho
+1180,Partido en juego 065,2187.0,2248.0,1,61.0,22,Ferro,Pinocho
+1181,Partido en juego 066,2284.0,2297.0,1,13.0,22,Ferro,Pinocho
+1182,Partido en juego 067,2301.0,2315.0,1,14.0,22,Ferro,Pinocho
+1183,Partido en juego 068,2309.0,2359.0,1,50.0,22,Ferro,Pinocho
+1184,Partido en juego 069,2466.0,2495.0,1,29.0,22,Ferro,Pinocho
+1185,Partido en juego 070,2564.0,2576.0,1,12.0,22,Ferro,Pinocho
+1186,Partido en juego 071,2574.0,2602.0,1,28.0,22,Ferro,Pinocho
+1187,Partido en juego 072,2601.0,2627.0,1,26.0,22,Ferro,Pinocho
+1188,Partido en juego 073,2639.0,2651.0,1,12.0,22,Ferro,Pinocho
+1189,Partido en juego 074,2661.0,2674.0,1,13.0,22,Ferro,Pinocho
+1190,Partido en juego 075,2680.0,2695.0,1,15.0,22,Ferro,Pinocho
+1191,Partido en juego 076,2713.0,2731.0,2,18.0,22,Ferro,Pinocho
+1192,Partido en juego 077,2732.0,2779.0,2,47.0,22,Ferro,Pinocho
+1193,Partido en juego 078,2782.0,2798.0,2,16.0,22,Ferro,Pinocho
+1194,Partido en juego 079,2799.0,2819.0,2,20.0,22,Ferro,Pinocho
+1195,Partido en juego 080,2885.0,2904.0,2,19.0,22,Ferro,Pinocho
+1196,Partido en juego 081,2901.0,2948.0,2,47.0,22,Ferro,Pinocho
+1197,Partido en juego 082,2963.0,2984.0,2,21.0,22,Ferro,Pinocho
+1198,Partido en juego 083,2991.0,3022.0,2,31.0,22,Ferro,Pinocho
+1199,Partido en juego 084,3036.0,3052.0,2,16.0,22,Ferro,Pinocho
+1200,Partido en juego 085,3063.0,3097.0,2,34.0,22,Ferro,Pinocho
+1201,Partido en juego 086,3092.0,3115.0,2,23.0,22,Ferro,Pinocho
+1202, ,3151.0,3163.0,2,12.0,22,Ferro,Pinocho
+1203,Partido en juego 088,3168.0,3185.0,2,17.0,22,Ferro,Pinocho
+1204,Partido en juego 089,3185.0,3207.0,2,22.0,22,Ferro,Pinocho
+1205,Partido en juego 090,3213.0,3227.0,2,14.0,22,Ferro,Pinocho
+1206,Partido en juego 091,3222.0,3242.0,2,20.0,22,Ferro,Pinocho
+1207,Partido en juego 092,3248.0,3261.0,2,13.0,22,Ferro,Pinocho
+1208,Partido en juego 093,3274.0,3291.0,2,17.0,22,Ferro,Pinocho
+1209,Partido en juego 094,3319.0,3335.0,2,16.0,22,Ferro,Pinocho
+1210,Partido en juego 095,3335.0,3383.0,2,48.0,22,Ferro,Pinocho
+1211,Partido en juego 096,3391.0,3409.0,2,18.0,22,Ferro,Pinocho
+1212,Partido en juego 097,3416.0,3434.0,2,18.0,22,Ferro,Pinocho
+1213,Partido en juego 098,3431.0,3442.0,2,11.0,22,Ferro,Pinocho
+1214,Partido en juego 099,3459.0,3477.0,2,18.0,22,Ferro,Pinocho
+1215,Partido en juego 100,3501.0,3515.0,2,14.0,22,Ferro,Pinocho
+1216,Partido en juego 101,3518.0,3539.0,2,21.0,22,Ferro,Pinocho
+1217,Partido en juego 102,3537.0,3572.0,2,35.0,22,Ferro,Pinocho
+1218,Partido en juego 103,3563.0,3584.0,2,21.0,22,Ferro,Pinocho
+1219,Partido en juego 104,3592.0,3612.0,2,20.0,22,Ferro,Pinocho
+1220,Partido en juego 105,3628.0,3643.0,2,15.0,22,Ferro,Pinocho
+1221,Partido en juego 106,3659.0,3697.0,2,38.0,22,Ferro,Pinocho
+1222,Partido en juego 107,3695.0,3717.0,2,22.0,22,Ferro,Pinocho
+1223,Partido en juego 108,3784.0,3797.0,2,13.0,22,Ferro,Pinocho
+1224,Partido en juego 109,3800.0,3824.0,2,24.0,22,Ferro,Pinocho
+1225,Partido en juego 110,3827.0,3854.0,2,27.0,22,Ferro,Pinocho
+1226,Partido en juego 111,3872.0,3892.0,2,20.0,22,Ferro,Pinocho
+1227,Partido en juego 112,3897.0,3917.0,2,20.0,22,Ferro,Pinocho
+1228,Partido en juego 113,3926.0,3939.0,2,13.0,22,Ferro,Pinocho
+1229,Partido en juego 114,3937.0,3955.0,2,18.0,22,Ferro,Pinocho
+1230,Partido en juego 115,3968.0,3979.0,2,11.0,22,Ferro,Pinocho
+1231,Partido en juego 116,4019.0,4054.0,2,35.0,22,Ferro,Pinocho
+1232,Partido en juego 117,4066.0,4097.0,2,31.0,22,Ferro,Pinocho
+1233,Partido en juego 118,4098.0,4124.0,2,26.0,22,Ferro,Pinocho
+1234,Partido en juego 119,4158.0,4171.0,2,13.0,22,Ferro,Pinocho
+1235,Partido en juego 120,4163.0,4181.0,2,18.0,22,Ferro,Pinocho
+1236,Partido en juego 121,4181.0,4199.0,2,18.0,22,Ferro,Pinocho
+1237,Partido en juego 122,4218.0,4243.0,2,25.0,22,Ferro,Pinocho
+1238,Partido en juego 123,4296.0,4324.0,2,28.0,22,Ferro,Pinocho
+1239,Partido en juego 124,4323.0,4343.0,2,20.0,22,Ferro,Pinocho
+1240, ,4339.0,4358.0,2,19.0,22,Ferro,Pinocho
+1241,Partido en juego 126,4350.0,4364.0,2,14.0,22,Ferro,Pinocho
+1242,Partido en juego 127,4382.0,4435.0,2,53.0,22,Ferro,Pinocho
+1243,Partido en juego 128,4438.0,4458.0,2,20.0,22,Ferro,Pinocho
+1244,Partido en juego 129,4571.0,4584.0,2,13.0,22,Ferro,Pinocho
+1245,Partido en juego 130,4596.0,4609.0,2,13.0,22,Ferro,Pinocho
+1246,Partido en juego 131,4607.0,4619.0,2,12.0,22,Ferro,Pinocho
+1247,Partido en juego 132,4621.0,4635.0,2,14.0,22,Ferro,Pinocho
+1248,Partido en juego 133,4633.0,4650.0,2,17.0,22,Ferro,Pinocho
+1249,Partido en juego 134,4649.0,4665.0,2,16.0,22,Ferro,Pinocho
+1250,Partido en juego 135,4668.0,4685.0,2,17.0,22,Ferro,Pinocho
+1251,Partido en juego 136,4692.0,4709.0,2,17.0,22,Ferro,Pinocho
+1252,Partido en juego 137,4711.0,4739.0,2,28.0,22,Ferro,Pinocho
+1253,Partido en juego 138,4750.0,4761.0,2,11.0,22,Ferro,Pinocho
+1254,Partido en juego 139,4764.0,4784.0,2,20.0,22,Ferro,Pinocho
+1255,Partido en juego 140,4787.0,4812.0,2,25.0,22,Ferro,Pinocho
+1256,Partido en juego 141,4822.0,4836.0,2,14.0,22,Ferro,Pinocho
+1257,Partido en juego 142,4914.0,4949.0,2,35.0,22,Ferro,Pinocho
+1258,Partido en juego 143,4964.0,4986.0,2,22.0,22,Ferro,Pinocho
+1259,Partido en juego 144,4977.0,4991.0,2,14.0,22,Ferro,Pinocho
+1260,Partido en juego 145,4998.0,5018.0,2,20.0,22,Ferro,Pinocho
+1261,Partido en juego 146,5014.0,5031.0,2,17.0,22,Ferro,Pinocho
+1262,Partido en juego 147,5029.0,5060.0,2,31.0,22,Ferro,Pinocho
+1263,Partido en juego 148,5061.0,5083.0,2,22.0,22,Ferro,Pinocho
+1264,Partido en juego 149,5078.0,5098.0,2,20.0,22,Ferro,Pinocho
+1265,Partido en juego 150,5096.0,5117.0,2,21.0,22,Ferro,Pinocho
+1266,Partido en juego 151,5201.0,5214.0,2,13.0,22,Ferro,Pinocho
+1267, ,5214.0,5233.0,2,19.0,22,Ferro,Pinocho
+1268,Partido en juego 153,5247.0,5268.0,2,21.0,22,Ferro,Pinocho
+1269,Partido en juego 154,5265.0,5285.0,2,20.0,22,Ferro,Pinocho
+1270,Partido en juego 155,5282.0,5298.0,2,16.0,22,Ferro,Pinocho
+1271,Partido en juego 156,5326.0,5344.0,2,18.0,22,Ferro,Pinocho
+1272,Partido en juego 157,5361.0,5378.0,2,17.0,22,Ferro,Pinocho
+1273,Partido en juego 158,5374.0,5405.0,2,31.0,22,Ferro,Pinocho
+1274,Partido en juego 001,1.0,11.0,1,10.0,25,Jorge Newbery,Ferro
+1275,Partido en juego 002,7.0,36.0,1,29.0,25,Jorge Newbery,Ferro
+1276,Partido en juego 003,31.0,57.0,1,26.0,25,Jorge Newbery,Ferro
+1277,Partido en juego 004,57.0,70.0,1,13.0,25,Jorge Newbery,Ferro
+1278,Partido en juego 005,67.0,84.0,1,17.0,25,Jorge Newbery,Ferro
+1279,Partido en juego 006,78.0,99.0,1,21.0,25,Jorge Newbery,Ferro
+1280,Partido en juego 007,102.0,117.0,1,15.0,25,Jorge Newbery,Ferro
+1281,Partido en juego 008,117.0,135.0,1,18.0,25,Jorge Newbery,Ferro
+1282,Partido en juego 009,128.0,153.0,1,25.0,25,Jorge Newbery,Ferro
+1283,Partido en juego 010,162.0,196.0,1,34.0,25,Jorge Newbery,Ferro
+1284,Partido en juego 011,197.0,225.0,1,28.0,25,Jorge Newbery,Ferro
+1285,Partido en juego 012,228.0,255.0,1,27.0,25,Jorge Newbery,Ferro
+1286,Partido en juego 013,261.0,291.0,1,30.0,25,Jorge Newbery,Ferro
+1287,Partido en juego 014,289.0,312.0,1,23.0,25,Jorge Newbery,Ferro
+1288,Partido en juego 015,312.0,334.0,1,22.0,25,Jorge Newbery,Ferro
+1289,Partido en juego 016,329.0,352.0,1,23.0,25,Jorge Newbery,Ferro
+1290,Partido en juego 017,344.0,363.0,1,19.0,25,Jorge Newbery,Ferro
+1291,Partido en juego 018,401.0,423.0,1,22.0,25,Jorge Newbery,Ferro
+1292,Partido en juego 019,429.0,458.0,1,29.0,25,Jorge Newbery,Ferro
+1293,Partido en juego 020,456.0,493.0,1,37.0,25,Jorge Newbery,Ferro
+1294,Partido en juego 021,494.0,532.0,1,38.0,25,Jorge Newbery,Ferro
+1295,Partido en juego 022,530.0,559.0,1,29.0,25,Jorge Newbery,Ferro
+1296,Partido en juego 023,557.0,586.0,1,29.0,25,Jorge Newbery,Ferro
+1297,Partido en juego 024,583.0,613.0,1,30.0,25,Jorge Newbery,Ferro
+1298,Partido en juego 025,607.0,627.0,1,20.0,25,Jorge Newbery,Ferro
+1299,Partido en juego 026,631.0,649.0,1,18.0,25,Jorge Newbery,Ferro
+1300,Partido en juego 027,660.0,679.0,1,19.0,25,Jorge Newbery,Ferro
+1301,Partido en juego 028,679.0,710.0,1,31.0,25,Jorge Newbery,Ferro
+1302,Partido en juego 029,707.0,743.0,1,36.0,25,Jorge Newbery,Ferro
+1303,Partido en juego 030,746.0,769.0,1,23.0,25,Jorge Newbery,Ferro
+1304,Partido en juego 031,765.0,788.0,1,23.0,25,Jorge Newbery,Ferro
+1305,Partido en juego 032,786.0,809.0,1,23.0,25,Jorge Newbery,Ferro
+1306,Partido en juego 033,806.0,826.0,1,20.0,25,Jorge Newbery,Ferro
+1307,Partido en juego 034,823.0,852.0,1,29.0,25,Jorge Newbery,Ferro
+1308,Partido en juego 035,855.0,876.0,1,21.0,25,Jorge Newbery,Ferro
+1309,Partido en juego 036,876.0,933.0,1,57.0,25,Jorge Newbery,Ferro
+1310,Partido en juego 037,942.0,975.0,1,33.0,25,Jorge Newbery,Ferro
+1311,Partido en juego 038,980.0,1027.0,1,47.0,25,Jorge Newbery,Ferro
+1312,Partido en juego 039,1027.0,1049.0,1,22.0,25,Jorge Newbery,Ferro
+1313,Partido en juego 040,1063.0,1095.0,1,32.0,25,Jorge Newbery,Ferro
+1314,Partido en juego 041,1090.0,1119.0,1,29.0,25,Jorge Newbery,Ferro
+1315,Partido en juego 042,1122.0,1153.0,1,31.0,25,Jorge Newbery,Ferro
+1316,Partido en juego 043,1164.0,1200.0,1,36.0,25,Jorge Newbery,Ferro
+1317,Partido en juego 044,1209.0,1242.0,1,33.0,25,Jorge Newbery,Ferro
+1318,Partido en juego 045,1251.0,1288.0,1,37.0,25,Jorge Newbery,Ferro
+1319,Partido en juego 046,1315.0,1340.0,1,25.0,25,Jorge Newbery,Ferro
+1320,Partido en juego 047,1341.0,1364.0,1,23.0,25,Jorge Newbery,Ferro
+1321,Partido en juego 049,1382.0,1404.0,1,22.0,25,Jorge Newbery,Ferro
+1322,Partido en juego 048,1385.0,1405.0,1,20.0,25,Jorge Newbery,Ferro
+1323,Partido en juego 050,1398.0,1426.0,1,28.0,25,Jorge Newbery,Ferro
+1324,Partido en juego 051,1437.0,1495.0,1,58.0,25,Jorge Newbery,Ferro
+1325,Partido en juego 052,1496.0,1570.0,1,74.0,25,Jorge Newbery,Ferro
+1326,Partido en juego 053,1636.0,1659.0,1,23.0,25,Jorge Newbery,Ferro
+1327,Partido en juego 054,1658.0,1694.0,1,36.0,25,Jorge Newbery,Ferro
+1328,Partido en juego 055,1687.0,1724.0,1,37.0,25,Jorge Newbery,Ferro
+1329,Partido en juego 056,1737.0,1771.0,1,34.0,25,Jorge Newbery,Ferro
+1330,Partido en juego 057,1774.0,1830.0,1,56.0,25,Jorge Newbery,Ferro
+1331,Partido en juego 058,1857.0,1880.0,1,23.0,25,Jorge Newbery,Ferro
+1332,Partido en juego 059,1944.0,1962.0,1,18.0,25,Jorge Newbery,Ferro
+1333,Partido en juego 060,1955.0,1980.0,1,25.0,25,Jorge Newbery,Ferro
+1334,Partido en juego 061,1989.0,2011.0,1,22.0,25,Jorge Newbery,Ferro
+1335,Partido en juego 062,2087.0,2106.0,1,19.0,25,Jorge Newbery,Ferro
+1336,Partido en juego 063,2102.0,2146.0,1,44.0,25,Jorge Newbery,Ferro
+1337,Partido en juego 064,2150.0,2191.0,1,41.0,25,Jorge Newbery,Ferro
+1338,Partido en juego 065,2186.0,2205.0,1,19.0,25,Jorge Newbery,Ferro
+1339,Partido en juego 066,2203.0,2227.0,1,24.0,25,Jorge Newbery,Ferro
+1340,Partido en juego 067,2227.0,2251.0,1,24.0,25,Jorge Newbery,Ferro
+1341,Partido en juego 068,2269.0,2287.0,1,18.0,25,Jorge Newbery,Ferro
+1342,Partido en juego 069,2293.0,2315.0,1,22.0,25,Jorge Newbery,Ferro
+1343,Partido en juego 070,2314.0,2358.0,2,44.0,25,Jorge Newbery,Ferro
+1344,Partido en juego 071,2351.0,2367.0,2,16.0,25,Jorge Newbery,Ferro
+1345,Partido en juego 072,2371.0,2402.0,2,31.0,25,Jorge Newbery,Ferro
+1346,Partido en juego 073,2401.0,2444.0,2,43.0,25,Jorge Newbery,Ferro
+1347,Partido en juego 074,2453.0,2480.0,2,27.0,25,Jorge Newbery,Ferro
+1348,Partido en juego 075,2526.0,2558.0,2,32.0,25,Jorge Newbery,Ferro
+1349,Partido en juego 076,2552.0,2568.0,2,16.0,25,Jorge Newbery,Ferro
+1350,Partido en juego 077,2585.0,2625.0,2,40.0,25,Jorge Newbery,Ferro
+1351,Partido en juego 078,2630.0,2685.0,2,55.0,25,Jorge Newbery,Ferro
+1352,Partido en juego 079,2676.0,2704.0,2,28.0,25,Jorge Newbery,Ferro
+1353,Partido en juego 080,2723.0,2760.0,2,37.0,25,Jorge Newbery,Ferro
+1354,Partido en juego 081,2759.0,2779.0,2,20.0,25,Jorge Newbery,Ferro
+1355,Partido en juego 082,2799.0,2825.0,2,26.0,25,Jorge Newbery,Ferro
+1356,Partido en juego 083,2821.0,2861.0,2,40.0,25,Jorge Newbery,Ferro
+1357,Partido en juego 084,2862.0,2882.0,2,20.0,25,Jorge Newbery,Ferro
+1358,Partido en juego 085,2902.0,2922.0,2,20.0,25,Jorge Newbery,Ferro
+1359,Partido en juego 086,2916.0,2969.0,2,53.0,25,Jorge Newbery,Ferro
+1360,Partido en juego 087,2972.0,2995.0,2,23.0,25,Jorge Newbery,Ferro
+1361,Partido en juego 088,3069.0,3094.0,2,25.0,25,Jorge Newbery,Ferro
+1362,Partido en juego 089,3145.0,3182.0,2,37.0,25,Jorge Newbery,Ferro
+1363,Partido en juego 090,3178.0,3258.0,2,80.0,25,Jorge Newbery,Ferro
+1364,Partido en juego 091,3253.0,3277.0,2,24.0,25,Jorge Newbery,Ferro
+1365,Partido en juego 092,3282.0,3314.0,2,32.0,25,Jorge Newbery,Ferro
+1366,Partido en juego 093,3321.0,3352.0,2,31.0,25,Jorge Newbery,Ferro
+1367,Partido en juego 094,3353.0,3377.0,2,24.0,25,Jorge Newbery,Ferro
+1368,Partido en juego 095,3381.0,3398.0,2,17.0,25,Jorge Newbery,Ferro
+1369,Partido en juego 096,3396.0,3420.0,2,24.0,25,Jorge Newbery,Ferro
+1370,Partido en juego 097,3416.0,3454.0,2,38.0,25,Jorge Newbery,Ferro
+1371,Partido en juego 098,3457.0,3474.0,2,17.0,25,Jorge Newbery,Ferro
+1372,Partido en juego 099,3485.0,3506.0,2,21.0,25,Jorge Newbery,Ferro
+1373,Partido en juego 100,3532.0,3581.0,2,49.0,25,Jorge Newbery,Ferro
+1374,Partido en juego 101,3582.0,3607.0,2,25.0,25,Jorge Newbery,Ferro
+1375,Partido en juego 102,3605.0,3630.0,2,25.0,25,Jorge Newbery,Ferro
+1376,Partido en juego 103,3625.0,3660.0,2,35.0,25,Jorge Newbery,Ferro
+1377,Partido en juego 104,3689.0,3715.0,2,26.0,25,Jorge Newbery,Ferro
+1378,Partido en juego 105,3724.0,3772.0,2,48.0,25,Jorge Newbery,Ferro
+1379,Partido en juego 106,3777.0,3809.0,2,32.0,25,Jorge Newbery,Ferro
+1380,Partido en juego 107,3801.0,3829.0,2,28.0,25,Jorge Newbery,Ferro
+1381,Partido en juego 108,3841.0,3856.0,2,15.0,25,Jorge Newbery,Ferro
+1382,Partido en juego 109,3852.0,3868.0,2,16.0,25,Jorge Newbery,Ferro
+1383,Partido en juego 110,3861.0,3909.0,2,48.0,25,Jorge Newbery,Ferro
+1384,Partido en juego 111,3901.0,3919.0,2,18.0,25,Jorge Newbery,Ferro
+1385,Partido en juego 112,3918.0,3946.0,2,28.0,25,Jorge Newbery,Ferro
+1386,Partido en juego 113,3941.0,3964.0,2,23.0,25,Jorge Newbery,Ferro
+1387,Partido en juego 114,3970.0,4019.0,2,49.0,25,Jorge Newbery,Ferro
+1388,Partido en juego 115,4038.0,4071.0,2,33.0,25,Jorge Newbery,Ferro
+1389,Partido en juego 116,4064.0,4093.0,2,29.0,25,Jorge Newbery,Ferro
+1390,Partido en juego 117,4098.0,4120.0,2,22.0,25,Jorge Newbery,Ferro
+1391,Partido en juego 118,4115.0,4141.0,2,26.0,25,Jorge Newbery,Ferro
+1392,Partido en juego 119,4153.0,4190.0,2,37.0,25,Jorge Newbery,Ferro
+1393,Partido en juego 120,4271.0,4299.0,2,28.0,25,Jorge Newbery,Ferro
+1394,Partido en juego 121,4334.0,4352.0,2,18.0,25,Jorge Newbery,Ferro
+1395,Partido en juego 122,4431.0,4498.0,2,67.0,25,Jorge Newbery,Ferro
+1396,Partido en juego 123,4515.0,4537.0,2,22.0,25,Jorge Newbery,Ferro
+1397,Partido en juego 124,4542.0,4568.0,2,26.0,25,Jorge Newbery,Ferro
+1398,Partido en juego 125,4574.0,4595.0,2,21.0,25,Jorge Newbery,Ferro
+1399,PARTIDO EN JUEGO 001,5.0,55.0,1,50.0,27,Glorias,Ferro
+1400,PARTIDO EN JUEGO 002,63.0,97.0,1,34.0,27,Glorias,Ferro
+1401,PARTIDO EN JUEGO 003,107.0,136.0,1,29.0,27,Glorias,Ferro
+1402,PARTIDO EN JUEGO 004,185.0,195.0,1,10.0,27,Glorias,Ferro
+1403,PARTIDO EN JUEGO 005,204.0,212.0,1,8.0,27,Glorias,Ferro
+1404,PARTIDO EN JUEGO 006,215.0,220.0,1,5.0,27,Glorias,Ferro
+1405,PARTIDO EN JUEGO 007,243.0,257.0,1,14.0,27,Glorias,Ferro
+1406,PARTIDO EN JUEGO 008,261.0,281.0,1,20.0,27,Glorias,Ferro
+1407,PARTIDO EN JUEGO 009,301.0,315.0,1,14.0,27,Glorias,Ferro
+1408,PARTIDO EN JUEGO 010,321.0,348.0,1,27.0,27,Glorias,Ferro
+1409,PARTIDO EN JUEGO 011,356.0,369.0,1,13.0,27,Glorias,Ferro
+1410,PARTIDO EN JUEGO 012,379.0,398.0,1,19.0,27,Glorias,Ferro
+1411,PARTIDO EN JUEGO 013,400.0,415.0,1,15.0,27,Glorias,Ferro
+1412,PARTIDO EN JUEGO 014,429.0,444.0,1,15.0,27,Glorias,Ferro
+1413,PARTIDO EN JUEGO 015,456.0,466.0,1,10.0,27,Glorias,Ferro
+1414,PARTIDO EN JUEGO 016,484.0,489.0,1,5.0,27,Glorias,Ferro
+1415,PARTIDO EN JUEGO 017,496.0,510.0,1,14.0,27,Glorias,Ferro
+1416,PARTIDO EN JUEGO 018,522.0,535.0,1,13.0,27,Glorias,Ferro
+1417,PARTIDO EN JUEGO 019,572.0,590.0,1,18.0,27,Glorias,Ferro
+1418,PARTIDO EN JUEGO 020,606.0,619.0,1,13.0,27,Glorias,Ferro
+1419,PARTIDO EN JUEGO 021,632.0,636.0,1,4.0,27,Glorias,Ferro
+1420,PARTIDO EN JUEGO 022,649.0,664.0,1,15.0,27,Glorias,Ferro
+1421,PARTIDO EN JUEGO 023,673.0,684.0,1,11.0,27,Glorias,Ferro
+1422,PARTIDO EN JUEGO 024,698.0,703.0,1,5.0,27,Glorias,Ferro
+1423,PARTIDO EN JUEGO 025,779.0,786.0,1,7.0,27,Glorias,Ferro
+1424,PARTIDO EN JUEGO 026,793.0,813.0,1,20.0,27,Glorias,Ferro
+1425,PARTIDO EN JUEGO 027,824.0,840.0,1,16.0,27,Glorias,Ferro
+1426,PARTIDO EN JUEGO 028,856.0,860.0,1,4.0,27,Glorias,Ferro
+1427,PARTIDO EN JUEGO 029,873.0,907.0,1,34.0,27,Glorias,Ferro
+1428,PARTIDO EN JUEGO 030,920.0,998.0,1,78.0,27,Glorias,Ferro
+1429,PARTIDO EN JUEGO 031,1116.0,1134.0,1,18.0,27,Glorias,Ferro
+1430,PARTIDO EN JUEGO 032,1139.0,1176.0,1,37.0,27,Glorias,Ferro
+1431,PARTIDO EN JUEGO 033,1194.0,1197.0,1,3.0,27,Glorias,Ferro
+1432,PARTIDO EN JUEGO 034,1210.0,1214.0,1,4.0,27,Glorias,Ferro
+1433,PARTIDO EN JUEGO 035,1222.0,1225.0,1,3.0,27,Glorias,Ferro
+1434,PARTIDO EN JUEGO 036,1230.0,1238.0,1,8.0,27,Glorias,Ferro
+1435,PARTIDO EN JUEGO 037,1246.0,1275.0,1,29.0,27,Glorias,Ferro
+1436,PARTIDO EN JUEGO 038,1314.0,1322.0,1,8.0,27,Glorias,Ferro
+1437,PARTIDO EN JUEGO 039,1327.0,1343.0,1,16.0,27,Glorias,Ferro
+1438,PARTIDO EN JUEGO 040,1344.0,1356.0,1,12.0,27,Glorias,Ferro
+1439,PARTIDO EN JUEGO 041,1366.0,1379.0,1,13.0,27,Glorias,Ferro
+1440,PARTIDO EN JUEGO 042,1388.0,1394.0,1,6.0,27,Glorias,Ferro
+1441,PARTIDO EN JUEGO 043,1401.0,1406.0,1,5.0,27,Glorias,Ferro
+1442,PARTIDO EN JUEGO 044,1416.0,1420.0,1,4.0,27,Glorias,Ferro
+1443,PARTIDO EN JUEGO 045,1434.0,1439.0,1,5.0,27,Glorias,Ferro
+1444,PARTIDO EN JUEGO 046,1446.0,1478.0,1,32.0,27,Glorias,Ferro
+1445,PARTIDO EN JUEGO 047,1489.0,1505.0,1,16.0,27,Glorias,Ferro
+1446,PARTIDO EN JUEGO 048,1511.0,1529.0,1,18.0,27,Glorias,Ferro
+1447,PARTIDO EN JUEGO 049,1537.0,1554.0,1,17.0,27,Glorias,Ferro
+1448,PARTIDO EN JUEGO 050,1574.0,1582.0,1,8.0,27,Glorias,Ferro
+1449,PARTIDO EN JUEGO 051,1589.0,1608.0,1,19.0,27,Glorias,Ferro
+1450,PARTIDO EN JUEGO 052,1619.0,1628.0,1,9.0,27,Glorias,Ferro
+1451,PARTIDO EN JUEGO 053,1723.0,1763.0,1,40.0,27,Glorias,Ferro
+1452,PARTIDO EN JUEGO 054,1766.0,1773.0,1,7.0,27,Glorias,Ferro
+1453,PARTIDO EN JUEGO 055,1789.0,1797.0,1,8.0,27,Glorias,Ferro
+1454,PARTIDO EN JUEGO 056,1800.0,1813.0,1,13.0,27,Glorias,Ferro
+1455,PARTIDO EN JUEGO 057,1821.0,1828.0,1,7.0,27,Glorias,Ferro
+1456,PARTIDO EN JUEGO 058,1836.0,1870.0,1,34.0,27,Glorias,Ferro
+1457,PARTIDO EN JUEGO 059,1876.0,1886.0,1,10.0,27,Glorias,Ferro
+1458,PARTIDO EN JUEGO 060,1892.0,1896.0,1,4.0,27,Glorias,Ferro
+1459,PARTIDO EN JUEGO 061,1906.0,1915.0,1,9.0,27,Glorias,Ferro
+1460,PARTIDO EN JUEGO 062,1924.0,1937.0,1,13.0,27,Glorias,Ferro
+1461,PARTIDO EN JUEGO 063,1939.0,1944.0,1,5.0,27,Glorias,Ferro
+1462,PARTIDO EN JUEGO 064,1975.0,1979.0,1,4.0,27,Glorias,Ferro
+1463,PARTIDO EN JUEGO 065,1983.0,1992.0,1,9.0,27,Glorias,Ferro
+1464,PARTIDO EN JUEGO 066,2001.0,2010.0,1,9.0,27,Glorias,Ferro
+1465,PARTIDO EN JUEGO 067,2022.0,2044.0,1,22.0,27,Glorias,Ferro
+1466,PARTIDO EN JUEGO 068,2056.0,2062.0,1,6.0,27,Glorias,Ferro
+1467,PARTIDO EN JUEGO 069,2064.0,2077.0,1,13.0,27,Glorias,Ferro
+1468,PARTIDO EN JUEGO 070,2078.0,2087.0,1,9.0,27,Glorias,Ferro
+1469,PARTIDO EN JUEGO 071,2116.0,2122.0,1,6.0,27,Glorias,Ferro
+1470,PARTIDO EN JUEGO 072,2132.0,2139.0,1,7.0,27,Glorias,Ferro
+1471,PARTIDO EN JUEGO 073,2724.0,2733.0,2,9.0,27,Glorias,Ferro
+1472,PARTIDO EN JUEGO 074,2740.0,2765.0,2,25.0,27,Glorias,Ferro
+1473,PARTIDO EN JUEGO 075,2783.0,2792.0,2,9.0,27,Glorias,Ferro
+1474,PARTIDO EN JUEGO 076,2813.0,2819.0,2,6.0,27,Glorias,Ferro
+1475,PARTIDO EN JUEGO 077,2838.0,2882.0,2,44.0,27,Glorias,Ferro
+1476,PARTIDO EN JUEGO 078,2905.0,2917.0,2,12.0,27,Glorias,Ferro
+1477,PARTIDO EN JUEGO 079,2923.0,2933.0,2,10.0,27,Glorias,Ferro
+1478,PARTIDO EN JUEGO 080,2938.0,2965.0,2,27.0,27,Glorias,Ferro
+1479,PARTIDO EN JUEGO 081,2974.0,2980.0,2,6.0,27,Glorias,Ferro
+1480,PARTIDO EN JUEGO 082,2986.0,3011.0,2,25.0,27,Glorias,Ferro
+1481,PARTIDO EN JUEGO 083,3034.0,3040.0,2,6.0,27,Glorias,Ferro
+1482,PARTIDO EN JUEGO 084,3048.0,3057.0,2,9.0,27,Glorias,Ferro
+1483,PARTIDO EN JUEGO 085,3068.0,3080.0,2,12.0,27,Glorias,Ferro
+1484,PARTIDO EN JUEGO 086,3084.0,3090.0,2,6.0,27,Glorias,Ferro
+1485,PARTIDO EN JUEGO 087,3100.0,3123.0,2,23.0,27,Glorias,Ferro
+1486,PARTIDO EN JUEGO 088,3143.0,3155.0,2,12.0,27,Glorias,Ferro
+1487,PARTIDO EN JUEGO 089,3173.0,3182.0,2,9.0,27,Glorias,Ferro
+1488,PARTIDO EN JUEGO 090,3193.0,3198.0,2,5.0,27,Glorias,Ferro
+1489,PARTIDO EN JUEGO 091,3223.0,3257.0,2,34.0,27,Glorias,Ferro
+1490,PARTIDO EN JUEGO 092,3268.0,3288.0,2,20.0,27,Glorias,Ferro
+1491,PARTIDO EN JUEGO 093,3308.0,3323.0,2,15.0,27,Glorias,Ferro
+1492,PARTIDO EN JUEGO 094,3325.0,3333.0,2,8.0,27,Glorias,Ferro
+1493,PARTIDO EN JUEGO 095,3339.0,3354.0,2,15.0,27,Glorias,Ferro
+1494,PARTIDO EN JUEGO 096,3355.0,3362.0,2,7.0,27,Glorias,Ferro
+1495,PARTIDO EN JUEGO 097,3372.0,3380.0,2,8.0,27,Glorias,Ferro
+1496,PARTIDO EN JUEGO 098,3382.0,3393.0,2,11.0,27,Glorias,Ferro
+1497,PARTIDO EN JUEGO 099,3400.0,3419.0,2,19.0,27,Glorias,Ferro
+1498,PARTIDO EN JUEGO 100,3425.0,3435.0,2,10.0,27,Glorias,Ferro
+1499,PARTIDO EN JUEGO 101,3497.0,3500.0,2,3.0,27,Glorias,Ferro
+1500,PARTIDO EN JUEGO 102,3507.0,3516.0,2,9.0,27,Glorias,Ferro
+1501,PARTIDO EN JUEGO 103,3524.0,3529.0,2,5.0,27,Glorias,Ferro
+1502,PARTIDO EN JUEGO 104,3535.0,3552.0,2,17.0,27,Glorias,Ferro
+1503,PARTIDO EN JUEGO 105,3570.0,3574.0,2,4.0,27,Glorias,Ferro
+1504,PARTIDO EN JUEGO 106,3587.0,3594.0,2,7.0,27,Glorias,Ferro
+1505,PARTIDO EN JUEGO 107,3604.0,3611.0,2,7.0,27,Glorias,Ferro
+1506,PARTIDO EN JUEGO 108,3640.0,3654.0,2,14.0,27,Glorias,Ferro
+1507,PARTIDO EN JUEGO 109,3660.0,3669.0,2,9.0,27,Glorias,Ferro
+1508,PARTIDO EN JUEGO 110,3677.0,3690.0,2,13.0,27,Glorias,Ferro
+1509,PARTIDO EN JUEGO 111,3695.0,3719.0,2,24.0,27,Glorias,Ferro
+1510,PARTIDO EN JUEGO 112,3769.0,3779.0,2,10.0,27,Glorias,Ferro
+1511,PARTIDO EN JUEGO 113,3787.0,3794.0,2,7.0,27,Glorias,Ferro
+1512,PARTIDO EN JUEGO 114,3809.0,3830.0,2,21.0,27,Glorias,Ferro
+1513,PARTIDO EN JUEGO 115,3834.0,3847.0,2,13.0,27,Glorias,Ferro
+1514,PARTIDO EN JUEGO 116,3858.0,3864.0,2,6.0,27,Glorias,Ferro
+1515,PARTIDO EN JUEGO 117,3871.0,3877.0,2,6.0,27,Glorias,Ferro
+1516,PARTIDO EN JUEGO 118,3879.0,3890.0,2,11.0,27,Glorias,Ferro
+1517,PARTIDO EN JUEGO 119,3898.0,3924.0,2,26.0,27,Glorias,Ferro
+1518,PARTIDO EN JUEGO 120,3927.0,3938.0,2,11.0,27,Glorias,Ferro
+1519,PARTIDO EN JUEGO 121,3948.0,3953.0,2,5.0,27,Glorias,Ferro
+1520,PARTIDO EN JUEGO 122,3969.0,3972.0,2,3.0,27,Glorias,Ferro
+1521,PARTIDO EN JUEGO 123,3988.0,3990.0,2,2.0,27,Glorias,Ferro
+1522,PARTIDO EN JUEGO 124,4006.0,4017.0,2,11.0,27,Glorias,Ferro
+1523,PARTIDO EN JUEGO 125,4021.0,4065.0,2,44.0,27,Glorias,Ferro
+1524,PARTIDO EN JUEGO 126,4082.0,4121.0,2,39.0,27,Glorias,Ferro
+1525,PARTIDO EN JUEGO 127,4121.0,4130.0,2,9.0,27,Glorias,Ferro
+1526,PARTIDO EN JUEGO 128,4167.0,4172.0,2,5.0,27,Glorias,Ferro
+1527,PARTIDO EN JUEGO 129,4181.0,4185.0,2,4.0,27,Glorias,Ferro
+1528,PARTIDO EN JUEGO 130,4191.0,4201.0,2,10.0,27,Glorias,Ferro
+1529,PARTIDO EN JUEGO 131,4208.0,4224.0,2,16.0,27,Glorias,Ferro
+1530,PARTIDO EN JUEGO 132,4227.0,4240.0,2,13.0,27,Glorias,Ferro
+1531,PARTIDO EN JUEGO 133,4278.0,4287.0,2,9.0,27,Glorias,Ferro
+1532,PARTIDO EN JUEGO 134,4304.0,4324.0,2,20.0,27,Glorias,Ferro
+1533,PARTIDO EN JUEGO 135,4351.0,4356.0,2,5.0,27,Glorias,Ferro
+1534,PARTIDO EN JUEGO 136,4396.0,4406.0,2,10.0,27,Glorias,Ferro
+1535,PARTIDO EN JUEGO 137,4426.0,4458.0,2,32.0,27,Glorias,Ferro
+1536,PARTIDO EN JUEGO 138,4473.0,4479.0,2,6.0,27,Glorias,Ferro
+1537,PARTIDO EN JUEGO 139,4485.0,4499.0,2,14.0,27,Glorias,Ferro
+1538,PARTIDO EN JUEGO 140,4507.0,4510.0,2,3.0,27,Glorias,Ferro
+1539,PARTIDO EN JUEGO 141,4523.0,4539.0,2,16.0,27,Glorias,Ferro
+1540,PARTIDO EN JUEGO 142,4573.0,4589.0,2,16.0,27,Glorias,Ferro
+1541,PARTIDO EN JUEGO 143,4667.0,4699.0,2,32.0,27,Glorias,Ferro
+1542,PARTIDO EN JUEGO 144,4703.0,4709.0,2,6.0,27,Glorias,Ferro
+1543,PARTIDO EN JUEGO 145,4714.0,4716.0,2,2.0,27,Glorias,Ferro
+1544,PARTIDO EN JUEGO 146,4718.0,4754.0,2,36.0,27,Glorias,Ferro
+1545,PARTIDO EN JUEGO 147,4781.0,4787.0,2,6.0,27,Glorias,Ferro
+1546,PARTIDO EN JUEGO 148,4796.0,4817.0,2,21.0,27,Glorias,Ferro
+1547,PARTIDO EN JUEGO 149,4825.0,4844.0,2,19.0,27,Glorias,Ferro
+1548,PARTIDO EN JUEGO 150,4934.0,4939.0,2,5.0,27,Glorias,Ferro
+1549,PARTIDO EN JUEGO 151,4947.0,4953.0,2,6.0,27,Glorias,Ferro
+1550,PARTIDO EN JUEGO 152,5034.0,5047.0,2,13.0,27,Glorias,Ferro
+1551,PARTIDO EN JUEGO 153,5053.0,5075.0,2,22.0,27,Glorias,Ferro
+1552,PARTIDO EN JUEGO 154,5085.0,5095.0,2,10.0,27,Glorias,Ferro
+1553,Partido en juego 001,0.0,28.0,1,28.0,28,Ferro,17 De Agosto
+1554,Partido en juego 002,20.0,44.0,1,24.0,28,Ferro,17 De Agosto
+1555,Partido en juego 003,43.0,67.0,1,24.0,28,Ferro,17 De Agosto
+1556,Partido en juego 004,67.0,109.0,1,42.0,28,Ferro,17 De Agosto
+1557,Partido en juego 005,109.0,132.0,1,23.0,28,Ferro,17 De Agosto
+1558,Partido en juego 006,166.0,189.0,1,23.0,28,Ferro,17 De Agosto
+1559,Partido en juego 007,190.0,233.0,1,43.0,28,Ferro,17 De Agosto
+1560,Partido en juego 008,240.0,261.0,1,21.0,28,Ferro,17 De Agosto
+1561,Partido en juego 009,267.0,283.0,1,16.0,28,Ferro,17 De Agosto
+1562,Partido en juego 010,278.0,307.0,1,29.0,28,Ferro,17 De Agosto
+1563,Partido en juego 011,310.0,340.0,1,30.0,28,Ferro,17 De Agosto
+1564,Partido en juego 012,339.0,395.0,1,56.0,28,Ferro,17 De Agosto
+1565,Partido en juego 013,389.0,421.0,1,32.0,28,Ferro,17 De Agosto
+1566,Partido en juego 014,423.0,445.0,1,22.0,28,Ferro,17 De Agosto
+1567,Partido en juego 015,444.0,476.0,1,32.0,28,Ferro,17 De Agosto
+1568,Partido en juego 016,509.0,527.0,1,18.0,28,Ferro,17 De Agosto
+1569,Partido en juego 017,524.0,543.0,1,19.0,28,Ferro,17 De Agosto
+1570,Partido en juego 018,539.0,561.0,1,22.0,28,Ferro,17 De Agosto
+1571,Partido en juego 019,554.0,606.0,1,52.0,28,Ferro,17 De Agosto
+1572,Partido en juego 020,607.0,626.0,1,19.0,28,Ferro,17 De Agosto
+1573,Partido en juego 021,622.0,650.0,1,28.0,28,Ferro,17 De Agosto
+1574,Partido en juego 022,668.0,693.0,1,25.0,28,Ferro,17 De Agosto
+1575,Partido en juego 023,678.0,713.0,1,35.0,28,Ferro,17 De Agosto
+1576,Partido en juego 024,734.0,773.0,1,39.0,28,Ferro,17 De Agosto
+1577,Partido en juego 025,776.0,809.0,1,33.0,28,Ferro,17 De Agosto
+1578,Partido en juego 026,808.0,837.0,1,29.0,28,Ferro,17 De Agosto
+1579,Partido en juego 027,831.0,847.0,1,16.0,28,Ferro,17 De Agosto
+1580,Partido en juego 028,841.0,885.0,1,44.0,28,Ferro,17 De Agosto
+1581,Partido en juego 029,880.0,902.0,1,22.0,28,Ferro,17 De Agosto
+1582,Partido en juego 030,913.0,940.0,1,27.0,28,Ferro,17 De Agosto
+1583,Partido en juego 031,942.0,961.0,1,19.0,28,Ferro,17 De Agosto
+1584,Partido en juego 032,957.0,1002.0,1,45.0,28,Ferro,17 De Agosto
+1585,Partido en juego 033,1004.0,1046.0,1,42.0,28,Ferro,17 De Agosto
+1586,Partido en juego 034,1049.0,1094.0,1,45.0,28,Ferro,17 De Agosto
+1587,Partido en juego 035,1098.0,1123.0,1,25.0,28,Ferro,17 De Agosto
+1588,Partido en juego 036,1136.0,1189.0,1,53.0,28,Ferro,17 De Agosto
+1589,Partido en juego 037,1191.0,1248.0,1,57.0,28,Ferro,17 De Agosto
+1590,Partido en juego 038,1241.0,1256.0,1,15.0,28,Ferro,17 De Agosto
+1591,Partido en juego 039,1248.0,1313.0,1,65.0,28,Ferro,17 De Agosto
+1592,Partido en juego 040,1308.0,1339.0,1,31.0,28,Ferro,17 De Agosto
+1593,Partido en juego 041,1409.0,1439.0,1,30.0,28,Ferro,17 De Agosto
+1594,Partido en juego 042,1434.0,1472.0,1,38.0,28,Ferro,17 De Agosto
+1595,Partido en juego 043,1471.0,1510.0,1,39.0,28,Ferro,17 De Agosto
+1596,Partido en juego 044,1511.0,1535.0,1,24.0,28,Ferro,17 De Agosto
+1597,Partido en juego 045,1529.0,1553.0,1,24.0,28,Ferro,17 De Agosto
+1598,Partido en juego 046,1554.0,1581.0,1,27.0,28,Ferro,17 De Agosto
+1599,Partido en juego 047,1581.0,1606.0,1,25.0,28,Ferro,17 De Agosto
+1600,Partido en juego 048,1598.0,1638.0,1,40.0,28,Ferro,17 De Agosto
+1601,Partido en juego 049,1639.0,1660.0,1,21.0,28,Ferro,17 De Agosto
+1602,Partido en juego 050,1663.0,1693.0,1,30.0,28,Ferro,17 De Agosto
+1603,Partido en juego 051,1708.0,1738.0,1,30.0,28,Ferro,17 De Agosto
+1604,Partido en juego 052,1740.0,1765.0,1,25.0,28,Ferro,17 De Agosto
+1605,Partido en juego 053,1764.0,1785.0,1,21.0,28,Ferro,17 De Agosto
+1606,Partido en juego 054,1788.0,1809.0,1,21.0,28,Ferro,17 De Agosto
+1607,Partido en juego 055,1810.0,1842.0,1,32.0,28,Ferro,17 De Agosto
+1608,Partido en juego 056,1849.0,1871.0,1,22.0,28,Ferro,17 De Agosto
+1609,Partido en juego 057,1875.0,1893.0,1,18.0,28,Ferro,17 De Agosto
+1610,Partido en juego 058,1887.0,1913.0,1,26.0,28,Ferro,17 De Agosto
+1611,Partido en juego 059,1941.0,1975.0,1,34.0,28,Ferro,17 De Agosto
+1612,Partido en juego 060,2093.0,2117.0,1,24.0,28,Ferro,17 De Agosto
+1613,Partido en juego 061,2120.0,2138.0,1,18.0,28,Ferro,17 De Agosto
+1614,Partido en juego 062,2134.0,2167.0,2,33.0,28,Ferro,17 De Agosto
+1615,Partido en juego 063,2166.0,2235.0,2,69.0,28,Ferro,17 De Agosto
+1616,Partido en juego 064,2238.0,2257.0,2,19.0,28,Ferro,17 De Agosto
+1617,Partido en juego 065,2250.0,2271.0,2,21.0,28,Ferro,17 De Agosto
+1618,Partido en juego 066,2263.0,2287.0,2,24.0,28,Ferro,17 De Agosto
+1619,Partido en juego 067,2296.0,2320.0,2,24.0,28,Ferro,17 De Agosto
+1620,Partido en juego 068,2317.0,2344.0,2,27.0,28,Ferro,17 De Agosto
+1621,Partido en juego 069,2347.0,2375.0,2,28.0,28,Ferro,17 De Agosto
+1622,Partido en juego 070,2374.0,2419.0,2,45.0,28,Ferro,17 De Agosto
+1623,Partido en juego 071,2421.0,2461.0,2,40.0,28,Ferro,17 De Agosto
+1624,Partido en juego 072,2457.0,2471.0,2,14.0,28,Ferro,17 De Agosto
+1625,Partido en juego 073,2474.0,2501.0,2,27.0,28,Ferro,17 De Agosto
+1626,Partido en juego 074,2508.0,2522.0,2,14.0,28,Ferro,17 De Agosto
+1627,Partido en juego 075,2520.0,2575.0,2,55.0,28,Ferro,17 De Agosto
+1628,Partido en juego 076,2577.0,2607.0,2,30.0,28,Ferro,17 De Agosto
+1629,Partido en juego 077,2603.0,2622.0,2,19.0,28,Ferro,17 De Agosto
+1630,Partido en juego 078,2624.0,2661.0,2,37.0,28,Ferro,17 De Agosto
+1631,Partido en juego 079,2677.0,2696.0,2,19.0,28,Ferro,17 De Agosto
+1632,Partido en juego 080,2711.0,2729.0,2,18.0,28,Ferro,17 De Agosto
+1633,Partido en juego 081,2745.0,2762.0,2,17.0,28,Ferro,17 De Agosto
+1634,Partido en juego 082,2757.0,2783.0,2,26.0,28,Ferro,17 De Agosto
+1635,Partido en juego 083,2791.0,2821.0,2,30.0,28,Ferro,17 De Agosto
+1636,Partido en juego 084,2822.0,2863.0,2,41.0,28,Ferro,17 De Agosto
+1637,Partido en juego 085,2872.0,2891.0,2,19.0,28,Ferro,17 De Agosto
+1638,Partido en juego 086,2887.0,2910.0,2,23.0,28,Ferro,17 De Agosto
+1639,Partido en juego 087,2937.0,2961.0,2,24.0,28,Ferro,17 De Agosto
+1640,Partido en juego 088,2953.0,2984.0,2,31.0,28,Ferro,17 De Agosto
+1641,Partido en juego 089,3033.0,3048.0,2,15.0,28,Ferro,17 De Agosto
+1642,Partido en juego 090,3051.0,3081.0,2,30.0,28,Ferro,17 De Agosto
+1643,Partido en juego 091,3078.0,3100.0,2,22.0,28,Ferro,17 De Agosto
+1644,Partido en juego 092,3101.0,3122.0,2,21.0,28,Ferro,17 De Agosto
+1645,Partido en juego 093,3114.0,3148.0,2,34.0,28,Ferro,17 De Agosto
+1646,Partido en juego 094,3149.0,3169.0,2,20.0,28,Ferro,17 De Agosto
+1647,Partido en juego 095,3161.0,3199.0,2,38.0,28,Ferro,17 De Agosto
+1648,Partido en juego 096,3208.0,3225.0,2,17.0,28,Ferro,17 De Agosto
+1649,Partido en juego 097,3222.0,3281.0,2,59.0,28,Ferro,17 De Agosto
+1650,Partido en juego 098,3345.0,3372.0,2,27.0,28,Ferro,17 De Agosto
+1651,Partido en juego 099,3365.0,3387.0,2,22.0,28,Ferro,17 De Agosto
+1652,Partido en juego 100,3381.0,3400.0,2,19.0,28,Ferro,17 De Agosto
+1653,Partido en juego 101,3395.0,3421.0,2,26.0,28,Ferro,17 De Agosto
+1654,Partido en juego 102,3417.0,3444.0,2,27.0,28,Ferro,17 De Agosto
+1655,Partido en juego 103,3449.0,3494.0,2,45.0,28,Ferro,17 De Agosto
+1656,Partido en juego 104,3488.0,3602.0,2,114.0,28,Ferro,17 De Agosto
+1657,Partido en juego 105,3599.0,3645.0,2,46.0,28,Ferro,17 De Agosto
+1658,Partido en juego 106,3659.0,3782.0,2,123.0,28,Ferro,17 De Agosto
+1659,Partido en juego 107,3776.0,3823.0,2,47.0,28,Ferro,17 De Agosto
+1660,Partido en juego 108,3905.0,3961.0,2,56.0,28,Ferro,17 De Agosto
+1661,Partido en juego 109,3955.0,3973.0,2,18.0,28,Ferro,17 De Agosto
+1662,Partido en juego 110,3977.0,3995.0,2,18.0,28,Ferro,17 De Agosto
+1663,Partido en juego 111,3988.0,4003.0,2,15.0,28,Ferro,17 De Agosto
+1664,Partido en juego 112,3997.0,4026.0,2,29.0,28,Ferro,17 De Agosto
+1665,Partido en juego 113,4033.0,4058.0,2,25.0,28,Ferro,17 De Agosto
+1666,Partido en juego 114,4054.0,4100.0,2,46.0,28,Ferro,17 De Agosto
+1667,Partido en juego 115,4135.0,4152.0,2,17.0,28,Ferro,17 De Agosto
+1668,Partido en juego 117,4251.0,4266.0,2,15.0,28,Ferro,17 De Agosto
+1669,Partido en juego 118,4277.0,4301.0,2,24.0,28,Ferro,17 De Agosto
+1670,PARTIDO EN JUEGO 001,4.0,35.0,1,31.0,29,Hebraica,Ferro
+1671,PARTIDO EN JUEGO 002,47.0,53.0,1,6.0,29,Hebraica,Ferro
+1672,PARTIDO EN JUEGO 003,58.0,80.0,1,22.0,29,Hebraica,Ferro
+1673,PARTIDO EN JUEGO 004,98.0,103.0,1,5.0,29,Hebraica,Ferro
+1674,PARTIDO EN JUEGO 005,117.0,121.0,1,4.0,29,Hebraica,Ferro
+1675,PARTIDO EN JUEGO 006,140.0,156.0,1,16.0,29,Hebraica,Ferro
+1676,PARTIDO EN JUEGO 007,166.0,171.0,1,5.0,29,Hebraica,Ferro
+1677,PARTIDO EN JUEGO 008,179.0,186.0,1,7.0,29,Hebraica,Ferro
+1678,PARTIDO EN JUEGO 009,205.0,210.0,1,5.0,29,Hebraica,Ferro
+1679,PARTIDO EN JUEGO 010,217.0,222.0,1,5.0,29,Hebraica,Ferro
+1680,PARTIDO EN JUEGO 011,226.0,240.0,1,14.0,29,Hebraica,Ferro
+1681,PARTIDO EN JUEGO 012,251.0,257.0,1,6.0,29,Hebraica,Ferro
+1682,PARTIDO EN JUEGO 013,269.0,282.0,1,13.0,29,Hebraica,Ferro
+1683,PARTIDO EN JUEGO 014,288.0,296.0,1,8.0,29,Hebraica,Ferro
+1684,PARTIDO EN JUEGO 015,297.0,305.0,1,8.0,29,Hebraica,Ferro
+1685,PARTIDO EN JUEGO 016,328.0,355.0,1,27.0,29,Hebraica,Ferro
+1686,PARTIDO EN JUEGO 017,367.0,371.0,1,4.0,29,Hebraica,Ferro
+1687,PARTIDO EN JUEGO 018,379.0,404.0,1,25.0,29,Hebraica,Ferro
+1688,PARTIDO EN JUEGO 019,415.0,420.0,1,5.0,29,Hebraica,Ferro
+1689,PARTIDO EN JUEGO 020,439.0,452.0,1,13.0,29,Hebraica,Ferro
+1690,PARTIDO EN JUEGO 021,460.0,472.0,1,12.0,29,Hebraica,Ferro
+1691,PARTIDO EN JUEGO 022,483.0,490.0,1,7.0,29,Hebraica,Ferro
+1692,PARTIDO EN JUEGO 023,500.0,512.0,1,12.0,29,Hebraica,Ferro
+1693,PARTIDO EN JUEGO 024,523.0,568.0,1,45.0,29,Hebraica,Ferro
+1694,PARTIDO EN JUEGO 025,579.0,597.0,1,18.0,29,Hebraica,Ferro
+1695,PARTIDO EN JUEGO 026,606.0,612.0,1,6.0,29,Hebraica,Ferro
+1696,PARTIDO EN JUEGO 027,621.0,661.0,1,40.0,29,Hebraica,Ferro
+1697,PARTIDO EN JUEGO 028,730.0,734.0,1,4.0,29,Hebraica,Ferro
+1698,PARTIDO EN JUEGO 029,739.0,767.0,1,28.0,29,Hebraica,Ferro
+1699,PARTIDO EN JUEGO 030,780.0,785.0,1,5.0,29,Hebraica,Ferro
+1700,PARTIDO EN JUEGO 031,796.0,817.0,1,21.0,29,Hebraica,Ferro
+1701,PARTIDO EN JUEGO 032,828.0,851.0,1,23.0,29,Hebraica,Ferro
+1702,PARTIDO EN JUEGO 033,857.0,877.0,1,20.0,29,Hebraica,Ferro
+1703,PARTIDO EN JUEGO 034,878.0,893.0,1,15.0,29,Hebraica,Ferro
+1704,PARTIDO EN JUEGO 035,937.0,939.0,1,2.0,29,Hebraica,Ferro
+1705,PARTIDO EN JUEGO 036,944.0,957.0,1,13.0,29,Hebraica,Ferro
+1706,PARTIDO EN JUEGO 037,972.0,983.0,1,11.0,29,Hebraica,Ferro
+1707,PARTIDO EN JUEGO 038,999.0,1002.0,1,3.0,29,Hebraica,Ferro
+1708,PARTIDO EN JUEGO 039,1092.0,1112.0,1,20.0,29,Hebraica,Ferro
+1709,PARTIDO EN JUEGO 040,1127.0,1146.0,1,19.0,29,Hebraica,Ferro
+1710,PARTIDO EN JUEGO 041,1162.0,1195.0,1,33.0,29,Hebraica,Ferro
+1711,PARTIDO EN JUEGO 042,1214.0,1226.0,1,12.0,29,Hebraica,Ferro
+1712,PARTIDO EN JUEGO 043,1229.0,1236.0,1,7.0,29,Hebraica,Ferro
+1713,PARTIDO EN JUEGO 044,1302.0,1313.0,1,11.0,29,Hebraica,Ferro
+1714,PARTIDO EN JUEGO 045,1318.0,1344.0,1,26.0,29,Hebraica,Ferro
+1715,PARTIDO EN JUEGO 046,1352.0,1358.0,1,6.0,29,Hebraica,Ferro
+1716,PARTIDO EN JUEGO 047,1364.0,1376.0,1,12.0,29,Hebraica,Ferro
+1717,PARTIDO EN JUEGO 048,1387.0,1396.0,1,9.0,29,Hebraica,Ferro
+1718,PARTIDO EN JUEGO 049,1407.0,1448.0,1,41.0,29,Hebraica,Ferro
+1719,PARTIDO EN JUEGO 050,1518.0,1538.0,1,20.0,29,Hebraica,Ferro
+1720,t,1547.0,1548.0,1,1.0,29,Hebraica,Ferro
+1721,PARTIDO EN JUEGO 052,1578.0,1587.0,1,9.0,29,Hebraica,Ferro
+1722,PARTIDO EN JUEGO 053,1600.0,1604.0,1,4.0,29,Hebraica,Ferro
+1723,PARTIDO EN JUEGO 054,1610.0,1620.0,1,10.0,29,Hebraica,Ferro
+1724,PARTIDO EN JUEGO 055,1670.0,1675.0,1,5.0,29,Hebraica,Ferro
+1725,PARTIDO EN JUEGO 056,1685.0,1702.0,1,17.0,29,Hebraica,Ferro
+1726,PARTIDO EN JUEGO 057,1712.0,1716.0,1,4.0,29,Hebraica,Ferro
+1727,PARTIDO EN JUEGO 058,1745.0,1748.0,1,3.0,29,Hebraica,Ferro
+1728,PARTIDO EN JUEGO 059,1768.0,1771.0,1,3.0,29,Hebraica,Ferro
+1729,PARTIDO EN JUEGO 060,1799.0,1816.0,1,17.0,29,Hebraica,Ferro
+1730,PARTIDO EN JUEGO 061,1819.0,1836.0,1,17.0,29,Hebraica,Ferro
+1731,PARTIDO EN JUEGO 062,1845.0,1850.0,1,5.0,29,Hebraica,Ferro
+1732,PARTIDO EN JUEGO 063,1859.0,1864.0,1,5.0,29,Hebraica,Ferro
+1733,PARTIDO EN JUEGO 064,1872.0,1884.0,1,12.0,29,Hebraica,Ferro
+1734,PARTIDO EN JUEGO 065,1897.0,1956.0,1,59.0,29,Hebraica,Ferro
+1735,PARTIDO EN JUEGO 066,1967.0,1971.0,1,4.0,29,Hebraica,Ferro
+1736,PARTIDO EN JUEGO 067,1981.0,2052.0,1,71.0,29,Hebraica,Ferro
+1737,PARTIDO EN JUEGO 068,2146.0,2150.0,1,4.0,29,Hebraica,Ferro
+1738,PARTIDO EN JUEGO 069,2159.0,2185.0,1,26.0,29,Hebraica,Ferro
+1739,PARTIDO EN JUEGO 070,2208.0,2216.0,1,8.0,29,Hebraica,Ferro
+1740,PARTIDO EN JUEGO 071,2232.0,2253.0,1,21.0,29,Hebraica,Ferro
+1741,PARTIDO EN JUEGO 072,2263.0,2274.0,1,11.0,29,Hebraica,Ferro
+1742,PARTIDO EN JUEGO 073,2276.0,2284.0,1,8.0,29,Hebraica,Ferro
+1743,PARTIDO EN JUEGO 074,2296.0,2324.0,1,28.0,29,Hebraica,Ferro
+1744,PARTIDO EN JUEGO 075,2353.0,2370.0,1,17.0,29,Hebraica,Ferro
+1745,a,2383.0,2389.0,1,6.0,29,Hebraica,Ferro
+1746,PARTIDO EN JUEGO 077,2468.0,2506.0,2,38.0,29,Hebraica,Ferro
+1747,PARTIDO EN JUEGO 078,2511.0,2531.0,2,20.0,29,Hebraica,Ferro
+1748,PARTIDO EN JUEGO 079,2586.0,2592.0,2,6.0,29,Hebraica,Ferro
+1749,PARTIDO EN JUEGO 080,2595.0,2612.0,2,17.0,29,Hebraica,Ferro
+1750,PARTIDO EN JUEGO 081,2619.0,2637.0,2,18.0,29,Hebraica,Ferro
+1751,PARTIDO EN JUEGO 082,2642.0,2704.0,2,62.0,29,Hebraica,Ferro
+1752,PARTIDO EN JUEGO 083,2717.0,2723.0,2,6.0,29,Hebraica,Ferro
+1753,PARTIDO EN JUEGO 084,2746.0,2752.0,2,6.0,29,Hebraica,Ferro
+1754,PARTIDO EN JUEGO 085,2767.0,2799.0,2,32.0,29,Hebraica,Ferro
+1755,PARTIDO EN JUEGO 086,2819.0,2836.0,2,17.0,29,Hebraica,Ferro
+1756,PARTIDO EN JUEGO 087,2841.0,2859.0,2,18.0,29,Hebraica,Ferro
+1757,PARTIDO EN JUEGO 088,2866.0,2888.0,2,22.0,29,Hebraica,Ferro
+1758,PARTIDO EN JUEGO 089,2897.0,2912.0,2,15.0,29,Hebraica,Ferro
+1759,PARTIDO EN JUEGO 090,2920.0,2929.0,2,9.0,29,Hebraica,Ferro
+1760,PARTIDO EN JUEGO 091,2934.0,2956.0,2,22.0,29,Hebraica,Ferro
+1761,PARTIDO EN JUEGO 092,2967.0,2984.0,2,17.0,29,Hebraica,Ferro
+1762,PARTIDO EN JUEGO 093,2996.0,3016.0,2,20.0,29,Hebraica,Ferro
+1763,PARTIDO EN JUEGO 094,3021.0,3036.0,2,15.0,29,Hebraica,Ferro
+1764,PARTIDO EN JUEGO 095,3041.0,3046.0,2,5.0,29,Hebraica,Ferro
+1765,PARTIDO EN JUEGO 096,3070.0,3088.0,2,18.0,29,Hebraica,Ferro
+1766,PARTIDO EN JUEGO 097,3111.0,3128.0,2,17.0,29,Hebraica,Ferro
+1767,PARTIDO EN JUEGO 098,3149.0,3154.0,2,5.0,29,Hebraica,Ferro
+1768,PARTIDO EN JUEGO 099,3159.0,3196.0,2,37.0,29,Hebraica,Ferro
+1769,PARTIDO EN JUEGO 100,3197.0,3217.0,2,20.0,29,Hebraica,Ferro
+1770,PARTIDO EN JUEGO 101,3219.0,3247.0,2,28.0,29,Hebraica,Ferro
+1771,PARTIDO EN JUEGO 102,3259.0,3263.0,2,4.0,29,Hebraica,Ferro
+1772,PARTIDO EN JUEGO 103,3267.0,3278.0,2,11.0,29,Hebraica,Ferro
+1773,PARTIDO EN JUEGO 104,3294.0,3314.0,2,20.0,29,Hebraica,Ferro
+1774,PARTIDO EN JUEGO 105,3327.0,3359.0,2,32.0,29,Hebraica,Ferro
+1775,PARTIDO EN JUEGO 106,3364.0,3383.0,2,19.0,29,Hebraica,Ferro
+1776,PARTIDO EN JUEGO 107,3385.0,3396.0,2,11.0,29,Hebraica,Ferro
+1777,PARTIDO EN JUEGO 108,3407.0,3411.0,2,4.0,29,Hebraica,Ferro
+1778,PARTIDO EN JUEGO 109,3423.0,3430.0,2,7.0,29,Hebraica,Ferro
+1779,PARTIDO EN JUEGO 110,3448.0,3457.0,2,9.0,29,Hebraica,Ferro
+1780,PARTIDO EN JUEGO 111,3459.0,3466.0,2,7.0,29,Hebraica,Ferro
+1781,PARTIDO EN JUEGO 112,3481.0,3505.0,2,24.0,29,Hebraica,Ferro
+1782,PARTIDO EN JUEGO 113,3509.0,3525.0,2,16.0,29,Hebraica,Ferro
+1783,PARTIDO EN JUEGO 114,3535.0,3545.0,2,10.0,29,Hebraica,Ferro
+1784,PARTIDO EN JUEGO 115,3559.0,3577.0,2,18.0,29,Hebraica,Ferro
+1785,PARTIDO EN JUEGO 116,3582.0,3610.0,2,28.0,29,Hebraica,Ferro
+1786,PARTIDO EN JUEGO 117,3627.0,3631.0,2,4.0,29,Hebraica,Ferro
+1787,PARTIDO EN JUEGO 118,3642.0,3646.0,2,4.0,29,Hebraica,Ferro
+1788,PARTIDO EN JUEGO 119,3667.0,3668.0,2,1.0,29,Hebraica,Ferro
+1789,PARTIDO EN JUEGO 120,3669.0,3693.0,2,24.0,29,Hebraica,Ferro
+1790,PARTIDO EN JUEGO 121,3706.0,3725.0,2,19.0,29,Hebraica,Ferro
+1791,PARTIDO EN JUEGO 122,3730.0,3752.0,2,22.0,29,Hebraica,Ferro
+1792,PARTIDO EN JUEGO 123,3759.0,3766.0,2,7.0,29,Hebraica,Ferro
+1793,PARTIDO EN JUEGO 124,3772.0,3781.0,2,9.0,29,Hebraica,Ferro
+1794,t,3789.0,3807.0,2,18.0,29,Hebraica,Ferro
+1795,PARTIDO EN JUEGO 126,3807.0,3874.0,2,67.0,29,Hebraica,Ferro
+1796,PARTIDO EN JUEGO 127,3978.0,3999.0,2,21.0,29,Hebraica,Ferro
+1797,PARTIDO EN JUEGO 128,4003.0,4026.0,2,23.0,29,Hebraica,Ferro
+1798,PARTIDO EN JUEGO 129,4043.0,4064.0,2,21.0,29,Hebraica,Ferro
+1799,PARTIDO EN JUEGO 130,4066.0,4083.0,2,17.0,29,Hebraica,Ferro
+1800,PARTIDO EN JUEGO 131,4093.0,4096.0,2,3.0,29,Hebraica,Ferro
+1801,PARTIDO EN JUEGO 132,4106.0,4123.0,2,17.0,29,Hebraica,Ferro
+1802,PARTIDO EN JUEGO 133,4133.0,4145.0,2,12.0,29,Hebraica,Ferro
+1803,PARTIDO EN JUEGO 134,4153.0,4177.0,2,24.0,29,Hebraica,Ferro
+1804,PARTIDO EN JUEGO 135,4196.0,4208.0,2,12.0,29,Hebraica,Ferro
+1805,PARTIDO EN JUEGO 136,4231.0,4236.0,2,5.0,29,Hebraica,Ferro
+1806,PARTIDO EN JUEGO 137,4240.0,4255.0,2,15.0,29,Hebraica,Ferro
+1807,PARTIDO EN JUEGO 138,4268.0,4284.0,2,16.0,29,Hebraica,Ferro
+1808,PARTIDO EN JUEGO 139,4289.0,4315.0,2,26.0,29,Hebraica,Ferro
+1809,PARTIDO EN JUEGO 140,4314.0,4317.0,2,3.0,29,Hebraica,Ferro
+1810,PARTIDO EN JUEGO 141,4318.0,4327.0,2,9.0,29,Hebraica,Ferro
+1811,PARTIDO EN JUEGO 142,4360.0,4367.0,2,7.0,29,Hebraica,Ferro
+1812,s,4373.0,4380.0,2,7.0,29,Hebraica,Ferro
+1813,Partido en juego 001,1512.0,1538.0,1,26.0,30,Ferro,Independiente
+1814,Partido en juego 002,1536.0,1558.0,1,22.0,30,Ferro,Independiente
+1815,Partido en juego 003,1551.0,1573.0,1,22.0,30,Ferro,Independiente
+1816,Partido en juego 004,1572.0,1604.0,1,32.0,30,Ferro,Independiente
+1817,Partido en juego 005,1604.0,1624.0,1,20.0,30,Ferro,Independiente
+1818,Partido en juego 006,1622.0,1650.0,1,28.0,30,Ferro,Independiente
+1819,Partido en juego 007,1652.0,1671.0,1,19.0,30,Ferro,Independiente
+1820,Partido en juego 008,1672.0,1688.0,1,16.0,30,Ferro,Independiente
+1821,Partido en juego 009,1684.0,1710.0,1,26.0,30,Ferro,Independiente
+1822,Partido en juego 010,1710.0,1729.0,1,19.0,30,Ferro,Independiente
+1823,Partido en juego 011,1722.0,1758.0,1,36.0,30,Ferro,Independiente
+1824,Partido en juego 012,1756.0,1775.0,1,19.0,30,Ferro,Independiente
+1825,Partido en juego 013,1776.0,1794.0,1,18.0,30,Ferro,Independiente
+1826,Partido en juego 014,1794.0,1817.0,1,23.0,30,Ferro,Independiente
+1827,Partido en juego 015,1824.0,1857.0,1,33.0,30,Ferro,Independiente
+1828,Partido en juego 016,1854.0,1880.0,1,26.0,30,Ferro,Independiente
+1829,Partido en juego 017,1874.0,1939.0,1,65.0,30,Ferro,Independiente
+1830,Partido en juego 018,1939.0,1960.0,1,21.0,30,Ferro,Independiente
+1831,Partido en juego 019,2021.0,2040.0,1,19.0,30,Ferro,Independiente
+1832,Partido en juego 020,2049.0,2076.0,1,27.0,30,Ferro,Independiente
+1833,Partido en juego 021,2085.0,2107.0,1,22.0,30,Ferro,Independiente
+1834,Partido en juego 022,2105.0,2135.0,1,30.0,30,Ferro,Independiente
+1835,Partido en juego 023,2133.0,2152.0,1,19.0,30,Ferro,Independiente
+1836,Partido en juego 024,2146.0,2165.0,1,19.0,30,Ferro,Independiente
+1837,Partido en juego 025,2178.0,2197.0,1,19.0,30,Ferro,Independiente
+1838,Partido en juego 026,2194.0,2218.0,1,24.0,30,Ferro,Independiente
+1839,Partido en juego 027,2214.0,2237.0,1,23.0,30,Ferro,Independiente
+1840,Partido en juego 028,2253.0,2287.0,1,34.0,30,Ferro,Independiente
+1841,Partido en juego 029,2298.0,2320.0,1,22.0,30,Ferro,Independiente
+1842,Partido en juego 030,2314.0,2333.0,1,19.0,30,Ferro,Independiente
+1843,Partido en juego 031,2333.0,2359.0,1,26.0,30,Ferro,Independiente
+1844,Partido en juego 032,2357.0,2378.0,1,21.0,30,Ferro,Independiente
+1845,Partido en juego 033,2378.0,2428.0,1,50.0,30,Ferro,Independiente
+1846,Partido en juego 035,2477.0,2507.0,1,30.0,30,Ferro,Independiente
+1847,Partido en juego 034,2479.0,2508.0,1,29.0,30,Ferro,Independiente
+1848,Partido en juego 036,2507.0,2533.0,1,26.0,30,Ferro,Independiente
+1849,Partido en juego 037,2534.0,2580.0,1,46.0,30,Ferro,Independiente
+1850,Partido en juego 038,2610.0,2647.0,1,37.0,30,Ferro,Independiente
+1851,Partido en juego 039,2646.0,2691.0,1,45.0,30,Ferro,Independiente
+1852,Partido en juego 040,2734.0,2754.0,1,20.0,30,Ferro,Independiente
+1853,Partido en juego 041,2772.0,2787.0,1,15.0,30,Ferro,Independiente
+1854,Partido en juego 042,2809.0,2828.0,1,19.0,30,Ferro,Independiente
+1855,Partido en juego 043,2837.0,2865.0,1,28.0,30,Ferro,Independiente
+1856,Partido en juego 044,2858.0,2889.0,1,31.0,30,Ferro,Independiente
+1857,Partido en juego 045,2890.0,2912.0,1,22.0,30,Ferro,Independiente
+1858,Partido en juego 046,2915.0,2936.0,1,21.0,30,Ferro,Independiente
+1859,Partido en juego 047,2930.0,2955.0,1,25.0,30,Ferro,Independiente
+1860,Partido en juego 048,2959.0,2981.0,1,22.0,30,Ferro,Independiente
+1861,Partido en juego 049,2984.0,3007.0,1,23.0,30,Ferro,Independiente
+1862,Partido en juego 050,3011.0,3056.0,1,45.0,30,Ferro,Independiente
+1863,Partido en juego 051,3063.0,3093.0,1,30.0,30,Ferro,Independiente
+1864,Partido en juego 052,3095.0,3120.0,1,25.0,30,Ferro,Independiente
+1865,Partido en juego 053,3113.0,3145.0,1,32.0,30,Ferro,Independiente
+1866,Partido en juego 054,3139.0,3154.0,1,15.0,30,Ferro,Independiente
+1867,Partido en juego 055,3182.0,3198.0,1,16.0,30,Ferro,Independiente
+1868,Partido en juego 056,3214.0,3232.0,1,18.0,30,Ferro,Independiente
+1869,Partido en juego 057,3256.0,3273.0,1,17.0,30,Ferro,Independiente
+1870,Partido en juego 058,3276.0,3298.0,1,22.0,30,Ferro,Independiente
+1871,Partido en juego 059,3380.0,3405.0,1,25.0,30,Ferro,Independiente
+1872,Partido en juego 060,3429.0,3460.0,1,31.0,30,Ferro,Independiente
+1873,Partido en juego 061,3468.0,3513.0,1,45.0,30,Ferro,Independiente
+1874,Partido en juego 062,3535.0,3559.0,1,24.0,30,Ferro,Independiente
+1875,Partido en juego 063,3582.0,3603.0,1,21.0,30,Ferro,Independiente
+1876,Partido en juego 064,3597.0,3618.0,1,21.0,30,Ferro,Independiente
+1877,Partido en juego 065,3622.0,3651.0,1,29.0,30,Ferro,Independiente
+1878,Partido en juego 066,3626.0,3651.0,1,25.0,30,Ferro,Independiente
+1879,Partido en juego 067,3644.0,3660.0,1,16.0,30,Ferro,Independiente
+1880,Partido en juego 068,3677.0,3695.0,1,18.0,30,Ferro,Independiente
+1881,Partido en juego 069,3716.0,3734.0,1,18.0,30,Ferro,Independiente
+1882,Partido en juego 070,3725.0,3753.0,1,28.0,30,Ferro,Independiente
+1883,Partido en juego 071,3755.0,3795.0,1,40.0,30,Ferro,Independiente
+1884,Partido en juego 072,3880.0,3907.0,1,27.0,30,Ferro,Independiente
+1885,Partido en juego 073,4809.0,4831.0,2,22.0,30,Ferro,Independiente
+1886,Partido en juego 074,4840.0,4888.0,2,48.0,30,Ferro,Independiente
+1887,Partido en juego 075,4907.0,4925.0,2,18.0,30,Ferro,Independiente
+1888,Partido en juego 076,4929.0,4948.0,2,19.0,30,Ferro,Independiente
+1889,Partido en juego 077,4942.0,4961.0,2,19.0,30,Ferro,Independiente
+1890,Partido en juego 078,4962.0,4981.0,2,19.0,30,Ferro,Independiente
+1891,Partido en juego 079,4980.0,5023.0,2,43.0,30,Ferro,Independiente
+1892,Partido en juego 080,5027.0,5045.0,2,18.0,30,Ferro,Independiente
+1893,Partido en juego 081,5087.0,5110.0,2,23.0,30,Ferro,Independiente
+1894,Partido en juego 082,5116.0,5131.0,2,15.0,30,Ferro,Independiente
+1895,Partido en juego 083,5127.0,5150.0,2,23.0,30,Ferro,Independiente
+1896,Partido en juego 084,5147.0,5166.0,2,19.0,30,Ferro,Independiente
+1897,Partido en juego 085,5175.0,5194.0,2,19.0,30,Ferro,Independiente
+1898,Partido en juego 086,5189.0,5215.0,2,26.0,30,Ferro,Independiente
+1899,Partido en juego 087,5211.0,5240.0,2,29.0,30,Ferro,Independiente
+1900,Partido en juego 088,5251.0,5298.0,2,47.0,30,Ferro,Independiente
+1901,Partido en juego 089,5301.0,5324.0,2,23.0,30,Ferro,Independiente
+1902,Partido en juego 090,5346.0,5381.0,2,35.0,30,Ferro,Independiente
+1903,Partido en juego 091,5379.0,5399.0,2,20.0,30,Ferro,Independiente
+1904,Partido en juego 092,5398.0,5420.0,2,22.0,30,Ferro,Independiente
+1905,Partido en juego 093,5432.0,5447.0,2,15.0,30,Ferro,Independiente
+1906,Partido en juego 094,5441.0,5485.0,2,44.0,30,Ferro,Independiente
+1907,Partido en juego 095,5495.0,5513.0,2,18.0,30,Ferro,Independiente
+1908,Partido en juego 096,5507.0,5532.0,2,25.0,30,Ferro,Independiente
+1909,Partido en juego 097,5538.0,5564.0,2,26.0,30,Ferro,Independiente
+1910,Partido en juego 098,5618.0,5670.0,2,52.0,30,Ferro,Independiente
+1911,Partido en juego 099,5685.0,5717.0,2,32.0,30,Ferro,Independiente
+1912,Partido en juego 100,5741.0,5778.0,2,37.0,30,Ferro,Independiente
+1913,Partido en juego 101,5784.0,5849.0,2,65.0,30,Ferro,Independiente
+1914,Partido en juego 102,5863.0,5888.0,2,25.0,30,Ferro,Independiente
+1915,Partido en juego 103,5910.0,5940.0,2,30.0,30,Ferro,Independiente
+1916,Partido en juego 104,5933.0,5949.0,2,16.0,30,Ferro,Independiente
+1917,Partido en juego 105,5943.0,5966.0,2,23.0,30,Ferro,Independiente
+1918,Partido en juego 106,5958.0,5980.0,2,22.0,30,Ferro,Independiente
+1919,Partido en juego 107,5974.0,6016.0,2,42.0,30,Ferro,Independiente
+1920,Partido en juego 108,6021.0,6037.0,2,16.0,30,Ferro,Independiente
+1921,Partido en juego 109,6041.0,6068.0,2,27.0,30,Ferro,Independiente
+1922,Partido en juego 110,6068.0,6093.0,2,25.0,30,Ferro,Independiente
+1923,Partido en juego 111,6086.0,6101.0,2,15.0,30,Ferro,Independiente
+1924,Partido en juego 112,6094.0,6111.0,2,17.0,30,Ferro,Independiente
+1925,Partido en juego 113,6109.0,6130.0,2,21.0,30,Ferro,Independiente
+1926,Partido en juego 114,6132.0,6154.0,2,22.0,30,Ferro,Independiente
+1927,Partido en juego 115,6166.0,6185.0,2,19.0,30,Ferro,Independiente
+1928,Partido en juego 116,6193.0,6217.0,2,24.0,30,Ferro,Independiente
+1929,Partido en juego 117,6226.0,6263.0,2,37.0,30,Ferro,Independiente
+1930,Partido en juego 118,6281.0,6303.0,2,22.0,30,Ferro,Independiente
+1931,Partido en juego 119,6329.0,6343.0,2,14.0,30,Ferro,Independiente
+1932,Partido en juego 120,6335.0,6353.0,2,18.0,30,Ferro,Independiente
+1933,Partido en juego 121,6348.0,6380.0,2,32.0,30,Ferro,Independiente
+1934,Partido en juego 122,6377.0,6396.0,2,19.0,30,Ferro,Independiente
+1935,Partido en juego 123,6388.0,6406.0,2,18.0,30,Ferro,Independiente
+1936,Partido en juego 124,6419.0,6442.0,2,23.0,30,Ferro,Independiente
+1937,Partido en juego 125,6445.0,6468.0,2,23.0,30,Ferro,Independiente
+1938,Partido en juego 126,6473.0,6489.0,2,16.0,30,Ferro,Independiente
+1939,Partido en juego 127,6487.0,6510.0,2,23.0,30,Ferro,Independiente
+1940,Partido en juego 128,6503.0,6527.0,2,24.0,30,Ferro,Independiente
+1941,Partido en juego 129,6571.0,6596.0,2,25.0,30,Ferro,Independiente
+1942,Partido en juego 130,6599.0,6620.0,2,21.0,30,Ferro,Independiente
+1943,Partido en juego 131,6719.0,6754.0,2,35.0,30,Ferro,Independiente
+1944,Partido en juego 132,6757.0,6776.0,2,19.0,30,Ferro,Independiente
+1945,Partido en juego 133,6770.0,6791.0,2,21.0,30,Ferro,Independiente
+1946,Partido en juego 134,6787.0,6814.0,2,27.0,30,Ferro,Independiente
+1947,Partido en juego 135,6816.0,6842.0,2,26.0,30,Ferro,Independiente
+1948,Partido en juego 136,6851.0,6891.0,2,40.0,30,Ferro,Independiente
+1949,Partido en juego 137,6918.0,6940.0,2,22.0,30,Ferro,Independiente
+1950,Partido en juego 138,6936.0,6955.0,2,19.0,30,Ferro,Independiente
+1951,Partido en juego 139,6950.0,6974.0,2,24.0,30,Ferro,Independiente
+1952,Partido en juego 140,6982.0,7005.0,2,23.0,30,Ferro,Independiente
+1953,Partido en juego 141,6999.0,7022.0,2,23.0,30,Ferro,Independiente
+1954,Partido en juego 142,7014.0,7039.0,2,25.0,30,Ferro,Independiente
+1955,Partido en juego 143,7038.0,7080.0,2,42.0,30,Ferro,Independiente
+1956,Partido en juego 144,7121.0,7145.0,2,24.0,30,Ferro,Independiente
+1957,Partido en juego 145,7148.0,7166.0,2,18.0,30,Ferro,Independiente
+1958,Partido en juego 146,7166.0,7191.0,2,25.0,30,Ferro,Independiente
+1959,Partido en juego 147,7214.0,7233.0,2,19.0,30,Ferro,Independiente
+1960,PARTIDO EN JUEGO 001,74.0,84.0,1,10.0,31,Gimnasia,Ferro
+1961,PARTIDO EN JUEGO 002,91.0,102.0,1,11.0,31,Gimnasia,Ferro
+1962,PARTIDO EN JUEGO 003,121.0,130.0,1,9.0,31,Gimnasia,Ferro
+1963,PARTIDO EN JUEGO 004,156.0,170.0,1,14.0,31,Gimnasia,Ferro
+1964,PARTIDO EN JUEGO 005,187.0,196.0,1,9.0,31,Gimnasia,Ferro
+1965,PARTIDO EN JUEGO 006,215.0,219.0,1,4.0,31,Gimnasia,Ferro
+1966,PARTIDO EN JUEGO 007,230.0,235.0,1,5.0,31,Gimnasia,Ferro
+1967,PARTIDO EN JUEGO 008,247.0,252.0,1,5.0,31,Gimnasia,Ferro
+1968,PARTIDO EN JUEGO 009,264.0,288.0,1,24.0,31,Gimnasia,Ferro
+1969,PARTIDO EN JUEGO 010,301.0,316.0,1,15.0,31,Gimnasia,Ferro
+1970,PARTIDO EN JUEGO 011,326.0,339.0,1,13.0,31,Gimnasia,Ferro
+1971,PARTIDO EN JUEGO 012,350.0,375.0,1,25.0,31,Gimnasia,Ferro
+1972,PARTIDO EN JUEGO 013,389.0,396.0,1,7.0,31,Gimnasia,Ferro
+1973,PARTIDO EN JUEGO 014,409.0,437.0,1,28.0,31,Gimnasia,Ferro
+1974,PARTIDO EN JUEGO 015,453.0,463.0,1,10.0,31,Gimnasia,Ferro
+1975,PARTIDO EN JUEGO 016,476.0,497.0,1,21.0,31,Gimnasia,Ferro
+1976,PARTIDO EN JUEGO 017,520.0,541.0,1,21.0,31,Gimnasia,Ferro
+1977,PARTIDO EN JUEGO 018,549.0,564.0,1,15.0,31,Gimnasia,Ferro
+1978,PARTIDO EN JUEGO 019,572.0,581.0,1,9.0,31,Gimnasia,Ferro
+1979,PARTIDO EN JUEGO 020,619.0,624.0,1,5.0,31,Gimnasia,Ferro
+1980,PARTIDO EN JUEGO 021,639.0,647.0,1,8.0,31,Gimnasia,Ferro
+1981,PARTIDO EN JUEGO 022,657.0,668.0,1,11.0,31,Gimnasia,Ferro
+1982,PARTIDO EN JUEGO 023,675.0,684.0,1,9.0,31,Gimnasia,Ferro
+1983,PARTIDO EN JUEGO 024,689.0,699.0,1,10.0,31,Gimnasia,Ferro
+1984,PARTIDO EN JUEGO 025,705.0,715.0,1,10.0,31,Gimnasia,Ferro
+1985,PARTIDO EN JUEGO 026,726.0,748.0,1,22.0,31,Gimnasia,Ferro
+1986,PARTIDO EN JUEGO 027,759.0,779.0,1,20.0,31,Gimnasia,Ferro
+1987,PARTIDO EN JUEGO 028,790.0,806.0,1,16.0,31,Gimnasia,Ferro
+1988,PARTIDO EN JUEGO 029,813.0,833.0,1,20.0,31,Gimnasia,Ferro
+1989,PARTIDO EN JUEGO 030,845.0,850.0,1,5.0,31,Gimnasia,Ferro
+1990,PARTIDO EN JUEGO 031,873.0,879.0,1,6.0,31,Gimnasia,Ferro
+1991,PARTIDO EN JUEGO 032,883.0,895.0,1,12.0,31,Gimnasia,Ferro
+1992,PARTIDO EN JUEGO 033,905.0,919.0,1,14.0,31,Gimnasia,Ferro
+1993,PARTIDO EN JUEGO 034,924.0,946.0,1,22.0,31,Gimnasia,Ferro
+1994,PARTIDO EN JUEGO 035,954.0,967.0,1,13.0,31,Gimnasia,Ferro
+1995,PARTIDO EN JUEGO 036,976.0,996.0,1,20.0,31,Gimnasia,Ferro
+1996,PARTIDO EN JUEGO 037,1003.0,1010.0,1,7.0,31,Gimnasia,Ferro
+1997,PARTIDO EN JUEGO 038,1017.0,1028.0,1,11.0,31,Gimnasia,Ferro
+1998,PARTIDO EN JUEGO 039,1034.0,1059.0,1,25.0,31,Gimnasia,Ferro
+1999,PARTIDO EN JUEGO 040,1083.0,1093.0,1,10.0,31,Gimnasia,Ferro
+2000,PARTIDO EN JUEGO 041,1100.0,1110.0,1,10.0,31,Gimnasia,Ferro
+2001,PARTIDO EN JUEGO 042,1116.0,1133.0,1,17.0,31,Gimnasia,Ferro
+2002,PARTIDO EN JUEGO 043,1156.0,1160.0,1,4.0,31,Gimnasia,Ferro
+2003,PARTIDO EN JUEGO 044,1165.0,1170.0,1,5.0,31,Gimnasia,Ferro
+2004,PARTIDO EN JUEGO 045,1188.0,1191.0,1,3.0,31,Gimnasia,Ferro
+2005,PARTIDO EN JUEGO 046,1201.0,1206.0,1,5.0,31,Gimnasia,Ferro
+2006,PARTIDO EN JUEGO 047,1210.0,1211.0,1,1.0,31,Gimnasia,Ferro
+2007,PARTIDO EN JUEGO 048,1214.0,1230.0,1,16.0,31,Gimnasia,Ferro
+2008,t,1249.0,1259.0,1,10.0,31,Gimnasia,Ferro
+2009,PARTIDO EN JUEGO 050,1272.0,1279.0,1,7.0,31,Gimnasia,Ferro
+2010,PARTIDO EN JUEGO 051,1293.0,1329.0,1,36.0,31,Gimnasia,Ferro
+2011,PARTIDO EN JUEGO 052,1389.0,1392.0,1,3.0,31,Gimnasia,Ferro
+2012,PARTIDO EN JUEGO 053,1398.0,1403.0,1,5.0,31,Gimnasia,Ferro
+2013,PARTIDO EN JUEGO 054,1436.0,1451.0,1,15.0,31,Gimnasia,Ferro
+2014,PARTIDO EN JUEGO 055,1463.0,1472.0,1,9.0,31,Gimnasia,Ferro
+2015,PARTIDO EN JUEGO 056,1482.0,1489.0,1,7.0,31,Gimnasia,Ferro
+2016,PARTIDO EN JUEGO 057,1505.0,1514.0,1,9.0,31,Gimnasia,Ferro
+2017,PARTIDO EN JUEGO 058,1529.0,1550.0,1,21.0,31,Gimnasia,Ferro
+2018,PARTIDO EN JUEGO 059,1553.0,1568.0,1,15.0,31,Gimnasia,Ferro
+2019,PARTIDO EN JUEGO 060,1624.0,1628.0,1,4.0,31,Gimnasia,Ferro
+2020,PARTIDO EN JUEGO 061,1642.0,1646.0,1,4.0,31,Gimnasia,Ferro
+2021,PARTIDO EN JUEGO 062,1659.0,1692.0,1,33.0,31,Gimnasia,Ferro
+2022,PARTIDO EN JUEGO 063,1702.0,1714.0,1,12.0,31,Gimnasia,Ferro
+2023,PARTIDO EN JUEGO 064,1731.0,1735.0,1,4.0,31,Gimnasia,Ferro
+2024,PARTIDO EN JUEGO 065,1741.0,1750.0,1,9.0,31,Gimnasia,Ferro
+2025,PARTIDO EN JUEGO 066,1754.0,1777.0,1,23.0,31,Gimnasia,Ferro
+2026,PARTIDO EN JUEGO 067,1785.0,1794.0,1,9.0,31,Gimnasia,Ferro
+2027,PARTIDO EN JUEGO 068,1802.0,1823.0,1,21.0,31,Gimnasia,Ferro
+2028,PARTIDO EN JUEGO 069,1844.0,1912.0,1,68.0,31,Gimnasia,Ferro
+2029,PARTIDO EN JUEGO 070,1942.0,1952.0,1,10.0,31,Gimnasia,Ferro
+2030,PARTIDO EN JUEGO 071,1956.0,1968.0,1,12.0,31,Gimnasia,Ferro
+2031,PARTIDO EN JUEGO 072,1983.0,1990.0,1,7.0,31,Gimnasia,Ferro
+2032,PARTIDO EN JUEGO 073,2000.0,2016.0,1,16.0,31,Gimnasia,Ferro
+2033,PARTIDO EN JUEGO 074,2033.0,2052.0,1,19.0,31,Gimnasia,Ferro
+2034,PARTIDO EN JUEGO 075,2085.0,2094.0,1,9.0,31,Gimnasia,Ferro
+2035,t,2201.0,2203.0,1,2.0,31,Gimnasia,Ferro
+2036,PARTIDO EN JUEGO 077,2205.0,2213.0,1,8.0,31,Gimnasia,Ferro
+2037,PARTIDO EN JUEGO 078,2218.0,2248.0,1,30.0,31,Gimnasia,Ferro
+2038,PARTIDO EN JUEGO 079,2264.0,2285.0,1,21.0,31,Gimnasia,Ferro
+2039,PARTIDO EN JUEGO 080,2302.0,2309.0,1,7.0,31,Gimnasia,Ferro
+2040,PARTIDO EN JUEGO 081,2327.0,2331.0,1,4.0,31,Gimnasia,Ferro
+2041,PARTIDO EN JUEGO 082,2338.0,2358.0,1,20.0,31,Gimnasia,Ferro
+2042,PARTIDO EN JUEGO 083,2364.0,2371.0,1,7.0,31,Gimnasia,Ferro
+2043,PARTIDO EN JUEGO 084,2457.0,2462.0,1,5.0,31,Gimnasia,Ferro
+2044,PARTIDO EN JUEGO 085,2463.0,2493.0,1,30.0,31,Gimnasia,Ferro
+2045,PARTIDO EN JUEGO 086,2523.0,2538.0,1,15.0,31,Gimnasia,Ferro
+2046,PARTIDO EN JUEGO 087,2570.0,2586.0,1,16.0,31,Gimnasia,Ferro
+2047,PARTIDO EN JUEGO 088,2588.0,2592.0,1,4.0,31,Gimnasia,Ferro
+2048,PARTIDO EN JUEGO 089,2599.0,2606.0,1,7.0,31,Gimnasia,Ferro
+2049,PARTIDO EN JUEGO 090,3365.0,3388.0,2,23.0,31,Gimnasia,Ferro
+2050,PARTIDO EN JUEGO 091,3397.0,3483.0,2,86.0,31,Gimnasia,Ferro
+2051,PARTIDO EN JUEGO 092,3527.0,3541.0,2,14.0,31,Gimnasia,Ferro
+2052,PARTIDO EN JUEGO 093,3548.0,3591.0,2,43.0,31,Gimnasia,Ferro
+2053,PARTIDO EN JUEGO 094,3599.0,3609.0,2,10.0,31,Gimnasia,Ferro
+2054,PARTIDO EN JUEGO 095,3619.0,3629.0,2,10.0,31,Gimnasia,Ferro
+2055,PARTIDO EN JUEGO 096,3700.0,3710.0,2,10.0,31,Gimnasia,Ferro
+2056,PARTIDO EN JUEGO 097,3718.0,3729.0,2,11.0,31,Gimnasia,Ferro
+2057,PARTIDO EN JUEGO 098,3751.0,3762.0,2,11.0,31,Gimnasia,Ferro
+2058,PARTIDO EN JUEGO 099,3769.0,3807.0,2,38.0,31,Gimnasia,Ferro
+2059,PARTIDO EN JUEGO 100,3827.0,3830.0,2,3.0,31,Gimnasia,Ferro
+2060,PARTIDO EN JUEGO 101,3836.0,3841.0,2,5.0,31,Gimnasia,Ferro
+2061,PARTIDO EN JUEGO 102,3850.0,3867.0,2,17.0,31,Gimnasia,Ferro
+2062,PARTIDO EN JUEGO 103,3887.0,3891.0,2,4.0,31,Gimnasia,Ferro
+2063,PARTIDO EN JUEGO 104,3899.0,3913.0,2,14.0,31,Gimnasia,Ferro
+2064,PARTIDO EN JUEGO 105,3923.0,3937.0,2,14.0,31,Gimnasia,Ferro
+2065,PARTIDO EN JUEGO 106,3958.0,3974.0,2,16.0,31,Gimnasia,Ferro
+2066,PARTIDO EN JUEGO 107,3975.0,3984.0,2,9.0,31,Gimnasia,Ferro
+2067,PARTIDO EN JUEGO 108,3999.0,4039.0,2,40.0,31,Gimnasia,Ferro
+2068,PARTIDO EN JUEGO 109,4081.0,4085.0,2,4.0,31,Gimnasia,Ferro
+2069,PARTIDO EN JUEGO 110,4098.0,4102.0,2,4.0,31,Gimnasia,Ferro
+2070,PARTIDO EN JUEGO 111,4111.0,4134.0,2,23.0,31,Gimnasia,Ferro
+2071,PARTIDO EN JUEGO 112,4162.0,4181.0,2,19.0,31,Gimnasia,Ferro
+2072,PARTIDO EN JUEGO 113,4195.0,4204.0,2,9.0,31,Gimnasia,Ferro
+2073,PARTIDO EN JUEGO 114,4288.0,4296.0,2,8.0,31,Gimnasia,Ferro
+2074,PARTIDO EN JUEGO 115,4305.0,4313.0,2,8.0,31,Gimnasia,Ferro
+2075,PARTIDO EN JUEGO 116,4321.0,4339.0,2,18.0,31,Gimnasia,Ferro
+2076,PARTIDO EN JUEGO 117,4379.0,4400.0,2,21.0,31,Gimnasia,Ferro
+2077,PARTIDO EN JUEGO 118,4404.0,4442.0,2,38.0,31,Gimnasia,Ferro
+2078,PARTIDO EN JUEGO 119,4450.0,4460.0,2,10.0,31,Gimnasia,Ferro
+2079,PARTIDO EN JUEGO 120,4469.0,4475.0,2,6.0,31,Gimnasia,Ferro
+2080,PARTIDO EN JUEGO 121,4483.0,4503.0,2,20.0,31,Gimnasia,Ferro
+2081,PARTIDO EN JUEGO 122,4515.0,4532.0,2,17.0,31,Gimnasia,Ferro
+2082,PARTIDO EN JUEGO 123,4543.0,4564.0,2,21.0,31,Gimnasia,Ferro
+2083,PARTIDO EN JUEGO 124,4579.0,4593.0,2,14.0,31,Gimnasia,Ferro
+2084,PARTIDO EN JUEGO 125,4697.0,4709.0,2,12.0,31,Gimnasia,Ferro
+2085,PARTIDO EN JUEGO 126,4715.0,4733.0,2,18.0,31,Gimnasia,Ferro
+2086,PARTIDO EN JUEGO 127,4750.0,4769.0,2,19.0,31,Gimnasia,Ferro
+2087,PARTIDO EN JUEGO 128,4772.0,4778.0,2,6.0,31,Gimnasia,Ferro
+2088,PARTIDO EN JUEGO 129,4801.0,4814.0,2,13.0,31,Gimnasia,Ferro
+2089,PARTIDO EN JUEGO 130,4829.0,4838.0,2,9.0,31,Gimnasia,Ferro
+2090,PARTIDO EN JUEGO 131,4862.0,4882.0,2,20.0,31,Gimnasia,Ferro
+2091,PARTIDO EN JUEGO 132,4887.0,4899.0,2,12.0,31,Gimnasia,Ferro
+2092,PARTIDO EN JUEGO 133,4913.0,4917.0,2,4.0,31,Gimnasia,Ferro
+2093,PARTIDO EN JUEGO 134,4923.0,4938.0,2,15.0,31,Gimnasia,Ferro
+2094,t,4963.0,4968.0,2,5.0,31,Gimnasia,Ferro
+2095,PARTIDO EN JUEGO 136,4968.0,4991.0,2,23.0,31,Gimnasia,Ferro
+2096,PARTIDO EN JUEGO 137,5010.0,5020.0,2,10.0,31,Gimnasia,Ferro
+2097,PARTIDO EN JUEGO 138,5026.0,5046.0,2,20.0,31,Gimnasia,Ferro
+2098,PARTIDO EN JUEGO 139,5065.0,5074.0,2,9.0,31,Gimnasia,Ferro
+2099,PARTIDO EN JUEGO 140,5075.0,5090.0,2,15.0,31,Gimnasia,Ferro
+2100,PARTIDO EN JUEGO 141,5091.0,5105.0,2,14.0,31,Gimnasia,Ferro
+2101,PARTIDO EN JUEGO 142,5129.0,5134.0,2,5.0,31,Gimnasia,Ferro
+2102,PARTIDO EN JUEGO 143,5137.0,5166.0,2,29.0,31,Gimnasia,Ferro
+2103,PARTIDO EN JUEGO 144,5189.0,5207.0,2,18.0,31,Gimnasia,Ferro
+2104,PARTIDO EN JUEGO 145,5214.0,5227.0,2,13.0,31,Gimnasia,Ferro
+2105,PARTIDO EN JUEGO 146,5253.0,5276.0,2,23.0,31,Gimnasia,Ferro
+2106,PARTIDO EN JUEGO 147,5349.0,5360.0,2,11.0,31,Gimnasia,Ferro
+2107,PARTIDO EN JUEGO 148,5371.0,5388.0,2,17.0,31,Gimnasia,Ferro
+2108,PARTIDO EN JUEGO 149,5447.0,5453.0,2,6.0,31,Gimnasia,Ferro
+2109,PARTIDO EN JUEGO 150,5482.0,5534.0,2,52.0,31,Gimnasia,Ferro
+2110,PARTIDO EN JUEGO 151,5537.0,5571.0,2,34.0,31,Gimnasia,Ferro
+2111,PARTIDO EN JUEGO 152,5648.0,5664.0,2,16.0,31,Gimnasia,Ferro
+2112,PARTIDO EN JUEGO 153,5682.0,5687.0,2,5.0,31,Gimnasia,Ferro
+2113,PARTIDO EN JUEGO 154,5692.0,5708.0,2,16.0,31,Gimnasia,Ferro
+2114,PARTIDO EN JUEGO 155,5795.0,5819.0,2,24.0,31,Gimnasia,Ferro
+2115,PARTIDO EN JUEGO 156,5915.0,5926.0,2,11.0,31,Gimnasia,Ferro
+2116,PARTIDO EN JUEGO 157,5937.0,5951.0,2,14.0,31,Gimnasia,Ferro
+2117,PARTIDO EN JUEGO 158,5971.0,5978.0,2,7.0,31,Gimnasia,Ferro
+2118,PARTIDO EN JUEGO 159,5993.0,6011.0,2,18.0,31,Gimnasia,Ferro
+2119,PARTIDO EN JUEGO 160,6019.0,6032.0,2,13.0,31,Gimnasia,Ferro
+2120,PARTIDO EN JUEGO 161,6048.0,6066.0,2,18.0,31,Gimnasia,Ferro
+2121,PARTIDO EN JUEGO 162,6097.0,6106.0,2,9.0,31,Gimnasia,Ferro
+2122,Partido en juego 001,808.0,840.0,1,32.0,32,Ferro,Camioneros
+2123,Partido en juego 002,834.0,880.0,1,46.0,32,Ferro,Camioneros
+2124,Partido en juego 003,876.0,935.0,1,59.0,32,Ferro,Camioneros
+2125,Partido en juego 004,985.0,1017.0,1,32.0,32,Ferro,Camioneros
+2126,Partido en juego 005,1088.0,1109.0,1,21.0,32,Ferro,Camioneros
+2127,Partido en juego 006,1104.0,1137.0,1,33.0,32,Ferro,Camioneros
+2128,Partido en juego 007,1131.0,1159.0,1,28.0,32,Ferro,Camioneros
+2129,Partido en juego 008,1191.0,1233.0,1,42.0,32,Ferro,Camioneros
+2130,Partido en juego 009,1247.0,1280.0,1,33.0,32,Ferro,Camioneros
+2131,Partido en juego 010,1276.0,1321.0,1,45.0,32,Ferro,Camioneros
+2132,Partido en juego 011,1323.0,1354.0,1,31.0,32,Ferro,Camioneros
+2133,Partido en juego 012,1351.0,1368.0,1,17.0,32,Ferro,Camioneros
+2134,Partido en juego 013,1366.0,1400.0,1,34.0,32,Ferro,Camioneros
+2135,Partido en juego 014,1393.0,1413.0,1,20.0,32,Ferro,Camioneros
+2136,Partido en juego 015,1410.0,1433.0,1,23.0,32,Ferro,Camioneros
+2137,Partido en juego 016,1426.0,1456.0,1,30.0,32,Ferro,Camioneros
+2138,Partido en juego 017,1451.0,1472.0,1,21.0,32,Ferro,Camioneros
+2139,Partido en juego 018,1467.0,1525.0,1,58.0,32,Ferro,Camioneros
+2140,Partido en juego 019,1536.0,1554.0,1,18.0,32,Ferro,Camioneros
+2141,Partido en juego 020,1556.0,1592.0,1,36.0,32,Ferro,Camioneros
+2142,Partido en juego 021,1666.0,1698.0,1,32.0,32,Ferro,Camioneros
+2143,Partido en juego 022,1700.0,1736.0,1,36.0,32,Ferro,Camioneros
+2144,Partido en juego 023,1728.0,1759.0,1,31.0,32,Ferro,Camioneros
+2145,Partido en juego 024,1762.0,1786.0,1,24.0,32,Ferro,Camioneros
+2146,Partido en juego 025,1786.0,1813.0,1,27.0,32,Ferro,Camioneros
+2147,Partido en juego 026,1857.0,1883.0,1,26.0,32,Ferro,Camioneros
+2148,Partido en juego 027,1889.0,1912.0,1,23.0,32,Ferro,Camioneros
+2149,Partido en juego 028,1910.0,1943.0,1,33.0,32,Ferro,Camioneros
+2150,Partido en juego 029,1945.0,1976.0,1,31.0,32,Ferro,Camioneros
+2151,Partido en juego 030,1974.0,1993.0,1,19.0,32,Ferro,Camioneros
+2152,Partido en juego 031,1995.0,2022.0,1,27.0,32,Ferro,Camioneros
+2153,Partido en juego 032,2042.0,2067.0,1,25.0,32,Ferro,Camioneros
+2154,Partido en juego 033,2062.0,2087.0,1,25.0,32,Ferro,Camioneros
+2155,Partido en juego 034,2082.0,2105.0,1,23.0,32,Ferro,Camioneros
+2156,Partido en juego 035,2099.0,2126.0,1,27.0,32,Ferro,Camioneros
+2157,Partido en juego 036,2122.0,2152.0,1,30.0,32,Ferro,Camioneros
+2158,Partido en juego 037,2158.0,2181.0,1,23.0,32,Ferro,Camioneros
+2159,Partido en juego 038,2194.0,2232.0,1,38.0,32,Ferro,Camioneros
+2160,Partido en juego 039,2231.0,2264.0,1,33.0,32,Ferro,Camioneros
+2161,Partido en juego 040,2261.0,2302.0,1,41.0,32,Ferro,Camioneros
+2162,Partido en juego 041,2299.0,2324.0,1,25.0,32,Ferro,Camioneros
+2163,Partido en juego 042,2345.0,2371.0,1,26.0,32,Ferro,Camioneros
+2164,Partido en juego 043,2376.0,2405.0,1,29.0,32,Ferro,Camioneros
+2165,Partido en juego 044,2425.0,2451.0,1,26.0,32,Ferro,Camioneros
+2166,Partido en juego 045,2443.0,2468.0,1,25.0,32,Ferro,Camioneros
+2167,Partido en juego 046,2464.0,2498.0,1,34.0,32,Ferro,Camioneros
+2168,Partido en juego 047,2587.0,2611.0,1,24.0,32,Ferro,Camioneros
+2169,Partido en juego 048,2604.0,2628.0,1,24.0,32,Ferro,Camioneros
+2170,Partido en juego 049,2652.0,2674.0,1,22.0,32,Ferro,Camioneros
+2171,Partido en juego 050,2681.0,2696.0,1,15.0,32,Ferro,Camioneros
+2172,Partido en juego 051,2692.0,2718.0,1,26.0,32,Ferro,Camioneros
+2173,Partido en juego 052,2716.0,2749.0,1,33.0,32,Ferro,Camioneros
+2174,Partido en juego 053,2755.0,2771.0,1,16.0,32,Ferro,Camioneros
+2175,Partido en juego 054,2769.0,2792.0,1,23.0,32,Ferro,Camioneros
+2176,Partido en juego 055,2790.0,2819.0,1,29.0,32,Ferro,Camioneros
+2177,Partido en juego 056,2813.0,2838.0,1,25.0,32,Ferro,Camioneros
+2178,Partido en juego 057,2837.0,2870.0,1,33.0,32,Ferro,Camioneros
+2179,Partido en juego 058,2865.0,2883.0,1,18.0,32,Ferro,Camioneros
+2180,Partido en juego 059,2878.0,2899.0,1,21.0,32,Ferro,Camioneros
+2181,Partido en juego 060,2902.0,2922.0,1,20.0,32,Ferro,Camioneros
+2182,Partido en juego 061,2919.0,2937.0,1,18.0,32,Ferro,Camioneros
+2183,Partido en juego 062,2934.0,2956.0,1,22.0,32,Ferro,Camioneros
+2184,Partido en juego 063,2958.0,2980.0,1,22.0,32,Ferro,Camioneros
+2185,Partido en juego 064,2981.0,3003.0,1,22.0,32,Ferro,Camioneros
+2186,Partido en juego 068,3002.0,3024.0,1,22.0,32,Ferro,Camioneros
+2187,Partido en juego 065,3006.0,3023.0,1,17.0,32,Ferro,Camioneros
+2188,Partido en juego 066,3021.0,3052.0,1,31.0,32,Ferro,Camioneros
+2189,Partido en juego 069,3021.0,3051.0,1,30.0,32,Ferro,Camioneros
+2190,Partido en juego 067,3047.0,3068.0,1,21.0,32,Ferro,Camioneros
+2191,Partido en juego 070,3052.0,3072.0,1,20.0,32,Ferro,Camioneros
+2192,Partido en juego 072,3111.0,3128.0,1,17.0,32,Ferro,Camioneros
+2193,Partido en juego 072,3874.0,3901.0,2,27.0,32,Ferro,Camioneros
+2194,Partido en juego 073,3904.0,3921.0,2,17.0,32,Ferro,Camioneros
+2195,Partido en juego 074,3923.0,3940.0,2,17.0,32,Ferro,Camioneros
+2196,Partido en juego 075,3942.0,3958.0,2,16.0,32,Ferro,Camioneros
+2197,Partido en juego 076,3955.0,3976.0,2,21.0,32,Ferro,Camioneros
+2198,Partido en juego 077,3985.0,4003.0,2,18.0,32,Ferro,Camioneros
+2199,Partido en juego 078,3998.0,4037.0,2,39.0,32,Ferro,Camioneros
+2200,Partido en juego 079,4047.0,4073.0,2,26.0,32,Ferro,Camioneros
+2201,Partido en juego 080,4075.0,4089.0,2,14.0,32,Ferro,Camioneros
+2202,Partido en juego 081,4091.0,4114.0,2,23.0,32,Ferro,Camioneros
+2203,Partido en juego 082,4112.0,4133.0,2,21.0,32,Ferro,Camioneros
+2204,Partido en juego 083,4142.0,4164.0,2,22.0,32,Ferro,Camioneros
+2205,Partido en juego 084,4176.0,4209.0,2,33.0,32,Ferro,Camioneros
+2206,Partido en juego 085,4225.0,4245.0,2,20.0,32,Ferro,Camioneros
+2207,Partido en juego 086,4242.0,4263.0,2,21.0,32,Ferro,Camioneros
+2208,Partido en juego 087,4340.0,4364.0,2,24.0,32,Ferro,Camioneros
+2209,Partido en juego 088,4453.0,4473.0,2,20.0,32,Ferro,Camioneros
+2210,Partido en juego 089,4478.0,4503.0,2,25.0,32,Ferro,Camioneros
+2211,Partido en juego 090,4496.0,4513.0,2,17.0,32,Ferro,Camioneros
+2212,Partido en juego 091,4507.0,4523.0,2,16.0,32,Ferro,Camioneros
+2213,Partido en juego 092,4518.0,4545.0,2,27.0,32,Ferro,Camioneros
+2214,Partido en juego 093,4543.0,4567.0,2,24.0,32,Ferro,Camioneros
+2215,Partido en juego 094,4578.0,4597.0,2,19.0,32,Ferro,Camioneros
+2216,Partido en juego 095,4602.0,4619.0,2,17.0,32,Ferro,Camioneros
+2217,Partido en juego 096,4641.0,4661.0,2,20.0,32,Ferro,Camioneros
+2218,Partido en juego 097,4696.0,4720.0,2,24.0,32,Ferro,Camioneros
+2219,Partido en juego 098,4712.0,4746.0,2,34.0,32,Ferro,Camioneros
+2220,Partido en juego 099,4713.0,4747.0,2,34.0,32,Ferro,Camioneros
+2221,Partido en juego 100,4746.0,4762.0,2,16.0,32,Ferro,Camioneros
+2222,Partido en juego 101,4801.0,4825.0,2,24.0,32,Ferro,Camioneros
+2223,Partido en juego 102,4848.0,4887.0,2,39.0,32,Ferro,Camioneros
+2224,Partido en juego 103,4888.0,4921.0,2,33.0,32,Ferro,Camioneros
+2225,Partido en juego 104,4926.0,4974.0,2,48.0,32,Ferro,Camioneros
+2226,Partido en juego 105,4973.0,5003.0,2,30.0,32,Ferro,Camioneros
+2227,Partido en juego 106,4997.0,5050.0,2,53.0,32,Ferro,Camioneros
+2228,Partido en juego 107,5044.0,5058.0,2,14.0,32,Ferro,Camioneros
+2229,Partido en juego 108,5054.0,5077.0,2,23.0,32,Ferro,Camioneros
+2230,Partido en juego 109,5072.0,5106.0,2,34.0,32,Ferro,Camioneros
+2231,Partido en juego 110,5110.0,5139.0,2,29.0,32,Ferro,Camioneros
+2232,Partido en juego 111,5143.0,5164.0,2,21.0,32,Ferro,Camioneros
+2233,Partido en juego 112,5175.0,5197.0,2,22.0,32,Ferro,Camioneros
+2234,Partido en juego 113,5208.0,5230.0,2,22.0,32,Ferro,Camioneros
+2235,Partido en juego 114,5237.0,5257.0,2,20.0,32,Ferro,Camioneros
+2236,Partido en juego 115,5262.0,5279.0,2,17.0,32,Ferro,Camioneros
+2237,Partido en juego 116,5279.0,5306.0,2,27.0,32,Ferro,Camioneros
+2238,Partido en juego 117,5303.0,5356.0,2,53.0,32,Ferro,Camioneros
+2239,Partido en juego 118,5352.0,5370.0,2,18.0,32,Ferro,Camioneros
+2240,Partido en juego 119,5490.0,5527.0,2,37.0,32,Ferro,Camioneros
+2241,Partido en juego 120,5551.0,5566.0,2,15.0,32,Ferro,Camioneros
+2242,Partido en juego 121,5564.0,5611.0,2,47.0,32,Ferro,Camioneros
+2243,Partido en juego 122,5607.0,5635.0,2,28.0,32,Ferro,Camioneros
+2244,Partido en juego 123,5631.0,5678.0,2,47.0,32,Ferro,Camioneros
+2245,Partido en juego 124,5716.0,5750.0,2,34.0,32,Ferro,Camioneros
+2246,Partido en juego 125,5744.0,5763.0,2,19.0,32,Ferro,Camioneros
+2247,Partido en juego 126,5758.0,5805.0,2,47.0,32,Ferro,Camioneros
+2248,Partido en juego 127,5893.0,5929.0,2,36.0,32,Ferro,Camioneros
+2249,Partido en juego 128,5926.0,5974.0,2,48.0,32,Ferro,Camioneros
+2250,Partido en juego 129,5967.0,6007.0,2,40.0,32,Ferro,Camioneros
+2251,Partido en juego 130,6000.0,6017.0,2,17.0,32,Ferro,Camioneros
+2252,Partido en juego 131,6014.0,6033.0,2,19.0,32,Ferro,Camioneros
+2253,Partido en juego 132,6067.0,6083.0,2,16.0,32,Ferro,Camioneros
+2254,Partido en juego 133,6133.0,6149.0,2,16.0,32,Ferro,Camioneros
+2255,Partido en juego 134,6164.0,6192.0,2,28.0,32,Ferro,Camioneros
+2256,Partido en juego 135,6184.0,6216.0,2,32.0,32,Ferro,Camioneros
+2257,Partido en juego 136,6226.0,6262.0,2,36.0,32,Ferro,Camioneros
+2258,Partido en juego 137,6336.0,6370.0,2,34.0,32,Ferro,Camioneros
+2259,Partido en juego 138,6364.0,6381.0,2,17.0,32,Ferro,Camioneros
+2260,Partido en juego 139,6378.0,6422.0,2,44.0,32,Ferro,Camioneros
+2261,Partido en juego 140,6419.0,6437.0,2,18.0,32,Ferro,Camioneros
+2262,PARTIDO EN JUEGO 001,0.0,24.0,1,24.0,5,Pinocho,Ferro
+2263,PARTIDO EN JUEGO 002,46.0,51.0,1,5.0,5,Pinocho,Ferro
+2264,PARTIDO EN JUEGO 003,75.0,77.0,1,2.0,5,Pinocho,Ferro
+2265,PARTIDO EN JUEGO 004,93.0,102.0,1,9.0,5,Pinocho,Ferro
+2266,PARTIDO EN JUEGO 005,121.0,126.0,1,5.0,5,Pinocho,Ferro
+2267,PARTIDO EN JUEGO 006,134.0,144.0,1,10.0,5,Pinocho,Ferro
+2268,PARTIDO EN JUEGO 007,150.0,182.0,1,32.0,5,Pinocho,Ferro
+2269,PARTIDO EN JUEGO 008,193.0,196.0,1,3.0,5,Pinocho,Ferro
+2270,PARTIDO EN JUEGO 009,211.0,217.0,1,6.0,5,Pinocho,Ferro
+2271,PARTIDO EN JUEGO 010,224.0,230.0,1,6.0,5,Pinocho,Ferro
+2272,PARTIDO EN JUEGO 011,254.0,258.0,1,4.0,5,Pinocho,Ferro
+2273,PARTIDO EN JUEGO 012,271.0,295.0,1,24.0,5,Pinocho,Ferro
+2274,PARTIDO EN JUEGO 013,335.0,342.0,1,7.0,5,Pinocho,Ferro
+2275,PARTIDO EN JUEGO 014,354.0,364.0,1,10.0,5,Pinocho,Ferro
+2276,PARTIDO EN JUEGO 015,377.0,382.0,1,5.0,5,Pinocho,Ferro
+2277,PARTIDO EN JUEGO 016,392.0,400.0,1,8.0,5,Pinocho,Ferro
+2278,PARTIDO EN JUEGO 017,407.0,416.0,1,9.0,5,Pinocho,Ferro
+2279,PARTIDO EN JUEGO 018,428.0,438.0,1,10.0,5,Pinocho,Ferro
+2280,PARTIDO EN JUEGO 019,440.0,464.0,1,24.0,5,Pinocho,Ferro
+2281,PARTIDO EN JUEGO 020,476.0,500.0,1,24.0,5,Pinocho,Ferro
+2282,PARTIDO EN JUEGO 021,512.0,534.0,1,22.0,5,Pinocho,Ferro
+2283,PARTIDO EN JUEGO 022,557.0,564.0,1,7.0,5,Pinocho,Ferro
+2284,PARTIDO EN JUEGO 023,581.0,585.0,1,4.0,5,Pinocho,Ferro
+2285,PARTIDO EN JUEGO 024,599.0,612.0,1,13.0,5,Pinocho,Ferro
+2286,PARTIDO EN JUEGO 025,614.0,649.0,1,35.0,5,Pinocho,Ferro
+2287,PARTIDO EN JUEGO 026,680.0,709.0,1,29.0,5,Pinocho,Ferro
+2288,PARTIDO EN JUEGO 027,717.0,736.0,1,19.0,5,Pinocho,Ferro
+2289,PARTIDO EN JUEGO 028,762.0,776.0,1,14.0,5,Pinocho,Ferro
+2290,PARTIDO EN JUEGO 029,795.0,804.0,1,9.0,5,Pinocho,Ferro
+2291,PARTIDO EN JUEGO 030,822.0,842.0,1,20.0,5,Pinocho,Ferro
+2292,PARTIDO EN JUEGO 031,890.0,896.0,1,6.0,5,Pinocho,Ferro
+2293,PARTIDO EN JUEGO 032,954.0,966.0,1,12.0,5,Pinocho,Ferro
+2294,PARTIDO EN JUEGO 033,969.0,1009.0,1,40.0,5,Pinocho,Ferro
+2295,PARTIDO EN JUEGO 034,1015.0,1018.0,1,3.0,5,Pinocho,Ferro
+2296,PARTIDO EN JUEGO 035,1026.0,1029.0,1,3.0,5,Pinocho,Ferro
+2297,PARTIDO EN JUEGO 036,1046.0,1050.0,1,4.0,5,Pinocho,Ferro
+2298,PARTIDO EN JUEGO 037,1064.0,1067.0,1,3.0,5,Pinocho,Ferro
+2299,PARTIDO EN JUEGO 038,1072.0,1084.0,1,12.0,5,Pinocho,Ferro
+2300,PARTIDO EN JUEGO 039,1095.0,1099.0,1,4.0,5,Pinocho,Ferro
+2301,PARTIDO EN JUEGO 040,1112.0,1116.0,1,4.0,5,Pinocho,Ferro
+2302,PARTIDO EN JUEGO 041,1125.0,1131.0,1,6.0,5,Pinocho,Ferro
+2303,PARTIDO EN JUEGO 042,1144.0,1149.0,1,5.0,5,Pinocho,Ferro
+2304,PARTIDO EN JUEGO 043,1153.0,1159.0,1,6.0,5,Pinocho,Ferro
+2305,PARTIDO EN JUEGO 044,1172.0,1187.0,1,15.0,5,Pinocho,Ferro
+2306,PARTIDO EN JUEGO 045,1199.0,1215.0,1,16.0,5,Pinocho,Ferro
+2307,PARTIDO EN JUEGO 046,1229.0,1241.0,1,12.0,5,Pinocho,Ferro
+2308,PARTIDO EN JUEGO 047,1255.0,1280.0,1,25.0,5,Pinocho,Ferro
+2309,PARTIDO EN JUEGO 048,1284.0,1304.0,1,20.0,5,Pinocho,Ferro
+2310,PARTIDO EN JUEGO 049,1315.0,1316.0,1,1.0,5,Pinocho,Ferro
+2311,PARTIDO EN JUEGO 050,1322.0,1332.0,1,10.0,5,Pinocho,Ferro
+2312,PARTIDO EN JUEGO 051,1338.0,1359.0,1,21.0,5,Pinocho,Ferro
+2313,PARTIDO EN JUEGO 052,1368.0,1373.0,1,5.0,5,Pinocho,Ferro
+2314,PARTIDO EN JUEGO 053,1384.0,1387.0,1,3.0,5,Pinocho,Ferro
+2315,PARTIDO EN JUEGO 054,1395.0,1404.0,1,9.0,5,Pinocho,Ferro
+2316,PARTIDO EN JUEGO 055,1440.0,1447.0,1,7.0,5,Pinocho,Ferro
+2317,PARTIDO EN JUEGO 056,1462.0,1481.0,1,19.0,5,Pinocho,Ferro
+2318,PARTIDO EN JUEGO 057,1492.0,1516.0,1,24.0,5,Pinocho,Ferro
+2319,PARTIDO EN JUEGO 058,1542.0,1567.0,1,25.0,5,Pinocho,Ferro
+2320,PARTIDO EN JUEGO 059,1646.0,1656.0,1,10.0,5,Pinocho,Ferro
+2321,PARTIDO EN JUEGO 060,1666.0,1707.0,1,41.0,5,Pinocho,Ferro
+2322,PARTIDO EN JUEGO 061,1709.0,1755.0,1,46.0,5,Pinocho,Ferro
+2323,PARTIDO EN JUEGO 062,1799.0,1808.0,1,9.0,5,Pinocho,Ferro
+2324,PARTIDO EN JUEGO 063,1819.0,1823.0,1,4.0,5,Pinocho,Ferro
+2325,PARTIDO EN JUEGO 064,1830.0,1853.0,1,23.0,5,Pinocho,Ferro
+2326,t,1921.0,1936.0,1,15.0,5,Pinocho,Ferro
+2327,PARTIDO EN JUEGO 066,1940.0,1952.0,1,12.0,5,Pinocho,Ferro
+2328,PARTIDO EN JUEGO 067,1954.0,1973.0,1,19.0,5,Pinocho,Ferro
+2329,PARTIDO EN JUEGO 068,1983.0,1994.0,1,11.0,5,Pinocho,Ferro
+2330,PARTIDO EN JUEGO 069,2031.0,2059.0,1,28.0,5,Pinocho,Ferro
+2331,PARTIDO EN JUEGO 070,2080.0,2089.0,1,9.0,5,Pinocho,Ferro
+2332,PARTIDO EN JUEGO 071,2094.0,2133.0,1,39.0,5,Pinocho,Ferro
+2333,PARTIDO EN JUEGO 072,2208.0,2216.0,1,8.0,5,Pinocho,Ferro
+2334,PARTIDO EN JUEGO 073,2290.0,2299.0,1,9.0,5,Pinocho,Ferro
+2335,PARTIDO EN JUEGO 074,2309.0,2319.0,1,10.0,5,Pinocho,Ferro
+2336,PARTIDO EN JUEGO 075,2323.0,2336.0,1,13.0,5,Pinocho,Ferro
+2337,PARTIDO EN JUEGO 076,2353.0,2359.0,1,6.0,5,Pinocho,Ferro
+2338,PARTIDO EN JUEGO 077,2362.0,2373.0,1,11.0,5,Pinocho,Ferro
+2339,PARTIDO EN JUEGO 078,2381.0,2399.0,1,18.0,5,Pinocho,Ferro
+2340,PARTIDO EN JUEGO 079,2410.0,2415.0,1,5.0,5,Pinocho,Ferro
+2341,PARTIDO EN JUEGO 080,2504.0,2507.0,1,3.0,5,Pinocho,Ferro
+2342,PARTIDO EN JUEGO 081,2518.0,2529.0,1,11.0,5,Pinocho,Ferro
+2343,PARTIDO EN JUEGO 082,2540.0,2551.0,1,11.0,5,Pinocho,Ferro
+2344,PARTIDO EN JUEGO 083,2569.0,2578.0,1,9.0,5,Pinocho,Ferro
+2345,PARTIDO EN JUEGO 084,2592.0,2601.0,1,9.0,5,Pinocho,Ferro
+2346,PARTIDO EN JUEGO 085,2640.0,2650.0,1,10.0,5,Pinocho,Ferro
+2347,PARTIDO EN JUEGO 086,2669.0,2679.0,1,10.0,5,Pinocho,Ferro
+2348,PARTIDO EN JUEGO 087,2810.0,2813.0,1,3.0,5,Pinocho,Ferro
+2349,PARTIDO EN JUEGO 088,2829.0,2873.0,1,44.0,5,Pinocho,Ferro
+2350,PARTIDO EN JUEGO 089,2891.0,2899.0,1,8.0,5,Pinocho,Ferro
+2351,PARTIDO EN JUEGO 090,2905.0,2910.0,1,5.0,5,Pinocho,Ferro
+2352,PARTIDO EN JUEGO 091,2916.0,2924.0,1,8.0,5,Pinocho,Ferro
+2353,PARTIDO EN JUEGO 092,2961.0,2964.0,1,3.0,5,Pinocho,Ferro
+2354,PARTIDO EN JUEGO 093,2976.0,3013.0,2,37.0,5,Pinocho,Ferro
+2355,PARTIDO EN JUEGO 094,3021.0,3030.0,2,9.0,5,Pinocho,Ferro
+2356,PARTIDO EN JUEGO 095,3071.0,3083.0,2,12.0,5,Pinocho,Ferro
+2357,PARTIDO EN JUEGO 096,3086.0,3093.0,2,7.0,5,Pinocho,Ferro
+2358,PARTIDO EN JUEGO 097,3096.0,3109.0,2,13.0,5,Pinocho,Ferro
+2359,PARTIDO EN JUEGO 098,3121.0,3137.0,2,16.0,5,Pinocho,Ferro
+2360,PARTIDO EN JUEGO 099,3145.0,3169.0,2,24.0,5,Pinocho,Ferro
+2361,PARTIDO EN JUEGO 100,3178.0,3198.0,2,20.0,5,Pinocho,Ferro
+2362,PARTIDO EN JUEGO 101,3212.0,3225.0,2,13.0,5,Pinocho,Ferro
+2363,PARTIDO EN JUEGO 102,3236.0,3251.0,2,15.0,5,Pinocho,Ferro
+2364,PARTIDO EN JUEGO 103,3263.0,3282.0,2,19.0,5,Pinocho,Ferro
+2365,PARTIDO EN JUEGO 104,3322.0,3327.0,2,5.0,5,Pinocho,Ferro
+2366,PARTIDO EN JUEGO 105,3348.0,3360.0,2,12.0,5,Pinocho,Ferro
+2367,PARTIDO EN JUEGO 106,3363.0,3369.0,2,6.0,5,Pinocho,Ferro
+2368,PARTIDO EN JUEGO 107,3378.0,3383.0,2,5.0,5,Pinocho,Ferro
+2369,PARTIDO EN JUEGO 108,3389.0,3407.0,2,18.0,5,Pinocho,Ferro
+2370,PARTIDO EN JUEGO 109,3432.0,3465.0,2,33.0,5,Pinocho,Ferro
+2371,PARTIDO EN JUEGO 110,3476.0,3545.0,2,69.0,5,Pinocho,Ferro
+2372,PARTIDO EN JUEGO 111,3553.0,3560.0,2,7.0,5,Pinocho,Ferro
+2373,PARTIDO EN JUEGO 112,3626.0,3675.0,2,49.0,5,Pinocho,Ferro
+2374,PARTIDO EN JUEGO 113,3707.0,3719.0,2,12.0,5,Pinocho,Ferro
+2375,PARTIDO EN JUEGO 114,3733.0,3753.0,2,20.0,5,Pinocho,Ferro
+2376,PARTIDO EN JUEGO 115,3756.0,3780.0,2,24.0,5,Pinocho,Ferro
+2377,PARTIDO EN JUEGO 116,3805.0,3837.0,2,32.0,5,Pinocho,Ferro
+2378,PARTIDO EN JUEGO 117,3855.0,3885.0,2,30.0,5,Pinocho,Ferro
+2379,PARTIDO EN JUEGO 118,3890.0,3906.0,2,16.0,5,Pinocho,Ferro
+2380,PARTIDO EN JUEGO 119,3908.0,3924.0,2,16.0,5,Pinocho,Ferro
+2381,PARTIDO EN JUEGO 120,3930.0,3931.0,2,1.0,5,Pinocho,Ferro
+2382,PARTIDO EN JUEGO 121,3945.0,3958.0,2,13.0,5,Pinocho,Ferro
+2383,PARTIDO EN JUEGO 122,3971.0,3979.0,2,8.0,5,Pinocho,Ferro
+2384,PARTIDO EN JUEGO 123,3983.0,3997.0,2,14.0,5,Pinocho,Ferro
+2385,PARTIDO EN JUEGO 124,3999.0,4015.0,2,16.0,5,Pinocho,Ferro
+2386,PARTIDO EN JUEGO 125,4018.0,4031.0,2,13.0,5,Pinocho,Ferro
+2387,PARTIDO EN JUEGO 126,4050.0,4075.0,2,25.0,5,Pinocho,Ferro
+2388,PARTIDO EN JUEGO 127,4095.0,4110.0,2,15.0,5,Pinocho,Ferro
+2389,PARTIDO EN JUEGO 128,4120.0,4136.0,2,16.0,5,Pinocho,Ferro
+2390,PARTIDO EN JUEGO 129,4164.0,4184.0,2,20.0,5,Pinocho,Ferro
+2391,PARTIDO EN JUEGO 130,4203.0,4210.0,2,7.0,5,Pinocho,Ferro
+2392,PARTIDO EN JUEGO 131,4239.0,4244.0,2,5.0,5,Pinocho,Ferro
+2393,PARTIDO EN JUEGO 132,4299.0,4343.0,2,44.0,5,Pinocho,Ferro
+2394,PARTIDO EN JUEGO 133,4368.0,4372.0,2,4.0,5,Pinocho,Ferro
+2395,PARTIDO EN JUEGO 134,4475.0,4509.0,2,34.0,5,Pinocho,Ferro
+2396,PARTIDO EN JUEGO 136,4562.0,4582.0,2,20.0,5,Pinocho,Ferro
+2397,PARTIDO EN JUEGO 136,4584.0,4631.0,2,47.0,5,Pinocho,Ferro
+2398,PARTIDO EN JUEGO 137,4665.0,4687.0,2,22.0,5,Pinocho,Ferro
+2399,PARTIDO EN JUEGO 138,4700.0,4746.0,2,46.0,5,Pinocho,Ferro
+2400,PARTIDO EN JUEGO 139,4762.0,4778.0,2,16.0,5,Pinocho,Ferro
+2401,PARTIDO EN JUEGO 140,4783.0,4798.0,2,15.0,5,Pinocho,Ferro
+2402,PARTIDO EN JUEGO 141,4804.0,4826.0,2,22.0,5,Pinocho,Ferro
+2403,PARTIDO EN JUEGO 142,4832.0,4838.0,2,6.0,5,Pinocho,Ferro
+2404,PARTIDO EN JUEGO 143,4843.0,4860.0,2,17.0,5,Pinocho,Ferro
+2405,PARTIDO EN JUEGO 144,4861.0,4865.0,2,4.0,5,Pinocho,Ferro
+2406,PARTIDO EN JUEGO 145,4956.0,4961.0,2,5.0,5,Pinocho,Ferro
+2407,PARTIDO EN JUEGO 146,4967.0,5014.0,2,47.0,5,Pinocho,Ferro
+2408,PARTIDO EN JUEGO 147,5028.0,5044.0,2,16.0,5,Pinocho,Ferro
+2409,PARTIDO EN JUEGO 148,5067.0,5073.0,2,6.0,5,Pinocho,Ferro
+2410,PARTIDO EN JUEGO 149,5093.0,5115.0,2,22.0,5,Pinocho,Ferro
+2411,t,5131.0,5138.0,2,7.0,5,Pinocho,Ferro
+2412,PARTIDO EN JUEGO 151,5137.0,5140.0,2,3.0,5,Pinocho,Ferro
+2413,PARTIDO EN JUEGO 152,5141.0,5177.0,2,36.0,5,Pinocho,Ferro
+2414,PARTIDO EN JUEGO 153,5189.0,5193.0,2,4.0,5,Pinocho,Ferro
+2415,PARTIDO EN JUEGO 154,5206.0,5222.0,2,16.0,5,Pinocho,Ferro
+2416,PARTIDO EN JUEGO 155,5239.0,5252.0,2,13.0,5,Pinocho,Ferro
+2417,PARTIDO EN JUEGO 156,5263.0,5267.0,2,4.0,5,Pinocho,Ferro
+2418,PARTIDO EN JUEGO 157,5268.0,5275.0,2,7.0,5,Pinocho,Ferro
+2419,PARTIDO EN JUEGO 158,5291.0,5297.0,2,6.0,5,Pinocho,Ferro
+2420,PARTIDO EN JUEGO 159,5301.0,5311.0,2,10.0,5,Pinocho,Ferro
