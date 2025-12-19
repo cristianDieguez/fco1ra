@@ -116,6 +116,9 @@ RESULT_COLORS = {
     "Espalda": "yellow",
     "Mal Posicionado": "purple",
     "Tras Recuperación": "orange",
+    "Ataja": "green", 
+    "Gol Recibido": "red", 
+    "Rebote": "blue",
 
 
     None: "gray"
@@ -194,190 +197,82 @@ def glass_card_start(title=None):
 def glass_card_end():
     st.markdown("</div>", unsafe_allow_html=True)
 
-
-
-def plot_event_summary_matplotlib(
-    df_player,
-    df_team,
-    event_name,
-    result_column="Resultado",
-    title="Resumen del Evento"
-):
+def plot_event_result_donut(ax, df_event, result_column="Resultado", title=None):
     """
-    Universal 3-panel visualization for ANY offensive/defensive event.
-    
-    Panels:
-    LEFT (2 rows): 
-        - Player as % of team total
-        - Player actions as % of position total
-
-    CENTER:
-        - Campograma with event actions (color + marker by RESULT)
-        - Legend included
-
-    RIGHT:
-        - Pie chart showing % per result
-        - No legend (campograma already includes it)
+    Donut chart for result distribution of ANY event.
+    Handles events where Resultado is NaN (e.g. fouls).
     """
 
-    # ============================
-    # 0. PREPARE DATA
-    # ============================
+    ax.set_facecolor("#0F0F0F")
 
-    # TEAM actions of this event
-    df_team_event = df_team[df_team["Acción"] == event_name]
-    team_total = len(df_team_event)
+    if df_event.empty or result_column not in df_event.columns:
+        ax.text(
+            0.5, 0.5, "Sin datos",
+            ha="center", va="center",
+            color="white", fontsize=12
+        )
+        ax.axis("off")
+        return
 
-    # PLAYER actions
-    df_player_event = df_player[df_player["Acción"] == event_name]
-    player_total = len(df_player_event)
-
-    # Position mode for player
-    if "Posicion" in df_player.columns and not df_player["Posicion"].isna().all():
-        position_mode = df_player["Posicion"].mode().iloc[0]
-    else:
-        position_mode = "Desconocido"
-
-    # Position group = all team players with same mode position
-    df_team_position_group = df_team[df_team["Posicion"] == position_mode]
-    df_pos_event = df_team_position_group[df_team_position_group["Acción"] == event_name]
-    pos_total = len(df_pos_event)
-
-    # --- Percentages ---
-    # 1) Player as % of TEAM total
-    if team_total > 0:
-        player_pct = round((player_total / team_total) * 100, 1)
-    else:
-        player_pct = 0
-
-    # 2) Player as % of POSITION total
-    if pos_total > 0:
-        pos_pct = round((player_total / pos_total) * 100, 1)
-    else:
-        pos_pct = 0
-
-    # RESULT distributions (player)
-    result_counts = df_player_event[result_column].value_counts()
-    pie_labels = result_counts.index.tolist()
-    pie_values = result_counts.values.tolist()
-    pie_colors = [RESULT_COLORS.get(r, "gray") for r in pie_labels]
-
-    # ============================
-    # 1. CREATE MULTI-PANEL FIGURE
-    # ============================
-
-    fig = plt.figure(figsize=(18, 6))
-    gs = GridSpec(1, 3, width_ratios=[1.2, 2.5, 1.3], wspace=0.25)
-
-    # -------------------------------------------------------------
-    # LEFT COLUMN (2 rows)
-    # -------------------------------------------------------------
-    gs_left = GridSpecFromSubplotSpec(
-        2, 1,
-        subplot_spec=gs[0],
-        hspace=0.35
+    # ✅ FIX: treat NaN Resultado as valid category
+    counts = (
+        df_event[result_column]
+        .fillna("Sin Resultado")
+        .value_counts()
     )
 
-    # ------- Bar 1: Player % of Team -------
-    ax1 = fig.add_subplot(gs_left[0])
-    ax1.barh([event_name], [player_pct], color="#4CAF50")
-    ax1.set_xlim(0, 100)
-    ax1.set_title("Jugador (% del Equipo)", fontsize=12, color="white")
-    ax1.set_xlabel("%", color="white")
-    ax1.tick_params(colors="white")
-    ax1.bar_label(ax1.containers[0], labels=[f"{player_pct}%"], color="white")
+    total = counts.sum()
+    labels = counts.index.tolist()
+    values = counts.values
+    colors = [RESULT_COLORS.get(r, "gray") for r in labels]
 
-    # ------- Bar 2: Player % of Position -------
-    ax2 = fig.add_subplot(gs_left[1])
-    ax2.barh([position_mode], [pos_pct], color="#2196F3")
-    ax2.set_xlim(0, 100)
-    ax2.set_title(f"Jugador (% de la Posición: {position_mode})", fontsize=12, color="white")
-    ax2.set_xlabel("%", color="white")
-    ax2.tick_params(colors="white")
-    ax2.bar_label(ax2.containers[0], labels=[f"{pos_pct}%"], color="white")
+    wedges, texts, autotexts = ax.pie(
+        values,
+        labels=labels,
+        colors=colors,
+        startangle=90,
+        counterclock=False,
+        wedgeprops=dict(width=0.38, edgecolor="#0F0F0F"),
+        autopct=lambda p: f"{p:.0f}%" if p > 0 else "",
+        pctdistance=0.78,
+        labeldistance=1.08,
+        textprops=dict(color="white")
+    )
 
-    # Helper text
-    ax2.text(
-        0.02,
-        0.5,
-        (
-            f"Equipo: {team_total} acciones\n"
-            f"Posición ({position_mode}): {pos_total} acciones\n"
-            f"Jugador: {player_total} acciones"
-        ),
-        transform=ax2.transAxes,
-        fontsize=10,
+    for t in texts:
+        t.set_fontsize(9)
+
+    for at in autotexts:
+        at.set_fontsize(10)
+        at.set_fontweight("bold")
+
+    ax.text(
+        0, 0.05,
+        f"{total}",
+        ha="center", va="center",
+        fontsize=20,
+        fontweight="bold",
         color="white"
     )
 
-    # -------------------------------------------------------------
-    # CENTER COLUMN — SHOTMAP / ACTION MAP
-    # -------------------------------------------------------------
-    ax_center = fig.add_subplot(gs[1])
-    draw_futsal_pitch_grid(ax_center)
+    ax.text(
+        0, -0.18,
+        "acciones",
+        ha="center", va="center",
+        fontsize=10,
+        color="#BBBBBB"
+    )
 
-    # Convert event coordinates according to event type
-    df_plot = get_event_coordinates(df_player_event, event_name)
-
-    # Plot points
-    for resultado, group in df_plot.groupby(result_column):
-
-        # If pass-type event → draw trajectory
-        if len(group) > 0 and group["is_pass"].iloc[0]:
-            for _, row in group.iterrows():
-                ax_center.plot(
-                    [row["X"], row["X2"]],
-                    [row["Y"], row["Y2"]],
-                    color=RESULT_COLORS.get(resultado, "gray"),
-                    linewidth=2,
-                    alpha=0.8
-                )
-                ax_center.scatter(
-                    row["X"], row["Y"],
-                    s=150,
-                    marker="o",
-                    color=RESULT_COLORS.get(resultado, "gray"),
-                    edgecolor="black",
-                    linewidth=0.7
-                )
-        else:
-            # Non-pass → scatter point normally
-            ax_center.scatter(
-                group["X"],
-                group["Y"],
-                s=140,
-                alpha=0.9,
-                marker=RESULT_MARKERS.get(resultado, "o"),
-                color=RESULT_COLORS.get(resultado, "gray"),
-                edgecolor="black",
-                linewidths=0.7,
-                label=str(resultado)
-            )
-
-    ax_center.set_title(f"{event_name} – Campograma", color="white", fontsize=12)
-    ax_center.legend(loc="upper left", fontsize=8)
-
-    # -------------------------------------------------------------
-    # RIGHT COLUMN — PIE CHART
-    # -------------------------------------------------------------
-    ax_pie = fig.add_subplot(gs[2])
-
-    if len(pie_values) > 0:
-        ax_pie.pie(
-            pie_values,
-            colors=pie_colors,
-            autopct="%1.1f%%",
-            startangle=90,
-            textprops={"color": "white", "fontsize": 10}
+    if title:
+        ax.set_title(
+            title,
+            color="white",
+            fontsize=13,
+            fontweight="bold",
+            pad=14
         )
-        ax_pie.set_title("Distribución del Resultado", color="white")
-    else:
-        ax_pie.text(0.5, 0.5, "Sin datos", color="white", ha="center", fontsize=12)
 
-    fig.patch.set_facecolor("#0f0f0f")
-
-    return fig
-
+    ax.axis("equal")
 
 def get_event_coordinates(df_event, event_name):
     """
@@ -452,6 +347,123 @@ def get_event_coordinates(df_event, event_name):
     )
     return df_event
 
+
+def plot_event_summary_matplotlib(
+    df_player,
+    df_team,
+    event_name,
+    result_column="Resultado",
+    title="Resumen del Evento"
+):
+    """
+    Universal 3-panel visualization for ANY offensive/defensive event.
+    Handles events where Resultado is NaN (e.g. fouls).
+    """
+
+    # ============================
+    # 0. PREPARE DATA
+    # ============================
+
+    df_team_event = df_team[df_team["Acción"] == event_name]
+    team_total = len(df_team_event)
+
+    df_player_event = df_player[df_player["Acción"] == event_name]
+    player_total = len(df_player_event)
+
+    if "Posicion" in df_player.columns and not df_player["Posicion"].isna().all():
+        position_mode = df_player["Posicion"].mode().iloc[0]
+    else:
+        position_mode = "Desconocido"
+
+    df_team_position_group = df_team[df_team["Posicion"] == position_mode]
+    df_pos_event = df_team_position_group[df_team_position_group["Acción"] == event_name]
+    pos_total = len(df_pos_event)
+
+    player_pct = round((player_total / team_total) * 100, 1) if team_total > 0 else 0
+    pos_pct = round((player_total / pos_total) * 100, 1) if pos_total > 0 else 0
+
+    # ============================
+    # 1. FIGURE
+    # ============================
+
+    fig = plt.figure(figsize=(18, 10))
+    gs = GridSpec(1, 3, width_ratios=[1, 3, 1.3], wspace=0.25)
+
+    # ---------- LEFT ----------
+    gs_left = GridSpecFromSubplotSpec(
+        3, 1, subplot_spec=gs[0],
+        height_ratios=[1, 1, 0.7], hspace=0.4
+    )
+
+    ax1 = fig.add_subplot(gs_left[0])
+    ax1.barh([event_name], [player_pct], color="#4CAF50")
+    ax1.set_xlim(0, 100)
+    ax1.set_title("Jugador (% del Equipo)", color="white")
+    ax1.bar_label(ax1.containers[0], labels=[f"{player_pct}%"], color="white")
+    ax1.tick_params(colors="white")
+
+    ax2 = fig.add_subplot(gs_left[1])
+    ax2.barh([position_mode], [pos_pct], color="#2196F3")
+    ax2.set_xlim(0, 100)
+    ax2.set_title(f"Jugador (% Posición: {position_mode})", color="white")
+    ax2.bar_label(ax2.containers[0], labels=[f"{pos_pct}%"], color="white")
+    ax2.tick_params(colors="white")
+
+    ax_text = fig.add_subplot(gs_left[2])
+    ax_text.axis("off")
+    ax_text.text(0, 0.9, f"Equipo: {team_total}", color="white")
+    ax_text.text(0, 0.6, f"Posición: {pos_total}", color="white")
+    ax_text.text(0, 0.3, f"Jugador: {player_total}", color="white")
+
+    # ---------- CENTER ----------
+    ax_center = fig.add_subplot(gs[1])
+    draw_futsal_pitch_grid(ax_center)
+
+    df_plot = get_event_coordinates(df_player_event, event_name)
+
+    # ✅ FIX: keep NaN Resultado as category
+    df_plot[result_column] = df_plot[result_column].fillna("Sin Resultado")
+
+    for resultado, group in df_plot.groupby(result_column, dropna=False):
+
+        if len(group) > 0 and group["is_pass"].iloc[0]:
+            for _, row in group.iterrows():
+                ax_center.plot(
+                    [row["X"], row["X2"]],
+                    [row["Y"], row["Y2"]],
+                    color=RESULT_COLORS.get(resultado, "gray"),
+                    linewidth=2, alpha=0.8
+                )
+                ax_center.scatter(
+                    row["X"], row["Y"],
+                    s=150, color=RESULT_COLORS.get(resultado, "gray"),
+                    edgecolor="black", linewidth=0.7
+                )
+        else:
+            ax_center.scatter(
+                group["X"], group["Y"],
+                s=140, alpha=0.9,
+                marker=RESULT_MARKERS.get(resultado, "o"),
+                color=RESULT_COLORS.get(resultado, "gray"),
+                edgecolor="black",
+                linewidths=0.7,
+                label=str(resultado)
+            )
+
+    ax_center.set_title(f"{event_name} – Campograma", color="white")
+    ax_center.legend(loc="upper left", fontsize=8)
+
+    # ---------- RIGHT ----------
+    ax_donut = fig.add_subplot(gs[2])
+    plot_event_result_donut(
+        ax=ax_donut,
+        df_event=df_player_event,
+        result_column=result_column,
+        title="Distribución del Resultado"
+    )
+
+    fig.patch.set_facecolor("#0F0F0F")
+    return fig
 
 
 # ================================
@@ -530,12 +542,25 @@ def get_top_player_unified(df_events, df_m2, df_source, filter_col, filter_value
     # ---------- CASE 1: USE M1 (df_events) ----------
     if df_source == "m1":
 
-        df_f = df_events[df_events[filter_col] == filter_value]
+        # ---- GK modes ----
+        if filter_col == "GK_TOTAL":
+            df_f = df_events[df_events["Acción"] == "Arquero"]
 
+        elif filter_col == "GK_RESULT":
+            df_f = df_events[
+                (df_events["Acción"] == "Arquero") &
+                (df_events["Resultado"] == filter_value)
+            ]
+
+        # ---- Normal m1 filter ----
+        else:
+            df_f = df_events[df_events[filter_col] == filter_value]
+
+        # ---- EMPTY CHECK (COMMON) ----
         if df_f.empty:
             return None, None, 0
 
-        # Preserve original row order
+        # ---- PRESERVE ROW ORDER ----
         df_f = df_f.reset_index().rename(columns={"index": "orig_order"})
 
         counts = (
@@ -563,7 +588,6 @@ def get_top_player_unified(df_events, df_m2, df_source, filter_col, filter_value
         if df_f.empty:
             return None, None, 0
 
-        # Preserve original row order
         df_f = df_f.reset_index().rename(columns={"index": "orig_order"})
 
         counts = (
@@ -583,16 +607,21 @@ def get_top_player_unified(df_events, df_m2, df_source, filter_col, filter_value
 
         return top[name_col], top[dorsal_col], int(top["count"])
 
+    # ---------- SAFETY NET ----------
+    return None, None, 0
+
 
 OFENSIVO_STATS = [
     ("Tiros",                  "m1", "Acción", "Tiro Ferro"),
     ("Goles",                  "m1", "Resultado", "Gol"),
+    ("Asistencia",                  "m1", "Acción", "Asistencia"),
     ("Pases Claves",           "m1", "Acción", "Pase Clave"),
     ("1 VS 1 Ofensivo",        "m1", "Acción", "1 VS 1 Ofensivo"),
     ("Pérdida",                "m1", "Acción", "Pérdida"),
     ("Faltas Recibidas",       "m1", "Acción", "Falta Recibida"),
     ("MT Ofensivo",            "m2", "Acción", "MT Ofensivo"),
     ("Transiciones Ofensivas", "m2", "Acción", "Transición Ofensiva"),
+
 ]
 
 
@@ -610,10 +639,14 @@ DEFENSIVO_STATS = [
 
 import math
 
-def make_cards_grid(df_events, df_m2, stats_list, title):
+def make_cards_grid(df_events, df_m2, stats_list, title, exclude_arqueros=True):
+
+    if exclude_arqueros:
+        df_events = df_events[df_events["Posicion"] != "Arquero"]
+        df_m2 = df_m2[df_m2["Posicion"] != "Arquero"]
 
     n_stats = len(stats_list)
-    cols = 4
+    cols = 5
     rows = math.ceil(n_stats / cols)
 
     fig, axes = plt.subplots(rows, cols, figsize=(22, 5 * rows))
@@ -652,6 +685,246 @@ def make_cards_grid(df_events, df_m2, stats_list, title):
             idx += 1
 
     plt.tight_layout(rect=[0, 0, 1, 0.95])
+    return fig
+
+# GK STATS
+
+GK_STATS = [            # Acción == Arquero (all resultados)
+    ("Goles Encajados", "m1", "GK_RESULT", "Gol Recibido"),
+    ("Atajas",          "m1", "GK_RESULT", "Ataja"),
+    ("Rebotes",         "m1", "GK_RESULT", "Rebote"),
+    ("Sexta",           "m1", "GK_RESULT", "Sexta"),
+    ("Penal",           "m1", "GK_RESULT", "Penal"),
+]
+
+
+keeper_actions = ['Ataja', 'Rebote', 'Gol Recibido']
+
+
+def plot_gk_action_breakdown(df_b1):
+
+    df_gk = df_b1[
+        (df_b1["Acción"] == "Arquero") &
+        (df_b1["Resultado"].isin(keeper_actions))
+    ]
+
+    fig, ax = plt.subplots(figsize=(10.5, 1.6))
+    fig.patch.set_facecolor("#0F0F0F")
+    ax.set_facecolor("#0F0F0F")
+
+    if df_gk.empty:
+        ax.text(
+            0.5, 0.5,
+            "Sin acciones de arquero",
+            ha="center", va="center",
+            color="white", fontsize=12
+        )
+        ax.axis("off")
+        return fig
+
+    # ---------- ORDER + COUNTS ----------
+    order = ["Ataja", "Rebote", "Gol Recibido"]
+    counts = df_gk["Resultado"].value_counts().reindex(order, fill_value=0)
+    total = counts.sum()
+
+    left = 0
+
+    # ---------- DRAW SEGMENTS ----------
+    for res, val in counts.items():
+
+        if val == 0:
+            continue
+
+        pct = (val / total) * 100
+        color = RESULT_COLORS.get(res, "gray")
+
+        # Rounded bar
+        bar = FancyBboxPatch(
+            (left, -0.35),
+            pct, 0.7,
+            boxstyle="round,pad=0.02,rounding_size=0.25",
+            linewidth=1,
+            edgecolor="#111111",
+            facecolor=color
+        )
+        ax.add_patch(bar)
+
+        # Percentage (big)
+        ax.text(
+            left + pct / 2,
+            0.08,
+            f"{pct:.0f}%",
+            ha="center", va="center",
+            color="white",
+            fontsize=14,
+            fontweight="bold"
+        )
+
+        # Count (small)
+        ax.text(
+            left + pct / 2,
+            -0.18,
+            f"{res}",
+            ha="center", va="center",
+            color="#DDDDDD",
+            fontsize=9
+        )
+
+        left += pct
+
+        # Separator line
+        ax.plot([left, left], [-0.35, 0.35],
+                color="#111111", linewidth=1)
+
+    # ---------- TITLES ----------
+    ax.text(
+        0, 0.75,
+        "Arquero — Distribución de Resultados",
+        fontsize=13,
+        fontweight="bold",
+        color="white",
+        ha="left"
+    )
+
+    ax.text(
+        0, -0.85,
+        f"Total acciones: {total}",
+        fontsize=10,
+        color="#BBBBBB",
+        ha="left"
+    )
+
+    # ---------- CLEAN AXES ----------
+    ax.set_xlim(0, 100)
+    ax.set_ylim(-1, 1)
+    ax.axis("off")
+
+    return fig
+
+def make_gk_cards_grid(df_events, df_m2):
+    df_events = df_events[df_events["Posicion"] == "Arquero"]
+    df_m2 = df_m2[df_m2["Posicion"] == "Arquero"]
+
+    fig = make_cards_grid(df_events, df_m2, GK_STATS, title="Máximos – Arquero", exclude_arqueros=False)
+    return fig
+
+
+TIPO_ACCION = {
+    # --- Offensive / Build-up ---
+    "Paralela": "dodgerblue",
+    "Diagonal": "limegreen",
+    "Salto Linea": "orange",
+    "Puerta Atras": "deepskyblue",
+    "Pared": "gold",
+    "Pivot": "purple",
+    "Descarga Pivot": "mediumorchid",
+    "Corte": "orangered",
+    "Tiro": "darkorange",
+    "Pelota Parada": "goldenrod",
+
+    # --- Defensive actions ---
+    "Doble Marca": "slateblue",
+    "Cobertura": "teal",
+    "Cambio Marca": "steelblue",
+    "Cambio de Marca": "steelblue",  # same action, different spelling
+    "Repliegue": "royalblue",
+    "Recuperacion": "green",
+    "Lectura Salto": "olive",
+
+    # --- Negative / Risk ---
+    "Perdida": "crimson",
+
+    # --- Defensive outcome ---
+    "Gol": "red",   # conceded goal (defensive perspective)
+
+    # --- Fallback ---
+    None: "gray"
+}
+
+def plot_gk_mt_donuts(df_m2):
+    df_gk = df_m2[df_m2["Posicion"] == "Arquero"]
+
+    fig, axes = plt.subplots(1, 2, figsize=(11, 4.2))
+    fig.patch.set_facecolor("#0F0F0F")
+
+    for ax, mt_type, title in zip(
+        axes,
+        ["MT Ofensivo", "MT Defensivo"],
+        ["MT Ofensivo (GK)", "MT Defensivo (GK)"]
+    ):
+        ax.set_facecolor("#0F0F0F")
+
+        data = df_gk[df_gk["Acción"] == mt_type]
+
+        if data.empty:
+            ax.text(
+                0.5, 0.5, "Sin datos",
+                ha="center", va="center",
+                color="white", fontsize=12
+            )
+            ax.axis("off")
+            continue
+
+        counts = data["Tipo_de_Accion"].value_counts()
+        total = counts.sum()
+
+        labels = counts.index.tolist()
+        values = counts.values
+        colors = [TIPO_ACCION.get(r, "gray") for r in labels]
+
+        # --- Donut ---
+        wedges, texts, autotexts = ax.pie(
+            values,
+            labels=labels,
+            colors=colors,
+            startangle=90,
+            counterclock=False,
+            wedgeprops=dict(width=0.38, edgecolor="#0F0F0F"),
+            autopct=lambda p: f"{p:.0f}%",
+            pctdistance=0.78,
+            labeldistance=1.08,
+            textprops=dict(color="white")
+        )
+
+        # --- Smaller labels ---
+        for t in texts:
+            t.set_fontsize(9)
+
+        # --- Percent text styling ---
+        for at in autotexts:
+            at.set_fontsize(10)
+            at.set_fontweight("bold")
+
+        # --- Center total ---
+        ax.text(
+            0, 0.05,
+            f"{total}",
+            ha="center", va="center",
+            fontsize=20,
+            fontweight="bold",
+            color="white"
+        )
+
+        ax.text(
+            0, -0.18,
+            "acciones",
+            ha="center", va="center",
+            fontsize=10,
+            color="#BBBBBB"
+        )
+
+        # --- Title ---
+        ax.set_title(
+            title,
+            color="white",
+            fontsize=13,
+            fontweight="bold",
+            pad=14
+        )
+
+        ax.axis("equal")
+
+    plt.tight_layout()
     return fig
 
 
@@ -998,7 +1271,7 @@ def compute_player_kpis(df_events, df_minutes, player_name):
         "Goles": goles,
         "Pases Claves/40": pases_clave * factor_40,
         "Asistencias": asistencias,
-        "Pérdida": perdida,
+        "Pérdidas/40": perdida * factor_40,
         "Falta Recibida": falta_recibida,
         "1v1 Of Ganado %": pct_of,
 
@@ -1094,7 +1367,7 @@ OFFENSIVE_PARAMS = [
     "Goles",
     "Pases Claves/40",
     "Asistencias",
-    "Pérdida",
+    "Pérdidas/40",
     "Falta Recibida",
     "1v1 Of Ganado %",
 ]
@@ -1283,9 +1556,31 @@ def render(df_1, df_2, df_3, df_tiempos):
 
     st.pyplot(fig_def, use_container_width=True)
 
+
+    # ==========================
+    # ARQUERO – OVERALL STATS
+    # ==========================
+
+    st.markdown("<h3 style='color:white;'>Arquero – Resumen Global</h3>",
+                unsafe_allow_html=True)
+
+    # Row 1: Stacked bar
+    fig_gk_bar = plot_gk_action_breakdown(df_1)
+    st.pyplot(fig_gk_bar, use_container_width=True)
+
+    # Row 2: GK máximos
+    fig_gk_cards = make_gk_cards_grid(df_1, df_2)
+    st.pyplot(fig_gk_cards, use_container_width=True)
+
+    # Row 3: MT donuts
+    fig_gk_mt = plot_gk_mt_donuts(df_2)
+    st.pyplot(fig_gk_mt, use_container_width=True)
+
+
     # =============================
     # 1. SELECT PLAYER
     # =============================
+    st.markdown("<h3 style='color:white;'>Selecciona el jugador que quieres analizar</h3>", unsafe_allow_html=True)
     players = sorted(df_1["Nombre"].dropna().unique().tolist())
     selected_player = st.selectbox(
         "Seleccionar Jugador",
@@ -1355,6 +1650,66 @@ def render(df_1, df_2, df_3, df_tiempos):
         # =============================
         st.markdown("<h3 style='color:white;'>Seleccionar Evento</h3>", unsafe_allow_html=True)
 
+
+        st.markdown("""
+        <style>
+
+        /* === RADIO GROUP CONTAINER === */
+        div[role="radiogroup"] {
+            display: flex;
+            justify-content: center;
+            gap: 28px;
+            margin-top: 10px;
+        }
+
+        /* === EACH RADIO LABEL (pill) === */
+        div[role="radiogroup"] > label {
+            background: rgba(255, 255, 255, 0.08);
+            border: 1px solid rgba(255, 255, 255, 0.25);
+            border-radius: 14px;
+            padding: 8px 20px;
+            cursor: pointer;
+
+            color: white !important;
+            font-size: 18px !important;
+            font-weight: 600;
+
+            transition: all 0.25s ease;
+        }
+
+        /* === HOVER EFFECT === */
+        div[role="radiogroup"] > label:hover {
+            background: rgba(255, 255, 255, 0.18);
+            transform: translateY(-1px);
+        }
+
+        /* === HIDE DEFAULT RADIO CIRCLE === */
+        div[role="radiogroup"] input[type="radio"] {
+            display: none;
+        }
+
+        /* === SELECTED STATE === */
+        div[role="radiogroup"] > label:has(input[type="radio"]:checked) {
+            background: linear-gradient(
+                135deg,
+                rgba(26, 120, 207, 0.85),
+                rgba(105, 219, 124, 0.85)
+            );
+            border-color: rgba(255, 255, 255, 0.6);
+            box-shadow: 0 6px 18px rgba(0, 0, 0, 0.45);
+        }
+
+        /* === ENSURE TEXT STAYS WHITE === */
+        div[role="radiogroup"] > label span {
+            color: white !important;
+        }
+
+        </style>
+        """, unsafe_allow_html=True)
+
+
+
+
         modo = st.radio(
             "Categoría",
             ["Ofensivo", "Defensivo"],
@@ -1367,7 +1722,8 @@ def render(df_1, df_2, df_3, df_tiempos):
             "1 VS 1 Ofensivo",
             "Pase Clave",
             "Falta Recibida",
-            "Asistencia"
+            "Asistencia",
+            "Pérdida"
         ]
 
         defensive_events = [
@@ -1407,3 +1763,7 @@ def render(df_1, df_2, df_3, df_tiempos):
         )
 
         st.pyplot(fig_summary, use_container_width=True)
+
+
+
+

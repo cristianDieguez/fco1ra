@@ -121,18 +121,23 @@ N_COLS, N_ROWS = 3, 3
 def preprocess_transiciones(df, modo="Ofensiva"):
     """
     Collapse player-level rows into EVENT-level transitions.
-    Works for Ofensiva and Defensiva.
-
-    modo: "Ofensiva" | "Defensiva"
+    Only uses TRUE Transición rows (not MT Ofensivo / MT Defensivo).
     """
 
     if modo == "Ofensiva":
-        action_col = "Tipo_de_Accion"
+        accion_value = "Transición Ofensiva"
         PRIORITY = ["Gol", "Tiro", "Pelota Parada", "Recuperacion", "Perdida", None]
     else:
-        action_col = "Tipo_de_Accion"
-        PRIORITY = ['Pelota Parada', 'Repliegue', 'Tiro', 'Gol', 'Recuperacion', None,
-       'Perdida']
+        accion_value = "Transición Defensiva"
+        PRIORITY = [
+            "Pelota Parada", "Repliegue", "Tiro",
+            "Gol", "Recuperacion", "Perdida", None
+        ]
+
+    # --------------------------------------------------
+    # ✅ FILTER: ONLY REAL TRANSICIONES
+    # --------------------------------------------------
+    df_trans = df[df["Acción"] == accion_value]
 
     def resolve_tipo(x):
         for p in PRIORITY:
@@ -141,10 +146,11 @@ def preprocess_transiciones(df, modo="Ofensiva"):
         return None
 
     grouped = (
-        df.groupby(["Jornada", "Evento"])
+        df_trans
+        .groupby(["Jornada", "Evento"])
         .agg(
             Situacion=("Situacion", "first"),
-            Resultado=(action_col, resolve_tipo),
+            Resultado=("Tipo_de_Accion", resolve_tipo),
             Duración=(
                 "Duración",
                 lambda x: (
@@ -157,6 +163,9 @@ def preprocess_transiciones(df, modo="Ofensiva"):
         .reset_index()
     )
 
+    # Re-attach correct Acción label (clean & consistent)
+    grouped["Acción"] = accion_value
+
     return grouped
 
 import matplotlib.pyplot as plt
@@ -164,7 +173,7 @@ from matplotlib.gridspec import GridSpec
 from matplotlib.patches import Patch
 
 
-def plot_transiciones(df_events, df_raw, modo="Ofensiva"):
+def plot_transiciones(df_events, df_raw, modo):
     """
     Shared visualization for Transiciones Ofensivas / Defensivas
     """
@@ -173,7 +182,7 @@ def plot_transiciones(df_events, df_raw, modo="Ofensiva"):
 
     if modo == "Ofensiva":
         ACTION_COLORS = {
-            "Gol": "#2ecc71",
+            "Gol": "#bbbbbb",
             "Tiro": "#27ae60",
             "Pelota Parada": "#f1c40f",
             "Recuperacion": "#3498db",
@@ -182,7 +191,7 @@ def plot_transiciones(df_events, df_raw, modo="Ofensiva"):
         }
     else:
         ACTION_COLORS = {
-            "Gol": "#2ecc71",           # Green → success
+            "Gol": "#bbbbbb",           # Green → success
             "Tiro": "#27ae60",          # Dark green → attempt
             "Pelota Parada": "#f1c40f", # Yellow → restart / set piece
             "Recuperacion": "#3498db",  # Blue → regain control
@@ -521,6 +530,10 @@ def plot_shot_result_pies(df, local_team, visit_team):
     plt.tight_layout()
     return fig
 
+
+
+
+
 # -----------------------------
 # 1. STATS FROM BOTONERA_1
 # -----------------------------
@@ -791,259 +804,375 @@ def format_mmss(seconds):
     sec = int(seconds % 60)
     return f"{minutes:02d}:{sec:02d}"
 
-def compute_player_stats_for_pizza(df_events, df_minutes, df_2, player_name):
+
+from matplotlib.offsetbox import OffsetImage, AnnotationBbox
+import matplotlib.image as mpimg
+
+
+# =========================================================
+# RADAR CHARTS – CLEAN COMPUTATION ENGINE (WITH ARQUERO)
+# =========================================================
+
+def compute_player_kpis(df_events, df_minutes, player_name):
     """
-    Computes ALL futsal KPIs for the Pizza Plot + MT OF/DEF absolute +
-    MT OF/DEF positive + % positive in both phases.
+    Compute all KPIs used in the dual radar for a given player.
+    Handles:
+      - Any position
+      - Special defensive metrics for Arquero
+      - Players with zero events (returns all-zero dict)
     """
 
+    # Filter events for this player
     df_p = df_events[df_events["Nombre"] == player_name]
 
-    # ---------------- MINUTOS JUGADOS (MM:SS only for UI) ----------------
+    # Minutes dataframe for this player
     df_m = df_minutes[df_minutes["Nombre"] == player_name]
-    total_seconds = df_m["Tiempo_Efectivo"].sum() if len(df_m) > 0 else 0
-    tiempo_MMSS = format_mmss(total_seconds)
+    total_seconds = df_m["Tiempo_Efectivo"].sum()
+    minutos = total_seconds / 60 if total_seconds > 0 else 0
+    factor_40 = 40 / minutos if minutos > 0 else 0
 
-    # ---------------- MT OFENSIVO / DEFENSIVO (ABSOLUTE SECONDS) ----------------
-    df_mt = df_2[df_2["Nombre"] == player_name]
+    # If no events: return 0s for all KPIs
+    if df_p.empty:
+        return {
+            # Offensive block
+            "Tiros/40": 0,
+            "Tiros al Arco/40": 0,
+            "Goles": 0,
+            "Pases Claves/40": 0,
+            "Asistencias": 0,
+            "Pérdida": 0,
+            "Falta Recibida": 0,
+            "1v1 Of Ganado %": 0,
 
-    mt_of = (df_mt["Acción"] == "MT Ofensivo").sum()
-    mt_def = (df_mt["Acción"] == "MT Defensivo").sum()
-    
-    # Positives based on Resultado == "Positivo"
-    mt_of_pos = ((df_mt["Acción"] == "MT Ofensivo") & (df_mt["Resultado"] == "Positivo")).sum()
-    mt_def_pos = ((df_mt["Acción"] == "MT Defensivo") & (df_mt["Resultado"] == "Positivo")).sum()
-    # ---------------- HELPERS ----------------
+            # Defensive (player)
+            "1v1 Def Ganado %": 0,
+            "1v1 Def Total/40": 0,
+            "Recuperaciones/40": 0,
+            "Presiones/40": 0,
+            "Sanciones": 0,
+
+            # Defensive (GK-specific)
+            "Tiro Rival/40": 0,
+            "Atajadas/40": 0,
+            "Goles Encajados": 0,
+            "Rebotes": 0,
+        }
+
+    # Get position safely
+    if "Posicion" in df_p.columns and not df_p["Posicion"].isna().all():
+        position = str(df_p["Posicion"].iloc[0]).strip()
+    else:
+        position = "Jugador"
+
+    # Helper filters
     def count(action):
         return df_p[df_p["Acción"] == action].shape[0]
 
-    def count_result(action, results):
-        df_tmp = df_p[df_p["Acción"] == action]
-        return df_tmp[df_tmp["Resultado"].isin(results)].shape[0]
+    def count_result(action, result_list):
+        tmp = df_p[df_p["Acción"] == action]
+        return tmp[tmp["Resultado"].isin(result_list)].shape[0]
 
-    # ---------------- OFENSIVO ----------------
+    # -----------------------------
+    #  COMMON OFENSIVE KPIs
+    # -----------------------------
     tiros = count("Tiro Ferro")
     tiros_arco = count_result("Tiro Ferro", ["Gol", "Atajado"])
     goles = df_p[df_p["Resultado"] == "Gol"].shape[0]
     pases_clave = count("Pase Clave")
-    pases_clave_correctos = count_result("Pase Clave", ["Correcto"])
     asistencias = count("Asistencia")
     perdida = count("Pérdida")
     falta_recibida = count("Falta Recibida")
 
-    # 1v1 ofensivo
-    of_total = count("1 VS 1 Ofensivo")
-    of_ganados = count_result("1 VS 1 Ofensivo", ["Ganado"])
-    pct_of = (of_ganados / of_total * 100) if of_total > 0 else 0
+    of_tot = count("1 VS 1 Ofensivo")
+    of_gan = count_result("1 VS 1 Ofensivo", ["Ganado"])
+    pct_of = (of_gan / of_tot * 100) if of_tot > 0 else 0
 
-    # ---------------- DEFENSIVO ----------------
-    def_total = count("1 VS 1 Defensivo")
-    def_ganados = count_result("1 VS 1 Defensivo", ["Ganado"])
-    pct_def = (def_ganados / def_total * 100) if def_total > 0 else 0
+    # -----------------------------
+    #  DEFENSIVE / GK KPIs
+    # -----------------------------
+    # Player defensive (non-GK)
+    def_tot = count("1 VS 1 Defensivo")
+    def_gan = count_result("1 VS 1 Defensivo", ["Ganado"])
+    pct_def = (def_gan / def_tot * 100) if def_tot > 0 else 0
 
-    recuperaciones = count("Recuperación")
-    presiones = count("Presión")
+    rec = count("Recuperación")
+    pres = count("Presión")
     sanciones = df_p[df_p["Sanción"] == "Ferro"].shape[0]
 
-    # ---------------- POSITIVE ACTIONS % ----------------
+    # GK specific events
+    tiros_rival = count("Arquero")
+    atajadas = count_result("Arquero", ["Ataja"])
+    goles_recibidos = count_result("Arquero", ["Gol Recibido"])
+    rebotes = count_result("Arquero", ["Rebote"])
 
-    pct_ofensivo_positivo = (mt_of_pos / mt_of * 100) if mt_of > 0 else 0
-
-    pct_defensivo_positivo = (mt_def_pos / mt_def * 100) if mt_def > 0 else 0
-
-    # ---------------- OUTPUT ----------------
-    stats_off_abs = {
-        "Tiros": tiros,
-        "Tiros al Arco": tiros_arco,
+    # Build full dict (always same keys!)
+    stats = {
+        # Offensive block
+        "Tiros/40": tiros * factor_40,
+        "Tiros al Arco/40": tiros_arco * factor_40,
         "Goles": goles,
-        "MT Ofensivo": mt_of,
-        "% MT Of": round(pct_ofensivo_positivo, 2),
-        "Pases Claves": pases_clave,
+        "Pases Claves/40": pases_clave * factor_40,
         "Asistencias": asistencias,
-        "Pérdida": perdida,
+        "Pérdidas/40": perdida * factor_40,
         "Falta Recibida": falta_recibida,
-        "1v1 Of Ganado %": round(pct_of, 2),
+        "1v1 Of Ganado %": pct_of,
 
+        # Defensive (generic player)
+        "1v1 Def Ganado %": pct_def,
+        "1v1 Def Total/40": def_tot * factor_40,
+        "Recuperaciones/40": rec * factor_40,
+        "Presiones/40": pres * factor_40,
+        "Sanciones": sanciones,
+
+        # Defensive (GK-specific)
+        "Tiro Rival/40": tiros_rival * factor_40,
+        "Atajadas/40": atajadas * factor_40,
+        "Goles Encajados": goles_recibidos,
+        "Rebotes": rebotes,
     }
 
-    stats_def_abs = {
-        "1v1 Def Total": def_total,
-        "1v1 Def Ganado %": round(pct_def, 2),
-        "Recuperaciones": recuperaciones,
-        "Presiones": presiones,
-        "Sanciones": sanciones,
-        "MT Defensivo": mt_def,
-        "% MT Def": round(pct_defensivo_positivo, 2),
-        }
+    return stats
 
-    return stats_off_abs, stats_def_abs, tiempo_MMSS
+def compute_team_max(df_events, df_minutes):
+    """
+    Computes the maximum value per KPI across the whole team.
+    Uses compute_player_kpis, so it already handles Arquero + players with 0 events.
+    """
 
-def compute_team_max_values(df_events, df_minutes, df_mt):
+    players = df_events["Nombre"].dropna().unique()
 
-    team_stats = {
-        "Tiros": 0,
-        "Tiros al Arco": 0,
-        "Goles": 0,
-        "MT Ofensivo": 0,
-        "% MT Of": 100,
+    if len(players) == 0:
+        # Return a zero dict compatible with compute_player_kpis
+        return compute_player_kpis(df_events.iloc[0:0], df_minutes.iloc[0:0], "")
 
+    # Initialize with first player's keys
+    first_stats = compute_player_kpis(df_events, df_minutes, players[0])
+    team_max = {k: 0 for k in first_stats.keys()}
 
-        "Pases Claves": 0,
-        "Asistencias": 0,
-        "Pérdida": 0,
-        "Falta Recibida": 0,
-        "1v1 Of Ganado %": 100,
+    # Iterate players
+    for p in players:
+        stats = compute_player_kpis(df_events, df_minutes, p)
+        for k, v in stats.items():
+            # Percent KPIs we will treat separately
+            if k in ["1v1 Of Ganado %", "1v1 Def Ganado %"]:
+                continue
+            team_max[k] = max(team_max.get(k, 0), v)
 
-        "1v1 Def Total": 0,
-        "1v1 Def Ganado %": 100,
-        "Recuperaciones": 0,
-        "Presiones": 0,
-        "Sanciones": 0,
-        "MT Defensivo": 0,
-        "% MT Def": 100,
-        }
+    # Percent KPIs fixed to 100 for scaling
+    team_max["1v1 Of Ganado %"] = 100
+    team_max["1v1 Def Ganado %"] = 100
 
-    for player in df_events["Nombre"].unique():
-        stats_off, stats_def, _ = compute_player_stats_for_pizza(df_events, df_minutes, df_mt, player)
+    # Avoid zeros for max (Radar can't scale from 0)
+    for k in team_max:
+        if team_max[k] == 0:
+            team_max[k] = 1
 
-        for k, v in stats_off.items():
-            if "%" not in k:
-                team_stats[k] = max(team_stats[k], v)
+    return team_max
 
-        for k, v in stats_def.items():
-            if "%" not in k:
-                team_stats[k] = max(team_stats[k], v)
+def compute_position_avg(df_events, df_minutes, position):
+    """
+    Average KPIs for all players with the same Posicion.
+    If no players are found for that position, falls back to team first player.
+    """
 
-    return team_stats
+    df_pos = df_events[df_events["Posicion"] == position]
+    players_pos = df_pos["Nombre"].dropna().unique()
 
-def prepare_pizza_with_team_ranges(stats_off, stats_def, team_max):
+    # If no one in this position, fall back to first team player
+    if len(players_pos) == 0:
+        all_players = df_events["Nombre"].dropna().unique()
+        if len(all_players) == 0:
+            # Return empty-zero dict if absolutely nothing exists
+            return compute_player_kpis(df_events.iloc[0:0], df_minutes.iloc[0:0], "")
+        return compute_player_kpis(df_events, df_minutes, all_players[0])
 
-    params = [
-        "Tiros",
-        "Tiros al Arco",
-        "Goles",
-        "MT Ofensivo",
-        "% MT Of",
+    agg = None
+    count = 0
 
-        "Pases Claves",
-        "Asistencias",
-        "Pérdida",
-        "Falta Recibida",
-        "1v1 Of Ganado %",
-        
-        "1v1 Def Total",
-        "1v1 Def Ganado %",
-        "Recuperaciones",
-        "Presiones",
-        "Sanciones",
-        "MT Defensivo",
-        "% MT Def",
-    ]
+    for p in players_pos:
+        kpis = compute_player_kpis(df_events, df_minutes, p)
+        if agg is None:
+            agg = {k: 0 for k in kpis}
+        for k in kpis:
+            agg[k] += kpis[k]
+        count += 1
 
-    values = [
-        stats_off["Tiros"],
-        stats_off["Tiros al Arco"],
-        stats_off["Goles"],
-        stats_off["MT Ofensivo"],
-        stats_off["% MT Of"],
+    avg = {k: (agg[k] / count if count > 0 else 0) for k in agg}
+    return avg
 
 
-        stats_off["Pases Claves"],
-        stats_off["Asistencias"],
-        stats_off["Pérdida"],
-        stats_off["Falta Recibida"],
-        stats_off["1v1 Of Ganado %"],
-        
-        stats_def["1v1 Def Total"],
-        stats_def["1v1 Def Ganado %"],
-        stats_def["Recuperaciones"],
-        stats_def["Presiones"],
-        stats_def["Sanciones"],
-        stats_def["MT Defensivo"],
-        stats_def["% MT Def"]
-    ]
+from mplsoccer import Radar, FontManager, grid
 
-    min_range = [0] * len(params)
+OFFENSIVE_PARAMS = [
+    "Tiros/40",
+    "Tiros al Arco/40",
+    "Goles",
+    "Pases Claves/40",
+    "Asistencias",
+    "Pérdidas/40",
+    "Falta Recibida",
+    "1v1 Of Ganado %",
+]
 
-    max_range = []
-    for p in params:
-        if "%" in p:
-            max_range.append(100)
-        else:
-            mx = team_max.get(p, 1)
-            if mx == 0:
-                mx = 1
-            max_range.append(mx)
+DEFENSIVE_PARAMS_PLAYER = [
+    "1v1 Def Ganado %",
+    "1v1 Def Total/40",
+    "Recuperaciones/40",
+    "Presiones/40",
+    "Sanciones",
+]
 
-    # ✅ FIX: return OUTSIDE the loop
-    return params, values, min_range, max_range
+DEFENSIVE_PARAMS_ARQUERO = [
+    "Tiro Rival/40",
+    "Atajadas/40",
+    "Goles Encajados",
+    "Rebotes",
+    "Recuperaciones/40",
+    "Sanciones",
+]
 
-def plot_player_pizza_with_ranges(
+
+def plot_dual_radar_with_grid(
     player_name,
-    params,
-    values,
-    min_range,
-    max_range,
-    rival
+    position_name,
+    player_kpis,
+    pos_avg,
+    team_max
 ):
+    """
+    Creates a figure with two radars:
+      - Left: Ofensivo
+      - Right: Defensivo (player or Arquero version)
+    """
 
-    slice_colors = (
-        ["#1A78CF"] * 5 +   # offensive
-        ["#FF9300"] * 5 +   # possession
-        ["#D70232"] * 7     # defensive
+    fm = FontManager(
+        'https://github.com/google/fonts/raw/main/apache/robotoslab/RobotoSlab%5Bwght%5D.ttf'
     )
 
-    baker = PyPizza(
-        params=params,
-        min_range=min_range,
-        max_range=max_range,
-        background_color="#111111",
-        straight_line_color="#222222",
-        last_circle_color="#222222",
-        last_circle_lw=1.5,
-        straight_line_lw=1,
-        inner_circle_size=20,
+    # ----- Offensive values -----
+    OFF = [player_kpis[k] for k in OFFENSIVE_PARAMS]
+    POS_OFF = [pos_avg[k] for k in OFFENSIVE_PARAMS]
+    MIN_OFF = [0] * len(OFFENSIVE_PARAMS)
+    MAX_OFF = [team_max[k] for k in OFFENSIVE_PARAMS]
+
+    # ----- Defensive params depend on position -----
+    if str(position_name).strip().lower() == "arquero":
+        DEF_PARAMS = DEFENSIVE_PARAMS_ARQUERO
+    else:
+        DEF_PARAMS = DEFENSIVE_PARAMS_PLAYER
+
+    DEF = [player_kpis[k] for k in DEF_PARAMS]
+    POS_DEF = [pos_avg[k] for k in DEF_PARAMS]
+    MIN_DEF = [0] * len(DEF_PARAMS)
+    MAX_DEF = [team_max[k] for k in DEF_PARAMS]
+
+    # ----- Build figure -----
+    fig, axs = grid(
+        figheight=14,
+        grid_height=0.80,
+        title_height=0.12,
+        title_space=0,
+        grid_key='radar',
+        axis=False,
+        ncols=2
     )
 
-    fig, ax = baker.make_pizza(
-        values,
-        figsize=(9, 9),
-        color_blank_space="same",
-        blank_alpha=0.45,
-        param_location=110,
+    ax_left = axs['radar'][0]
+    ax_right = axs['radar'][1]
 
-        kwargs_slices=dict(
-            facecolor=slice_colors,
-            edgecolor="#000000",
-            linewidth=1.2
-        ),
-
-        kwargs_params=dict(
-            color="#FFFFFF",
-            fontsize=10,
-            va="center"
-        ),
-
-        kwargs_values=dict(
-            color="#000000",
-            fontsize=10,
-            bbox=dict(
-                facecolor="#FFFFFF",
-                edgecolor="#000000",
-                lw=1,
-                boxstyle="round,pad=0.2"
-            )
-        )
+    # ================ LEFT RADAR (OFENSIVO) ================
+    radar_off = Radar(
+        params=OFFENSIVE_PARAMS,
+        min_range=MIN_OFF,
+        max_range=MAX_OFF,
+        round_int=[False] * len(OFFENSIVE_PARAMS),
+        num_rings=4,
+        ring_width=1,
+        center_circle_radius=1
     )
 
-    fig.text(0.5, 0.97, f"{player_name} vs {rival}",
-             ha="center", color="white", fontsize=18)
+    radar_off.setup_axis(ax=ax_left)
+    radar_off.draw_circles(ax=ax_left, facecolor="#222222", edgecolor="#555555")
 
-    # fig.text(0.5, 0.95, "Rango: 0 → Máximo de la Plantilla",
-    #          ha="center", color="white", fontsize=12)
+    poly = radar_off.draw_radar_compare(
+        OFF, POS_OFF, ax=ax_left,
+        kwargs_radar={'facecolor': '#1A78CF80', 'edgecolor': '#1A78CF', 'linewidth': 2},
+        kwargs_compare={'facecolor': '#69DB7C80', 'edgecolor': '#69DB7C', 'linewidth': 2},
+    )
 
-    fig.patch.set_facecolor("#111111")
+    _, _, v1, v2 = poly
+    ax_left.scatter(v1[:, 0], v1[:, 1], c='#1A78CF', edgecolors='white', s=120)
+    ax_left.scatter(v2[:, 0], v2[:, 1], c='#69DB7C', edgecolors='white', s=120)
+
+    radar_off.draw_param_labels(ax=ax_left, fontsize=16, fontproperties=fm.prop, color="white")
+    radar_off.draw_range_labels(ax=ax_left, fontsize=14, fontproperties=fm.prop, color="#CCCCCC")
+
+    axs['radar'][0].text(
+        0.5, 1.02, "OFENSIVO",
+        transform=axs['radar'][0].transAxes,
+        ha="center", va="center",
+        fontsize=22, color="#1A78CF",
+        fontproperties=fm.prop
+    )
+
+    # ================ RIGHT RADAR (DEFENSIVO) ================
+    radar_def = Radar(
+        params=DEF_PARAMS,
+        min_range=MIN_DEF,
+        max_range=MAX_DEF,
+        round_int=[False] * len(DEF_PARAMS),
+        num_rings=4,
+        ring_width=1,
+        center_circle_radius=1
+    )
+
+    radar_def.setup_axis(ax=ax_right)
+    radar_def.draw_circles(ax=ax_right, facecolor="#222222", edgecolor="#555555")
+
+    poly2 = radar_def.draw_radar_compare(
+        DEF, POS_DEF, ax=ax_right,
+        kwargs_radar={'facecolor': '#FF6B6B80', 'edgecolor': '#FF6B6B', 'linewidth': 2},
+        kwargs_compare={'facecolor': '#69DB7C80', 'edgecolor': '#69DB7C', 'linewidth': 2},
+    )
+
+    _, _, v1_def, v2_def = poly2
+    ax_right.scatter(v1_def[:, 0], v1_def[:, 1], c='#FF6B6B', edgecolors='white', s=120)
+    ax_right.scatter(v2_def[:, 0], v2_def[:, 1], c='#69DB7C', edgecolors='white', s=120)
+
+    radar_def.draw_param_labels(ax=ax_right, fontsize=16, fontproperties=fm.prop, color="white")
+    radar_def.draw_range_labels(ax=ax_right, fontsize=14, fontproperties=fm.prop, color="#CCCCCC")
+
+    axs['radar'][1].text(
+        0.5, 1.02, "DEFENSIVO",
+        transform=axs['radar'][1].transAxes,
+        ha="center", va="center",
+        fontsize=22, color="#FF6B6B",
+        fontproperties=fm.prop
+    )
+
+    # ======= Titles / Global Text =======
+    axs['title'].text(
+        0.5, 0.75,
+        player_name,
+        fontsize=30, fontproperties=fm.prop,
+        color="white", ha="center"
+    )
+
+    axs['title'].text(
+        0.5, 0.32,
+        f"Comparado con promedio de la posición: {position_name}",
+        fontsize=24, color="#69DB7C80",
+        fontproperties=fm.prop, ha="center"
+    )
+
+    fig.patch.set_facecolor("#0F0F0F")
+    ax_left.set_facecolor("#0F0F0F")
+    ax_right.set_facecolor("#0F0F0F")
+
     return fig
+
+
+
 
 def plot_player_action_map(pdf, player_name, modo, images_path="img"):
     import matplotlib.pyplot as plt
@@ -1378,9 +1507,7 @@ def build_effective_timeline(df_4: pd.DataFrame) -> pd.DataFrame:
 
     return pd.DataFrame(rows)
 
-def build_minute_timeline(df_timeline: pd.DataFrame):
-
-    df = df_timeline.copy()
+def build_minute_timeline(df: pd.DataFrame):
 
     # Ensure effective time exists
     df = df[df["Tiempo_Partido_Segundos"].notna()]
@@ -1452,9 +1579,8 @@ def build_minute_timeline(df_timeline: pd.DataFrame):
     return df_out
 
 
+from mplsoccer import Radar, FontManager, grid
 
-from matplotlib.offsetbox import OffsetImage, AnnotationBbox
-import matplotlib.image as mpimg
 
 
 # ============================
@@ -1487,29 +1613,30 @@ def add_png_icon(ax, x, y, png_path, zoom=0.03):
 # ============================
 def add_momentum_bars(df_minuto, w_shot=1, w_goal=1):
     """
-    Adds a 'momentum' column to the per-minute dataframe.
+    Adds separate momentum columns for Ferro and Rival.
+    Prevents cancellation when both teams act in same minute.
     """
+
     df = df_minuto.copy()
 
-    df["momentum"] = (
+    # Positive momentum (Ferro)
+    df["momentum_F"] = (
         df["tF"] * w_shot +
-        df["gF"] * w_goal -
-        df["tR"] * w_shot -
+        df["gF"] * w_goal
+    )
+
+    # Negative momentum (Rival)
+    df["momentum_R"] = -(
+        df["tR"] * w_shot +
         df["gR"] * w_goal
     )
 
     return df
 
-
 def plot_momentum_bars(df_mom, jornada, ball_path="img/ball.png"):
-    """
-    Plots the momentum bars for a given jornada.
-    Returns a Matplotlib figure (ready for st.pyplot).
-    """
 
     df = df_mom[df_mom["Jornada"] == jornada].copy()
     if df.empty:
-        # Return empty figure with message so Streamlit doesn't explode
         fig, ax = plt.subplots(figsize=(14, 5))
         ax.text(
             0.5, 0.5,
@@ -1523,114 +1650,86 @@ def plot_momentum_bars(df_mom, jornada, ball_path="img/ball.png"):
         return fig
 
     minutos = df["minuto"]
-    momentum = df["momentum"]
-
-    local = df["Local"].iloc[0]
-    visit = df["Visitante"].iloc[0]
+    mom_F = df["momentum_F"]
+    mom_R = df["momentum_R"]
 
     fig, ax = plt.subplots(figsize=(14, 5))
 
     # ============================
     #  BACKDROP & LIMITS
     # ============================
-    max_abs = float(np.nanmax(np.abs(momentum))) if len(momentum) > 0 else 1.0
+    max_abs = float(
+        np.nanmax(
+            np.abs(
+                pd.concat([mom_F, mom_R])
+            )
+        )
+    )
     max_abs = max(max_abs, 1.0)
 
-    # Soft green band above, red band below
     ax.axhspan(0,  max_abs * 1.1, facecolor="#00ff88", alpha=0.06, zorder=0)
     ax.axhspan(-max_abs * 1.1, 0, facecolor="#ff4f4f", alpha=0.06, zorder=0)
-
-    # Zero reference line
     ax.axhline(0, color="white", linewidth=1.2, alpha=0.8, zorder=1)
 
     # ============================
-    #  BARS
+    #  BARS (BOTH SIDES)
     # ============================
-    colors = np.where(momentum >= 0, "#00ff88", "#ff4f4f")
-
-    bars = ax.bar(
+    ax.bar(
         minutos,
-        momentum,
-        color=colors,
+        mom_F,
+        color="#00ff88",
         width=0.8,
         zorder=3,
         alpha=0.9,
         edgecolor="#111111",
         linewidth=0.5,
+        label="Momentum Ferro"
     )
 
-    # ============================
-    #  TREND LINE (ROLLING 3')
-    # ============================
-    if len(df) >= 3:
-        trend = momentum.rolling(window=3, center=True).mean()
-        ax.plot(
-            minutos,
-            trend,
-            linewidth=2.2,
-            color="white",
-            alpha=0.9,
-            zorder=4,
-        )
+    ax.bar(
+        minutos,
+        mom_R,
+        color="#ff4f4f",
+        width=0.8,
+        zorder=3,
+        alpha=0.9,
+        edgecolor="#111111",
+        linewidth=0.5,
+        label="Momentum Rival"
+    )
+
 
     # ============================
     #  GOAL ICONS
     # ============================
-    ICON_OFFSET = -0.25   # how far outside the bar tip (up/down)
-    ICON_ZOOM   = 0.16    # tiny speck size
+    ICON_OFFSET = 0.25
+    ICON_ZOOM = 0.16
 
     for _, row in df.iterrows():
         x = row["minuto"]
-        mom = row["momentum"]
 
-        # Ferro goal → ball at END of positive or zero bar
         if row["gF"] > 0:
-            if mom >= 0:
-                y = mom + ICON_OFFSET     # above top
-            else:
-                y = mom - ICON_OFFSET     # below bottom (rare)
+            y = row["momentum_F"] + ICON_OFFSET
             add_png_icon(ax, x, y, ball_path, zoom=ICON_ZOOM)
 
-        # Rival goal → also at end of bar
         if row["gR"] > 0:
-            if mom >= 0:
-                y = mom + ICON_OFFSET
-            else:
-                y = mom - ICON_OFFSET
+            y = row["momentum_R"] - ICON_OFFSET
             add_png_icon(ax, x, y, ball_path, zoom=ICON_ZOOM)
 
     # ============================
-    #  AXES, GRID, TICKS
+    #  AXES, GRID, STYLE
     # ============================
     ax.set_ylim(-max_abs * 1.2, max_abs * 1.2)
-
-    # X ticks every 5 minutes (if minutes are numeric)
-    try:
-        xmin, xmax = int(min(minutos)), int(max(minutos))
-        step = 5 if (xmax - xmin) > 10 else 1
-        ax.set_xticks(np.arange(xmin, xmax + 1, step))
-    except Exception:
-        # Fallback if something weird happens
-        pass
-
     ax.set_xlabel("Minuto", color="white", fontsize=12)
     ax.set_ylabel("Momentum", color="white", fontsize=12)
 
-    # Nice grid on y-axis only
     ax.yaxis.grid(True, linestyle="--", alpha=0.3)
     ax.xaxis.grid(False)
     ax.set_axisbelow(True)
-
     ax.tick_params(colors="white")
 
     for spine in ax.spines.values():
         spine.set_color("white")
-
-    # ============================
-    #  TITLE & LEGEND
-    # ============================
-    total_gF = int(df["gF"].sum())
-    total_gR = int(df["gR"].sum())
 
     ax.set_title(
         f"Momentum del Partido – Jornada {jornada}",
@@ -1639,24 +1738,11 @@ def plot_momentum_bars(df_mom, jornada, ball_path="img/ball.png"):
         pad=14,
     )
 
-    # Dummy handles for legend
-    ax.bar([], [], color="#00ff88", label="Momentum Ferro")
-    ax.bar([], [], color="#ff4f4f", label="Momentum Rival")
-    if len(df) >= 3:
-        ax.plot([], [], color="white", linewidth=2.2, label="Tendencia (3′)")
-
-
-    # ============================
-    #  BACKGROUND
-    # ============================
     fig.patch.set_facecolor("#111111")
     ax.set_facecolor("#111111")
-
-    # Small horizontal margin
     ax.margins(x=0.01)
 
     return fig
-
 
 # MEDIOS TÁCTICOS OFENSIVOS PLOT
 
@@ -1771,7 +1857,7 @@ def plot_medios_tacticos_ofensivos(
     ax1.tick_params(axis='y', labelsize=14)
     
     ax1.grid(axis="y", linestyle="--", alpha=0.3)
-    ax1.legend()
+    ax1.legend(fontsize=15)
 
     # ======================================================
     # 3️⃣ BOTTOM SECTION — ALL PLAYERS PER MT WITH LOADING BARS
@@ -2190,109 +2276,214 @@ def render(df_1: pd.DataFrame, df_2: pd.DataFrame, df_tiempos: pd.DataFrame, df_
 
     st.markdown("---")
         
-    # ============================  
-    # 📍 PÉRDIDA / RECUPERACIÓN SECTION  
+    # ============================
+    # 📍 PÉRDIDA / RECUPERACIÓN
     # ============================
 
-    st.markdown("<h3 style='color:white;text-align:center;'>Pérdidas & Recuperaciones</h3>",
-                unsafe_allow_html=True)
+    st.markdown(
+        "<h3 style='color:white;text-align:center;'>Pérdidas & Recuperaciones</h3>",
+        unsafe_allow_html=True
+    )
 
-    option = st.radio("Seleccionar vista", ["Pérdida", "Recuperación"], horizontal=True)
+
+    st.markdown("""
+    <style>
+
+    /* === RADIO GROUP CONTAINER === */
+    div[role="radiogroup"] {
+        display: flex;
+        justify-content: center;
+        gap: 28px;
+        margin-top: 10px;
+    }
+
+    /* === EACH RADIO LABEL (pill) === */
+    div[role="radiogroup"] > label {
+        background: rgba(255, 255, 255, 0.08);
+        border: 1px solid rgba(255, 255, 255, 0.25);
+        border-radius: 14px;
+        padding: 8px 20px;
+        cursor: pointer;
+
+        font-size: 18px !important;
+        font-weight: 600;
+
+        transition: all 0.25s ease;
+
+        /* 🔥 KEY FIX — remove text highlight ONLY */
+        user-select: none;
+        -webkit-user-select: none;
+        -ms-user-select: none;
+    }
+
+    /* === HOVER EFFECT === */
+    div[role="radiogroup"] > label:hover {
+        background: rgba(255, 255, 255, 0.18);
+        transform: translateY(-1px);
+    }
+
+    /* === HIDE DEFAULT RADIO CIRCLE === */
+    div[role="radiogroup"] input[type="radio"] {
+        display: none;
+    }
+
+    /* === SELECTED STATE (KEEP GLOW) === */
+    div[role="radiogroup"] > label:has(input[type="radio"]:checked) {
+        background: linear-gradient(
+            135deg,
+            rgba(26, 120, 207, 0.85),
+            rgba(105, 219, 124, 0.85)
+        );
+        border-color: rgba(255, 255, 255, 0.6);
+        box-shadow: 0 6px 18px rgba(0, 0, 0, 0.45);
+    }
+
+    /* === REMOVE WHITE TEXT SELECTION FLASH === */
+    div[role="radiogroup"] > label::selection {
+        background: transparent;
+    }
+
+    div[role="radiogroup"] > label::-moz-selection {
+        background: transparent;
+    }
+
+    </style>
+    """, unsafe_allow_html=True)
+
+
+    option = st.radio(
+        "Seleccionar vista",
+        ["Pérdida", "Recuperación"],
+        horizontal=True
+    )
 
     df_event = m1[m1["Acción"] == option].copy()
 
     if df_event.empty:
         st.warning(f"No hay eventos registrados para {option} en este partido.")
     else:
-        # --- Clean coordinates ---
+        # -------------------------
+        # CLEAN COORDINATES
+        # -------------------------
         df_event["FieldX"] = pd.to_numeric(df_event["FieldX"], errors="coerce")
         df_event["FieldY"] = pd.to_numeric(df_event["FieldY"], errors="coerce")
-        df_event = df_event.dropna(subset=["FieldX","FieldY"]).copy()
+        df_event = df_event.dropna(subset=["FieldX", "FieldY"]).copy()
 
-        # ================= FIG LAYOUT =================
-        fig = plt.figure(figsize=(11,6), facecolor="#062e16")
+        color = "#ff4f4f" if option == "Pérdida" else "#00ff88"
+
+        # -------------------------
+        # FIGURE LAYOUT (4:1)
+        # -------------------------
+        fig = plt.figure(figsize=(11, 11), facecolor="#062e16")
         gs = fig.add_gridspec(
-            2,2,
-            width_ratios=[2.4,0.9],     # 🔥 Zone plot now thinner
-            height_ratios=[2,1],
-            wspace=0.28, hspace=0.35
+            2, 1,
+            height_ratios=[10, 1],
+            hspace=0.22
         )
 
-        # ---------- 1) Campograma ----------
-        ax_pitch = fig.add_subplot(gs[:,0])
+        # =====================================================
+        # AX 1 — PITCH + ZONE % DISTRIBUTION
+        # =====================================================
+        ax_pitch = fig.add_subplot(gs[0])
         draw_futsal_pitch_grid(ax_pitch)
 
-        color = "#ff4f4f" if option=="Pérdida" else "#00ff88"
-
+        # Scatter events
         ax_pitch.scatter(
             df_event["FieldX"],
             df_event["FieldY"],
-            s=140, alpha=0.85, color=color,
-            edgecolors="black", linewidths=1.1
+            s=140,
+            alpha=0.85,
+            color=color,
+            edgecolors="black",
+            linewidths=1.1,
+            zorder=3
         )
 
-        # 1A — Add surname next to point
+        # Player surnames
         for _, row in df_event.iterrows():
             surname = str(row["Nombre"]).split()[-1]
             ax_pitch.text(
-                row["FieldX"] + 0.015,
-                row["FieldY"] + 0.015,
+                row["FieldX"] + 0.012,
+                row["FieldY"] + 0.012,
                 surname,
-                fontsize=9, color="white", weight="bold"
+                fontsize=9,
+                color="white",
+                weight="bold",
+                zorder=4
             )
 
-        ax_pitch.set_title(f"{option} - Mapa General", color="white", fontsize=15)
+        ax_pitch.set_title(
+            f"{option} – Mapa General",
+            color="white",
+            fontsize=15
+        )
 
-
-        # ---------- 2) Zone Distribution ----------
-        ax_zonas = fig.add_subplot(gs[0,1])
-
+        # -------------------------
+        # ZONE % COMPUTATION
+        # -------------------------
         df_event["Zona"] = (
-            (df_event["FieldY"]*3).fillna(0).floordiv(1).astype(int)*3 +
-            (df_event["FieldX"]*3).fillna(0).floordiv(1).astype(int) + 1
+            (df_event["FieldY"] * 3).floordiv(1).astype(int) * 3 +
+            (df_event["FieldX"] * 3).floordiv(1).astype(int) + 1
         )
-        df_event = df_event[df_event["Zona"].between(1,9)]
+        df_event = df_event[df_event["Zona"].between(1, 9)]
 
-        zonas_count = df_event["Zona"].value_counts().sort_index()
+        zone_counts = df_event["Zona"].value_counts().sort_index()
+        total_events = zone_counts.sum()
+        zone_pct = (zone_counts / total_events * 100).round(1)
 
-        ax_zonas.bar(
-            zonas_count.index.astype(str),
-            zonas_count.values,
-            color=color, edgecolor="black"
-        )
+        # -------------------------
+        # ANNOTATE % ON PITCH
+        # bottom-right of each zone
+        # -------------------------
+        dx, dy = 1 / 3, 1 / 3
 
-        ax_zonas.set_title("Zonas", color="white", fontsize=12)
-        ax_zonas.tick_params(colors="white")
-        ax_zonas.set_yticks(zonas_count.values)   # 🔥 whole numbers only
-        for spine in ax_zonas.spines.values():
-            spine.set_color("white")
+        for zona, pct in zone_pct.items():
+            z = zona - 1
+            col = z % 3
+            row = z // 3
 
+            x = (col + 1) * dx - 0.02
+            y = (row + 1) * dy - 0.30
 
-        # ---------- 3) Top 3 Players (Surname Only) ----------
-        ax_players = fig.add_subplot(gs[1,1])
+            ax_pitch.text(
+                x, y,
+                f"{pct}%",
+                ha="right",
+                va="bottom",
+                fontsize=8,
+                color=color,
+                weight="bold",
+                alpha=0.9,
+                zorder=5
+            )
 
-        # convert full names → surname only
+        # =====================================================
+        # AX 2 — TOP 3 PLAYERS (INLINE)
+        # =====================================================
+        ax_players = fig.add_subplot(gs[1])
+        ax_players.set_facecolor("#062e16")
+        ax_players.axis("off")
+
         df_event["Apellido"] = df_event["Nombre"].apply(lambda x: str(x).split()[-1])
-
         top_players = df_event["Apellido"].value_counts().head(3)
 
-        ax_players.barh(
-            top_players.index[::-1],
-            top_players.values[::-1],
-            color=color, edgecolor="black"
+        # Build inline text: "Davalos: 3      Garay: 2      Labake: 2"
+        inline_text = "      ".join(
+            [f"{name}: {val}" for name, val in top_players.items()]
         )
 
-        ax_players.set_title("Top 3", color="white", fontsize=12)
-        ax_players.tick_params(colors="white")
-
-        for spine in ax_players.spines.values():
-            spine.set_color("white")
-
-        # value labels
-        for i,(name,val) in enumerate(zip(top_players.index[::-1], top_players.values[::-1])):
-            ax_players.text(val+0.2, i, val, color="white", fontsize=11, va="center")
+        ax_players.text(
+            0.5, 0.5,
+            f"Top 3 {option}\n{inline_text}",
+            ha="center",
+            va="center",
+            fontsize=15,
+            color="white",
+            weight="bold"
+        )
 
         st.pyplot(fig, use_container_width=True)
+
 
 
 # ============================================
@@ -2382,78 +2573,27 @@ def render(df_1: pd.DataFrame, df_2: pd.DataFrame, df_tiempos: pd.DataFrame, df_
 
     if player_name:
 
-        # NEW — now returns 3 items (stats_off, stats_def, tiempo_MMSS)
-        stats_off, stats_def, tiempo_MMSS = compute_player_stats_for_pizza(m1, m3, m2, player_name)
+        # =====================================================
+        #   DUAL RADAR (OFENSIVO / DEFENSIVO)
+        # =====================================================
 
-        # Team max (correct signature)
-        team_max = compute_team_max_values(m1, m3, m2)
+        st.markdown("<h3 style='color:white;margin-top:25px;'>Radar Comparativo</h3>",
+                    unsafe_allow_html=True)
 
-        # Prepare pizza
-        params, values, min_range, max_range = prepare_pizza_with_team_ranges(
-            stats_off, stats_def, team_max
+        player_kpis = compute_player_kpis(m1, df_tiempos, player_name)
+        player_position = m1[m1["Nombre"]==player_name]["Posicion"].iloc[0]
+        pos_avg = compute_position_avg(m1, df_tiempos, player_position)
+        team_max = compute_team_max(m1, df_tiempos)
+
+        fig_radar = plot_dual_radar_with_grid(
+            player_name,
+            player_position,
+            player_kpis,
+            pos_avg,
+            team_max
         )
 
-        # Position
-        try:
-            posicion = m3[m3["Nombre"] == player_name]["Posicion"].iloc[0]
-        except:
-            posicion = "Sin dato"
-
-        # Dorsal (jersey number)
-        try:
-            dorsal = int(m3[m3["Nombre"] == player_name]["Jugadores"].iloc[0])
-        except:
-            dorsal = None
-
-        img_path = f"img/players/{dorsal}.png" if dorsal else "img/players/DUMMY.png"
-        headshot_exists = os.path.exists(img_path)
-        
-        # ====================================================
-        # 🔥 2 COLUMNS → LEFT = Matplotlib Figure, RIGHT = Pizza
-        # ====================================================
-        col_info, col_pizza = st.columns([1.3,1.7])
-
-        # ▓ LEFT FIGURE : PLAYER CARD ▓
-        with col_info:
-
-            fig_info = plt.figure(figsize=(4,6), facecolor="#111111")
-            ax = fig_info.add_subplot(111)
-            ax.axis("off")
-
-            # Image block
-            if headshot_exists:
-                img = Image.open(img_path)
-                img.thumbnail((500,500))
-                ax_img = ax.inset_axes([0.18, 0.50, 0.64, 0.45])  # adjust placement
-                ax_img.imshow(img)
-                ax_img.axis("off")
-            else:
-                img = Image.open("img/players/DUMMY.png")
-                img.thumbnail((500,500))
-                ax_img = ax.inset_axes([0.18, 0.50, 0.64, 0.45])  # adjust placement
-                ax_img.imshow(img)
-                ax_img.axis("off")
-
-            # Player Text
-            ax.text(0.5,0.42,player_name.upper(),
-                    ha="center",color="white",fontsize=17,fontweight="bold")
-
-            ax.text(0.5,0.29,f"Posición: {posicion}",
-                    ha="center",color="#30e6a5",fontsize=14)
-
-            ax.text(0.5,0.18,f"Minutos: {tiempo_MMSS}",
-                    ha="center",color="#9df792",fontsize=16,fontweight="bold")
-
-            fig_info.tight_layout()
-            st.pyplot(fig_info)  # <── render immediately (print-friendly)
-
-
-        # ---------- RIGHT: Pizza Radar Plot ----------
-        with col_pizza:
-            pizza_fig = plot_player_pizza_with_ranges(
-                player_name, params, values, min_range, max_range, rival
-            )
-            st.pyplot(pizza_fig, use_container_width=True)
+        st.pyplot(fig_radar, use_container_width=True)
 
     # st.markdown("<h3 style='color:white;text-align:center;'>Mapa de Acciones del Jugador</h3>",
     #             unsafe_allow_html=True)
