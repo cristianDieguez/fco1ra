@@ -10,6 +10,101 @@ from PIL import Image
 from matplotlib.patches import FancyBboxPatch
 from mplsoccer import PyPizza, add_image
 
+
+st.markdown("""
+<style>
+
+/* ================================
+   RADIO GROUP LAYOUT
+================================ */
+div[role="radiogroup"] {
+    display: flex;
+    justify-content: center;
+    gap: 28px;
+    margin-top: 10px;
+}
+
+/* ================================
+   REMOVE BASEWEB RADIO DOT
+   (THIS IS THE WHITE / RED CIRCLE)
+================================ */
+div[data-baseweb="radio"] div[role="radio"] {
+    display: none !important;
+}
+
+/* ================================
+   RADIO PILL
+================================ */
+div[role="radiogroup"] > label {
+    background: rgba(255, 255, 255, 0.08);
+    border: 1px solid rgba(255, 255, 255, 0.25);
+    border-radius: 14px;
+    padding: 8px 20px;
+    cursor: pointer;
+
+    color: white !important;
+    font-size: 18px !important;
+    font-weight: 600;
+
+    transition: all 0.25s ease;
+
+    /* remove default focus ring */
+    outline: none !important;
+}
+
+/* Hover */
+div[role="radiogroup"] > label:hover {
+    background: rgba(255, 255, 255, 0.18);
+}
+
+/* ================================
+   HIDE NATIVE INPUT
+================================ */
+div[role="radiogroup"] input[type="radio"] {
+    display: none !important;
+}
+
+/* ================================
+   SELECTED STATE — YOUR GLOW
+================================ */
+div[role="radiogroup"] > label:has(input:checked) {
+    background: linear-gradient(
+        135deg,
+        rgba(26, 120, 207, 0.85),
+        rgba(105, 219, 124, 0.85)
+    );
+    border-color: rgba(255, 255, 255, 0.6);
+
+    /* 🔥 GLOW YOU WANT */
+    box-shadow:
+        0 0 0 2px rgba(255, 255, 255, 0.25),
+        0 8px 22px rgba(0, 0, 0, 0.45);
+}
+
+/* ================================
+   REMOVE BASEWEB FOCUS HALO
+   (WITHOUT TOUCHING YOUR GLOW)
+================================ */
+div[data-baseweb="radio"] label:focus-within {
+    box-shadow: none !important;
+    outline: none !important;
+}
+
+</style>
+""", unsafe_allow_html=True)
+
+
+
+# ============================
+# 🎨 THEME
+# ============================
+BG_FIG = "#111111"     # full canvas
+BG_AX  = "#222222"     # axes panels
+WHITE  = "#FFFFFF"
+GREEN  = "#00A65A"
+GREY   = "#E0E0E0"
+
+
 FERRO_NAME = "Ferro"  # change here if the name ever changes
 
 ACTION_STYLE = {
@@ -1763,7 +1858,7 @@ def draw_player_bar(ax, y, pct, label, color="#00A65A"):
         y=y,
         width=bar_w,
         height=bar_h,
-        color="#E0E0E0",
+        color="#222222",
         edgecolor="none",
         align="center"
     )
@@ -1785,6 +1880,7 @@ def draw_player_bar(ax, y, pct, label, color="#00A65A"):
         label,
         fontsize=15,
         va="center",
+        color="white",
     )
 
 
@@ -1836,6 +1932,8 @@ def plot_medios_tacticos_ofensivos(
     # FIGURE BASE
     # ======================================================
     fig = plt.figure(figsize=(18, 14))
+
+    fig.patch.set_facecolor("black") 
     gs = fig.add_gridspec(nrows=2, ncols=1, height_ratios=[4, 5])
 
     ax1 = fig.add_subplot(gs[0, 0])
@@ -1848,15 +1946,16 @@ def plot_medios_tacticos_ofensivos(
     x = np.arange(len(tipos))
     width = 0.65
 
+    ax1.set_facecolor("#222222")
     ax1.bar(x, intentos, width=width, color="#B6F2B0", alpha=0.7, label="Intentos")
     ax1.bar(x, exitos, width=width*0.75, color="#00A65A", alpha=0.9, label="Éxitos")
 
     ax1.set_xticks(x)
-    ax1.set_xticklabels(tipos, rotation=0, ha="right", fontsize=15)
+    ax1.set_xticklabels(tipos, rotation=0, ha="right", fontsize=15, color="white")
     # Bigger y-axis labels
-    ax1.tick_params(axis='y', labelsize=14)
+    ax1.tick_params(axis='y', labelsize=14, colors="white")
     
-    ax1.grid(axis="y", linestyle="--", alpha=0.3)
+    ax1.grid(axis="y", linestyle="--", alpha=0.3, color="#333333")
     ax1.legend(fontsize=15)
 
     # ======================================================
@@ -1882,7 +1981,7 @@ def plot_medios_tacticos_ofensivos(
 
         # TITLE
         ax2.text(0.02, y_cursor, f"{tipo}  ({suc}/{tot})  {pct:.1f}%",
-                fontsize=15, fontweight="bold", ha="left")
+                fontsize=15, fontweight="bold", ha="left", color="white")
         y_cursor -= 0.035
 
         # ---- PLAYERS ----
@@ -1976,17 +2075,19 @@ def assign_player_positions_from_m2(m2,
 
     return nodes
 
-def plot_mt_network_two_axes(df_mt_of,
-                             m2,
-                             evento_col="Evento",
-                             player_col="Nombre",
-                             pos_col="Posicion",
-                             result_col="Resultado",
-                             success_value="Positivo"):
+def plot_mt_network_two_axes(
+    df_mt_of,
+    m2,
+    evento_col="Evento",
+    player_col="Nombre",
+    pos_col="Posicion",
+    result_col="Resultado",
+    success_value="Positivo"
+):
     """
     LEFT AXIS (ax1): Full pitch network (all edges, no text)
     RIGHT AXIS (ax2): Top 5 connections with progress bars
-    Layout uses manual axis positioning → NO whitespace issues.
+    Manual axis positioning → dark-mode safe
     """
     import matplotlib.pyplot as plt
     import pandas as pd
@@ -1997,7 +2098,15 @@ def plot_mt_network_two_axes(df_mt_of,
     # --------------------------------------------
     if df_mt_of.empty:
         fig, ax = plt.subplots(figsize=(10, 6))
-        ax.text(0.5, 0.5, "No hay datos MT Ofensivos", ha="center")
+        fig.patch.set_facecolor(BG_FIG)
+        ax.set_facecolor(BG_AX)
+        ax.text(
+            0.5, 0.5,
+            "No hay datos MT Ofensivos",
+            ha="center", va="center",
+            fontsize=18,
+            color=WHITE
+        )
         ax.axis("off")
         return fig
 
@@ -2005,19 +2114,26 @@ def plot_mt_network_two_axes(df_mt_of,
     # 1️⃣ MERGE POSITIONS FROM m2
     # --------------------------------------------
     players = df_mt_of[player_col].dropna().unique()
-    pos_info = m2[[player_col, pos_col]].dropna().drop_duplicates()
+
+    pos_info = (
+        m2[[player_col, pos_col]]
+        .dropna()
+        .drop_duplicates()
+    )
     pos_info = pos_info[pos_info[player_col].isin(players)]
 
-    # Add missing players as "Otros"
     missing = set(players) - set(pos_info[player_col])
     if missing:
-        extra = pd.DataFrame({player_col: list(missing),
-                              pos_col: ["Otros"] * len(missing)})
+        extra = pd.DataFrame({
+            player_col: list(missing),
+            pos_col: ["Otros"] * len(missing)
+        })
         pos_info = pd.concat([pos_info, extra], ignore_index=True)
 
-    # Assign pitch coordinates
     node_positions = assign_player_positions_from_m2(
-        pos_info, player_col=player_col, pos_col=pos_col
+        pos_info,
+        player_col=player_col,
+        pos_col=pos_col
     )
 
     # --------------------------------------------
@@ -2035,43 +2151,48 @@ def plot_mt_network_two_axes(df_mt_of,
 
         for a, b in combinations(plist, 2):
             key = tuple(sorted((a, b)))
-
             edge_total[key] = edge_total.get(key, 0) + 1
             if is_positive:
                 edge_success[key] = edge_success.get(key, 0) + 1
 
-    if not edge_total:
-        max_weight = 1
-    else:
-        max_weight = max(edge_total.values())
+    max_weight = max(edge_total.values()) if edge_total else 1
 
     # --------------------------------------------
-    # 3️⃣ FIND TOP 5 CONNECTED PAIRS
+    # 3️⃣ TOP 5 CONNECTIONS
     # --------------------------------------------
-    sorted_edges = sorted(edge_total.items(),
-                          key=lambda x: x[1],
-                          reverse=True)
+    sorted_edges = sorted(
+        edge_total.items(),
+        key=lambda x: x[1],
+        reverse=True
+    )
     top5 = sorted_edges[:5]
 
     # --------------------------------------------
-    # 4️⃣ FIGURE & MANUAL AXIS POSITIONING
+    # 4️⃣ FIGURE + AXES (MANUAL)
     # --------------------------------------------
-    fig = plt.figure(figsize=(20, 10))
+    fig = plt.figure(figsize=(20, 15))
+    fig.patch.set_facecolor(BG_FIG)
 
-    # LEFT AX → PITCH NETWORK
-    ax1 = fig.add_axes([0.03, 0.05, 0.65, 0.90])
-    # [left, bottom, width, height]
+    ax1 = fig.add_axes([0.03, 0.05, 0.68, 0.85])
+    ax2 = fig.add_axes([0.75, 0.20, 0.20, 0.60])
 
-    # RIGHT AX → TOP 5 PANEL
-    ax2 = fig.add_axes([0.72, 0.20, 0.25, 0.60])
-    # [left, bottom, width, height]
+    ax1.set_facecolor(BG_AX)
+    ax2.set_facecolor(BG_AX)
+
 
     # --------------------------------------------
-    # 5️⃣ DRAW LEFT AX (FULL NETWORK)
+    # 5️⃣ LEFT AX → PITCH NETWORK
     # --------------------------------------------
     draw_futsal_pitch_grid(ax1)
 
-    # ----- edges (all shown) -----
+    # Force pitch lines to white
+    for line in ax1.lines:
+        line.set_color(WHITE)
+    for patch in ax1.patches:
+        if hasattr(patch, "set_edgecolor"):
+            patch.set_edgecolor(WHITE)
+
+    # ----- edges -----
     for (a, b), w in edge_total.items():
         x1, y1 = node_positions[a]
         x2, y2 = node_positions[b]
@@ -2081,7 +2202,7 @@ def plot_mt_network_two_axes(df_mt_of,
 
         ax1.plot(
             [x1, x2], [y1, y2],
-            color="#00A65A",
+            color=GREEN,
             linewidth=lw,
             alpha=alpha,
             zorder=1
@@ -2089,11 +2210,15 @@ def plot_mt_network_two_axes(df_mt_of,
 
     # ----- nodes -----
     inv = (
-        df_mt_of.groupby(player_col)[evento_col]
+        df_mt_of
+        .groupby(player_col)[evento_col]
         .nunique()
         .reset_index(name="n_eventos")
     )
-    pos_info = pos_info.merge(inv, on=player_col, how="left").fillna({"n_eventos": 0})
+
+    pos_info = pos_info.merge(
+        inv, on=player_col, how="left"
+    ).fillna({"n_eventos": 0})
 
     for _, row in pos_info.iterrows():
         name = row[player_col]
@@ -2102,78 +2227,91 @@ def plot_mt_network_two_axes(df_mt_of,
 
         size = 90 + 25 * n_ev
 
-        ax1.scatter(x, y,
-                    s=size,
-                    color="white",
-                    edgecolors="#006837",
-                    linewidths=2,
-                    zorder=3)
+        ax1.scatter(
+            x, y,
+            s=size,
+            color=WHITE,
+            edgecolors=GREEN,
+            linewidths=2,
+            zorder=3
+        )
 
-        ax1.text(x, y + 0.035,
-                 name.split()[-1],
-                 fontsize=12,
-                 fontweight="medium",
-                 ha="center", va="bottom",
-                 zorder=4)
+        ax1.text(
+            x, y + 0.035,
+            name.split()[-1],
+            fontsize=15,
+            fontweight="medium",
+            ha="center",
+            va="bottom",
+            color=WHITE,
+            zorder=4
+        )
 
-    ax1.set_title("Red MT Ofensivos", fontsize=22, fontweight="bold", pad=10)
+    ax1.set_title(
+        "Red MT Ofensivos",
+        fontsize=22,
+        fontweight="bold",
+        pad=10,
+        color=WHITE
+    )
     ax1.axis("off")
 
     # --------------------------------------------
-    # 6️⃣ DRAW RIGHT AX (TOP 5 LIST + PROGRESS BARS)
+    # 6️⃣ RIGHT AX → TOP 5 PANEL
     # --------------------------------------------
     ax2.axis("off")
 
-    # TITLE
     ax2.text(
         0.5, 0.98,
         "Top 5 Conexiones",
         fontsize=22,
         fontweight="bold",
         ha="center",
-        va="top"
+        va="top",
+        color=WHITE
     )
 
-    # Separator line
-    ax2.hlines(0.94, xmin=0.0, xmax=1.0, color="#CCCCCC", linewidth=1.2)
+    ax2.hlines(
+        0.94, xmin=0.0, xmax=1.0,
+        color=WHITE, linewidth=1.2
+    )
 
-    # SPACE FOR TOP 5
     y = 0.88
 
     for (a, b), total_w in top5:
-
         success_w = edge_success.get((a, b), 0)
         pct = success_w / total_w if total_w > 0 else 0
 
-        # ----- Line 1: Names -----
         ax2.text(
             0.0, y,
             f"{a}  ↔  {b}",
-            fontsize=15, fontweight="bold",
-            ha="left"
+            fontsize=15,
+            fontweight="bold",
+            ha="left",
+            color=WHITE
         )
 
         y -= 0.06
 
-        # ----- Line 2: PROGRESS BAR -----
-        bar_x0 = 0.0
         bar_w = 0.75
         bar_h = 0.045
 
-        ax2.barh(y, bar_w, height=bar_h, color="#E0E0E0")
-        ax2.barh(y, bar_w * pct, height=bar_h, color="#00A65A")
+        ax2.barh(y, bar_w, height=bar_h, color=GREY)
+        ax2.barh(y, bar_w * pct, height=bar_h, color=GREEN)
 
         ax2.text(
-            bar_x0 + bar_w + 0.05, y,
+            bar_w + 0.05, y,
             f"({success_w}/{total_w})",
             fontsize=14,
-            va="center"
+            va="center",
+            color=WHITE
         )
 
         y -= 0.10
 
-    plt.tight_layout()
     return fig
+
+
 
 # -----------------------------
 # 5. STREAMLIT RENDER
@@ -2286,78 +2424,15 @@ def render(df_1: pd.DataFrame, df_2: pd.DataFrame, df_tiempos: pd.DataFrame, df_
     )
 
 
-    st.markdown("""
-    <style>
-
-    /* === RADIO GROUP CONTAINER === */
-    div[role="radiogroup"] {
-        display: flex;
-        justify-content: center;
-        gap: 28px;
-        margin-top: 10px;
-    }
-
-    /* === EACH RADIO LABEL (pill) === */
-    div[role="radiogroup"] > label {
-        background: rgba(255, 255, 255, 0.08);
-        border: 1px solid rgba(255, 255, 255, 0.25);
-        border-radius: 14px;
-        padding: 8px 20px;
-        cursor: pointer;
-
-        font-size: 18px !important;
-        font-weight: 600;
-
-        transition: all 0.25s ease;
-
-        /* 🔥 KEY FIX — remove text highlight ONLY */
-        user-select: none;
-        -webkit-user-select: none;
-        -ms-user-select: none;
-    }
-
-    /* === HOVER EFFECT === */
-    div[role="radiogroup"] > label:hover {
-        background: rgba(255, 255, 255, 0.18);
-        transform: translateY(-1px);
-    }
-
-    /* === HIDE DEFAULT RADIO CIRCLE === */
-    div[role="radiogroup"] input[type="radio"] {
-        display: none;
-    }
-
-    /* === SELECTED STATE (KEEP GLOW) === */
-    div[role="radiogroup"] > label:has(input[type="radio"]:checked) {
-        background: linear-gradient(
-            135deg,
-            rgba(26, 120, 207, 0.85),
-            rgba(105, 219, 124, 0.85)
-        );
-        border-color: rgba(255, 255, 255, 0.6);
-        box-shadow: 0 6px 18px rgba(0, 0, 0, 0.45);
-    }
-
-    /* === REMOVE WHITE TEXT SELECTION FLASH === */
-    div[role="radiogroup"] > label::selection {
-        background: transparent;
-    }
-
-    div[role="radiogroup"] > label::-moz-selection {
-        background: transparent;
-    }
-
-    </style>
-    """, unsafe_allow_html=True)
-
 
     option = st.radio(
-        "Seleccionar vista",
+        "",
         ["Pérdida", "Recuperación"],
-        horizontal=True
+        horizontal=True,
+        label_visibility="collapsed"
     )
 
-    df_event = m1[m1["Acción"] == option].copy()
+    df_event = m1[m1["Acción"] == option]
 
     if df_event.empty:
         st.warning(f"No hay eventos registrados para {option} en este partido.")
@@ -2413,7 +2488,7 @@ def render(df_1: pd.DataFrame, df_2: pd.DataFrame, df_tiempos: pd.DataFrame, df_
             )
 
         ax_pitch.set_title(
-            f"{option} – Mapa General",
+            f"{option} – Mapa de Acciónes",
             color="white",
             fontsize=15
         )
@@ -2442,8 +2517,8 @@ def render(df_1: pd.DataFrame, df_2: pd.DataFrame, df_tiempos: pd.DataFrame, df_
             col = z % 3
             row = z // 3
 
-            x = (col + 1) * dx - 0.02
-            y = (row + 1) * dy - 0.30
+            x = (col + 1) * dx - 0
+            y = (row + 1) * dy - 0.33
 
             ax_pitch.text(
                 x, y,
@@ -2468,21 +2543,23 @@ def render(df_1: pd.DataFrame, df_2: pd.DataFrame, df_tiempos: pd.DataFrame, df_
         top_players = df_event["Apellido"].value_counts().head(3)
 
         # Build inline text: "Davalos: 3      Garay: 2      Labake: 2"
-        inline_text = "      ".join(
+        inline_text = "            ".join(
             [f"{name}: {val}" for name, val in top_players.items()]
         )
 
         ax_players.text(
-            0.5, 0.5,
-            f"Top 3 {option}\n{inline_text}",
+            0.5, 0.8,
+            f"Top 3 {option}s\n\n{inline_text}",
             ha="center",
             va="center",
             fontsize=15,
-            color="white",
+            color=color,
             weight="bold"
         )
 
-        st.pyplot(fig, use_container_width=True)
+        col1, col2, col3 = st.columns([1, 8, 1])
+        with col2:
+            st.pyplot(fig, use_container_width=True)
 
 
 
@@ -2491,29 +2568,46 @@ def render(df_1: pd.DataFrame, df_2: pd.DataFrame, df_tiempos: pd.DataFrame, df_
 # ============================================
 
     st.markdown(
-        "<h3 style='color:white;text-align:center;'>Medios Tácticos Ofensivos</h3>",
+        "<h3 style='color:white;text-align:center;'>Medios Tácticos</h3>",
         unsafe_allow_html=True
     )
 
     # Filter your dataframe to only MT Ofensivos (adjust condition if needed)
+
+    mt_tipo = st.radio(
+        "",
+        options=["MT Ofensivo", "MT Defensivo"],
+        horizontal=True,
+        label_visibility="collapsed"
+    )
+
+    
+    df_mt_def = m2[m2["Acción"] == "MT Defensivo"]
     df_mt_of = m2[m2["Acción"] == "MT Ofensivo"]
 
-    if df_mt_of.empty:
-        st.warning("No hay datos de MT Ofensivos para este partido.")
+    if mt_tipo == "MT Ofensivo":
+        df_mt_selected = df_mt_of
     else:
-        # Generate the figure
+        df_mt_selected = df_mt_def
+
+
+
+
+    if df_mt_selected.empty:
+        st.warning(f"No hay datos de {mt_tipo} para este partido.")
+    else:
         fig_mt = plot_medios_tacticos_ofensivos(
-            df_mt_of,
+            df_mt_selected,
             tipo_col="Tipo_de_Accion",
-            player_col="Nombre",      # change to "Jugador" if needed
+            player_col="Nombre",        # or "Jugador"
             result_col="Resultado",
-            success_value="Positivo"     # change to Correcto / Completa / 1 if needed
+            success_value="Positivo"    # adjust if needed
         )
 
-        # Center figure
-        col1, col2, col3 = st.columns([1, 6, 1])
+        col1, col2, col3 = st.columns([1, 8, 1])
         with col2:
             st.pyplot(fig_mt, use_container_width=True)
+
 
 
     # ==========================================================
@@ -2553,9 +2647,10 @@ def render(df_1: pd.DataFrame, df_2: pd.DataFrame, df_tiempos: pd.DataFrame, df_
 
 
     modo = st.radio(
-        "Seleccionar Transiciones",
+        "",
         ["Ofensiva", "Defensiva"],
-        horizontal=True
+        horizontal=True,
+        label_visibility="collapsed"
     )
 
     df_trans = preprocess_transiciones(m2, modo=modo)
