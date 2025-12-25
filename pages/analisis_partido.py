@@ -10,89 +10,61 @@ from PIL import Image
 from matplotlib.patches import FancyBboxPatch
 from mplsoccer import PyPizza, add_image
 
-
 st.markdown("""
 <style>
 
-/* ================================
-   RADIO GROUP LAYOUT
-================================ */
+/* ===============================
+   RADIO — CLEAN GLASS PILL STYLE
+   =============================== */
+
 div[role="radiogroup"] {
     display: flex;
     justify-content: center;
-    gap: 28px;
-    margin-top: 10px;
+    gap: 18px;
+    margin-top: 6px;
 }
 
-/* ================================
-   REMOVE BASEWEB RADIO DOT
-   (THIS IS THE WHITE / RED CIRCLE)
-================================ */
-div[data-baseweb="radio"] div[role="radio"] {
-    display: none !important;
-}
-
-/* ================================
-   RADIO PILL
-================================ */
+/* Pill container */
 div[role="radiogroup"] > label {
-    background: rgba(255, 255, 255, 0.08);
-    border: 1px solid rgba(255, 255, 255, 0.25);
-    border-radius: 14px;
+    background: rgba(255, 255, 255, 0.10);
+    border-radius: 999px;
     padding: 8px 20px;
     cursor: pointer;
-
-    color: white !important;
-    font-size: 18px !important;
-    font-weight: 600;
-
     transition: all 0.25s ease;
+    border: 1px solid rgba(255, 255, 255, 0.18);
+}
 
-    /* remove default focus ring */
-    outline: none !important;
+/* Text */
+div[role="radiogroup"] > label span {
+    color: rgba(255, 255, 255, 0.75);
+    font-weight: 600;
+    font-size: 14px;
 }
 
 /* Hover */
 div[role="radiogroup"] > label:hover {
-    background: rgba(255, 255, 255, 0.18);
+    background: rgba(255, 255, 255, 0.16);
 }
 
-/* ================================
-   HIDE NATIVE INPUT
-================================ */
-div[role="radiogroup"] input[type="radio"] {
-    display: none !important;
+/* Selected (Streamlit-safe) */
+div[role="radiogroup"] > label[data-selected="true"] {
+    background: rgba(155, 89, 182, 0.35);
+    box-shadow: 0 0 14px rgba(155, 89, 182, 0.75);
+    border-color: rgba(155, 89, 182, 0.9);
 }
 
-/* ================================
-   SELECTED STATE — YOUR GLOW
-================================ */
-div[role="radiogroup"] > label:has(input:checked) {
-    background: linear-gradient(
-        135deg,
-        rgba(26, 120, 207, 0.85),
-        rgba(105, 219, 124, 0.85)
-    );
-    border-color: rgba(255, 255, 255, 0.6);
-
-    /* 🔥 GLOW YOU WANT */
-    box-shadow:
-        0 0 0 2px rgba(255, 255, 255, 0.25),
-        0 8px 22px rgba(0, 0, 0, 0.45);
+/* Selected text */
+div[role="radiogroup"] > label[data-selected="true"] span {
+    color: white;
 }
 
-/* ================================
-   REMOVE BASEWEB FOCUS HALO
-   (WITHOUT TOUCHING YOUR GLOW)
-================================ */
-div[data-baseweb="radio"] label:focus-within {
-    box-shadow: none !important;
-    outline: none !important;
+/* Hide default radio circle */
+input[type="radio"] {
+    display: none;
 }
 
 </style>
 """, unsafe_allow_html=True)
-
 
 
 # ============================
@@ -305,6 +277,9 @@ def plot_transiciones(df_events, df_raw, modo):
 
     for i, sit in enumerate(situaciones):
         df_sit = df_events[df_events["Situacion"] == sit]
+
+        if df_sit.empty:
+            continue
 
         # ================= AX 1 — LABEL =================
         ax_label = fig.add_subplot(gs[i, 0])
@@ -2313,6 +2288,28 @@ def plot_mt_network_two_axes(
 
 
 
+def glass_card_start(title=None):
+    html = """
+    <div class="glass-card" style="
+        background: rgba(0,0,0,0.35);
+        border: 1px solid rgba(255,255,255,0.18);
+        box-shadow: 0 12px 32px rgba(0,0,0,0.45);
+        backdrop-filter: blur(6px);
+        -webkit-backdrop-filter: blur(6px);
+        border-radius: 16px;
+        padding: 18px 22px;
+        margin-bottom: 18px;
+    ">
+    """
+    if title:
+        html += f"<h3 style='color:white;margin-top:0;margin-bottom:12px;'>{title}</h3>"
+    st.markdown(html, unsafe_allow_html=True)
+
+def glass_card_end():
+    st.markdown("</div>", unsafe_allow_html=True)
+
+
+
 # -----------------------------
 # 5. STREAMLIT RENDER
 # -----------------------------
@@ -2424,15 +2421,19 @@ def render(df_1: pd.DataFrame, df_2: pd.DataFrame, df_tiempos: pd.DataFrame, df_
     )
 
 
-
     option = st.radio(
-        "",
+        "Perdidas y Recuperaciónes",
         ["Pérdida", "Recuperación"],
         horizontal=True,
         label_visibility="collapsed"
     )
 
+
     df_event = m1[m1["Acción"] == option]
+
+
+
+
 
     if df_event.empty:
         st.warning(f"No hay eventos registrados para {option} en este partido.")
@@ -2575,7 +2576,7 @@ def render(df_1: pd.DataFrame, df_2: pd.DataFrame, df_tiempos: pd.DataFrame, df_
     # Filter your dataframe to only MT Ofensivos (adjust condition if needed)
 
     mt_tipo = st.radio(
-        "",
+        "Medios Tácticos",
         options=["MT Ofensivo", "MT Defensivo"],
         horizontal=True,
         label_visibility="collapsed"
@@ -2646,12 +2647,14 @@ def render(df_1: pd.DataFrame, df_2: pd.DataFrame, df_tiempos: pd.DataFrame, df_
                 unsafe_allow_html=True)
 
 
+
     modo = st.radio(
-        "",
+        "Transiciones",
         ["Ofensiva", "Defensiva"],
         horizontal=True,
         label_visibility="collapsed"
     )
+
 
     df_trans = preprocess_transiciones(m2, modo=modo)
     fig = plot_transiciones(df_trans, m2, modo=modo)

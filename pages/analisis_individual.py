@@ -15,84 +15,59 @@ N_COLS, N_ROWS = 3, 3
 st.markdown("""
 <style>
 
-/* ================================
-   RADIO GROUP LAYOUT
-================================ */
+/* ===============================
+   RADIO — CLEAN GLASS PILL STYLE
+   =============================== */
+
 div[role="radiogroup"] {
     display: flex;
     justify-content: center;
-    gap: 28px;
-    margin-top: 10px;
+    gap: 18px;
+    margin-top: 6px;
 }
 
-/* ================================
-   REMOVE BASEWEB RADIO DOT
-   (THIS IS THE WHITE / RED CIRCLE)
-================================ */
-div[data-baseweb="radio"] div[role="radio"] {
-    display: none !important;
-}
-
-/* ================================
-   RADIO PILL
-================================ */
+/* Pill container */
 div[role="radiogroup"] > label {
-    background: rgba(255, 255, 255, 0.08);
-    border: 1px solid rgba(255, 255, 255, 0.25);
-    border-radius: 14px;
+    background: rgba(255, 255, 255, 0.10);
+    border-radius: 999px;
     padding: 8px 20px;
     cursor: pointer;
-
-    color: white !important;
-    font-size: 18px !important;
-    font-weight: 600;
-
     transition: all 0.25s ease;
+    border: 1px solid rgba(255, 255, 255, 0.18);
+}
 
-    /* remove default focus ring */
-    outline: none !important;
+/* Text */
+div[role="radiogroup"] > label span {
+    color: rgba(255, 255, 255, 0.75);
+    font-weight: 600;
+    font-size: 14px;
 }
 
 /* Hover */
 div[role="radiogroup"] > label:hover {
-    background: rgba(255, 255, 255, 0.18);
+    background: rgba(255, 255, 255, 0.16);
 }
 
-/* ================================
-   HIDE NATIVE INPUT
-================================ */
-div[role="radiogroup"] input[type="radio"] {
-    display: none !important;
+/* Selected (Streamlit-safe) */
+div[role="radiogroup"] > label[data-selected="true"] {
+    background: rgba(155, 89, 182, 0.35);
+    box-shadow: 0 0 14px rgba(155, 89, 182, 0.75);
+    border-color: rgba(155, 89, 182, 0.9);
 }
 
-/* ================================
-   SELECTED STATE — YOUR GLOW
-================================ */
-div[role="radiogroup"] > label:has(input:checked) {
-    background: linear-gradient(
-        135deg,
-        rgba(26, 120, 207, 0.85),
-        rgba(105, 219, 124, 0.85)
-    );
-    border-color: rgba(255, 255, 255, 0.6);
-
-    /* 🔥 GLOW YOU WANT */
-    box-shadow:
-        0 0 0 2px rgba(255, 255, 255, 0.25),
-        0 8px 22px rgba(0, 0, 0, 0.45);
+/* Selected text */
+div[role="radiogroup"] > label[data-selected="true"] span {
+    color: white;
 }
 
-/* ================================
-   REMOVE BASEWEB FOCUS HALO
-   (WITHOUT TOUCHING YOUR GLOW)
-================================ */
-div[data-baseweb="radio"] label:focus-within {
-    box-shadow: none !important;
-    outline: none !important;
+/* Hide default radio circle */
+input[type="radio"] {
+    display: none;
 }
 
 </style>
 """, unsafe_allow_html=True)
+
 
 
 def draw_futsal_pitch_grid(ax):
@@ -1916,6 +1891,7 @@ def render(df_1, df_2, df_3, df_tiempos):
             horizontal=True,
             label_visibility="collapsed"
         )
+
 
         # Offensive and defensive event lists
         offensive_events = [
